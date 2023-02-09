@@ -214,104 +214,104 @@ Description: "Change values for goals (måltype). Express the target value for c
 * codes from valueset KLChangeValueCodesFSIII
 * codes from valueset KLChangeValueCodesFFB
 
-// ValueSet: KLObservationCodes
-// Title: "KLObservationskoder"
-// Description: "SNOMED CT and NPU codes used in Danish municipalities"
-// * ^experimental = false
-// //Vital signs
-// * SCT#446226005	//Diastolic blood pressure on admission	
-// * SCT#400975005	//Standing diastolic blood pressure	
-// * SCT#407557002	//Lying diastolic blood pressure	
-// * SCT#407555005	//Sitting diastolic blood pressure	
-// * SCT#271650006	//Diastolic blood pressure
-// * SCT#72313002	//Systolic arterial pressure
-// * SCT#400974009	//Standing systolic blood pressure	
-// * SCT#399304008	//Systolic blood pressure on admission	
-// * SCT#407556006	//Lying systolic blood pressure	
-// * SCT#407554009	//Sitting systolic blood pressure	
-// * SCT#271649006	//Systolic blood pressure
-// * codes from system SCT where concept is-a #431314004 //SpO2
-// * SCT#422119006	//Brachial pulse rate	
-// * SCT#429614003	//Posterior tibial pulse rate	
-// * SCT#429525003	//Dorsalis pedis pulse rate	
-// * SCT#399017001	//Heart rate on admission	
-// * SCT#78564009	//Pulse rate	
-// * SCT#444981005	//Resting heart rate	
-// * SCT#364075005	//Heart rate
-// * SCT#424927000 //	Body weight with shoes	
-// * SCT#445541000	// Dry body weight	
-// * SCT#425024002	// Body weight without shoes	
-// * SCT#364589006	//Birth weight	
-// * SCT#27113001	//Body weight
-// * codes from system SCT where concept is-a #86290005 //(Respiratory rate)
-// * codes from system SCT where concept is-a #276885007 // Core Body temperature
-// * SCT#248334005 //|Length of body (observable entity)|
-// * SCT#276351002 // |Infant length (observable entity)|
-// * SCT#276353004 //|Crown heel length (observable entity)|
-// * SCT#248333004 //|Standing height (observable entity)|
-// //fuctional observation
-// * SCT#450738001 //"Thirty second chair stand test score"
-// * SCT#1144649008 //|Six minute walk test distance (observable entity)|
-// //TOBS Observations
-// * SCT#6942003 //|bevidsthedsniveau|
-// * SCT#444714004 //|Assessment of consciousness level (procedure)|
-// //Pain scores
-// * SCT#443394008 //|Visual analog scale pain score (observable entity)|
-// * SCT#1144798005 //|Verbal Rating Scale pain intensity score (observable entity)|
-// //Fra spørgeskemaer
-// * SCT#1144665009 // 5-item World Health Organization Well-being Index value (observable entity)
-// * SCT#404949004 //"Hvilemønster"
-// * SCT#406202006 //"Træk vedr. energi"
-// * SCT#247752005 //"Interesseniveau"
-// * SCT#301438001 //|Ability to mobilize (observable entity)|
-// * SCT#284773001 //|Ability to perform personal care activity (observable entity)|
-// * SCT#284545001 //|Ability to perform activities of everyday life (observable entity)|
-// * SCT#364624006 //|Pain / sensation observable (observable entity)|
-// * SCT#285854004 //|Emotion (observable entity)|
-// * SCT#736535009 //|EuroQol visual analogue score (observable entity)|
-// * SCT#1144655003 //|EuroQol five dimension three level index value (observable entity)|
-// * SCT#420753006 //|Pressure ulcer surface area (observable entity)|
-// * SCT#434912009 // |glucosekoncentration i blod|
-// * NPU#NPU14924 //"U—Urin; egenskabsart(liste; stix; proc.)"
-// * NPU#NPU10504 //"U—Acetoacetat; arb.k.(proc.) = ?"
-// * NPU#NPU17997 //"U—Albumin; arb.k.(proc.) = ?"
-// * NPU#NPU10506 //"U—Bacterium, nitrit-producerende; arb.k.(proc.) = ?"
-// * NPU#NPU01372 //"U—Bilirubiner; arb.k.(proc.) = ?"
-// * NPU#NPU03963 //"U—Erythrocytter; arb.k.(proc.) = ?"
-// * NPU#NPU04207 //"U—Glucose; arb.k.(proc.) = ?"
-// * NPU#NPU02415 //"U—Hydrogen-ion; pH(proc.) = ?"
-// * NPU#NPU04208 //"U—Hæmoglobin; arb.k.(proc.) = ?"
-// * NPU#NPU03987 //"U—Leukocytter; arb.k.(proc.) = ?"
-// * NPU#NPU21578 //"U—Nitrit; arb.k.(proc.) = ?"
-// * NPU#NPU04864 //"U—Porphobilinogen; arb.k.(proc.) = ?"
-// * NPU#NPU04206 //"U—Protein; arb.k.(proc.) = ?"
-// * NPU#NPU03694 //"Pt—Urin; rel.massetæthed(20 °C/vand, 20 °C; proc.) = ?"
-// * NPU#NPU03697 //"U—Urobilinogen; arb.k.(proc.) = ?"
-// * NPU#NPU02195 //"P(vB; fPt)—Glucose; stofk. = ? mmol/L"
-
-Instance: KLObservationCodes
-InstanceOf: ValueSet
+ValueSet: KLObservationCodes
+Title: "KLObservationskoder"
 Description: "SNOMED CT and NPU codes used in Danish municipalities"
-Usage: #definition
-* name = "KLObservationCodes"
-* status = #active
-* title = "KLObservationCodes"
-* experimental = false
-* url = "http://fhir.kl.dk/term/ValueSet/KLObservationCodes"
-* copyright = "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement"
-* compose.include[0].system = "http://snomed.info/sct"
-* compose.include[=].version = "http://snomed.info/sct/554471000005108"
-* compose.include[=].concept[0].code = #446226005	//Diastolic blood pressure on admission	
-* compose.include[=].concept[+].code = #400975005 //Standing diastolic blood pressure	
-* compose.include[=].concept[+].code = #407557002 //Lying diastolic blood pressure
-* compose.include[=].concept[+].code = #407555005 //Sitting diastolic blood pressure
-* compose.include[=].concept[+].code = #271650006	//Diastolic blood pressure
-* compose.include[=].concept[+].code = #72313002	//Systolic arterial pressure
-* compose.include[=].concept[+].code = #400974009	//Standing systolic blood pressure
-* compose.include[=].concept[+].code = #399304008	//Systolic blood pressure on admission
-* compose.include[=].concept[+].code = #407556006	//Lying systolic blood pressure	
-* compose.include[=].concept[+].code = #407554009	//Sitting systolic blood pressure
-* compose.include[=].concept[+].code = #271649006	//Systolic blood pressure
+* ^experimental = false
+//Vital signs
+* SCT#446226005	//Diastolic blood pressure on admission	
+* SCT#400975005	//Standing diastolic blood pressure	
+* SCT#407557002	//Lying diastolic blood pressure	
+* SCT#407555005	//Sitting diastolic blood pressure	
+* SCT#271650006	//Diastolic blood pressure
+* SCT#72313002	//Systolic arterial pressure
+* SCT#400974009	//Standing systolic blood pressure	
+* SCT#399304008	//Systolic blood pressure on admission	
+* SCT#407556006	//Lying systolic blood pressure	
+* SCT#407554009	//Sitting systolic blood pressure	
+* SCT#271649006	//Systolic blood pressure
+* codes from system SCT where concept is-a #431314004 //SpO2
+* SCT#422119006	//Brachial pulse rate	
+* SCT#429614003	//Posterior tibial pulse rate	
+* SCT#429525003	//Dorsalis pedis pulse rate	
+* SCT#399017001	//Heart rate on admission	
+* SCT#78564009	//Pulse rate	
+* SCT#444981005	//Resting heart rate	
+* SCT#364075005	//Heart rate
+* SCT#424927000 //	Body weight with shoes	
+* SCT#445541000	// Dry body weight	
+* SCT#425024002	// Body weight without shoes	
+* SCT#364589006	//Birth weight	
+* SCT#27113001	//Body weight
+* codes from system SCT where concept is-a #86290005 //(Respiratory rate)
+* codes from system SCT where concept is-a #276885007 // Core Body temperature
+* SCT#248334005 //|Length of body (observable entity)|
+* SCT#276351002 // |Infant length (observable entity)|
+* SCT#276353004 //|Crown heel length (observable entity)|
+* SCT#248333004 //|Standing height (observable entity)|
+//fuctional observation
+* SCT#450738001 //"Thirty second chair stand test score"
+* SCT#1144649008 //|Six minute walk test distance (observable entity)|
+//TOBS Observations
+* SCT#6942003 //|bevidsthedsniveau|
+* SCT#444714004 //|Assessment of consciousness level (procedure)|
+//Pain scores
+* SCT#443394008 //|Visual analog scale pain score (observable entity)|
+* SCT#1144798005 //|Verbal Rating Scale pain intensity score (observable entity)|
+//Fra spørgeskemaer
+* SCT#1144665009 // 5-item World Health Organization Well-being Index value (observable entity)
+* SCT#404949004 //"Hvilemønster"
+* SCT#406202006 //"Træk vedr. energi"
+* SCT#247752005 //"Interesseniveau"
+* SCT#301438001 //|Ability to mobilize (observable entity)|
+* SCT#284773001 //|Ability to perform personal care activity (observable entity)|
+* SCT#284545001 //|Ability to perform activities of everyday life (observable entity)|
+* SCT#364624006 //|Pain / sensation observable (observable entity)|
+* SCT#285854004 //|Emotion (observable entity)|
+* SCT#736535009 //|EuroQol visual analogue score (observable entity)|
+* SCT#1144655003 //|EuroQol five dimension three level index value (observable entity)|
+* SCT#420753006 //|Pressure ulcer surface area (observable entity)|
+* SCT#434912009 // |glucosekoncentration i blod|
+* NPU#NPU14924 //"U—Urin; egenskabsart(liste; stix; proc.)"
+* NPU#NPU10504 //"U—Acetoacetat; arb.k.(proc.) = ?"
+* NPU#NPU17997 //"U—Albumin; arb.k.(proc.) = ?"
+* NPU#NPU10506 //"U—Bacterium, nitrit-producerende; arb.k.(proc.) = ?"
+* NPU#NPU01372 //"U—Bilirubiner; arb.k.(proc.) = ?"
+* NPU#NPU03963 //"U—Erythrocytter; arb.k.(proc.) = ?"
+* NPU#NPU04207 //"U—Glucose; arb.k.(proc.) = ?"
+* NPU#NPU02415 //"U—Hydrogen-ion; pH(proc.) = ?"
+* NPU#NPU04208 //"U—Hæmoglobin; arb.k.(proc.) = ?"
+* NPU#NPU03987 //"U—Leukocytter; arb.k.(proc.) = ?"
+* NPU#NPU21578 //"U—Nitrit; arb.k.(proc.) = ?"
+* NPU#NPU04864 //"U—Porphobilinogen; arb.k.(proc.) = ?"
+* NPU#NPU04206 //"U—Protein; arb.k.(proc.) = ?"
+* NPU#NPU03694 //"Pt—Urin; rel.massetæthed(20 °C/vand, 20 °C; proc.) = ?"
+* NPU#NPU03697 //"U—Urobilinogen; arb.k.(proc.) = ?"
+* NPU#NPU02195 //"P(vB; fPt)—Glucose; stofk. = ? mmol/L"
+
+// Instance: KLObservationCodes
+// InstanceOf: ValueSet
+// Description: "SNOMED CT and NPU codes used in Danish municipalities"
+// Usage: #definition
+// * name = "KLObservationCodes"
+// * status = #active
+// * title = "KLObservationCodes"
+// * experimental = false
+// * url = "http://fhir.kl.dk/term/ValueSet/KLObservationCodes"
+// * copyright = "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement"
+// * compose.include[0].system = "http://snomed.info/sct"
+// * compose.include[=].version = "http://snomed.info/sct/554471000005108"
+// * compose.include[=].concept[0].code = #446226005	//Diastolic blood pressure on admission	
+// * compose.include[=].concept[+].code = #400975005 //Standing diastolic blood pressure	
+// * compose.include[=].concept[+].code = #407557002 //Lying diastolic blood pressure
+// * compose.include[=].concept[+].code = #407555005 //Sitting diastolic blood pressure
+// * compose.include[=].concept[+].code = #271650006	//Diastolic blood pressure
+// * compose.include[=].concept[+].code = #72313002	//Systolic arterial pressure
+// * compose.include[=].concept[+].code = #400974009	//Standing systolic blood pressure
+// * compose.include[=].concept[+].code = #399304008	//Systolic blood pressure on admission
+// * compose.include[=].concept[+].code = #407556006	//Lying systolic blood pressure	
+// * compose.include[=].concept[+].code = #407554009	//Sitting systolic blood pressure
+// * compose.include[=].concept[+].code = #271649006	//Systolic blood pressure
 
 
 ValueSet: KLTargetMeasureCodes
