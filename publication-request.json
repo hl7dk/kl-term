@@ -1,0 +1,13 @@
+{
+    "package-id" : "kl.dk.fhir.term",
+    "version" : "1.0.0",
+    "path" : "http://fhir.kl.dk/term/1.0.0",
+    "mode" : "milestone",
+    "status" : "release",
+    "sequence" : "Releases",
+    "desc" : "Initial release of KL's terminology IG. It replicates the CodeSystems and ValueSets earlier maintained in FKI/kl-core, with the exception that most Valuesets have now been intesionally defined (using rules) rather than explicitely.",
+    "title" : "KLTerm",
+    "ci-build" : "http://build.fhir.org/ig/hl7dk/KL-term/",
+    "category" : "Terminology",
+    "introduction" : "This IG includes CodeSystems and ValueSets defined by KL/Local Government Denmark used in KL's FHIR standards."
+  }
