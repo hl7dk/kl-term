@@ -9,7 +9,7 @@ status: active
 version: 1.0.0
 fhirVersion: 4.0.1
 copyrightYear: 2022+
-releaseLabel: ci-build
+releaseLabel: Release
 publisher:
   name: Kommunernes Landsforening
   url: http://kl.dk
