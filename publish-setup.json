@@ -6,7 +6,7 @@
     "org": "KL Denmark",
     "no-registry": "1",
     "layout": {
-      "id": "kl.fhir.dk.[code]",
+      "id": "kl.dk.fhir.[code]",
       "canonical": "http://fhir.kl.dk/[code]"
     }
   },
