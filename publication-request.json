@@ -1,5 +1,5 @@
 {
-    "package-id" : "kl.fhir.dk.term",
+    "package-id" : "kl.dk.fhir.term",
     "version" : "1.0.0",
     "path" : "http://fhir.kl.dk/term/1.0.0",
     "mode" : "milestone",
