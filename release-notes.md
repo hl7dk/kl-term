@@ -1,3 +1,7 @@
-Initial release of KL's terminology IG.
+Version 1.1.0 of KLs terminology IG.
 
-It replicates the CodeSystems and ValueSets earlier maintained in FKI/kl-core, with the exception that most Valuesets have now been intentionally defined (using rules) rather than explicitely."
+The CodeSystems FSIII, FFB, FBOE and CareSocialCodes have been migrated from FK-klassifikation (ExTest) May 17 2023, so the version of each CodeSystem has been set to 20230517. 
+FBOE is released in its initial version.
+FSIII has been updated with §140 and §119 interventions with detailed concepts for when interventions are delivered individually or in a group. A number of headings in FSIII classic have changed display e.g. H4 changed from SEL § 84 stk. 2 to Midlertidigt ophold.Notice that FSIII classic uses its legacy codes e.g. H1, rather than the new uuid from FK-klassifikation. This is to preseve the implementations already relying on the legacy codes.
+FFB has changed term from Omgivelsesfaktorer to Omgivelser for 7445fb2b-0009-43d9-b49b-1b9782f2fcd9. The new concept a56d59c0-c8fd-468c-85f9-b67f66561b90 Omgivelsesfaktorer has been added.
+CareSocialCodes have been updated with reasons for stopping an intervention, see 2c059407-fed5-4852-92d8-6bb5ad63d7bb Begrundelse for indsatsophør and its subtype descendants. In addition the term Rehabilitering efter § 140 have been changed to Genoptræning efter §140.
