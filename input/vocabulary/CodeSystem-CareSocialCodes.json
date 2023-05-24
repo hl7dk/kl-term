@@ -2,7 +2,7 @@
   "resourceType": "CodeSystem",
   "id": "CareSocialCodes",
   "url": "http://fhir.kl.dk/term/CodeSystem/CareSocialCodes",
-  "version": "20230517",
+  "version": "20230524",
   "name": "CareSocialCodes",
   "title": "CareSocialCodes",
   "status": "active",
@@ -211,11 +211,29 @@
     }, {
       "code": "4fd6c23a-6ff3-4251-ac37-3ca095027b5b",
       "display": "Sundhedsfremme og forebyggelse §119",
-      "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119"
+      "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119",
+      "concept": [ {
+        "code": "5c160c02-e858-4c1f-925a-71ed64844749",
+        "display": "Interventionsforløb efter §119",
+        "definition": "Et planlagt §119 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §119 kunne et interventionsforløb fx være et KOL-træningshold der indeholder indsatserne fysisk træning og funktionstræning."
+      }, {
+        "code": "9791e55a-656f-47eb-8fd5-c4a06b0a4662",
+        "display": "Opfølgningsforløb efter §119",
+        "definition": "Planlagt indsatsforløb der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+      } ]
     }, {
       "code": "ddd2f670-5ec7-4f9c-9a2c-aee25cb133bf",
       "display": "Genoptræning efter §140",
-      "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140"
+      "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140",
+      "concept": [ {
+        "code": "f15b2663-94d9-4d0c-a5de-d8bd8e1e4ebb",
+        "display": "Interventionsforløb efter §140",
+        "definition": "Et planlagt §140 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §140 kunne et interventionsforløb fx være et Knæ-genoptræningshold der indeholder indsatserne fysisk træning, funktionstræning og vejledning og undervisning."
+      }, {
+        "code": "4863001e-14c7-4be8-a2da-e4f21a4b6ac4",
+        "display": "Opfølgningsforløb efter §140",
+        "definition": "Planlagt indsatsforløb efter §140 der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+      } ]
     } ]
   }, {
     "code": "2c059407-fed5-4852-92d8-6bb5ad63d7bb",

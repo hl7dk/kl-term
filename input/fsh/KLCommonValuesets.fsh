@@ -613,3 +613,10 @@ Title: "KLKildeTilOplysningFFB"
 Description: "Codes that identify who's perspective the matter-of-interest is comming from"
 * ^experimental = false
 * include codes from system KLCommonCareSocialCodes where concept descendent-of #b5731132-f6b9-4a47-995d-681d2b755d4f //Kilde
+
+ValueSet: CancellationTypes
+Id: CancellationTypes
+Title: "CancellationTypes"
+Description: "Cancellation valueset, to be implemented in KL-term and FKI"
+* ^experimental = false
+* include codes from system KLCommonCareSocialCodes where concept descendent-of #2c059407-fed5-4852-92d8-6bb5ad63d7bb //Begrundelse for indsatsophør
