@@ -1,7 +1,7 @@
 CodeSystem: NPU
 Title: "NPU"
 Description: "NPUcodes used in Danish municipalities"
-* ^url = urn:oid:1.2.208.176.2.1
+* ^url = "urn:oid:1.2.208.176.2.1"
 * ^content = http://hl7.org/fhir/codesystem-content-mode#fragment
 * ^experimental = false
 * ^caseSensitive = true

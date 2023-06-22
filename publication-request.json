@@ -5,6 +5,10 @@
     "mode" : "milestone",
     "status" : "release",
     "sequence" : "Releases",
+    "desc": "Next release",
     "descmd": "@release-notes.md",
-    "first" : true
+    "title" : "KLTerm",
+    "ci-build" : "http://build.fhir.org/ig/hl7dk/kl-term/",
+    "category" : "Terminology",
+    "introduction" : "This IG includes CodeSystems and ValueSets defined by KL/Local Government Denmark used in KL's FHIR standards."
   }
