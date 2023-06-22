@@ -6,7 +6,7 @@
     "system": "urn:oid",
     "value": "urn:oid:1.2.208.176.2.21"
   } ],
-  "version": "20230517",
+  "version": "20230622",
   "name": "FSIII",
   "title": "FSIII",
   "status": "active",
@@ -1317,117 +1317,86 @@
       "display": "Terapeutfaglig udredning",
       "definition": "Indsatsen anvendes ved anamnese, undersøgelse, test, faglig vurdering af undersøgelsesfund og på denne baggrund opstilling af borgerens mål og planlægning af den videre indsats."
     }, {
+      "code": "7f825e3e-1a5c-4249-bf41-9f7171fb6b8a",
+      "display": "ADL-træning",
+      "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter."
+    }, {
+      "code": "2abe20c7-c0b4-41c1-b397-52acf36499ef",
+      "display": "Fysisk træning",
+      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance."
+    }, {
+      "code": "58293f63-00d7-4730-8dbc-c784d40f9e23",
+      "display": "Funktionstræning",
+      "definition": "Funktionstræning"
+    }, {
+      "code": "2c661159-1bb3-4af2-bdf1-f3a9927a99e2",
+      "display": "Kognitiv træning",
+      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance."
+    }, {
+      "code": "8d714c98-f23a-4722-8a2f-85c162fe4840",
+      "display": "Psykomotorisk træning",
+      "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil."
+    }, {
+      "code": "66fb32c9-ecc3-484b-be49-f20094be237c",
+      "display": "Vejledning og undervisning",
+      "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet."
+    }, {
       "code": "ba3e17bd-d4aa-4848-acad-25adc8285c19",
       "display": "Koordinering og kommunikation",
       "definition": "Indsatsen anvendes ved systematisk koordinering af kommunale og tværsektorielle aktørers indsatser til borgeren."
     }, {
+      "code": "571fa7da-a155-4a84-b780-ef19170d48a0",
+      "display": "Opfølgning",
+      "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser."
+    }, {
       "code": "f8ac963c-6ec5-4ec5-bd90-a22fea4e2d16",
       "display": "Manuel behandling",
       "definition": "Indsatsen anvendes ved manuelle behandlingsteknikker, der virker udspændende, mobiliserende og/eller stimulerende på fx led, muskler og senevæv."
-    }, {
-      "code": "7f825e3e-1a5c-4249-bf41-9f7171fb6b8a",
-      "display": "ADL-træning",
-      "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter.",
-      "concept": [ {
-        "code": "029cb8af-08d5-4b8f-a911-7dfcb7c27483",
-        "display": "ADL-træning på hold",
-        "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter. Leveret på hold."
-      }, {
-        "code": "aeb3d2b2-a551-4c3a-86e2-d165c1aaf350",
-        "display": "ADL-træning individuelt",
-        "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter. Leveret individuelt."
-      } ]
-    }, {
-      "code": "2abe20c7-c0b4-41c1-b397-52acf36499ef",
-      "display": "Fysisk træning",
-      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance.",
-      "concept": [ {
-        "code": "fb26c466-14c9-49a1-b69b-a6339f3890e4",
-        "display": "Fysisk træning individuelt",
-        "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance. Leveret individuelt."
-      }, {
-        "code": "8728bce0-90c7-40c8-8c2f-f5c266dad02d",
-        "display": "Fysisk træning på hold",
-        "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance. Leveret på hold."
-      } ]
-    }, {
-      "code": "58293f63-00d7-4730-8dbc-c784d40f9e23",
-      "display": "Funktionstræning",
-      "definition": "Funktionstræning",
-      "concept": [ {
-        "code": "5002d3be-ee05-4ff7-9fd4-a0d815bd6cbd",
-        "display": "Funktionstræning individuelt",
-        "definition": "Funktionstræning individuelt"
-      }, {
-        "code": "c6192bb0-266f-43de-976d-e78335c5be0b",
-        "display": "Funktionstræning på hold",
-        "definition": "Funktionstræning på hold"
-      } ]
-    }, {
-      "code": "2c661159-1bb3-4af2-bdf1-f3a9927a99e2",
-      "display": "Kognitiv træning",
-      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance.",
-      "concept": [ {
-        "code": "6f1107a4-25d3-4d9a-bf35-bd1cf472d183",
-        "display": "Kognitiv træning på hold",
-        "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance. Leveret på hold."
-      }, {
-        "code": "7d877253-e385-405c-8822-7fc3d2e7f3b0",
-        "display": "Kognitiv træning individuelt",
-        "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance. Leveret individuelt."
-      } ]
-    }, {
-      "code": "8d714c98-f23a-4722-8a2f-85c162fe4840",
-      "display": "Psykomotorisk træning",
-      "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil.",
-      "concept": [ {
-        "code": "e5802281-a895-4a3f-868f-c50f1759cc00",
-        "display": "Psykomotorisk træning på hold",
-        "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil. Leveret på hold."
-      }, {
-        "code": "8d9eb012-0f2e-4e3f-8ac9-8f3d87cfdc3b",
-        "display": "Psykomotorisk træning individuelt",
-        "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil. Leveret individuelt."
-      } ]
-    }, {
-      "code": "66fb32c9-ecc3-484b-be49-f20094be237c",
-      "display": "Vejledning og undervisning",
-      "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet.",
-      "concept": [ {
-        "code": "0a995193-b6ab-413b-8692-3456992807d6",
-        "display": "Vejledning og undervisning individuelt",
-        "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet. Leveret individuelt."
-      }, {
-        "code": "4dbd9b85-8b89-45de-bf6f-9509aa122089",
-        "display": "Vejledning og undervisning på hold",
-        "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet. Leveret på hold."
-      } ]
-    }, {
-      "code": "571fa7da-a155-4a84-b780-ef19170d48a0",
-      "display": "Opfølgning",
-      "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser.",
-      "concept": [ {
-        "code": "722cb0e4-0e21-4442-af04-fe5e4ce4c540",
-        "display": "Opfølgning på hold",
-        "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser. Leveret på hold."
-      }, {
-        "code": "31de6eb9-eae2-4759-81c4-8e2323c73101",
-        "display": "Opfølgning individuelt",
-        "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser. Leveret individuelt."
-      } ]
     } ]
   }, {
     "code": "102ea764-d2cf-4a24-979d-68c2e8d638cf",
     "display": "Forebyggende sundhedstilbud",
     "definition": "Forebyggelsestilbud i forbindelse med kronisk sygdom.",
     "concept": [ {
+      "code": "abe847e0-1ce0-44dc-a675-ce05b66f47e6",
+      "display": "Vejledning og introduktion til fysiske aktiviteter",
+      "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter."
+    }, {
+      "code": "ab87c0b5-40be-4e0a-b749-d9f833bfed2d",
+      "display": "Fysisk træning",
+      "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition."
+    }, {
+      "code": "61692d91-69b8-4830-9453-3d58454e49d3",
+      "display": "Færdighedstræning",
+      "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet."
+    }, {
       "code": "cf7a55c2-7061-47ed-b7c5-e29620fe93bf",
       "display": "Diætbehandling",
       "definition": "En intervention i forhold til et ernæringsproblem, der er opstået som følge af sygdom eller behandling."
     }, {
+      "code": "c9a99304-1788-43b7-b7be-e187b092ae9c",
+      "display": "Kostvejledning",
+      "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger."
+    }, {
+      "code": "01a500f6-c221-4fd0-b518-cd361218b60d",
+      "display": "Madlavning i praksis",
+      "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis."
+    }, {
       "code": "924e9828-84cf-4689-9551-0ebb6dc71b98",
       "display": "Samtale om alkohol",
       "definition": "Rådgivning om og støtte til hensigtsmæssig alkoholadfærd."
+    }, {
+      "code": "c203c6b5-3be0-40a8-8204-e93751deabf5",
+      "display": "Tobaksafvænning",
+      "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse."
+    }, {
+      "code": "e71b7d85-5c78-49c2-8624-8499d162317b",
+      "display": "Sygdomshåndtering",
+      "definition": "Støtte til at forstå og håndtere livet me.d kronisk sygdom"
+    }, {
+      "code": "f30cab6d-2a42-4358-99d7-811127fb6e05",
+      "display": "Mental håndtering",
+      "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende."
     }, {
       "code": "03a3ebdb-9e2d-4be1-b32b-42f0bd2a3362",
       "display": "Afsluttende samtale",
@@ -1441,122 +1410,9 @@
       "display": "Afklarende samtale",
       "definition": "Afklarende samtale"
     }, {
-      "code": "abe847e0-1ce0-44dc-a675-ce05b66f47e6",
-      "display": "Vejledning og introduktion til fysiske aktiviteter",
-      "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter.",
-      "concept": [ {
-        "code": "f490d484-fa43-400b-b678-e718c6927708",
-        "display": "Vejledning og introduktion til fysiske aktiviteter individuelt",
-        "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter.Leveret individuelt"
-      }, {
-        "code": "e78c43e3-c512-44b4-ad30-2de43481d9b3",
-        "display": "Vejledning og introduktion til fysiske aktiviteter på hold",
-        "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter. Leveret på hold."
-      } ]
-    }, {
-      "code": "ab87c0b5-40be-4e0a-b749-d9f833bfed2d",
-      "display": "Fysisk træning",
-      "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition.",
-      "concept": [ {
-        "code": "abade2c3-0922-4ec1-b85a-263c85d056fa",
-        "display": "Fysisk træning på hold",
-        "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition. Leveret på hold."
-      }, {
-        "code": "122fe9a2-9bff-4c9c-87df-af1e096ad7a6",
-        "display": "Fysisk træning individuelt",
-        "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition. Leveret individuelt."
-      } ]
-    }, {
-      "code": "61692d91-69b8-4830-9453-3d58454e49d3",
-      "display": "Færdighedstræning",
-      "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet.",
-      "concept": [ {
-        "code": "9143b4b7-7211-45ed-8892-9afb1f2d20b7",
-        "display": "Færdighedstræning på hold",
-        "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet. Leveret på hold."
-      }, {
-        "code": "e31355bd-b1a6-4fab-a339-8cec309cad81",
-        "display": "Færdighedstræning individuelt",
-        "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet. Leveret individuelt."
-      } ]
-    }, {
-      "code": "c9a99304-1788-43b7-b7be-e187b092ae9c",
-      "display": "Kostvejledning",
-      "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger.",
-      "concept": [ {
-        "code": "fea40bf1-731f-4d7e-a1d0-38555a553cb7",
-        "display": "Kostvejledning på hold",
-        "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger. Leveret på hold."
-      }, {
-        "code": "37d2b78b-4988-4225-afa0-a9642402df38",
-        "display": "Kostvejledning individuelt",
-        "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger. Leveret individuelt."
-      } ]
-    }, {
-      "code": "01a500f6-c221-4fd0-b518-cd361218b60d",
-      "display": "Madlavning i praksis",
-      "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis.",
-      "concept": [ {
-        "code": "051978fc-599e-4e30-9746-d6d0547a0361",
-        "display": "Madlavning i praksis individuelt",
-        "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis. Leveret individuelt."
-      }, {
-        "code": "eac36593-ad34-4abe-9de0-c408fe7eb3e5",
-        "display": "Madlavning i praksis på hold",
-        "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis. Leveret på hold."
-      } ]
-    }, {
-      "code": "c203c6b5-3be0-40a8-8204-e93751deabf5",
-      "display": "Tobaksafvænning",
-      "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse.",
-      "concept": [ {
-        "code": "fe0588d3-d12b-455f-b84c-1fee3c85bfd8",
-        "display": "Tobaksafvænning på hold",
-        "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse. Leveret på hold."
-      }, {
-        "code": "d83d524f-a01b-4fa0-9324-3bb56c1e79fe",
-        "display": "Tobaksafvænning individuelt",
-        "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse. Leveret individuelt."
-      } ]
-    }, {
-      "code": "e71b7d85-5c78-49c2-8624-8499d162317b",
-      "display": "Sygdomshåndtering",
-      "definition": "Støtte til at forstå og håndtere livet me.d kronisk sygdom",
-      "concept": [ {
-        "code": "a616e57f-c780-442e-8c29-b22a72fbe88c",
-        "display": "Sygdomshåndtering på hold",
-        "definition": "Støtte til at forstå og håndtere livet med kronisk sygdom. Leveret på hold."
-      }, {
-        "code": "a05f0199-6b1f-419f-800c-f6348f93751e",
-        "display": "Sygdomshåndtering individuelt",
-        "definition": "Støtte til at forstå og håndtere livet med kronisk sygdom. Leveret individuelt."
-      } ]
-    }, {
-      "code": "f30cab6d-2a42-4358-99d7-811127fb6e05",
-      "display": "Mental håndtering",
-      "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende.",
-      "concept": [ {
-        "code": "1b325914-3a06-437d-9f7e-cd0edbbda32e",
-        "display": "Mental håndtering på hold",
-        "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende. Leveret på hold."
-      }, {
-        "code": "30836f9d-c84a-4e48-8d5c-21862747466a",
-        "display": "Mental håndtering individuelt",
-        "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende. Leveret individuelt."
-      } ]
-    }, {
       "code": "d1e016b5-150a-4ac4-97ba-d3e19e28471e",
       "display": "Opfølgning",
-      "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser.",
-      "concept": [ {
-        "code": "4339307c-01ea-4119-9520-4b88e0a65e04",
-        "display": "Opfølgning individuelt",
-        "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser. Leveret individuelt."
-      }, {
-        "code": "6d339989-6788-468a-8020-5e44e6d0b2aa",
-        "display": "Opfølgning på hold",
-        "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser. Leveret på hold."
-      } ]
+      "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser."
     } ]
   } ]
 }

@@ -2,7 +2,7 @@
   "resourceType": "CodeSystem",
   "id": "CareSocialCodes",
   "url": "http://fhir.kl.dk/term/CodeSystem/CareSocialCodes",
-  "version": "20230524",
+  "version": "20230622",
   "name": "CareSocialCodes",
   "title": "CareSocialCodes",
   "status": "active",
@@ -272,6 +272,19 @@
         "display": "Aktivt fravalg pga. økonomi ifm. transport",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den omkostning der er forbundet med transport til det sted indsatsen tilbydes"
       } ]
+    } ]
+  }, {
+    "code": "3f79cee2-b148-4f2c-9cbd-387820e74685",
+    "display": "Leveringstype",
+    "definition": "Om der leveres individuelt eller gruppebaseret",
+    "concept": [ {
+      "code": "2865f123-15a7-4a36-a514-32ea37c400ca",
+      "display": "Gruppebaseret indsats",
+      "definition": "Indsats leveres i gruppe"
+    }, {
+      "code": "8d12d74c-17da-47a7-a4fe-e69dbaec0a8c",
+      "display": "Individuel indsats",
+      "definition": "Indsats leveres individuelt"
     } ]
   } ]
 }
