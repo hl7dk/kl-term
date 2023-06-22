@@ -1,6 +1,6 @@
 Version 1.1.0 of KLs terminology IG.
 
-The CodeSystems FSIII, FFB, FBOE and CareSocialCodes have been migrated from FK-klassifikation (ExTest) May 2023. The version of each CodeSystem has been set to the date of the actual migration. 
+The CodeSystems FSIII, FFB, FBOE and CareSocialCodes have been migrated from FK-klassifikation (ExTest) May and June 2023. The version of each CodeSystem has been set to the date of the actual migration. 
 FBOE is released in its initial version.
 FSIII has been updated with §140 and §119 interventions with detailed concepts for when interventions are delivered individually or in a group. A number of headings in FSIII classic have changed display e.g. H4 changed from SEL § 84 stk. 2 to Midlertidigt ophold. Notice that FSIII classic uses its legacy codes e.g. H1, rather than the new uuid from FK-klassifikation. This is to preseve the implementations already relying on the legacy codes.
 FFB has changed term from Omgivelsesfaktorer to Omgivelser for 7445fb2b-0009-43d9-b49b-1b9782f2fcd9. The new concept a56d59c0-c8fd-468c-85f9-b67f66561b90 Omgivelsesfaktorer has been added.
