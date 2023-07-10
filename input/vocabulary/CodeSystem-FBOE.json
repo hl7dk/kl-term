@@ -1,0 +1,302 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "FBOE",
+  "url": "http://fhir.kl.dk/term/CodeSystem/FBOE",
+  "version": "20230517",
+  "name": "FBOE",
+  "title": "FBOE",
+  "status": "active",
+  "experimental": false,
+  "description": "Concepts used for standardizing documentation for Danish postpartum nursing/childrens health promotion program in schools (Da: Sundhedsplejen). The concepts are utilized in the National Database for Children and Youth (LDBU).",
+  "caseSensitive": true,
+  "hierarchyMeaning": "is-a",
+  "content": "complete",
+  "concept": [ {
+    "code": "7c8eceee-3591-497f-b78d-0d56eb046f35",
+    "display": "Sundhedsplejefaglig indikator",
+    "definition": "Indikator brugt i sundhedsplejen, for på overordnede områder at evaluere barnets sundhed og trivsel.",
+    "concept": [ {
+      "code": "bf5d7844-6175-41e1-a117-e5d60e755477",
+      "display": "Indikator ifm. forebyggelsesindsats for småbørn",
+      "definition": "Indikator anvendet ifm. sundhedsplejens forebyggelsesindsats for småbørn",
+      "concept": [ {
+        "code": "2c39af9f-8e45-4c88-962f-e7a9e2cd31b6",
+        "display": "Forælders psykiske tilstand",
+        "definition": "Observation af psykisk tilstand når man er blevet forælder ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "e88ddd81-4aa5-4c84-89fb-52de961a7c17",
+        "display": "Signaler, reaktioner, kommunikation",
+        "definition": "Observation af signaler, reaktioner, kommunikation ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "0701a892-2e6b-4b76-a041-97ceda78f973",
+        "display": "Motorik",
+        "definition": "Observation af motorik ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "bfc7062e-d529-4516-a698-fc87b339033a",
+        "display": "Søvn, døgnrytme",
+        "definition": "Observation af søvn, døgnrytme ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "bee30064-8436-4762-83ed-e47d65f23fc6",
+        "display": "Samvær, kontakt, forældre-barn relation",
+        "definition": "Observation af samvær, kontakt, forældre-barn relation ifm. forebyggelsesindsats for småbørn"
+      } ]
+    }, {
+      "code": "08a7b81a-3633-41ce-9e27-941ce3b4276b",
+      "display": "Indikator ifm. indskolingsundersøgelse",
+      "definition": "Indikator anvendt af skolesundhedsplejen ifm. indskolingsundersøgelse",
+      "concept": [ {
+        "code": "58464451-5fbb-4607-871d-1e01212c38d7",
+        "display": "Sundhedsplejerskens observationer og kontakt",
+        "definition": "Observation vedr. sundhedsplejerskens observationer og kontakt med barnet ifm. indskolingsundersøgelse"
+      }, {
+        "code": "c61e0e57-b1fd-4e4a-9eb9-5086b14b7504",
+        "display": "Evne til at hoppe",
+        "definition": "Observation af evne til at hoppe ifm. indskolingsundersøgelse"
+      }, {
+        "code": "c05a5706-c0df-4a66-a6a1-a01e948d9326",
+        "display": "Evne til at stå på højre ben",
+        "definition": "Observation af evne til at stå på højre ben ifm. indskolingsundersøgelse"
+      }, {
+        "code": "0e24a41d-6bb6-4c84-89e1-5635cd4ea481",
+        "display": "Evne til at kaste bold med højre hånd",
+        "definition": "Observation af evne til at kaste bold med højre hånd ifm. indskolingsundersøgelse"
+      }, {
+        "code": "5f4a21bb-6314-477a-a0fe-7924ff83954a",
+        "display": "Sprog",
+        "definition": "Observation af sprog ifm. indskolingsundersøgelse"
+      }, {
+        "code": "dfa9a5e4-c542-4491-8a4b-1dee0bab8b17",
+        "display": "Evne til at holde om en blyant",
+        "definition": "Observation af evne til at holde om en blyant ifm. indskolingsundersøgelse"
+      }, {
+        "code": "1c4b0adf-cd19-42af-ba43-80c28fcbc7e3",
+        "display": "Evne til at stå på venstre ben",
+        "definition": "Observation af evne til at stå på venstre ben ifm. indskolingsundersøgelse"
+      }, {
+        "code": "51a91eca-5a66-4e1a-bbf7-be4ccf12810f",
+        "display": "Relation, kontakt, omsorg",
+        "definition": "Observation vedr. forældre-barn relation, kontakt, omsorg ifm. indskolingsundersøgelse"
+      }, {
+        "code": "2a8ebbc5-a4f0-485c-850f-1e95db492a6f",
+        "display": "Evne til at gå",
+        "definition": "Observation af evne til at gå ifm. indskolingsundersøgelse"
+      }, {
+        "code": "d240cad7-04ca-4f36-9dd7-86fb1987856a",
+        "display": "Mad og måltider",
+        "definition": "Observation vedr. mad og måltider ifm. indskolingsundersøgelse"
+      }, {
+        "code": "550cad89-6036-453f-9536-d1adb4eae879",
+        "display": "Evne til at løbe gadedrengeløb",
+        "definition": "Observation af evne til at løbe gadedrengeløb ifm. indskolingsundersøgelse"
+      }, {
+        "code": "877a3705-ddd4-4e54-a6eb-f94a95276f99",
+        "display": "Høretest",
+        "definition": "Observation vedr. høretest ifm. indskolingsundersøgelse"
+      }, {
+        "code": "7dbe4d6a-a486-4d8a-bd85-d8803ecb9688",
+        "display": "Synstest",
+        "definition": "Observation vedr. synstest ifm indskolingsundersøgelse"
+      }, {
+        "code": "f8d7fba7-acc4-4481-bb8d-4b3112f411a9",
+        "display": "Fysisk aktivitet",
+        "definition": "Observation vedr. fysisk aktivitet ifm. indskolingsundersøgelse"
+      }, {
+        "code": "998d1b1e-b165-43c9-861f-0b620f753df3",
+        "display": "Evne til at kaste bold med venstre hånd",
+        "definition": "Observation af evne til at kaste bold med venstre hånd ifm. indskolingsundersøgelse"
+      }, {
+        "code": "a3e32326-283d-47db-af92-3d8554fb7977",
+        "display": "Evne til at gribe bold",
+        "definition": "Observation af evne til at gribe bold ifm. indskolingsundersøgelse"
+      }, {
+        "code": "5697e7df-3009-44d2-a495-ca8e4da167fb",
+        "display": "Evne til at holde balance",
+        "definition": "Observation af evne til at holde balance ifm. indskolingsundersøgelse"
+      } ]
+    }, {
+      "code": "2ba8931c-0c02-4928-a876-a30ee92adc20",
+      "display": "Indikator ifm. udskolingsundersøgelse",
+      "definition": "Indikator anvendt af skolesundhedsplejen ifm. udskolingsundersøgelse",
+      "concept": [ {
+        "code": "089c064d-3e14-47d2-9e34-b753fcf18c7a",
+        "display": "Spisning, kost og motion",
+        "definition": "Observation vedr. spisning, kost og motion ifm. udskolingsundersøgelse"
+      }, {
+        "code": "933d7ded-0c10-48e0-9645-b84b7c8946c7",
+        "display": "Trivsel",
+        "definition": "Observation vedr. trivsel ifm. udskolingsundersøgelse"
+      }, {
+        "code": "5a517611-64d6-4ebd-af33-f2b30d0ad874",
+        "display": "Mental sundhed",
+        "definition": "Observation vedr. mental sundhed ifm. udskolingsundersøgelse"
+      }, {
+        "code": "d59a5f7f-805c-44a6-9ab7-a4e7a1d9bd1e",
+        "display": "Andre rusmidler",
+        "definition": "Observation vedr. andre rusmidler ifm. udskolingsundersøgelse"
+      }, {
+        "code": "ae0bc3c6-7084-4e62-8e83-427f14a09646",
+        "display": "Seksuel adfærd",
+        "definition": "Observation vedr. seksuel adfærd ifm. udskolingsundersøgelse"
+      }, {
+        "code": "9069b5aa-d62c-48f9-a0d9-d17ecd12920a",
+        "display": "Syntest",
+        "definition": "Observation vedr. syntest ifm. udskolingsundersøgelse"
+      }, {
+        "code": "20a41422-1ea1-483e-8070-7ffd79c493c0",
+        "display": "Søvn/træthed",
+        "definition": "Observation vedr. søvn/træthed ifm. udskolingsundersøgelse"
+      }, {
+        "code": "6be08133-feca-4d2f-a45d-cb36d141011e",
+        "display": "Høretest",
+        "definition": "Observation vedr. høretest ifm. udskolingsundersøgelse"
+      }, {
+        "code": "da541ade-cbc9-4377-bff7-5ec153c93a89",
+        "display": "Fysisk trivsel",
+        "definition": "Observation vedr. fysisk trivsel ifm. udskolingsundersøgelse"
+      }, {
+        "code": "aeded840-d8da-408e-bb6d-d2d8560a6b79",
+        "display": "Alkohol",
+        "definition": "Observation vedr. alkohol ifm. udskolingsundersøgelse"
+      } ]
+    } ]
+  }, {
+    "code": "6d41809a-54e5-4ce6-955f-357b20d063d1",
+    "display": "Kontakttype",
+    "definition": "Type af kontakte der foretages i sundhedsplejen.",
+    "concept": [ {
+      "code": "4b039ba1-4005-42e6-b672-09b81ad7578a",
+      "display": "Behovsbesøg af småbørnssundhedsplejen",
+      "definition": "Sundhedsplejens hjemmebesøg i barnets første 5 leveår efter behov"
+    }, {
+      "code": "606c6585-444b-4ecd-885c-2ee59dc33f32",
+      "display": "Behovsbaseret kontakt med skolesundhedsplejersken",
+      "definition": "Behovsbaseret kontakt med skolesundhedsplejersken"
+    }, {
+      "code": "17f5f9fa-3e1c-42fe-9ef3-178bc7900f67",
+      "display": "Anden kontakt med skolesundhedsplejersken",
+      "definition": "Anden kontakt med skolesundhedsplejersken ifm. den almindelige forebyggende skolebørnsindsats."
+    }, {
+      "code": "6c2a4f15-d775-47f3-9868-b26fbff9ff8b",
+      "display": "Forebyggelseskontakt i småbørnssundhedsplejen",
+      "definition": "Forebyggelseskontakt i småbørnssundhedsplejen, som beskrevet i vejledning om forebyggende sundhedsydelser til børn og unge",
+      "concept": [ {
+        "code": "3f3e6489-31bd-44cf-9920-3c632868feb7",
+        "display": "Besøg ved det 8-11 måneder gamle barn",
+        "definition": "Besøg ved det 8-11 måneder gamle barn foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "58ff370b-a775-4bec-b24a-91604e0a5fe7",
+        "display": "Besøg ved det 4-6 måneder gamle barn",
+        "definition": "Besøg ved det 4-6 måneder gamle barn foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "51f30d1c-d60e-4e3e-ac22-ec9712ea962d",
+        "display": "Besøg ved det ca. 2 måneder gamle barn",
+        "definition": "Besøg ved det ca. 2 måneder gamle barn foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "b4bf6058-502a-4d64-bb8e-369661f43b47",
+        "display": "Etableringsbesøg",
+        "definition": "Etableringsbesøg foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "d3c00541-f1d3-4c43-b5fc-16e8914ca1df",
+        "display": "Graviditetsbesøg",
+        "definition": "Graviditetsbesøg foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "7d35a193-e808-4e77-b361-6c0d114d021f",
+        "display": "Barselsbesøg",
+        "definition": "Barselsbesøg foretaget af småbørnssundhedsplejen"
+      }, {
+        "code": "563c4174-f451-4c87-8db8-8d5472ca7ff6",
+        "display": "Andet besøg i barnets første levemåned",
+        "definition": "Andet besøg i barnets første levemåned foretaget af småbørnssundhedsplejen"
+      } ]
+    }, {
+      "code": "b30f139c-fac5-416e-b84a-a3429f0222c2",
+      "display": "Anden kontakt med småbørnssundhedsplejen",
+      "definition": "Anden kontakt med småbørnssundhedsplejen ifm den almindelige forebyggende småbørnsindsats",
+      "concept": [ {
+        "code": "644dd6c1-5c80-4412-ae59-f6e0767cead5",
+        "display": "Kontakt med sundhedsplejen i åben konsultation",
+        "definition": "Kontakt med sundhedsplejen i åben konsultation"
+      }, {
+        "code": "a08d3cf6-58ef-4631-8893-3fa44bd67363",
+        "display": "Kontakt med sundhedsplejen ifm. gruppeaktivitet",
+        "definition": "Kontakt med sundhedsplejen ifm. gruppeaktivitet fx mødre-, fædre- eller forældregrupper, åbent hus og undervisning."
+      } ]
+    }, {
+      "code": "9f3d853c-88d3-47e9-92a1-c7bbe0f9b4eb",
+      "display": "Forebyggelseskontakt i skolesundhedsplejen",
+      "definition": "Forebyggelseskontakt i skolesundhedsplejen som beskrevet i vejledning for forebyggende sundhedsydelser for børn og unge.",
+      "concept": [ {
+        "code": "c06ed6f1-be9d-460e-a45e-34821bcbd533",
+        "display": "Indskolingsundersøgelse",
+        "definition": "Indskolingsundersøgelse foretaget af skolesundhedsplejen."
+      }, {
+        "code": "0ddb3661-51da-471f-94d7-2a50b81f5fc6",
+        "display": "1. klasses undersøgelse",
+        "definition": "1. klasses undersøgelse foretaget af skolesundhedsplejen."
+      }, {
+        "code": "d01bcb90-2b29-44f4-834c-191d6dd4a08a",
+        "display": "Undersøgelse i mellemtrin, med måling",
+        "definition": "Undersøgelse i mellemtrin foretaget af skolesundhedsplejen, hvor måling indberettes til National børnedatabase."
+      }, {
+        "code": "dd766967-4d02-4c17-8ed3-021852785fdf",
+        "display": "Udskolingsundersøgelse",
+        "definition": "Udskolingsundersøgelse foretaget af skolesundhedsplejen."
+      } ]
+    } ]
+  }, {
+    "code": "7110c91c-2be6-4beb-be73-c58cfc147a83",
+    "display": "Observationsresultat",
+    "definition": "Resultat af observation foretaget af sundhedsplejen",
+    "concept": [ {
+      "code": "0d512b22-80e6-4bed-9b79-4b13dc22eafb",
+      "display": "Resultat, egenvurderet trivsel",
+      "definition": "Resultat af børns egenvurderede trivsel i regi af skolesundhedsplejen",
+      "concept": [ {
+        "code": "10edfc52-3632-453b-8db1-af6691049885",
+        "display": "For det meste ikke glad",
+        "definition": "Barnet vurderer selv for det meste ikke at være glad"
+      }, {
+        "code": "2e026475-a2ec-45e3-92d8-f0bed307cceb",
+        "display": "For det meste midt imellem i skolen",
+        "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad i skolen"
+      }, {
+        "code": "5dc857f6-1220-4762-a718-31a6101b5d61",
+        "display": "For det meste glad i skolen",
+        "definition": "Barnet vurderer selv for det meste at være glad i skolen"
+      }, {
+        "code": "822dffb2-3b29-4f86-9784-757954d6a047",
+        "display": "For det meste ikke glad i skolen",
+        "definition": "Barnet vurderer selv for det meste ikke at være glad i skolen"
+      }, {
+        "code": "9b4b5194-cf7f-4274-a691-734c24adb0b7",
+        "display": "For det meste meget glad i skolen",
+        "definition": "Barnet vurderer selv for det meste at være meget glad i skolen"
+      }, {
+        "code": "be128c20-851d-4217-b8df-744d8af39cac",
+        "display": "For det meste meget glad",
+        "definition": "Barnet vurderer selv for det meste at være meget glad"
+      }, {
+        "code": "2c945a43-a07b-4b26-b4cc-205ba15a1251",
+        "display": "For det meste midt imellem",
+        "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad"
+      }, {
+        "code": "6bea1014-8e30-40e7-9274-2b02376c0b1b",
+        "display": "For det meste glad",
+        "definition": "Barnet vurderer selv for det meste at være glad"
+      } ]
+    }, {
+      "code": "700d6a6d-43b7-4a4a-ac06-9c74253d0112",
+      "display": "Indikator resultat",
+      "definition": "Resultat af vurdering af én af de sundhedsplejefaglige indikatorer",
+      "concept": [ {
+        "code": "96e3eda6-3eb7-4fbb-9850-fc6dfafadb4a",
+        "display": "Problem/bemærkning",
+        "definition": "Der er konstateret et problem, og lavet en bemærkning"
+      }, {
+        "code": "1b64f768-5133-4633-85a4-2b97fcaa1f7a",
+        "display": "Intet at bemærke",
+        "definition": "Der er intet at bemærke"
+      } ]
+    } ]
+  } ]
+}
