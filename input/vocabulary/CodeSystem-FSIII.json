@@ -6,7 +6,7 @@
     "system": "urn:oid",
     "value": "urn:oid:1.2.208.176.2.21"
   } ],
-  "version": "20230622",
+  "version": "20240530",
   "name": "FSIII",
   "title": "FSIII",
   "status": "active",
@@ -16,376 +16,636 @@
   "hierarchyMeaning": "is-a",
   "content": "complete",
   "concept": [ {
-    "code": "H",
-    "display": "Servicelov Indsatskatalog",
-    "definition": "Servicelov Indsatskatalog",
+    "code": "370e6178-9a5d-45f9-a2c9-f658186059c9",
+    "display": "Generelle oplysninger",
+    "definition": "Generelle oplysninger",
     "concept": [ {
-      "code": "H7",
-      "display": "0-ydelser",
-      "definition": "Kommunens administrative understøttende aktiviteter.",
-      "concept": [ {
-        "code": "H7.1",
-        "display": "Generel 0-ydelse",
-        "definition": "Ydelsen kan anvendes kommunalt eller tværkommunalt i en periode, fx i forbindelse med puljemidler, projekter eller lignende."
-      }, {
-        "code": "H7.2",
-        "display": "Koordinerende 0-ydelse",
-        "definition": "Ydelsen omfatter en systematisk koordinering af kommunale aktørers tværfaglige indsatser. Som udgangspunkt sammen med borgeren og evt. med deltagelse af pårørende."
-      } ]
+      "code": "041a8348-e77d-4d6d-a464-a46b4fd036d0",
+      "display": "Ressourcer",
+      "definition": "Fysiske som psykiske kræfter eksempelvis i form af fysiske sundhed og styrke samt psykiske sundhed og styrke, herunder tanker, måder at forholde sig til situationer og andre mennesker på."
     }, {
-      "code": "H1",
-      "display": "Hjemmehjælp - Personlig hjælp og pleje",
-      "definition": "Personlig hjælp og pleje",
-      "concept": [ {
-        "code": "H1.1",
-        "display": "Personlig hygiejne",
-        "definition": "Alle indsatser relateret til den personlige hygiejne, som fx bad, hårvask, øvre og nedre toilette, af- og påklædning og negleklipning. Inkluderer også af- og påsætning af kropsbårne hjælpemidler (der ikke er omfattet af en sundhedslovsydelse)."
-      }, {
-        "code": "H1.2",
-        "display": "Udskillelser",
-        "definition": "Alle indsatser relateret til det at gå på toilettet, hvad enten borgeren selv kan, har brug for assistance eller for en erstatning for toiletbesøg i form af bleskift, uridomskift eller bækken-/kolbetømning."
-      }, {
-        "code": "H1.3",
-        "display": "Ernæring",
-        "definition": "Aktiviteter der foregår fra bord til mund. Altså alle indsatser, der vedrører indtagelse af mad og drikke, hvad enten der er tale om indsats til den egentlig handling at spise eller en indsats, der sikrer samvær under måltidet."
-      }, {
-        "code": "H1.4",
-        "display": "Mobilitet",
-        "definition": "Alle aktiviteter i forbindelse med forflytning, lejring og vending."
-      }, {
-        "code": "H1.5",
-        "display": "Hverdagens aktiviteter",
-        "definition": "Alle administrative og strukturelle opgaver. Det gælder både brevskrivning, hjælp til struktur, hjælp til medicin, hvor der ikke er tale om en overleveret ydelse, men fordi borgeren ikke selv har fysik til fx at håndtere sine piller, kontakt til myndighedspersoner, familie og venner."
-      }, {
-        "code": "H1.6",
-        "display": "Tilsyn/omsorg",
-        "definition": "Besøg der ikke er forbundet med en konkret opgave, men handler om at give en psykisk støtte, tryghed hos borgeren."
-      } ]
+      "code": "18eb83fc-a4fb-46ac-9d98-73ce76946c43",
+      "display": "Motivation",
+      "definition": "Beskriver den drivkraft, der får mennesker til at handle, som de gør. Motivation er en proces, hvor en målrettet aktivitet initieres og fastholdes."
     }, {
-      "code": "H1b",
-      "display": "Hjemmehjælp - Praktisk hjælp og støtte",
-      "definition": "Hjælp eller støtte til nødvendige praktiske opgaver i hjemmet.",
-      "concept": [ {
-        "code": "H1.8",
-        "display": "Rengøring",
-        "definition": "Alle dele af rengøring, både den daglige og hovedrengøring. Bemærk: Skift af sengelinned samt evt. snerydning er en rengøringsydelse. Bækken-/kolbetømning kan også placeres her, såfremt det ikke indgår i forbindelse med en personlig pleje-indsats."
-      }, {
-        "code": "H1.9",
-        "display": "Tøjvask",
-        "definition": "Alle former for håndtering af vasketøj - fra snavsetøjskurven til tøjskabet."
-      }, {
-        "code": "H1.7",
-        "display": "Indkøb",
-        "definition": "Aktiviteter foretaget for at skaffe dagligvarer - fra indkøbsseddel skrives, til varer er stillet på plads."
-      }, {
-        "code": "H1.12",
-        "display": "Praktiske indsatser i relation til børn i husstanden",
-        "definition": "Tilbagevendende praktiske opgaver der relaterer sig til børn i husstanden. Indsatsen bevilliges som praktisk bistand til den forælder, der ikke selv er i stand til at udføre opgaven."
-      }, {
-        "code": "H1.10",
-        "display": "Tilberede/anrette mad",
-        "definition": "Aktiviteter der foregår fra køkken til bord - den praktiske del af måltidet."
-      } ]
+      "code": "3769072e-79aa-466a-9385-baaba53b5b41",
+      "display": "Mestring",
+      "definition": "De strategier og den adfærd, hvor en person bevidst eller ubevidst mindsker sin sandsynlighed for at blive udsat for sygdom, funktionsnedsættelse, sociale problemer eller ulykker. (Også gældende i forhold til familie og netværk)."
     }, {
-      "code": "H1c",
-      "display": "Madservice",
-      "definition": "Der leveres mad til hjemmet.",
-      "concept": [ {
-        "code": "H1.11",
-        "display": "Madservice",
-        "definition": "Madservice er alene den ydelse, der visiteres til borgere, der modtager mad via en madserviceordning. Der kan ikke tildeles konkrete indsatser med tidsangivelse til madservice."
-      } ]
+      "code": "55dcbfa5-22e0-4765-8b9d-b2ea35f08aa3",
+      "display": "Livshistorie",
+      "definition": "En beskrivelse af borgerens oplevelse af væsentlige begivenheder, interesser og gøremål igennem livet."
     }, {
-      "code": "H2",
-      "display": "Rehabiliteringsforløb",
-      "definition": "Kortvarende og tidsafgrænset hjemmehjælp.",
-      "concept": [ {
-        "code": "H2.1",
-        "display": "RH Ernæring",
-        "definition": "RH Ernæring"
-      }, {
-        "code": "H2.2",
-        "display": "RH Hverdagens aktiviteter",
-        "definition": "RH Hverdagens aktiviteter"
-      }, {
-        "code": "H2.3",
-        "display": "RH Indkøb",
-        "definition": "RH Indkøb"
-      }, {
-        "code": "H2.4",
-        "display": "RH Mobilitet",
-        "definition": "RH Mobilitet"
-      }, {
-        "code": "H2.5",
-        "display": "RH Personlig hygiejne",
-        "definition": "RH Personlig hygiejne"
-      }, {
-        "code": "H2.6",
-        "display": "RH Rengøring",
-        "definition": "RH Rengøring"
-      }, {
-        "code": "H2.7",
-        "display": "RH Tilberede/anrette mad",
-        "definition": "RH Tilberede/anrette mad"
-      }, {
-        "code": "H2.8",
-        "display": "RH Tilsyn/omsorg",
-        "definition": "RH Tilsyn/omsorg"
-      }, {
-        "code": "H2.9",
-        "display": "RH Tøjvask",
-        "definition": "RH Tøjvask"
-      }, {
-        "code": "H2.10",
-        "display": "RH Udskillelser",
-        "definition": "RH Udskillelser"
-      }, {
-        "code": "H2.11",
-        "display": "RH Praktiske indsatser i relation til børn i husstanden",
-        "definition": "RH Praktiske indsatser i relation til børn i husstanden"
-      } ]
+      "code": "5a5e8e1d-d9ab-4b87-83e9-b34ca474808f",
+      "display": "Uddannelse og job",
+      "definition": "Uddannelses- og/eller erhvervsmæssige baggrund. Ex folkeskole, erhvervsuddannelse, universitetsuddannelse. Erhvervsmæssige baggrund er det eller de sidste jobs personen har haft på arbejdsmarkedet."
     }, {
-      "code": "H3",
-      "display": "Afløsning i hjemmet og/eller aflastning uden for hjemmet",
-      "definition": "Støtte og hjælp til pårørende og/eller aflastning uden for eget hjem.",
-      "concept": [ {
-        "code": "H3.1",
-        "display": "Aflastningsophold uden for hjemmet",
-        "definition": "Dækker aflastning af den pårørende. Alle former for aflastningsophold uden for hjemmet, således at den pårørende kan aflastes og/eller deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra at deltage i."
-      }, {
-        "code": "H3.2",
-        "display": "Afløsning i hjemmet",
-        "definition": "Dækker afløsning af den pårørende. Dvs. kommunal tilstedeværelse således at den pårørende fx kan deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra at deltage i."
-      }, {
-        "code": "H3.3",
-        "display": "Praktisk hjælp efter §84",
-        "definition": "Afløsning af den pårørendes indsats med praktisk hjælp."
-      } ]
+      "code": "6e6d9fcb-5b78-4f4a-87ac-a25f5ee3f620",
+      "display": "Netværk",
+      "definition": "Personer som er tæt på borgeren, og som giver praktisk og/eller følelsesmæssigt støtte og omsorg overfor borgeren. Netværk kan være offentligt eller privat. Et offentligt netværk består af personlige hjælpere, sundhedspersonale og andre professionelle primært omsorgsgivere. Privat netværk er familie, slægtning, venner og bekendtskaber."
     }, {
-      "code": "H4",
-      "display": "Midlertidigt ophold",
-      "definition": "Midlertidigt ophold med personlig hjælp og pleje og/eller praktisk støtte og hjælp.",
-      "concept": [ {
-        "code": "H4.1",
-        "display": "Midlertidig ophold",
-        "definition": "\"Midlertidig ophold\" er udelukkende en bevilling af en plads. De indsatser, der leveres under et midlertidigt ophold, vil være indsatser, der er visiteret efter §§ 83, 83a, 86 De indsatser, der leveres under et midlertidigt ophold, vil være indsatser, der er visiteret efter §83a, §83, §86, stk. 1, 86, stk. 2."
-      } ]
+      "code": "7c3806c7-81a6-4ebc-8201-19fce4408f47",
+      "display": "Helbredsoplysninger",
+      "definition": "Helbredsoplysninger: Aktuelle eller tidligere sygdomme og handicap der har betydning for borgerens situation. Sundhedsfaglige kontakter: Medarbejder eller enheder indenfor sundhedsvæsenet borgeren er tilknyttet, fx øjenlæge, tandlæge, fodterapeut eller afdeling/ambulatorium."
     }, {
-      "code": "H5",
-      "display": "Genoptræning",
-      "definition": "Hjælp til at genvinde fysiske funktionsevner.",
-      "concept": [ {
-        "code": "H5.1",
-        "display": "Genoptræning af funktionsnedsættelse",
-        "definition": "Træning med henblik på at opnå et funktionsniveau svarende til det borgeren havde forud for en hændelse."
-      } ]
+      "code": "98cd49f3-5dab-412e-9742-6437d0c2adce",
+      "display": "Vaner",
+      "definition": "Regelmæssig adfærd som borgeren har tillært gennem stadig gentagelse og udførelse helt eller delvist ubevidst.Vaner er fx døgnrytmen, måden at blive tiltalt på, kontakt med medmennesker og relationer, måde at anskue verden på."
     }, {
-      "code": "H6",
-      "display": "Vedligeholdelsestræning",
-      "definition": "Hjælp til at vedligeholde fysiske og psykiske evner.",
-      "concept": [ {
-        "code": "H6.1",
-        "display": "Vedligehold af færdigheder",
-        "definition": "Træning med henblik på at fastholde færdigheder/funktionsniveau, der er risiko for forringelse eller bortfald af."
-      } ]
+      "code": "9a8f6787-c366-4287-a1b8-5a9e35d7f9d8",
+      "display": "Boligens indretning",
+      "definition": "En beskrivelse af boligens fysiske rammer og omgivelser, der har betydning for borgerens hverdagsliv og funktionsevne."
+    }, {
+      "code": "e1afc3ae-e911-499d-9f46-bf8bab760536",
+      "display": "Hjælpemidler",
+      "definition": "Udstyr, produkter og teknologi som anvendes af borgeren i daglige aktiviteter, inkl. sådanne som er tilpasset eller særligt fremstillet til, implanteret i, placeret på eller nær personen, som anvender dem. (Inkl. almindelige genstande og hjælpemidler og teknologi til personlig anvendelse)."
+    }, {
+      "code": "f515d687-54cc-449d-9c4e-fd5d18919b95",
+      "display": "Roller",
+      "definition": "De roller som er særligt vigtige for borgeren i forhold til familie, arbejde og samfund."
     } ]
   }, {
-    "code": "A",
+    "code": "687159ad-a61c-47c0-a878-53aa54bae2d5",
+    "display": "Betydning",
+    "definition": "Betydning",
+    "concept": [ {
+      "code": "283bc119-5c7c-4679-8c8b-8768484e96d7",
+      "display": "Oplever begrænsninger",
+      "definition": "Oplever begrænsninger"
+    }, {
+      "code": "ba2fc34d-dde5-4d1e-b642-7d6950580641",
+      "display": "Oplever ikke begrænsninger",
+      "definition": "Oplever ikke begrænsninger"
+    } ]
+  }, {
+    "code": "95851822-5a33-4349-a1f2-9b1245369bf5",
     "display": "Henvendelse/henvisning fra",
     "definition": "Henvendelse/henvisning fra",
     "concept": [ {
-      "code": "A1",
-      "display": "Borger",
-      "definition": "Borger"
-    }, {
-      "code": "A2",
-      "display": "Pårørende",
-      "definition": "Pårørende"
-    }, {
-      "code": "A3",
-      "display": "Sagsbehandler, anden forvaltning",
-      "definition": "Sagsbehandler, anden forvaltning"
-    }, {
-      "code": "A4",
+      "code": "10c50afd-9ac7-4522-b945-29d84c082516",
       "display": "Hjemmeplejen",
       "definition": "Hjemmeplejen"
     }, {
-      "code": "A5",
-      "display": "Hjemmesygeplejen",
-      "definition": "Hjemmesygeplejen"
-    }, {
-      "code": "A6",
-      "display": "Træning",
-      "definition": "Træning"
-    }, {
-      "code": "A7",
-      "display": "Sundhedsfremme og forebyggelse",
-      "definition": "Sundhedsfremme og forebyggelse"
-    }, {
-      "code": "A8",
+      "code": "21ba5764-8b1b-4409-b7a1-f2396b60e7a4",
       "display": "Anden kommune",
       "definition": "Anden kommune"
     }, {
-      "code": "A9",
+      "code": "2c2d5545-e247-4d73-b454-3b0849b16980",
       "display": "Egen læge/vagtlæge",
       "definition": "Egen læge/vagtlæge"
     }, {
-      "code": "A10",
-      "display": "Speciallæge",
-      "definition": "Speciallæge"
-    }, {
-      "code": "A11",
-      "display": "Sygehus - kirurgisk",
-      "definition": "Sygehus - kirurgisk"
-    }, {
-      "code": "A12",
-      "display": "Sygehus - medicinsk",
-      "definition": "Sygehus - medicinsk"
-    }, {
-      "code": "A13",
-      "display": "Sygehus - psykiatrisk",
-      "definition": "Sygehus - psykiatrisk"
-    }, {
-      "code": "A14",
+      "code": "2cdf2c7c-65f7-4671-a976-89aff82c574d",
       "display": "Sygehus - akutmodtagelse",
       "definition": "Sygehus - akutmodtagelse"
     }, {
-      "code": "A15",
+      "code": "4d2bf9ca-869b-4fb5-afe8-027f0f04e7c1",
+      "display": "Sygehus - kirurgisk",
+      "definition": "Sygehus - kirurgisk"
+    }, {
+      "code": "503f8a4f-9023-470d-ba60-4a0e2ba8ac88",
+      "display": "Speciallæge",
+      "definition": "Speciallæge"
+    }, {
+      "code": "6d013db6-c05a-446a-b4d3-5823cb7e3f26",
+      "display": "Træning",
+      "definition": "Træning"
+    }, {
+      "code": "9da2f982-b1da-4e62-89ba-7affeb4f079d",
+      "display": "Sagsbehandler, anden forvaltning",
+      "definition": "Sagsbehandler, anden forvaltning"
+    }, {
+      "code": "cf85bd30-afc4-4134-b3f6-c4e3861372ac",
+      "display": "Sygehus - medicinsk",
+      "definition": "Sygehus - medicinsk"
+    }, {
+      "code": "cfe8ea63-e2aa-4b2c-99f7-7a1748f25ef3",
+      "display": "Hjemmesygeplejen",
+      "definition": "Hjemmesygeplejen"
+    }, {
+      "code": "d9b03ed2-7e81-4c01-8b3f-9aa9853ee5be",
+      "display": "Sygehus - psykiatrisk",
+      "definition": "Sygehus - psykiatrisk"
+    }, {
+      "code": "ddd8f111-2a2c-4fb3-a444-7b1ad35b95fa",
+      "display": "Sundhedsfremme og forebyggelse",
+      "definition": "Sundhedsfremme og forebyggelse"
+    }, {
+      "code": "df730716-47ae-42ed-9ff3-bbf4353d5626",
+      "display": "Pårørende",
+      "definition": "Pårørende"
+    }, {
+      "code": "e73934c9-e7aa-46a6-a7e4-3f1aa6fce1a7",
+      "display": "Borger",
+      "definition": "Borger"
+    }, {
+      "code": "e8a0be2a-86e6-4098-b2d4-86d00511556b",
       "display": "Andre",
       "definition": "Andre"
     } ]
   }, {
-    "code": "B",
-    "display": "Funktionsniveau",
-    "definition": "Funktionsniveau",
-    "concept": [ {
-      "code": "B1",
-      "display": "Ingen/ubetydelige begrænsninger",
-      "definition": "Ingen/ubetydelige begrænsninger"
-    }, {
-      "code": "B2",
-      "display": "Lette begrænsninger",
-      "definition": "Lette begrænsninger"
-    }, {
-      "code": "B3",
-      "display": "Moderate begrænsninger",
-      "definition": "Moderate begrænsninger"
-    }, {
-      "code": "B4",
-      "display": "Svære begrænsninger",
-      "definition": "Svære begrænsninger"
-    }, {
-      "code": "B5",
-      "display": "Totale begrænsninger",
-      "definition": "Totale begrænsninger"
-    }, {
-      "code": "B6",
-      "display": "Ikke relevant",
-      "definition": "Ikke relevant"
-    } ]
-  }, {
-    "code": "C",
+    "code": "d6d48a71-b96f-4b88-86f9-b13bd3c03560",
     "display": "Udførelse",
     "definition": "Udførelse",
     "concept": [ {
-      "code": "C1",
+      "code": "0c87bff2-3b24-4a6e-a9df-193f268ae7b8",
       "display": "Udfører selv",
       "definition": "Udfører selv"
     }, {
-      "code": "C2",
+      "code": "86c7db25-59bb-4bef-bfe3-c73b3031b9f2",
       "display": "Udfører dele af",
       "definition": "Udfører dele af"
     }, {
-      "code": "C3",
+      "code": "9e6c7ef6-9539-4f87-a82a-1eea50a1ec2a",
       "display": "Udfører ikke selv",
       "definition": "Udfører ikke selv"
     }, {
-      "code": "C4",
+      "code": "f5a558db-e3cd-4b66-bf69-34cd86df05e4",
       "display": "Ikke relevant",
       "definition": "Ikke relevant"
     } ]
   }, {
-    "code": "D",
-    "display": "Betydning",
-    "definition": "Betydning",
+    "code": "0fa991ef-adf5-4202-8cfe-a31454ed6e9d",
+    "display": "Kommunale sundhedsfremme og forebyggelsestilstande",
+    "definition": "Kommunale sundhedsfremme og forebyggelsestilstande.",
     "concept": [ {
-      "code": "D1",
-      "display": "Oplever ikke begrænsninger",
-      "definition": "Oplever ikke begrænsninger"
+      "code": "3547a306-8623-4713-a8ce-db1e82839c50",
+      "display": "Mental sundhed",
+      "definition": "Mental sundhed",
+      "concept": [ {
+        "code": "525b5dd8-d62b-4efa-bf66-262ac47eca5b",
+        "display": "Emotionel funktion",
+        "definition": "Mentale funktioner forbundet med følelser og affektive komponenter i sindet. Fx følelse af nedtrykthed, stressende situationer, ængstelighed eller bekymring, i forbindelse med at have en kronisk lidelse."
+      }, {
+        "code": "0520a107-2bb0-47b8-8856-c53e27607e51",
+        "display": "Kognitiv funktion",
+        "definition": "Beskrivelse af ændringer og fund relateret til evnen til at forstå, ræsonnere, reflektere.\n\nEksempler: At være i stand til at problemløse og indlære, samt til beslutningstagning."
+      }, {
+        "code": "43ad3091-f684-4d6f-8885-20ecd1cf2255",
+        "display": "Kropspfattelse",
+        "definition": "Beskrivelse af ændringer og fund relateret til kropsopfattelse.\n\nEksempler: At finde sig til rette med en ændret eller forstyrret kropsopfattelse, som kan skyldes ændringer i oplevelsen af egen seksualitet eller intimitet, i forbindelse med at have en kronisk lidelse."
+      }, {
+        "code": "ba083ca7-fe46-41d0-acd5-85851ac8137f",
+        "display": "Trivsel",
+        "definition": "Beskrivelse af ændringer og fund relateret til  håndtering af egen livssituation og følelser forbundet hermed.\n\nEksempler: Følelse af nedtrykthed, oplevelse af stress, ængstelighed eller bekymring i forbindelse med at have en kronisk lidelse."
+      }, {
+        "code": "cb55874a-93d9-45c7-a25a-8ff677c24385",
+        "display": "Søvn og hvile",
+        "definition": "Beskrivelse af ændringer og fund relateret til søvn og hvilemønster.\n\nEksempler: Indvirkningen på de nære omgivelser, på familiens livsstil, det daglige aktivitetsmønster og borgerens fysiske form."
+      } ]
     }, {
-      "code": "D2",
-      "display": "Oplever begrænsninger",
-      "definition": "Oplever begrænsninger"
+      "code": "7b3b3587-4ddd-4b93-a81b-455bfc601492",
+      "display": "Hverdagsliv",
+      "definition": "Hverdagsliv",
+      "concept": [ {
+        "code": "08042057-72f4-4798-a727-75ce6205dc86",
+        "display": "Sociale relationer",
+        "definition": "Beskrivelse af evne, lyst og vilje til at indgå i sociale relationer og netværk - omfatter familie, det umiddelbare netværk og større fællesskaber.\n\nEksempler: Deltage i familieliv, selskabelighed, sport, leg eller fornøjelse sammen med andre."
+      }, {
+        "code": "fab34c19-4805-45af-b961-56099c849744",
+        "display": "Daglige aktiviteter",
+        "definition": "Beskrivelse af ændringer og fund relateret til basale aktiviteter i hverdagen. At kunne planlægge, strukturere, administrere og udføre aktiviteter i løbet dagen.\n\nEksempler: Planlægge indkøb, strukturere og administrere tid og energi i forhold til forskellige aktiviteter - skole/arbejde/hobby eller motionsaktiviteter."
+      } ]
+    }, {
+      "code": "b349c7ec-86c5-4c52-aaf2-9034d98b0e3b",
+      "display": "Sundhedsadfærd",
+      "definition": "Sundhedsadfærd",
+      "concept": [ {
+        "code": "1a34ed6c-083b-451f-b8c8-137f99126b0c",
+        "display": "Tobak og nikotin",
+        "definition": "Beskrivelse af ændringer og fund relateret til brug af tobak og andre nikotinprodukter.\n\nEksempler: Cigaretter, pibe, vandpibe, e-cigaretter, snus, andre nikotinprodukter. Borgere, der oplever tilbagefald i forbindelse med ophør."
+      }, {
+        "code": "57b8979f-cf46-4312-aafa-3a0dd93aa921",
+        "display": "Alkohol",
+        "definition": "Beskrivelse af ændringer og fund relateret til alkohol.\n\nEksempler: Uhensigtsmæssig drikkefrekvens, drikkevaner og/eller manglende evne til at kontrollere drikkemønster. Afvise eller vedkende sig brugen af alkohol."
+      }, {
+        "code": "bb7e9e71-73f6-4ec6-a0bf-eaec1e5982b4",
+        "display": "Sundhedskompetence",
+        "definition": "Beskrivelse af ændringer og fund relateret til at finde, forstå, vurdere og bruge informationer til at tage beslutninger om sundhed og handle herefter.\n\nEksempler: Samarbejde og kontakt med sundhedsvæsenet, indsigt i eget helbred og behandling."
+      }, {
+        "code": "f0b62265-6c83-4239-af97-4d6e9ba9dea7",
+        "display": "Medicin og stoffer",
+        "definition": "Beskrivelse af ændringer eller fund relateret til uhensigtsmæssig indtagelse af medicin og stoffer.\n\nEksempler: Uhensigtsmæssigt forbrug eller misbrug af håndkøbsmedicin, ordinerede lægemidler og narkorelaterede stoffer."
+      }, {
+        "code": "f1f1eee3-a3ea-4ca1-bfa9-ebb381af1a1f",
+        "display": "Fysisk aktivitet",
+        "definition": "Beskrivelse af ændringer og fund relateret til borgerens fysiske aktivitetsniveau.\n\nEksempler: Hyppighed, intensitet i motionsmønster, uhensigtsmæssigt  motionsmønster eller inaktivitet."
+      }, {
+        "code": "f715168e-125b-4d00-8e93-2ca4147ed13f",
+        "display": "Spisemønster",
+        "definition": "Beskrivelse af ændringer og fund vedr. uhensigtsmæssigheder relateret til borgerens spisemønster.\n\nEksempler: Hyppighed af måltider, varieret kost og mængder af mad der indtages."
+      } ]
+    }, {
+      "code": "d03da587-94dc-46e6-ba71-eb1e43ec7df6",
+      "display": "Kroppen",
+      "definition": "Kroppen",
+      "concept": [ {
+        "code": "43f0b6da-11da-4eed-b00b-19b2177690b5",
+        "display": "Håndtere genstande",
+        "definition": "Beskrivelse af ændringer og fund relateret til evnen til fysisk at løfte, bære, flytte og håndtere genstande.\n\nEksempler: At være i stand til at løfte, bære, håndtere eller styre maskiner eller redskaber i hverdagen."
+      }, {
+        "code": "880cdd75-c63a-44a0-a4e4-8209644c8628",
+        "display": "Kontinens",
+        "definition": "Beskrivelse af ændringer og fund relateret til urin- og afføringsmønstre.\n\nEksempler: Stress- eller urgeinkontinens og obstipation eller diarré."
+      }, {
+        "code": "abc0b770-d080-4cc8-851a-aa62556730e6",
+        "display": "Mobilitet og bevægelse",
+        "definition": "Beskrivelse af ændringer og fund relateret til mobilitet og det at bevæge sig.\n\nEksempler: Bevæge sig omkring i hjemmet eller i nærmiljøet. Indendørs, udendørs med eller uden hjælpemidler. Gælder såvel forflytninger, som at bevæge sig fra A til B."
+      }, {
+        "code": "c0ee1cf6-47a9-4523-8fda-a80a13e28e30",
+        "display": "Ernæring",
+        "definition": "Beskrivelse af ændringer og fund relateret til indtag af mad og drikke. Fokus på det som borgeren indtager - ud fra et ernæringsperspektiv.\n\nEksempler: Energisammensætning og indhold af næringsstoffer i mad og drikke, som borgeren indtager i hverdagen."
+      }, {
+        "code": "e33396bb-019a-4fda-b901-1dbfdea1fc10",
+        "display": "Respiration",
+        "definition": "Beskrivelse af ændringer og fund, der opstår som følge af uhensigtsmæssige vejrtrækningsforandringer.\n\nEksempler: Uregelmæssig respirationsfrekvens, hoste, slimdannelse eller åndenød."
+      }, {
+        "code": "e3ff3fea-a4ff-4c7b-ad04-f4aad2e67fd3",
+        "display": "Cirkulation",
+        "definition": "Beskrivelse af ændringer og fund, der opstår som følge af uhensigtsmæssige kredsløbsforandringer.\n\nEksempler: Hævelser, ødemer, sårdannelse eller påvirket gangfunktion."
+      }, {
+        "code": "e7531532-7b7f-4ac0-863a-0b6a4cbe6ce2",
+        "display": "Smerte",
+        "definition": "Beskrivelse af ændringer og fund relateret til smerte, samt eventuelle årsager til eller sammenhænge med \nsmerteoplevelsen.\n\nEksempler: Påvirket smertemønster, smertefornemmelse og smerteintensitet."
+      }, {
+        "code": "febbd20d-f5ff-41e7-bf12-dfa0700678e0",
+        "display": "Vægt",
+        "definition": "Beskrivelse af ændringer og fund relateret til vægt.\n\nEksempler: Undervægt, overvægt og/eller uhensigtsmæssig eller uplanlagt vægtændring."
+      } ]
     } ]
   }, {
-    "code": "E",
-    "display": "Resultat af opfølgning",
-    "definition": "Resultat af opfølgning",
+    "code": "102ea764-d2cf-4a24-979d-68c2e8d638cf",
+    "display": "Kommunale sundhedsfremme og forebyggelsesindsatser",
+    "definition": "Forebyggelsestilbud i forbindelse med kronisk sygdom.",
     "concept": [ {
-      "code": "E1",
-      "display": "Fortsættes",
-      "definition": "Fortsættes"
+      "code": "c203c6b5-3be0-40a8-8204-e93751deabf5",
+      "display": "Tobaksafvænning",
+      "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse."
     }, {
-      "code": "E2",
-      "display": "Ændres inden for rammen",
-      "definition": "Ændres inden for rammen"
+      "code": "01a500f6-c221-4fd0-b518-cd361218b60d",
+      "display": "Madlavning i praksis",
+      "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis.\nFormålet med madlavning i praksis er at styrke borgerens mulighed for at efterleve kostråd og ernæringsanbefalinger i hverdagen i forhold til generelle og/eller sygdomsspecifikke anbefalinger.\n\nEksempler: Gennemgang af opskrifter, indkøb af madvarer, brug af attrapper, indkøbsguide eller tallerkenmodeller, inspiration til tilberedning og sammensætning af måltider, fællesspisning, valg af råvarer."
     }, {
-      "code": "E3",
-      "display": "Afsluttes",
-      "definition": "Afsluttes"
+      "code": "03a3ebdb-9e2d-4be1-b32b-42f0bd2a3362",
+      "display": "Afsluttende samtale",
+      "definition": "Samtale der afslutter en eller flere indsatser.\nFormålet med den afsluttende samtale er at afslutte borgerens forløb, at fremme og fastholde motivation for forandring og afdække behov for opfølgning efter endt forløb.\n\nEksempler: Evaluering af indsatser og borgers mål, plan og mål for borgerens fastholdelse efter afslutning, klarhed over borgerens videre forløb, kontakt til praktiserende læge eller evt. andre dele af sundhedsvæsenet."
     }, {
-      "code": "E4",
-      "display": "Revisitation",
-      "definition": "Revisitation"
+      "code": "61692d91-69b8-4830-9453-3d58454e49d3",
+      "display": "Færdighedstræning",
+      "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet.\nFormålet med færdighedstræning er, at borgeren tilegner sig viden om, indlærer og træner almindelige daglige færdigheder, som er sundhedsfremmende, og som underbygger et aktivt og selvhjulpent hverdagsliv.\n\nEksempler: Vejledning, introduktion og igangsætning af hverdagsaktiviteter ifm. transport, hverdagsaktiviteter i hjemmet eller på arbejdspladsen, færdighedstræning ved anvendelse af hjælpemidler. Vejledning i at planlægge, strukturere, administrere og udføre aktiviteter i løbet dagen. Vejledning i hensigtsmæssig og energibesparende udførelse af aktiviteter."
+    }, {
+      "code": "6d24992e-e0a2-43e7-bc27-0234622a8655",
+      "display": "Nikotin- og tobaksafvænning",
+      "definition": "Rådgivning om og støtte til forandring af vaner i relation til nikotin- og tobaksafvænning.\nFormålet med nikotin- og tobaksafvænning er at rådgive og støtte borgeren i at opnå reduktion eller ophør i anvendelsen af nikotin og/eller tobaksprodukter.\n\nEksempler: Afdækning af forbrugs-profil, håndtering af risikosituationer, rådgivning om muligheder for trangreducerendemedicin, viden om tilgængelige redskaber og vaneændringer, vægt i forbindelse med nikotin- og rygestop, helbredsrisici forbundet med nikotin og røgforbrug, helbredsfordele ved ophør."
+    }, {
+      "code": "6eddbaf7-2a73-49d4-91e7-6138d419f58c",
+      "display": "Afklarende samtale",
+      "definition": "Samtale der sikrer afdækning af borgerens tilstande samt behov og motivation for forandring ud fra borgerens situation og ressourcer.\nFormålet med den afklarende samtale er at foretage en individuel behovsvurdering samt at afdække borgerens motivation for og ressourcer til at gennemføre et forløb og ændringer i hverdagslivet. Afdækningen skal bidrage til en fælles forståelse af forventninger til indsatser, herunder de overordnede målsætninger med deltagelse, og støtte borgeren i behovsorienteret prioritering af indsatser og aktiviteter i privat- og/eller foreningsregi.\n\nEksempler: Afklaring af hvad der er vigtigt for borgeren, afklaring af handlekompetencer og ressourcer, afklaring af motivation, afklaring af \nsygdomssituation og risikofaktorer, udarbejdelse af individuel plan for videre forløb, afklaring af behov for koordinering med andre sektorer, afklaring af behov for inddragelse af pårørende."
+    }, {
+      "code": "924e9828-84cf-4689-9551-0ebb6dc71b98",
+      "display": "Samtale om alkohol",
+      "definition": "Rådgivning om og støtte til hensigtsmæssig alkoholadfærd.\nFormålet med en samtale om alkohol er at rådgive og støtte borgeren i at formulere og opnå mål om reduktion eller ophør af alkoholforbrug.\n\nEksempler: Henvisning til alkoholbehandling efter Sundhedslovens §141. Rådgivning om helbredsrisici forbundet til alkoholforbrug, kroppens påvirkning ved indtagelse af alkohol, alkoholens påvirkning af hverdagslivet, herunder familie, netværk, arbejde, fordele ved at nedsætte sit alkoholforbrug. Formidling af viden om vaneændringer og tilgængelige redskaber inden for emnet."
+    }, {
+      "code": "ab87c0b5-40be-4e0a-b749-d9f833bfed2d",
+      "display": "Fysisk træning",
+      "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition.\nFormålet med fysisk træning er, at borgeren tilegner sig erfaringer med fysiske aktiviteter som bidrager til at øge muskelstyrken og forbedre konditionen.\n\nEksempler: Supervision af brug af maskiner, elastikker, vægte. Supervision af træning med egen kropsvægt. Supervision af gang, løb, cykling, roning, svømning, crosstræning/cirkeltræning, boldspil."
+    }, {
+      "code": "abe847e0-1ce0-44dc-a675-ce05b66f47e6",
+      "display": "Vejledning og introduktion til fysiske aktiviteter",
+      "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter.\nFormålet med vejledning og introduktion til fysiske aktiviteter er, at borgeren tilegner sig viden om fysisk aktivitet som et middel til at forebygge følger og forværring af sygdom, og kan omsætte denne viden til eget hverdagsliv under hensyntagen til sine begrænsninger ved fysisk aktivitet.\n\nEksempler: Introduktion og afprøvning af forskellige aktivitetsformer, træningsprincipper og træningsøvelser, digitalt understøttet træning, viden om effekter af fysisk aktivitet, dialog om tidligere motionsvaner og erfaringer med fysisk aktivitet, udarbejdelse af træningsplan, kroppens reaktioner i forbindelse med fysisk aktivitet, støtte og opbakning i at motion bliver en del af hverdagen, introduktion til idrætsforeninger, klubber o. lign."
+    }, {
+      "code": "c9a99304-1788-43b7-b7be-e187b092ae9c",
+      "display": "Kostvejledning",
+      "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger.\nFormålet med kostvejledning er, at borgeren tilegner sig viden om de officielle kostråd og gældende ernæringsanbefalinger i forhold til generel sundhed og forebyggelse af sygdom.\n\nEksempler: Vejledning om sunde mad- og måltidsvaner, undervisning i kostråd, valg af fødevarer og sammensætning af måltider, udredning, monitorering og evaluering i et forebyggende og/eller sundhedsfremmende perspektiv."
+    }, {
+      "code": "cf7a55c2-7061-47ed-b7c5-e29620fe93bf",
+      "display": "Diætbehandling",
+      "definition": "En intervention i forhold til et ernæringsproblem, der er opstået som følge af sygdom eller behandling.\nFormålet med diætbehandling er, at borgeren tilegner sig viden om og opbygger erfaringer med at håndtere, behandle og forebygge ernæringsproblematikker i henhold til sin sygdom samt forebyggelse af senfølger, med henblik på at sikre optimal ernæringstilstand.\n\nEksempler: Ernæringsudredning af borgere med et sygdomsspecifikt ernæringsproblem, ernæringsintervention der monitoreres og evalueres, vejledning og anbefaling af diæt- og ernæringsplan, vejledning og undervisning i gældende faglige retningslinier, ernæringsanbefalinger og diætprincipper."
+    }, {
+      "code": "d1e016b5-150a-4ac4-97ba-d3e19e28471e",
+      "display": "Opfølgning",
+      "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser.\nFormålet med opfølgning efter afsluttede indsatser er at bidrage til borgerens fastholdelse af ændringer i hverdagslivet.\n\nEksempler: 3, 6 eller 12 måneders opfølgning, status på hvordan det går, justering af borgerens individuelle plan og/eller mål i samarbejde med borgeren, vurdering af behov for nyt forløb, kontakt til praktiserende læge eller evt. andre dele af sundhedsvæsenet."
+    }, {
+      "code": "e71b7d85-5c78-49c2-8624-8499d162317b",
+      "display": "Sygdomshåndtering",
+      "definition": "Støtte til at forstå og håndtere livet med kronisk sygdom.\nFormålet med sygdomshåndtering er at styrke borgerens egenomsorg og håndtering af livet med kronisk sygdom, herunder sygdommens nærmere karakter, sygdommens betydning for samspillet med omgivelserne samt rådgivning om muligheder for forebyggelse og behandling.\n\nEksempler: Gennemgang af sygdomme(n), behandling og risikofaktorer, herunder sygdommens udvikling og symptomer på forværring af sygdom. Psykosociale forhold relateret til livet med kronisk sygdom, herunder stress, søvnmangel og bekymring. Medicin: virkning, bivirkning, anvendelse og tilskud. Sygdomsaccept og visioner for fremtiden, mestringsstrategier, krisehåndtering, navigation i sundhedsvæsenet (fysisk og digitalt), øvrige sundhedsindsatsers (KRAM) betydning."
+    }, {
+      "code": "ee5606ac-1bed-487e-aa3c-72dcc30ec037",
+      "display": "Behovssamtale",
+      "definition": "Samtale der bidrager til at afstemme borgerens motivation, ønsker og behov under igangværende forløb.\nFormålet med en behovssamtale er at have en dialog med borgeren om motivation, ønsker og behov, som kan have ændret sig undervejs i forløbet.\n\nEksempler: Justering af borgerens individuelle plan og/eller mål, justering af indsatser , igangsætning af yderligere tiltag."
+    }, {
+      "code": "f30cab6d-2a42-4358-99d7-811127fb6e05",
+      "display": "Mental håndtering",
+      "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende.\nFormålet med mental håndtering er, at borgeren tilegner sig viden og lærer at anvende redskaber til at fremme sit mentale velbefindende.\n\nEksempler: Mindfulness, afspænding, meditationsteknikker, øvelser med fokus på mentalt velbefindende, stressforløb, tilbud i forhold til angst og depression, kognitiv adfærdsterapi."
     } ]
   }, {
-    "code": "F",
-    "display": "Generelle oplysninger",
-    "definition": "Generelle oplysninger",
+    "code": "2c02a704-deee-4878-9378-1167613b3da6",
+    "display": "Funktionsevne skalering",
+    "definition": "Funktionsevne skalering",
     "concept": [ {
-      "code": "F1",
-      "display": "Mestring",
-      "definition": "Mestring"
+      "code": "1ceef776-0cfa-4acd-b222-c5bb2424e0c1",
+      "display": "3",
+      "definition": "Svære begrænsninger.\n\nBorgeren deltager og kan under forudsætning af omfattende person assistance udføre aktiviteten. Borgeren deltager under forudsætning af omfattende hjælp."
     }, {
-      "code": "F2",
-      "display": "Motivation",
-      "definition": "Motivation"
+      "code": "9c5cfb57-a498-40e5-98a7-792bf5fb205b",
+      "display": "0",
+      "definition": "Ingen/ubetydelige begrænsninger.\n\nBorgeren er selvstændig og har ikke behov for støtte eller person assistance til at udføre aktiviteten med eller uden hjælpemiddel."
     }, {
-      "code": "F3",
-      "display": "Ressourcer",
-      "definition": "Ressourcer"
+      "code": "d7ff926a-4955-478f-b300-0b0ec0785013",
+      "display": "9",
+      "definition": "Ikke relevant.\n\nIkke relevant anvendes for at vise, at der aktivt er taget stilling til området, og at den manglende vurdering ikke skyldes en forglemmelse."
     }, {
-      "code": "F4",
-      "display": "Roller",
-      "definition": "Roller"
+      "code": "d984ad21-48fe-4619-845e-2aa0303048e7",
+      "display": "2",
+      "definition": "Moderate begrænsninger.\n\nBorgeren er den aktive part og kan under forudsætning af moderat person assistance udføre aktiviteten. Borgeren er aktiv men har behov for moderat hjælp."
     }, {
-      "code": "F5",
-      "display": "Vaner",
-      "definition": "Vaner"
+      "code": "f4c9f159-5806-4c06-95e9-e69b83bab1a1",
+      "display": "4",
+      "definition": "Totale begrænsninger.\n\nBorgeren er ude af stand til at udføre aktiviteten og har brug for fuldstændig personassistance for at udføre aktiviteten. Borgeren kan ikke selv og får hjælp til alt."
     }, {
-      "code": "F6",
-      "display": "Uddannelse og job",
-      "definition": "Uddannelse og job"
+      "code": "fcc16cb1-41f0-4832-b834-110fba0aaabe",
+      "display": "1",
+      "definition": "Lette begrænsninger.\n\nBorgeren er den aktive part og kan med let person assistance udføre aktiviten. Borgeren er aktiv og har kun behov for lidt hjælp til at udføre aktiviteten."
+    } ]
+  }, {
+    "code": "4db72d65-7ec1-45b4-89c3-5017c35d085e",
+    "display": "Kommunale sygeplejetilstande",
+    "definition": "Kommunale sygeplejetilstande",
+    "concept": [ {
+      "code": "01150cdb-6098-48ce-bb61-60967f6bcc37",
+      "display": "Respiration og cirkulation",
+      "definition": "Respiration og cirkulation",
+      "concept": [ {
+        "code": "3dac3b51-364e-47c0-a043-15b6d7a6c405",
+        "display": "Cirkulationsproblemer",
+        "definition": "Vælges ved cirkulationsproblemer og uhensigtsmæssige kredsløbsforstyrelser.\n\nEksempler: Bleg og kold hud, ødemer, hypertension, hypotension, hjertearytmier, bradycardi eller takycardi."
+      }, {
+        "code": "dae40f60-8dab-4bd3-ab72-b07d0f278692",
+        "display": "Respirationsproblemer",
+        "definition": "Vælges ved respirationsproblemer og uhensigtsmæssig vejrtrækning.\n\nEksempler: Ændringer i respirationen, nedsat eller manglende hostekraft,  ekspektoratdannelse, cyanose eller nedsat saturation."
+      } ]
     }, {
-      "code": "F7",
-      "display": "Livshistorie",
-      "definition": "Livshistorie"
+      "code": "045fa500-35b0-46b7-97dd-adb60888a8ea",
+      "display": "Udskillelse af affaldsstoffer",
+      "definition": "Udskillelse af affaldsstoffer",
+      "concept": [ {
+        "code": "116ff724-09b7-45c0-bee5-8bbf1d500c63",
+        "display": "Problemer med vandladning",
+        "definition": "Brug for støtte til at håndtere vandladningsproblemer, der ikke er inkontinens."
+      }, {
+        "code": "1fdf6282-7e57-4e3d-91c4-c8b2f030c374",
+        "display": "Problemer med urininkontinens",
+        "definition": "Brug for støtte til at håndtere urininkontinens."
+      }, {
+        "code": "8edb6c4d-0410-431c-bd8d-2c3b2d93461d",
+        "display": "Problemer med mave og tarm",
+        "definition": "Brug for støtte til at håndtere fordøjelsesproblemer."
+      }, {
+        "code": "a2d41ce8-e0ee-4863-bfe0-5c19bbf1bf06",
+        "display": "Problemer med afføringsinkontinens",
+        "definition": "Brug for støtte til at håndtere afføringsproblemer/styre afføring."
+      }, {
+        "code": "ae911e37-1ed5-4c30-9622-c73640f1c606",
+        "display": "Problemer med vandladning",
+        "definition": "Vælges ved problemer med vandladning, kontinens og nyrerne.\n\nEksempler: Symptomer på anomaliteter i blærens funktion, væsentlige ændringer i urinens konsistens, lugt og udseende og utilstrækkelig evne  til udskillelse af affaldsstoffer."
+      }, {
+        "code": "bc239b8b-119e-41b4-ae53-4a51fb45e001",
+        "display": "Problemer med mave og tarm",
+        "definition": "Vælges ved problemer med mave og tarm.\n\nEksempler: Symptomer på anomaliteter i mave - og tarmfunktion og væsentlige ændringer i afføringens konsistens, lugt, udseende og hyppighed."
+      } ]
     }, {
-      "code": "F8",
-      "display": "Netværk",
-      "definition": "Netværk"
+      "code": "1bb534f3-e526-41a9-b9c3-6157ea19c915",
+      "display": "Hud og slimhinder",
+      "definition": "Hud og slimhinder",
+      "concept": [ {
+        "code": "0c0c9388-da32-4cfd-af9b-33c39896424b",
+        "display": "Problemer med blandingssår",
+        "definition": "Brug for støtte til behandling af blandingssår."
+      }, {
+        "code": "19503407-1ae8-4b17-b96a-98387c24278d",
+        "display": "Problemer med venøst sår",
+        "definition": "Brug for støtte til behandling af venøst sår."
+      }, {
+        "code": "273eb475-1b94-4445-921b-13c829246494",
+        "display": "Problemer med arterielt sår",
+        "definition": "Brug for støtte til behandling af arterielt sår."
+      }, {
+        "code": "555bc65d-6c7f-4848-b5bd-e6176c306986",
+        "display": "Problemer med traumesår",
+        "definition": "Brug for støtte til behandling af traumesår."
+      }, {
+        "code": "78307e65-8f66-4d8b-972e-2431cf80e1ba",
+        "display": "Problemer med cancersår",
+        "definition": "Brug for støtte til behandling af cancersår."
+      }, {
+        "code": "7fc48908-33a5-42bf-9d30-feb346e3af21",
+        "display": "Problemer med kirurgisk sår",
+        "definition": "Brug for støtte til behandling af kirurgisk sår."
+      }, {
+        "code": "1ee0cce8-b082-464a-a19c-808e7cb082eb",
+        "display": "Problemer med hud og slimhinder",
+        "definition": "Vælges ved problemer med hud og slimhinder, som ikke er sår.\n\nEksempler:  Kløe, kradsemærker, udslæt, skællende hud, eksem eller andre fund i hudens/slimhindernes farve og struktur."
+      }, {
+        "code": "24d20243-e3f1-4258-a4de-450774fea13c",
+        "display": "Problemer med andre sår",
+        "definition": "Vælges ved traumatiske sår og ved ulcus, der ikke er tryksår eller diabetiske sår.\n\nEksempler: Sår som følge af traume samt ulcus, der opstår grundet cirkulatorisk insufficiens eller cancer."
+      }, {
+        "code": "bb0ea5fa-3462-40de-9047-a16fc4815a47",
+        "display": "Problemer med tryksår",
+        "definition": "Vælges ved problemer med sår, der er opstået som følge af tryk og/eller shear.\n\nEksempler: Tryksår stadie 1-4, hospitalserhvervede tryksår, liggesår."
+      }, {
+        "code": "fea2c964-eee3-485d-9d07-83a750d843e8",
+        "display": "Problemer med diabetisk sår",
+        "definition": "Vælges ved problemer med diabetiske sår.\n\nEksempler: Neuropatiske fodsår, eller iskæmiske fodsår forårsaget af type 1 eller type 2 diabetes."
+      } ]
     }, {
-      "code": "F9",
-      "display": "Helbredsoplysninger",
-      "definition": "Helbredsoplysninger"
+      "code": "25dcedb3-7149-4ef9-a2c3-be30267441fb",
+      "display": "Ernæring",
+      "definition": "Ernæring",
+      "concept": [ {
+        "code": "15947075-ae22-45ca-94bb-ab5992a40c1e",
+        "display": "Uhensigtsmæssig vægtændring",
+        "definition": "Brug for støtte til at håndtere uplanlagt vægtændring."
+      }, {
+        "code": "354af175-2fcf-4f24-9adc-e9c349cd64c0",
+        "display": "Problemer med overvægt",
+        "definition": "Brug for støtte til at håndtere overvægt."
+      }, {
+        "code": "5f6830e9-a756-4255-8cec-021c1450de8b",
+        "display": "Problemer med fødeindtag",
+        "definition": "Brug for støtte til fødeindtag."
+      }, {
+        "code": "7946e63c-036f-49f7-a5bc-1f5a8dc173c7",
+        "display": "Problemer med undervægt",
+        "definition": "Brug for støtte til at håndtere undervægt."
+      }, {
+        "code": "82239c9a-001c-4027-896d-72caf62c2e31",
+        "display": "Problemer med væskeindtag",
+        "definition": "Brug for støtte til væskeindtag."
+      }, {
+        "code": "42b04f2b-3208-4cce-b52a-a5b293ce8846",
+        "display": "Problemer med vægt",
+        "definition": "Vælges ved problemer med vægt.\n\nEksempler: Højt/lavt BMI og uhensigstmæssig(t) vægttab eller vægtstigning."
+      }, {
+        "code": "bc65b137-9f5a-4889-82c2-c6764e5507f0",
+        "display": "Problemer med ernæring",
+        "definition": "Vælges ved problemer med at indtage en korrekt mængde væske eller optage ernæring og vitaminer/mineraler eller ved ernæringsbetingede stofskifteproblematikker.\n\nEksempler: hypo- eller hyperglykæmi, tygge -/synkebesvær, småtspisende og nedsat hudturgor."
+      } ]
     }, {
-      "code": "F10",
-      "display": "Hjælpemidler",
-      "definition": "Hjælpemidler"
+      "code": "3f00a76f-8e7b-4b13-80cc-f2ceef4e51d1",
+      "display": "Kommunikation",
+      "definition": "Kommunikation",
+      "concept": [ {
+        "code": "68dcfecb-3b30-4392-bfb2-325174220323",
+        "display": "Problemer med kommunikation",
+        "definition": "Vælges ved problemer med at kommunikere mundtligt og skriftligt samt anvende udstyr til kommunikationsformål.\n\nEksempler: Nedsat evne til at formulere behov og oplevelser, verbalt eller nonverbalt, gøre sig forståelig, kommunikere og/eller forstå andres kommunikation, anvende udstyr til kommunikationsformål fx telefon, nødkald eller anden teknologi."
+      } ]
     }, {
-      "code": "F12",
-      "display": "Boligens indretning",
-      "definition": "Boligens indretning"
+      "code": "55670b1e-7a36-46b2-8712-b7536237f22d",
+      "display": "Bevægeapparat",
+      "definition": "Bevægeapparat",
+      "concept": [ {
+        "code": "92caace8-60e3-4861-80ac-6e372a700e1d",
+        "display": "Problemer med mobilitet og bevægelse",
+        "definition": "Vælges ved problemer med mobilitet, balance og motoriske funktioner.\n\nEksempler: Bevægelseshæmning, ufrivillige bevægelser, nedsat muskelstyrke, immobilitet, kontrakturer, faldtendens og balanceproblemer."
+      } ]
+    }, {
+      "code": "5bfe4bda-2358-41da-946e-1fdaa33d5fe8",
+      "display": "Psykosociale forhold",
+      "definition": "Psykosociale forhold",
+      "concept": [ {
+        "code": "7b6a52c6-7e0d-4800-a223-ebdd2c9261e4",
+        "display": "Emotionelle problemer",
+        "definition": "Brug for støtte til at håndtere følelser."
+      }, {
+        "code": "f7619a25-1f4f-4940-83b8-913a2da0ef47",
+        "display": "Mentale problemer",
+        "definition": "Brug for støtte til at håndtere psykiske og psykiatriske symptomer."
+      }, {
+        "code": "5cc0c081-4b5a-4465-8635-7515768fbadc",
+        "display": "Problemer med socialt samvær",
+        "definition": "Vælges ved problemer med at håndtere socialt samvær eller overholde sociale normer.\n\nEksempler: Håndtere og etablere socialt samvær herunder aktiviteter i familien, foreninger og andre relationer, interagere med andre eller etablere og opretholde relationer."
+      }, {
+        "code": "b754ce15-4de8-4ac6-8224-57432fd7cd6a",
+        "display": "Problemer med trivsel",
+        "definition": "Vælges ved problemer med psykiske eller psykiatriske symptomer og evnen til at håndtere følelser.\n\nEksempler: Vedvarende tristhed, sorg, savn, apati, rastløshed, vrede, ængstelighed, aggressivitet, stress, tankeforstyrrelser, tvangshandlinger."
+      }, {
+        "code": "f7710e83-a2d3-4c17-bcf6-bd084aec2efb",
+        "display": "Problemer med misbrug",
+        "definition": "Vælges ved problemer med vedvarende og skadeligt brug af medicin, alkohol eller stoffer.\n\nEksempler: Abstinenssymptomer og psykiske eller sociale følger af et misbrug."
+      } ]
+    }, {
+      "code": "8c539fd9-7f31-4b4e-8b30-8298c8ab640f",
+      "display": "Søvn og hvile",
+      "definition": "Søvn og hvile",
+      "concept": [ {
+        "code": "6c6a10b9-d4c3-44f6-8803-80466d158356",
+        "display": "Søvnproblemer",
+        "definition": "Brug for støtte til at kompensere for dårlig søvnkvalitet."
+      }, {
+        "code": "c11de086-e05b-4cec-b550-a2f0244bf823",
+        "display": "Døgnrytmeproblemer",
+        "definition": "Brug for støtte til at håndtere for manglende evne til at adskille dag og nat."
+      }, {
+        "code": "f5a9fb78-bd27-4d98-821a-757cd65fab53",
+        "display": "Problemer med søvn og hvile",
+        "definition": "Vælges ved hvile - og søvnproblemer.\n\nEksempler: Påvirket søvnkvalitet, indslumringsproblemer, utilstrækkelig eller uhensigstsmæssigt søvn - og hvilemønster."
+      } ]
+    }, {
+      "code": "9162d29a-1c7f-4585-8145-8fb4f1a999e3",
+      "display": "Viden og udvikling",
+      "definition": "Viden og udvikling",
+      "concept": [ {
+        "code": "4a37483a-9d95-496b-a593-aa720a6228ac",
+        "display": "Problemer med indsigt i behandlingsformål",
+        "definition": "Brug for støtte til at forstå hensigt med behandling (compliance)."
+      }, {
+        "code": "d0496876-5673-4597-bd4a-6323d1dfea46",
+        "display": "Problemer med sygdomsindsigt",
+        "definition": "Brug for støtte til at indse manglende evne til egenomsorg."
+      }, {
+        "code": "6d72e1df-2873-48b2-a59d-6ee355b0e929",
+        "display": "Problemer med sundhedskompetence",
+        "definition": "Vælges ved problemer med at finde, forstå, vurdere og bruge informationer til at tage beslutninger om sundhed og handle herefter.\n\nEksempler: Manglende samarbejde og kontakt med sundhedsvæsenet og utilstrækkelig indsigt i egne helbredsproblemer, sygdomme og behandling."
+      }, {
+        "code": "e1dcf02e-6df5-487d-b596-3d499545468f",
+        "display": "Problemer med hukommelse",
+        "definition": "Vælges ved problemer med at kunne registrere, lagre og genkalde sig informationer.\n\nEksempler: Glemsomhed, forvirring vedrørende tid og sted, vanskelighed med at finde ting."
+      }, {
+        "code": "e671cc6c-a24b-4a50-82bf-8f3f6ab09c9a",
+        "display": "Kognitive problemer",
+        "definition": "Vælges ved problemer med målrettet tænkning samt forstå, ræssonere og reflektere.\n\nEksempler: Manglende evne til beslutningstagning, fastlægge rækkefølge af handlinger, lære nye færdigheder, skabe struktur, følelsesregulering."
+      } ]
+    }, {
+      "code": "94e9c867-fbc8-4d35-8596-e6b8765b12e8",
+      "display": "Smerter og sanseindtryk",
+      "definition": "Smerter og sanseindtryk",
+      "concept": [ {
+        "code": "14d0e94f-35a0-4604-885d-6458d4d8023a",
+        "display": "Problemer med lugtesans",
+        "definition": "Brug for støtte til at kompensere for ændret lugtesans."
+      }, {
+        "code": "4d857481-a4f4-4ee6-84e9-366b8875839f",
+        "display": "Periodevise smerter",
+        "definition": "Brug for støtte til at håndtere periodevise smerter."
+      }, {
+        "code": "6da78b57-2b00-43f2-b7f0-7045dd9aa1a5",
+        "display": "Akutte smerter",
+        "definition": "Brug for støtte til at håndtere akutte smerter."
+      }, {
+        "code": "742d39b5-63b5-411b-8792-e0d35c914c8d",
+        "display": "Problemer med smagssans",
+        "definition": "Brug for støtte til at kompensere for ændret smagssans."
+      }, {
+        "code": "8a592ca5-f544-41d9-aeeb-fe50c2893b45",
+        "display": "Problemer med følesans",
+        "definition": "Brug for støtte til at kompensere for ændret følesans."
+      }, {
+        "code": "a078cdbd-a1e0-4d02-a472-f010b971c156",
+        "display": "Problemer med hørelse",
+        "definition": "Brug for støtte til at kompensere for ændret høresans."
+      }, {
+        "code": "e4a049fc-e20c-4117-b834-b475eee781da",
+        "display": "Kroniske smerter",
+        "definition": "Brug for støtte til at håndtere kroniske smerter."
+      }, {
+        "code": "ee01e70d-0d2b-47a9-8f15-cb59ce4bf348",
+        "display": "Problemer med synssans",
+        "definition": "Brug for støtte til at kompensere for ændret synssans."
+      }, {
+        "code": "5b6f5ce1-24b0-486d-8bbb-f9711fec92dd",
+        "display": "Problemer med smerter",
+        "definition": "Vælges ved problemer med smerter.\n\nEksempler: Nervesmerter, fantomsmerter,  kroniske, akutte og periodevise smerter."
+      }, {
+        "code": "d80c56ae-e9f6-44e9-bd2d-103e10a7fef2",
+        "display": "Problemer med sanser",
+        "definition": "Vælges ved problemer med synssans, lugtesans, smagssans, hørelse  og følesans.\n\nEksempler: Symptomer på behandlingskrævende øjensygdomme, manglende eller ændret lugte - og smagssans, ændret eller manglende hørelse og ændringer i følesans."
+      } ]
+    }, {
+      "code": "cc377732-7f14-49b7-8940-1aa07b8884e7",
+      "display": "Seksualitet, køn og kropsopfattelse",
+      "definition": "Seksualitet, køn og kropsopfattelse",
+      "concept": [ {
+        "code": "d5966884-4e41-40c1-b711-6c6cde778360",
+        "display": "Problemer med seksualitet",
+        "definition": "Brug for støtte til seksuel aktivitet."
+      }, {
+        "code": "7dc00935-32e7-46f2-b12a-8d6adfc5ad77",
+        "display": "Problemer med seksualitet, køn og kropsopfattelse",
+        "definition": "Vælges ved problemer ift. seksualitet, køn og kropsopfattelse.\n\nEksempler: Nedsat, manglende eller øget seksuel lyst, erektionssvigt, impotens, samlejesmerter og ændringer i kropsopfattelse som følge af fx masektomi eller ar."
+      } ]
+    }, {
+      "code": "fa6aa904-d06e-4029-b4c4-13ead04ace27",
+      "display": "Funktionsniveau",
+      "definition": "Funktionsniveau",
+      "concept": [ {
+        "code": "b4e4bb41-7734-4c84-967f-fa1916662972",
+        "display": "Problemer med personlig pleje",
+        "definition": "Brug for støtte til kropspleje, af- og påklædning og/eller toiletbesøg."
+      }, {
+        "code": "651a82a3-ff4b-44c1-89dd-574363b33e02",
+        "display": "Problemer med daglige aktiviteter",
+        "definition": "Vælges ved problemer med koordinering og planlægning af daglige aktiviteter.\n\nEksempler: Ved behov for hjælp til koordinering og planlægning  af daglige aktiviteter eller ved behov for anden støtte til planlægning og koordinering af dagligdagen."
+      } ]
     } ]
   }, {
     "code": "59c107b1-afc2-400e-a129-f9676a0aa9bf",
@@ -394,316 +654,86 @@
     "concept": [ {
       "code": "e182c5dc-9f91-474a-92e8-f62be3d498f4",
       "display": "Tilstand forsvinder, mindskes eller forbliver uændret",
-      "definition": "Tilstand forsvinder, mindskes eller forbliver uændret",
+      "definition": "Helbredstilstand eller funktionsevnetilstand forventes at forsvinde, mindskes eller forblive uændret ifm. indsatsen.",
       "concept": [ {
+        "code": "15846728-58b4-4413-a9d1-be0f1404b10f",
+        "display": "Tilstand forbliver uændret",
+        "definition": "Helbredstilstand eller funktionsevnetilstand forventes at forblive uændret ifm. indsatsen."
+      }, {
         "code": "81c827de-ef31-4410-aa57-0d1d1bc6c264",
         "display": "Tilstand forsvinder",
-        "definition": "Tilstand forsvinder"
+        "definition": "Helbredstilstand eller funktionsevnetilstand forventes at forsvinde ifm. indsatsen."
       }, {
         "code": "8addc23a-f7c6-47c4-97fb-a73fcdfc9f65",
         "display": "Tilstand mindskes",
-        "definition": "Tilstand mindskes"
-      }, {
-        "code": "15846728-58b4-4413-a9d1-be0f1404b10f",
-        "display": "Tilstand forbliver uændret",
-        "definition": "Tilstand forbliver uændret"
+        "definition": "Helbredstilstand eller funktionsevnetilstand forventes at mindskes ifm. indsatsen"
       } ]
     } ]
   }, {
-    "code": "G",
-    "display": "Sundhedslov Indsatskatalog",
-    "definition": "Sundhedslov Indsatskatalog\n\nMapset: 348000016148 (Sundhedslove Indsatskatalog mappet til SCT)",
+    "code": "7deb81de-12c0-4a49-bd5b-72ea6fe89d83",
+    "display": "Kommunal genoptræning efter sygehusophold-indsatser",
+    "definition": "Genoptræningsindsatser efter sygehusindlæggelse, på baggrund af et lægefagligt vurderet behov.",
     "concept": [ {
-      "code": "G1",
-      "display": "Hjemmesygepleje",
-      "definition": "Kommunal sygepleje til borger i hjemmet eller på andet opholdssted.",
-      "concept": [ {
-        "code": "G1.5",
-        "display": "Anlæggelse og pleje af kateter",
-        "definition": "Indsatsen omfatter midlertidig eller permanent anlæggelse af kateter, skylning af kateter, tømning og skift af kateterpose, kontrol af kateterballon samt skift af forbinding og pleje af hud ved indstikssted."
-      }, {
-        "code": "G1.6",
-        "display": "Behandling med ortopædiske hjælpemidler",
-        "definition": "Indsatsen omfatter typisk fx anlæggelse af og støtte til brug af ordinerede arm-, ben- og knæskinner, armslynger og korsetter."
-      }, {
-        "code": "G1.7",
-        "display": "Behandling og pleje af hudproblem",
-        "definition": "Indsatsen omfatter typisk behandling og pleje af hud samt forebyggelse af tryksår og andre sårtyper."
-      }, {
-        "code": "G1.8",
-        "display": "Behandling og pleje af mave-tarmproblem",
-        "definition": "Indsatsen omfatter typisk vejledning om kost, væskeindtag, fysisk aktivitet og gode toiletvaner samt vurdering af medicinsk behandling."
-      }, {
-        "code": "G1.9",
-        "display": "Cirkulationsbehandling",
-        "definition": "Indsatsen omfatter typisk måling af vægt, venepumpeøvelser og evt. anlæggelse af stumpforbinding efter amputation."
-      }, {
-        "code": "G1.10",
-        "display": "Dialyse",
-        "definition": "Indsatsen omfatter enten håndtering af posedialyse fx klargøring af dialysemaskine, klargøring af posevæsker, til- og frakobling af poser og behandling og pleje af indstikssted og dialysekateter eller observation efter hæmodialyse."
-      }, {
-        "code": "G1.11",
-        "display": "Drænpleje",
-        "definition": "Indsatsen omfatter sikring af afløb, tømning og skylning af dræn, skift af forbinding og pleje af hud ved indstikssted."
-      }, {
-        "code": "G1.12",
-        "display": "Ernæringsindsats",
-        "definition": "Indsatsen omfatter typisk løbende vægtkontrol, kostvejledning og støtte til indtagelse af mad og drikke."
-      }, {
-        "code": "G1.14",
-        "display": "Forflytning og mobilisering",
-        "definition": "Indsatsen omfatter forflytning og/eller mobilisering. Forflytning omfatter fx træk, skub og flytning vha. hjælpemidler. Mobilisering omfatter fx støtte til at bevæge sig rundt vha. gangstativ."
-      }, {
-        "code": "G1.15",
-        "display": "Iltbehandling",
-        "definition": "Indsatsen omfatter saturationsmåling, indstilling af iltmængde iht. ordination, skift og rengøring af iltkatetre og andet udstyr samt vejledning i korrekt håndtering af iltudstyr."
-      }, {
-        "code": "G1.16",
-        "display": "Inkontinensbehandling",
-        "definition": "Indsatsen omfatter typisk kontinensudredning, bækkenbundstræning, vejledning i blære- og tarmtømning, toiletvaner og brug af kontinenshjælpemidler."
-      }, {
-        "code": "G1.17",
-        "display": "Intravenøs medicinsk behandling",
-        "definition": "Indsatsen omfatter dispensering og administration af medicin, der skal gives intravenøst. Ved 'medicin' forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Indsatsen omfatter typisk behandling og pleje af iv-adgang og indstikssted samt indgift af medicin. Indsatsen kan også omfatte anlæggelse af iv-adgang."
-      }, {
-        "code": "G1.18",
-        "display": "Intravenøs væskebehandling",
-        "definition": "Indsatsen omfatter typisk tilkobling af infusionssæt, til- og frakobling af infusionsvæsker, indstilling af infusionshastighed samt behandling og pleje af indstikssted."
-      }, {
-        "code": "G1.19",
-        "display": "Kompressionsbehandling",
-        "definition": "Indsatsen omfatter typisk anlæggelse og aftagning af kompressionsforbinding eller kompressionsærmer, -handsker og -strømper, vejledning i venepumpeøvelser samt hudpleje."
-      }, {
-        "code": "G1.20",
-        "display": "Medicinadministration",
-        "definition": "Indsatsen omfatter udlevering og/eller tilføring af medicin. Ved 'medicin' forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Når 'medicinadministration' og 'medicindispensering' effektueres i en og samme handling, som det fx er tilfældet med øjendrypning og injektion, registreres det som 'medicinadministration'."
-      }, {
-        "code": "G1.21",
-        "display": "Medicindispensering",
-        "definition": "Indsatsen omfatter bestilling, modtagelse, kontrol, opbevaring, klargøring og bortskaffelse af medicin samt dokumentation, opfølgning på medicinsk behandling og receptfornyelser. Ved 'medicin' forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Klargøring omfatter typisk ophældning, optrækning, opløsning eller blanding af medicin. Indsatsen omfatter både medicin, der modtages maskinelt dosisdispenseret og medicin, der dispenseres (manuelt) umiddelbart før administration."
-      }, {
-        "code": "G1.22",
-        "display": "Nonfarmakologisk smertelindring",
-        "definition": "Indsatsen omfatter nonfarmakologisk behandling/lindring af smerter, fx vejledning i visualiseringsøvelser, massage og kulde-/varmebehandling."
-      }, {
-        "code": "G1.23",
-        "display": "Oplæring",
-        "definition": "Indsatsen omfatter typisk at oplære borger og/eller pårørende i at varetage hele eller dele af en indsats, fx sårbehandling, blodsukkermåling, stomi- og kateterpleje, brug af personlige og ortopædiske hjælpemidler samt medicinadministration."
-      }, {
-        "code": "G1.24",
-        "display": "Parenteral ernæring",
-        "definition": "Indsatsen omfatter klargøring af ordineret ernæringspræparat, herunder tilsætning af vitaminer, samt tilkobling af infusionssæt, tilslutning til og frakobling fra iv-adgang, indstilling af infusionshastighed, skift af forbinding og pleje af iv-adgang og indstikssted."
-      }, {
-        "code": "G1.25",
-        "display": "Pleje ved anvendelse af personlige hjælpemidler",
-        "definition": "Indsatsen omfatter typisk vejledning i og støtte til brug af personlige hjælpemidler, fx rensning af glasøje og vedligeholdelse af høreapparat."
-      }, {
-        "code": "G1.26",
-        "display": "Psykiatrisk pleje",
-        "definition": "Indsatsen omfatter typisk opbygning af relation, støtte til at få praktisk og mental struktur i dagligdagen, fx til håndtering og accept af psykiatriske symptomer, diagnoser, behandling og afledte problemer."
-      }, {
-        "code": "G1.27",
-        "display": "Psykisk støtte",
-        "definition": "Indsatsen omfatter typisk støtte til at mestre dagligdagen, bevare livskvalitet, forbedre mulighederne for livsudfoldelse og forebygge forværring."
-      }, {
-        "code": "G1.28",
-        "display": "Rehabilitering",
-        "definition": "Indsatsen omfatter en korterevarende, tidsafgrænset, helhedsorienteret og tværfaglig tilrettelæggelse og træning af aktiviteter der er genkendelige og betydningsfulde for borgeren."
-      }, {
-        "code": "G1.29",
-        "display": "Respirationsbehandling",
-        "definition": "Indsatsen omfatter typisk behandling med fx CPAP-, PEEP- eller BIPAP-maske og vejledning i vejrtrækningsteknikker og mundpleje."
-      }, {
-        "code": "G1.30",
-        "display": "Respiratorbehandling",
-        "definition": "Indsatsen omfatter typisk justering af respiratorordination, sekretsugning og mundpleje."
-      }, {
-        "code": "G1.31",
-        "display": "Samarbejde med netværk",
-        "definition": "Indsatsen består i samarbejde med pårørende om de indsatser, der ydes til borgeren, fx støtte til pårørende til en borger med demens eller psykisk sygdom."
-      }, {
-        "code": "G1.32",
-        "display": "Sekretsugning",
-        "definition": "Indsatsen omfatter sugning af mundhule og svælg, udførelse af eller støtte til mundhygiejne og instruktion i korrekt hosteteknik."
-      }, {
-        "code": "G1.34",
-        "display": "Sondeernæring",
-        "definition": "Indsatsen omfatter typisk anlæggelse af sonde, indgift af næring og væske via sonde og skift af forbinding og hudpleje ved indstikssted."
-      }, {
-        "code": "G1.35",
-        "display": "Stomipleje",
-        "definition": "Indsatsen omfatter typisk skift af pladesystem og pose/tømning af pose samt hudpleje."
-      }, {
-        "code": "G1.36",
-        "display": "Støtte til ADL-aktivitet",
-        "definition": "Indsatsen omfatter typisk støtte til at udføre eller udførelse af aktiviteter i 'almindelig daglig livsførelse' (ADL), fx påklædning, madlavning, spisning, telefonering, oprydning, rengøring og betaling af regninger."
-      }, {
-        "code": "G1.37",
-        "display": "Subkutan væskebehandling",
-        "definition": "Indsatsen omfatter typisk anlæggelse af subkutan kanyle, samt tilkobling af infusionssæt, tilslutning og afkobling af infusionsvæsker, indstilling af infusionshastighed og pleje af hud ved indstikssted."
-      }, {
-        "code": "G1.38",
-        "display": "Særlig kommunikationsform",
-        "definition": "Indsatsen omfatter samtale med borgeren og evt. også med pårørende ved hjælp af tolk og/eller instrumentelle kommunikationshjælpemidler som fx pc eller pegeplade."
-      }, {
-        "code": "G1.39",
-        "display": "Sårbehandling",
-        "definition": "Indsatsen omfatter typisk skift af forbinding, sårbehandling og hudpleje. Indsatsen kan fx også omfatte trykaflastning, VAC-behandling samt fjernelse af suturer og agraffer."
-      }, {
-        "code": "G1.40",
-        "display": "Trakeostomipleje",
-        "definition": "Indsatsen omfatter typisk skift af trakealkanyle, skift af forbinding og pleje af hud ved indstikssted."
-      }, {
-        "code": "G1.41",
-        "display": "Undersøgelser og måling af værdier",
-        "definition": "Indsatsen omfatter lægeordineret undersøgelse af urin og afføring og målinger af fx blodsukker, temperatur, blodtryk og puls."
-      }, {
-        "code": "G1.42",
-        "display": "Vejledning",
-        "definition": "Indsatsen omfatter typisk samtale om, hvordan borgeren kan håndtere og agere ift. fysiske, psykiske, sociale og åndelige potentielle og/eller aktuelle tilstande, fx hvordan borgeren søger kommunale indsatser, eller hvordan konflikter kan håndteres."
-      }, {
-        "code": "G1.44",
-        "display": "Væske per os",
-        "definition": "Indsatsen omfatter støtte til indtagelse af væske, herunder fx registrering af væskeindtag i væskeskema samt udregning af væskebalance."
-      }, {
-        "code": "G1.46",
-        "display": "Personlig pleje",
-        "definition": "Indsatsen anvendes i de tilfælde, hvor komplekse og/eller kritiske situationer omkring borger og/eller i hjemmet kræver et særligt kompetenceniveau til at løse opgaven."
-      }, {
-        "code": "G1.47",
-        "display": "Supplerende udredning",
-        "definition": "Indsatsen tildeles borgere, hvor der er behov for, at en helbredstilstand skal afdækkes og udredes mere dybtgående."
-      } ]
+      "code": "1130ad70-6553-490d-87f8-5e8941687a0c",
+      "display": "Terapeutfaglig udredning",
+      "definition": "Indsatsen anvendes ved anamnese, undersøgelse, test, faglig vurdering af undersøgelsesfund og på denne baggrund opstilling af borgerens mål og planlægning af den videre indsats.\n\nEksempler: Indledende undersøgelse, revurdering ved længerevarende forløb, afsluttende undersøgelse."
     }, {
-      "code": "G2",
-      "display": "0-ydelser",
-      "definition": "Kommunens administrative understøttende aktiviteter.",
-      "concept": [ {
-        "code": "G2.1",
-        "display": "Sygeplejefaglig udredning",
-        "definition": "Ydelsen omfatter en systematisk indsamling og analyse af data om borgerens aktuelle og potentielle helbredstilstande inden for de 12 sygeplejefaglige problemområder, tildeling af indsatser, udarbejdelse af handlingsanvisninger og stillingtagen til opgaveoverdragelse. Der skal foretages en sygeplejefaglig udredning, før en (ny) indsats kan iværksættes."
-      }, {
-        "code": "G2.2",
-        "display": "Opfølgning",
-        "definition": "Ydelsen omfatter en systematisk opfølgning på borgerens helbredstilstande, forventede helbredstilstande og fastsatte mål for indsatser. Det skal vurderes, om der skal fortsættes, ændres, afsluttes eller udredes på ny."
-      }, {
-        "code": "G2.3",
-        "display": "Koordinering",
-        "definition": "Ydelsen omfatter en systematisk koordinering af kommunale og tværsektorielle aktørers indsatser til borgeren, fx hjemmehjælp, sygepleje, træningsenhed, praktiserende læge, ambulatorium og sygehus."
-      }, {
-        "code": "G2.4",
-        "display": "Generel 0-ydelse",
-        "definition": "Ydelsen kan anvendes kommunalt eller tværkommunalt i en periode, fx ved/i forbindelse med tiltag iht. puljemidler, som ex. kan være opfølgende hjemmebesøg eller systematisk faldforebyggelse."
-      } ]
+      "code": "2abe20c7-c0b4-41c1-b397-52acf36499ef",
+      "display": "Fysisk træning",
+      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance.\n\nEksempler: Styrketræning, udholdenhedstræning, kredsløbstræning, koordinationstræning, balancetræning, passive og aktive bevægelighedsøvelser, neuromuskulær træning, stabilitetstræning, træning understøttet af el-terapi, okklusionstræning, finmotorisk træning."
+    }, {
+      "code": "2c661159-1bb3-4af2-bdf1-f3a9927a99e2",
+      "display": "Kognitiv træning",
+      "definition": "Indsatsen anvendes ved struktureret og systematisk træning af hukommelse, opmærksomhed, koncentration, rum-retning, eksekutive funktioner, sprog eller mentalt tempo.\n\nEksempler: Kalenderstyring, spil og legeøvelser, læsning, regneopgaver, sorteringsopgaver, problemløsningsøvelser, planlægningsøvelser, løse kryds og tværs."
+    }, {
+      "code": "571fa7da-a155-4a84-b780-ef19170d48a0",
+      "display": "Opfølgning",
+      "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser.\n\nEksempler: Effektmåling, opfølgning på og/eller justering af aftaler, afklaring af behov, ny terapeutfaglig udredning og indsats."
+    }, {
+      "code": "58293f63-00d7-4730-8dbc-c784d40f9e23",
+      "display": "Funktionstræning",
+      "definition": "Indsatsen anvendes ved træning i fysiske funktioner såsom rejse-sætte-sig, forflytning, gangtræning.\n\nEksempler: Rejse-sætte-sig, forflytninger eller dele heraf, gangtræning med eller uden hjælpemiddel."
+    }, {
+      "code": "66fb32c9-ecc3-484b-be49-f20094be237c",
+      "display": "Vejledning og undervisning",
+      "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet.\n\nEksempler: Vejledning i brug af hjælpemidler, undervisning i smertehåndtering, pårørendesamtale, instruktion af fx træningsøvelser eller hverdagsaktivitet til plejepersonale."
+    }, {
+      "code": "7f825e3e-1a5c-4249-bf41-9f7171fb6b8a",
+      "display": "ADL-træning",
+      "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter.\n\nEksempler: Bade, lave mad, anvende transportmidler, handle ind, deltage i fritidsaktiviteter, anvende kompenserende strategier og hjælpemidler i institution, på arbejdsplads og/eller i hjemmet."
+    }, {
+      "code": "8d714c98-f23a-4722-8a2f-85c162fe4840",
+      "display": "Psykomotorisk træning",
+      "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil.\n\nEksempler: Mindfullnes, afspænding, kropsbevidsthedstræning, øvelser til at frigøre åndedrættet, opmærksomhedsøvelser."
+    }, {
+      "code": "ba3e17bd-d4aa-4848-acad-25adc8285c19",
+      "display": "Koordinering og kommunikation",
+      "definition": "Indsatsen anvendes ved systematisk koordinering af kommunale og tværsektorielle aktørers indsatser til borgeren.\n\nEksempler: Koordinering og kommunikation med hjemmepleje, sygepleje, praktiserende læge, hospital."
+    }, {
+      "code": "f8ac963c-6ec5-4ec5-bd90-a22fea4e2d16",
+      "display": "Manuel behandling",
+      "definition": "Indsatsen anvendes ved manuelle behandlingsteknikker, der virker udspændende, mobiliserende og/eller stimulerende på fx led, muskler og senevæv.\n\nEksempler: Cicatrisebehandling, ledmobilisering, udspænding, akupunktur, behandling med tape, passiv behandling med el-terapi, ødembehandling."
     } ]
   }, {
     "code": "94db6c71-859d-43e6-9a62-4e7fa7daf767",
-    "display": "§140 tilstande",
-    "definition": "Træningstilstande\n\nMapset: 388000016141 (Træningstilstande mappet til SCT)\nMapset: 358000019141 (OmrHierarkiTraening)\nMapset: 498000016147 (TilstandsrelationerTraning)",
+    "display": "Kommunal genoptræning efter sygehusophold-tilstande",
+    "definition": "Kommunal genoptræning efter sygehusophold-tilstande.",
     "concept": [ {
-      "code": "df62498e-7ad1-4f01-93ce-a0441f879a2c",
-      "display": "Egenomsorg",
-      "definition": "Egenomsorg",
+      "code": "0337193a-b5cc-43e1-a324-fa28944bfc3b",
+      "display": "Sanser og smerter",
+      "definition": "Sanser og smerter",
       "concept": [ {
-        "code": "cffd4ef7-0282-4a68-a542-bae128172047",
-        "display": "Gå på toilet",
-        "definition": "Komme til og fra badeværelset, forflytte sig til/fra toiletsædet, udføre intimhygiejne, vaske hænder efter toiletbesøg, af- og påklædning i forbindelse med toiletbesøg, viljemæssig/kontrolleret tømning af tarm og blære"
+        "code": "1b5ad154-d22c-4949-a5db-c01ccefd64d9",
+        "display": "Balance",
+        "definition": "Balance i stående stilling, balance i siddende stilling, balance under gang og bevægelse, svimmelhed, fornemmelse af at være ved at falde"
       }, {
-        "code": "0c126894-60e1-4781-96b7-9b227677bfb6",
-        "display": "Vaske sig",
-        "definition": "Komme til og fra badeværelse/bruseniche/karbad, vaske og tørre kroppen, vaske og tørre hår"
+        "code": "2d3a12d0-c0d9-4702-a96e-1d7824c80c6c",
+        "display": "Sanser",
+        "definition": "Proprioception, temperatursans, synsfunktioner, vibrationssans, paræstesi, hyperæstesi, opfattelse af tryk, allodyni, perception/genkendelse og fortolkning af sensorisk stimuli"
       }, {
-        "code": "dc2691db-fcc5-406f-a790-3c1f2f91c6b9",
-        "display": "Kropspleje",
-        "definition": "Rede hår, børste tænder, barbere sig, lægge make-up, rense og klippe finger- og tånegle"
-      }, {
-        "code": "1e199483-7201-43ef-a685-7fee7f4398ce",
-        "display": "Af- og påklædning",
-        "definition": "Klæde sig af og på på overkrop og underkrop, tage fodtøj af og på, tage tøj frem efter behov, tage strømper af og på, tage kropsbårne hjælpemidler af og på"
-      }, {
-        "code": "a05628c5-0128-42f7-844c-0f8261041328",
-        "display": "Spise og drikke",
-        "definition": "Skære mad ud, skænke drikke op, føre mad- og drikkevarer op til munden, åbne flaske og dåser, deltage i måltider, benytte kniv, gaffel og ske, bruge sugerør"
-      }, {
-        "code": "91fbebf5-9cd2-4a95-ab7f-3e94e635253e",
-        "display": "Varetage egen sundhed",
-        "definition": "Have hensigtsmæssige kostvaner, have hensigtsmæssige og tilstrækkelige motionsvaner, have hensigtsmæssig balance mellem aktivitet og hvile, følge behandlingsvejledning, undgå risikoadfærd fx rygning"
-      } ]
-    }, {
-      "code": "b9c4561d-20bc-48c9-a727-fea719424a86",
-      "display": "Praktiske opgaver",
-      "definition": "Praktiske opgaver",
-      "concept": [ {
-        "code": "2bd07f7c-e6bb-424b-ab8f-f7c1de2afe80",
-        "display": "Lave mad",
-        "definition": "Planlægge måltid, følge en opskrift, finde materialer frem til fremstilling, klargøre råvarer til tilberedning fx skrælle og skære, tilberede kold mad, tilberede varm mad, tilberede kolde drikkevarer fx lave saftevand, tilberede varme drikkevarer fx lave kaffe/te, opvarme færdiglavet mad, servere maden, dække bord, rydde op omkring måltidet, vaske op, anvende køkkenudstyr relevant og forsvarligt"
-      }, {
-        "code": "b53bca74-fd3f-4127-89ae-1a39d7836b93",
-        "display": "Lave husligt arbejde",
-        "definition": "Støvsuge, vaske gulv, feje, støve af, pudse vinduer, rydde op, rede seng, skifte sengetøj, rengøre toilet/bad, bære affald ud, sortere vasketøj, vaske tøj, hænge tøj til tørre, stryge tøj, lægge tøj sammen og på plads, anvende vaskemaskine, anvende tørretumbler, pudse fodtøj, passe planter inden- og udendørs, passe og fodre kæledyr"
-      }, {
-        "code": "bd088375-65fc-4e1d-9a8b-78dc918e6581",
-        "display": "Indkøb",
-        "definition": "Planlægge indkøb, udfærdige indkøbsseddel, komme til og fra butikker, finde varer i butikken, betale, transportere varer hjem, stille varer på plads, foretage online-indkøb, benytte indkøbsordning, instruere andre i at foretage indkøb"
-      } ]
-    }, {
-      "code": "e3242303-2506-4a09-ac65-59dfd06cb489",
-      "display": "Mobilitet",
-      "definition": "Mobilitet",
-      "concept": [ {
-        "code": "2a641de6-1017-4647-a0fb-c3c8b7b1f43e",
-        "display": "Ændre og opretholde kropsstilling",
-        "definition": "ejse og sætte sig, ændre stilling i stol, lægge sig ned, lejre sig i sengen, vende sig i sengen, rejse sig fra seng, flytte sig mellem seng og stol, bøje sig forover, rejse sig op fra gulv, forflytning vha lift"
-      }, {
-        "code": "3f27a7bc-790d-444e-bcf4-6e22a6b1da7e",
-        "display": "Gang og bevægelse",
-        "definition": "Gå, gangvariationer (fx baglæns, sidelæns, tå- og hælgang), trappegang, løbe, hoppe, bevæge sig indendørs, bevæge sig omkring udendørs, færden med brug af fx rollator eller kørestol"
-      }, {
-        "code": "713fcbca-3776-4fb5-b423-2b82fcab7865",
-        "display": "Håndtere genstande",
-        "definition": "Samle genstande op, tage fat om genstande, give slip på genstande, dreje et håndtag, kaste og gribe genstande, bære genstande"
-      }, {
-        "code": "271c791c-7b6e-4a43-bf2f-d2a815386749",
-        "display": "Færden med transportmidler",
-        "definition": "Køre bil, køre på cykel, køre på knallert/motorcykel, køre som passager i bil, køre med bus og tog, færdes sikkert i trafikken, orientere sig i køreplan, planlægge rute"
-      } ]
-    }, {
-      "code": "ebd91b5e-114a-48a5-90b8-d3c1fd50b72b",
-      "display": "Viden og udvikling",
-      "definition": "Viden og udvikling",
-      "concept": [ {
-        "code": "3bba13c9-c429-408e-b82c-3f2bf25b8d39",
-        "display": "Læring og anvendelse af viden",
-        "definition": "Påbegynde og gennemføre erhvervelse af en færdighed eller nyt redskab, lære et nyt spil, lære og følge nye regler, identificere problemstillinger og udvikle løsninger hertil, overskue forandringer, identificere behov for og ændre egen praksis"
-      }, {
-        "code": "a2e013fb-7c91-4c5a-90c6-d119ff3e0ce8",
-        "display": "Udføre daglige rutiner",
-        "definition": "Styre eget aktivitetsniveau, sikre tid og energi til dagligdagens gøremål, energiforvaltning"
-      } ]
-    }, {
-      "code": "7e608d37-3f3c-4374-bbc8-e317505d8bc2",
-      "display": "Samfundsliv",
-      "definition": "Samfundsliv",
-      "concept": [ {
-        "code": "5f2310b3-cad1-43f6-9dc7-d982da141860",
-        "display": "Varetage beskæftigelse",
-        "definition": "Deltage i beskæftigelse på fuld tid eller deltid, udføre de nødvendige arbejdsopgaver, søge arbejde, møde på arbejde til aftalt tid, udføre frivilligt arbejde"
-      }, {
-        "code": "73642409-bcd7-41b7-a2ed-50ae37352167",
-        "display": "Varetage uddannelse",
-        "definition": "Deltage i alle aspekter af at gå i fx vuggestue, børnehave, skole og på uddannelser, tage imod undervisning, planlægge, studere og gennemføre de nødvendige opgaver"
-      }, {
-        "code": "9c2c29fb-4df7-4be4-a72f-383b488d575d",
-        "display": "Deltage i fritidsaktiviteter og fællesskaber",
-        "definition": "Deltage i lege og spil, deltage i sportsaktiviteter, museumsbesøg, spille musikinstrument, deltage i lokalsamfundet, deltage i selskabelighed"
-      }, {
-        "code": "04d9580e-669a-42d5-b20f-3c651ad5b8bf",
-        "display": "Samspil og kontakt",
-        "definition": "Vise hensyn og respekt, reagere på andres følelser, anvende passende fysisk kontakt, respektere andres grænser, undgå social isolation"
-      }, {
-        "code": "064f983b-5ec5-40a3-bc90-c3fcec6b6ef5",
-        "display": "Kommunikation",
-        "definition": "Forstå verbale meddelelser, forstå nonverbale meddelelser, forstå skriftlige meddelelser, tale, udtrykke nonverbale meddelelser, skrive beskeder (i hånden, på telefon, pc, tablet mv), anvende nødkald, anvende it til kommunikationsformål, anvende kommunikationshjælpemidler, anvende kommunikationsteknologi"
+        "code": "40cbf3ef-9ec0-4795-bb3b-ea7c788b49e2",
+        "display": "Smerter",
+        "definition": "Smertelokalitet, smertetype, smertemønster, smertekarakteriska, smerteintensitet, smerte fra dermatom, segmentær smerte"
       } ]
     }, {
       "code": "2b11e7a0-1faf-4b45-a653-4c347f019266",
@@ -723,68 +753,31 @@
         "definition": "Øje-hånd-koordination, øje-fod-koordination, dysdiadokinese, højre-venstre koordination, ataksi"
       } ]
     }, {
-      "code": "0337193a-b5cc-43e1-a324-fa28944bfc3b",
-      "display": "Sanser og smerter",
-      "definition": "Sanser og smerter",
+      "code": "7e608d37-3f3c-4374-bbc8-e317505d8bc2",
+      "display": "Samfundsliv",
+      "definition": "Samfundsliv",
       "concept": [ {
-        "code": "1b5ad154-d22c-4949-a5db-c01ccefd64d9",
-        "display": "Balance",
-        "definition": "Balance i stående stilling, balance i siddende stilling, balance under gang og bevægelse, svimmelhed, fornemmelse af at være ved at falde"
+        "code": "04d9580e-669a-42d5-b20f-3c651ad5b8bf",
+        "display": "Samspil og kontakt",
+        "definition": "Vise hensyn og respekt, reagere på andres følelser, anvende passende fysisk kontakt, respektere andres grænser, undgå social isolation"
       }, {
-        "code": "2d3a12d0-c0d9-4702-a96e-1d7824c80c6c",
-        "display": "Sanser",
-        "definition": "Proprioception, temperatursans, synsfunktioner, vibrationssans, paræstesi, hyperæstesi, opfattelse af tryk, allodyni, perception/genkendelse og fortolkning af sensorisk stimuli"
+        "code": "5f2310b3-cad1-43f6-9dc7-d982da141860",
+        "display": "Varetage beskæftigelse",
+        "definition": "Deltage i beskæftigelse på fuld tid eller deltid, udføre de nødvendige arbejdsopgaver, søge arbejde, møde på arbejde til aftalt tid, udføre frivilligt arbejde"
       }, {
-        "code": "40cbf3ef-9ec0-4795-bb3b-ea7c788b49e2",
-        "display": "Smerter",
-        "definition": "Smertelokalitet, smertetype, smertemønster, smertekarakteriska, smerteintensitet, smerte fra dermatom, segmentær smerte"
-      } ]
-    }, {
-      "code": "1dae1e1e-306e-48f2-b9e1-2a180301d8dd",
-      "display": "Mentale funktioner",
-      "definition": "Mentale funktioner",
-      "concept": [ {
-        "code": "95fbdaed-00a4-461e-961d-629322c89914",
-        "display": "Orienteringsevne",
-        "definition": "Orientering i tid (ugedag, dato, måned, år), orientering om/forståelse af hvor man befinder sig, orientering om/forståelse for egen og andres identitet"
+        "code": "73642409-bcd7-41b7-a2ed-50ae37352167",
+        "display": "Varetage uddannelse",
+        "definition": "Deltage i alle aspekter af at gå i fx vuggestue, børnehave, skole og på uddannelser, tage imod undervisning, planlægge, studere og gennemføre de nødvendige opgaver"
       }, {
-        "code": "1d9759c6-6526-4d07-994a-5dee3fa65177",
-        "display": "Energi og handlekraft",
-        "definition": "Energiniveau, motivation, impulskontrol, omsætte tanke eller følelse til handling, tage initiativ til at igangsætte en aktivitet og afslutte den"
-      }, {
-        "code": "36248229-67ac-4f5a-9446-b72c7208e34d",
-        "display": "Opmærksomhed",
-        "definition": "Fastholde opmærksomhed, skift i opmærksomhed, opdeling af opmærksomhed, deltagende opmærksomhed hvor to eller flere personer fokuserer på det samme"
-      }, {
-        "code": "56860429-eabe-4d48-b8ad-d7f7b28f6df5",
-        "display": "Hukommelse",
-        "definition": "Korttidshukommelse, langtidshukommelse, herunder genkaldelse af information der er gemt i langtidshukommelsen og bringes frem i bevidstheden, evnen til at huske aftaler, steder og personer, amnesi"
-      }, {
-        "code": "87a689e9-fe3b-4696-a15f-07b7be8fecf4",
-        "display": "Psykomotoriske funktioner",
-        "definition": "Reduceret kropssprog, langsomme bevægelser, repetitive stereotype bevægelser, formålsløse bevægelser, adfærd udvisende øget motorisk aktivitet, adfærd udvisende nedsat motorisk aktivitet"
-      }, {
-        "code": "d377b371-64f5-416c-93f3-852e437ae1cb",
-        "display": "Følelsesfunktioner",
-        "definition": "Adækvate og fyldestgørende følelser og regulering heraf, tristhed, affekt, frygt, vrede, anspændthed, angst, sorg, glæde, følelsesaffladning, emotionel labilitet"
-      }, {
-        "code": "2c99f93c-4459-471d-a6b8-303d32c15ed6",
-        "display": "Overordnede kognitive funktioner",
-        "definition": "Organisering og planlægning, systematisering, kognitiv fleksibilitet, problemløsning, administration af tid, kategorisering, beslutningstagen, fastlægge rækkefølge af handlinger eller bevægelser (apraksi)"
-      }, {
-        "code": "eec8fc0a-7a30-49ea-ba3d-1c1d3cb50bfb",
-        "display": "Oplevelse af egen krop",
-        "definition": "Følelse af at være for tyk eller for tynd, fantomoplevelser af kropsdele, neglekt for en del af kroppen"
+        "code": "9c2c29fb-4df7-4be4-a72f-383b488d575d",
+        "display": "Deltage i fritidsaktiviteter og fællesskaber",
+        "definition": "Deltage i lege og spil, deltage i sportsaktiviteter, museumsbesøg, spille musikinstrument, deltage i lokalsamfundet, deltage i selskabelighed"
       } ]
     }, {
       "code": "99b18761-88d7-44b2-915d-c64aa0b3b562",
       "display": "Hjerte og lunger",
       "definition": "Hjerte og lunger",
       "concept": [ {
-        "code": "fa0028ca-72c5-4180-aefe-7b696698b196",
-        "display": "Respiration",
-        "definition": "Respirationsfrekvens, respirationsrytme, overfladisk åndedræt, uregelmæssig vejrtrækning, hyperventilering, hoste/hostekraft, stilling ved vejrtrækning"
-      }, {
         "code": "a2253dcc-4806-4491-af3a-373344a70ccc",
         "display": "Cirkulation",
         "definition": "Kredsløbsforandringer, puls, hjerterytme, blodtryk"
@@ -792,6 +785,61 @@
         "code": "acb817ea-63aa-4d7e-aa67-f557c73f7c8a",
         "display": "Udholdenhed",
         "definition": "Fysisk udholdenhed, aerob kapacitet, udtrætning, kondition"
+      }, {
+        "code": "fa0028ca-72c5-4180-aefe-7b696698b196",
+        "display": "Respiration",
+        "definition": "Respirationsfrekvens, respirationsrytme, overfladisk åndedræt, uregelmæssig vejrtrækning, hyperventilering, hoste/hostekraft, stilling ved vejrtrækning"
+      } ]
+    }, {
+      "code": "ddbd7477-9579-4a83-a3e7-74ed716a0451",
+      "display": "Hud og hævelser",
+      "definition": "Hud og hævelser",
+      "concept": [ {
+        "code": "65ca1484-390b-4f1e-ba14-86a170ba75b9",
+        "display": "Ødem",
+        "definition": "Perifert ødem, lymfødem, postoperativt ødem, posttraumatisk ødem, ødem pga medicinering/bivirkninger"
+      } ]
+    }, {
+      "code": "e3242303-2506-4a09-ac65-59dfd06cb489",
+      "display": "Mobilitet",
+      "definition": "Mobilitet",
+      "concept": [ {
+        "code": "271c791c-7b6e-4a43-bf2f-d2a815386749",
+        "display": "Færden med transportmidler",
+        "definition": "Køre bil, køre på cykel, køre på knallert/motorcykel, køre som passager i bil, køre med bus og tog, færdes sikkert i trafikken, orientere sig i køreplan, planlægge rute"
+      }, {
+        "code": "2a641de6-1017-4647-a0fb-c3c8b7b1f43e",
+        "display": "Ændre og opretholde kropsstilling",
+        "definition": "ejse og sætte sig, ændre stilling i stol, lægge sig ned, lejre sig i sengen, vende sig i sengen, rejse sig fra seng, flytte sig mellem seng og stol, bøje sig forover, rejse sig op fra gulv, forflytning vha lift"
+      }, {
+        "code": "3f27a7bc-790d-444e-bcf4-6e22a6b1da7e",
+        "display": "Gang og bevægelse",
+        "definition": "Gå, gangvariationer (fx baglæns, sidelæns, tå- og hælgang), trappegang, løbe, hoppe, bevæge sig indendørs, bevæge sig omkring udendørs, færden med brug af fx rollator eller kørestol"
+      }, {
+        "code": "713fcbca-3776-4fb5-b423-2b82fcab7865",
+        "display": "Håndtere genstande",
+        "definition": "Samle genstande op, tage fat om genstande, give slip på genstande, dreje et håndtag, kaste og gribe genstande, bære genstande"
+      }, {
+        "code": "86e1982c-f459-4658-9071-e4bf3453a687",
+        "display": "Forflytte sig",
+        "definition": "Aktiviteter forbundet med at forflytte sig.\n\nEksempler: Forflytte sig i sengen, mellem seng, stol, toilet og /eller kørestol, lejring."
+      }, {
+        "code": "dd41df82-3c13-4523-b9c5-e83676425299",
+        "display": "Mobilitet og bevægelse",
+        "definition": "Aktiviteter forbundet med færden ude og inde, samt at løfte, bære og flytte ting.\n\nEksempler: Gå, løbe, rejse/sætte sig, færden fra sted til sted, færden med transportmidler, håndtere, løfte og bære ting."
+      } ]
+    }, {
+      "code": "ebd91b5e-114a-48a5-90b8-d3c1fd50b72b",
+      "display": "Viden og udvikling",
+      "definition": "Viden og udvikling",
+      "concept": [ {
+        "code": "3bba13c9-c429-408e-b82c-3f2bf25b8d39",
+        "display": "Læring og anvendelse af viden",
+        "definition": "Påbegynde og gennemføre erhvervelse af en færdighed eller nyt redskab, lære et nyt spil, lære og følge nye regler, identificere problemstillinger og udvikle løsninger hertil, overskue forandringer, identificere behov for og ændre egen praksis"
+      }, {
+        "code": "a2e013fb-7c91-4c5a-90c6-d119ff3e0ce8",
+        "display": "Udføre daglige rutiner",
+        "definition": "Styre eget aktivitetsniveau, sikre tid og energi til dagligdagens gøremål, energiforvaltning"
       } ]
     }, {
       "code": "ecb5e72d-40a2-4af3-9135-25974026bf02",
@@ -803,616 +851,858 @@
         "definition": "Suge, tygge, bide og behandle maden i mundhulen, synkefunktion, fejlsynkning"
       } ]
     }, {
-      "code": "ddbd7477-9579-4a83-a3e7-74ed716a0451",
-      "display": "Hud og hævelser",
-      "definition": "Hud og hævelser",
-      "concept": [ {
-        "code": "263a2c2f-7ae2-4264-8808-7e8216b1a118",
-        "display": "Sår og cicatriser",
-        "definition": "Arvæv, forskydelighed af cicatrise, irritation/infektion omkring cicatrise, tryksår, manglende heling"
-      }, {
-        "code": "65ca1484-390b-4f1e-ba14-86a170ba75b9",
-        "display": "Ødem",
-        "definition": "Perifert ødem, lymfødem, postoperativt ødem, posttraumatisk ødem, ødem pga medicinering/bivirkninger"
-      } ]
-    } ]
-  }, {
-    "code": "J",
-    "display": "Funktionsevnetilstande",
-    "definition": "Funktionsevnetilstande\n\nMapset: 468000016142 (Funktionstilstande mappet til SCT)\nMapset: 248000019147 (OmrHierarkiFunktion)\nMapset: 478000016148 (TilstandsrelationerHjemmepleje)\nMapset: 108000016148 (Funktionsevnetilstande mappet til Servicelove Indsatskatalog)",
-    "concept": [ {
-      "code": "J1",
-      "display": "Egenomsorg",
-      "definition": "Egenomsorg",
-      "concept": [ {
-        "code": "J1.1",
-        "display": "Vaske sig",
-        "definition": "Vaske sig"
-      }, {
-        "code": "J1.2",
-        "display": "Kropspleje",
-        "definition": "Kropspleje"
-      }, {
-        "code": "J1.3",
-        "display": "Af- og påklædning",
-        "definition": "Af- og påklædning"
-      }, {
-        "code": "J1.4",
-        "display": "Drikke",
-        "definition": "Drikke"
-      }, {
-        "code": "J1.5",
-        "display": "Fødeindtagelse",
-        "definition": "Fødeindtagelse"
-      }, {
-        "code": "J1.6",
-        "display": "Spise",
-        "definition": "Spise"
-      }, {
-        "code": "J1.7",
-        "display": "Varetage egen sundhed",
-        "definition": "Varetage egen sundhed"
-      }, {
-        "code": "J1.8",
-        "display": "Gå på toilet",
-        "definition": "Gå på toilet"
-      } ]
-    }, {
-      "code": "J2",
-      "display": "Praktiske opgaver",
-      "definition": "Praktiske opgaver",
-      "concept": [ {
-        "code": "J2.1",
-        "display": "Lave husligt arbejde",
-        "definition": "Lave husligt arbejde"
-      }, {
-        "code": "J2.2",
-        "display": "Lave mad",
-        "definition": "Lave mad"
-      }, {
-        "code": "J2.3",
-        "display": "Udføre daglige rutiner",
-        "definition": "Udføre daglige rutiner"
-      }, {
-        "code": "J2.4",
-        "display": "Skaffe sig varer og tjenesteydelser",
-        "definition": "Skaffe sig varer og tjenesteydelser"
-      } ]
-    }, {
-      "code": "J3",
-      "display": "Mobilitet",
-      "definition": "Mobilitet",
-      "concept": [ {
-        "code": "J3.1",
-        "display": "Løfte og bære",
-        "definition": "Løfte og bære"
-      }, {
-        "code": "J3.2",
-        "display": "Bevæge sig omkring",
-        "definition": "Bevæge sig omkring"
-      }, {
-        "code": "J3.3",
-        "display": "Bruge transportmidler",
-        "definition": "Bruge transportmidler"
-      }, {
-        "code": "J3.4",
-        "display": "Færden i forskellige omgivelser",
-        "definition": "Færden i forskellige omgivelser"
-      }, {
-        "code": "J3.5",
-        "display": "Forflytte sig",
-        "definition": "Forflytte sig"
-      }, {
-        "code": "J3.6",
-        "display": "Ændre kropsstilling",
-        "definition": "Ændre kropsstilling"
-      }, {
-        "code": "J3.7",
-        "display": "Muskelstyrke",
-        "definition": "Muskelstyrke"
-      }, {
-        "code": "J3.8",
-        "display": "Gå",
-        "definition": "Gå"
-      }, {
-        "code": "J3.9",
-        "display": "Udholdenhed",
-        "definition": "Udholdenhed"
-      } ]
-    }, {
-      "code": "J4",
+      "code": "1dae1e1e-306e-48f2-b9e1-2a180301d8dd",
       "display": "Mentale funktioner",
       "definition": "Mentale funktioner",
       "concept": [ {
-        "code": "J4.3",
-        "display": "Orienteringsevne",
-        "definition": "Orienteringsevne"
-      }, {
-        "code": "J4.4",
+        "code": "2c99f93c-4459-471d-a6b8-303d32c15ed6",
         "display": "Overordnede kognitive funktioner",
-        "definition": "Overordnede kognitive funktioner"
+        "definition": "Organisering og planlægning, systematisering, kognitiv fleksibilitet, problemløsning, administration af tid, kategorisering, beslutningstagen, fastlægge rækkefølge af handlinger eller bevægelser (apraksi)"
       }, {
-        "code": "J4.6",
-        "display": "Energi og handlekraft",
-        "definition": "Energi og handlekraft"
+        "code": "36248229-67ac-4f5a-9446-b72c7208e34d",
+        "display": "Opmærksomhed",
+        "definition": "Fastholde opmærksomhed, skift i opmærksomhed, opdeling af opmærksomhed, deltagende opmærksomhed hvor to eller flere personer fokuserer på det samme"
       }, {
-        "code": "J4.7",
-        "display": "Tilegne sig færdigheder",
-        "definition": "Tilegne sig færdigheder"
+        "code": "87a689e9-fe3b-4696-a15f-07b7be8fecf4",
+        "display": "Psykomotoriske funktioner",
+        "definition": "Reduceret kropssprog, langsomme bevægelser, repetitive stereotype bevægelser, formålsløse bevægelser, adfærd udvisende øget motorisk aktivitet, adfærd udvisende nedsat motorisk aktivitet"
       }, {
-        "code": "J4.8",
-        "display": "Problemløsning",
-        "definition": "Problemløsning"
+        "code": "95fbdaed-00a4-461e-961d-629322c89914",
+        "display": "Orienteringsevne",
+        "definition": "Orientering i tid (ugedag, dato, måned, år), orientering om/forståelse af hvor man befinder sig, orientering om/forståelse for egen og andres identitet"
       }, {
-        "code": "J4.1",
-        "display": "Anvende kommunikationsudstyr og -teknikker",
-        "definition": "Anvende kommunikationsudstyr og -teknikker\n\nSamme mapning til SNOMED CTsom I5.1"
-      }, {
-        "code": "J4.2",
-        "display": "Hukommelse",
-        "definition": "Hukommelse\n\nSamme SNOMED CT mapning som I11.1"
-      }, {
-        "code": "J4.5",
+        "code": "d377b371-64f5-416c-93f3-852e437ae1cb",
         "display": "Følelsesfunktioner",
-        "definition": "Følelsesfunktioner\n\nSamme mapning til SNOMED CT som I6.2"
+        "definition": "Adækvate og fyldestgørende følelser og regulering heraf, tristhed, affekt, frygt, vrede, anspændthed, angst, sorg, glæde, følelsesaffladning, emotionel labilitet"
+      }, {
+        "code": "eec8fc0a-7a30-49ea-ba3d-1c1d3cb50bfb",
+        "display": "Oplevelse af egen krop",
+        "definition": "Følelse af at være for tyk eller for tynd, fantomoplevelser af kropsdele, neglekt for en del af kroppen"
+      }, {
+        "code": "064f983b-5ec5-40a3-bc90-c3fcec6b6ef5",
+        "display": "Kommunikation",
+        "definition": "Evne til at kommunikere mundtligt og skriftligt samt anvende udstyr til kommunikationsformål.\n\nEksempler: Evnen til at udtrykke sig verbalt og nonverbalt eller på skrift, anvende udstyr til kommunikationsformål fx telefon, nødkald eller anden teknologi."
+      }, {
+        "code": "1d9759c6-6526-4d07-994a-5dee3fa65177",
+        "display": "Energi og handlekraft",
+        "definition": "Evne til at kunne igangsætte en aktivitet og afslutte den.\n\nEksempler: Energiforvaltning, motivation, omsætte tanke eller følelse til handling, tage initiativ til at igangsætte en aktivitet."
+      }, {
+        "code": "56860429-eabe-4d48-b8ad-d7f7b28f6df5",
+        "display": "Hukommelse",
+        "definition": "Evnen til at kunne registrere, lagre og genkalde sig informationer efter behov.\n\nEksempler: Korttidshukommelse, langtidshukommelse, arbejdshukommelse, huske aftaler, steder og personer."
+      }, {
+        "code": "b16668ff-9c02-491e-b082-7b699d93f5bc",
+        "display": "Kognitive funktioner",
+        "definition": "Evnen til kompleks målrettet tænkning samt forstå, ræsonnere, reflektere.\n\nEksempler: Beslutningstagen, fastlægge rækkefølge af handlinger, lære nye færdigheder, skabe struktur, følelsesregulering."
       } ]
     }, {
-      "code": "J5",
-      "display": "Samfundsliv",
-      "definition": "Samfundsliv",
-      "concept": [ {
-        "code": "J5.1",
-        "display": "Have lønnet beskæftigelse",
-        "definition": "Have lønnet beskæftigelse"
-      } ]
-    } ]
-  }, {
-    "code": "I",
-    "display": "Helbredstilstande",
-    "definition": "Helbredstilstande\n\nMapset: 458000016140 (Helbredstilstande mappet til SCT)\nMapset: 258000019149 (OmrHierarkiHelbred)\nMapset: 488000016145 (TilstandsrelationerSygepleje)\nMapset: 338000016140 (Helbredstilstande mappet til SUL indsatser)",
-    "concept": [ {
-      "code": "I1",
-      "display": "Funktionsniveau",
-      "definition": "Funktionsniveau",
-      "concept": [ {
-        "code": "I1.1",
-        "display": "Problemer med personlig pleje",
-        "definition": "Problemer med personlig pleje"
-      }, {
-        "code": "I1.2",
-        "display": "Problemer med daglige aktiviteter",
-        "definition": "Problemer med daglige aktiviteter"
-      } ]
-    }, {
-      "code": "I2",
-      "display": "Bevægeapparat",
-      "definition": "Bevægeapparat",
-      "concept": [ {
-        "code": "I2.1",
-        "display": "Problemer med mobilitet og bevægelse",
-        "definition": "Problemer med mobilitet og bevægelse"
-      } ]
-    }, {
-      "code": "I3",
-      "display": "Ernæring",
-      "definition": "Ernæring",
-      "concept": [ {
-        "code": "I3.1",
-        "display": "Problemer med væskeindtag",
-        "definition": "Problemer med væskeindtag"
-      }, {
-        "code": "I3.2",
-        "display": "Problemer med fødeindtag",
-        "definition": "Problemer med fødeindtag"
-      }, {
-        "code": "I3.3",
-        "display": "Uhensigtsmæssig vægtændring",
-        "definition": "Uhensigtsmæssig vægtændring"
-      }, {
-        "code": "I3.4",
-        "display": "Problemer med overvægt",
-        "definition": "Problemer med overvægt"
-      }, {
-        "code": "I3.5",
-        "display": "Problemer med undervægt",
-        "definition": "Problemer med undervægt"
-      } ]
-    }, {
-      "code": "I4",
-      "display": "Hud og slimhinder",
-      "definition": "Hud og slimhinder",
-      "concept": [ {
-        "code": "I4.9",
-        "display": "Andre problemer med hud og slimhinder",
-        "definition": "Andre problemer med hud og slimhinder"
-      }, {
-        "code": "I4.2",
-        "display": "Problemer med diabetisk sår",
-        "definition": "Problemer med diabetisk sår"
-      }, {
-        "code": "I4.3",
-        "display": "Problemer med cancersår",
-        "definition": "Problemer med cancersår"
-      }, {
-        "code": "I4.4",
-        "display": "Problemer med tryksår",
-        "definition": "Problemer med tryksår"
-      }, {
-        "code": "I4.5",
-        "display": "Problemer med arterielt sår",
-        "definition": "Problemer med arterielt sår"
-      }, {
-        "code": "I4.6",
-        "display": "Problemer med venøst sår",
-        "definition": "Problemer med venøst sår"
-      }, {
-        "code": "I4.7",
-        "display": "Problemer med blandingssår",
-        "definition": "Problemer med blandingssår"
-      }, {
-        "code": "I4.8",
-        "display": "Problemer med traumesår",
-        "definition": "Problemer med traumesår"
-      }, {
-        "code": "I4.1",
-        "display": "Problemer med kirurgisk sår",
-        "definition": "Problemer med kirurgisk sår"
-      } ]
-    }, {
-      "code": "I5",
-      "display": "Kommunikation",
-      "definition": "Kommunikation",
-      "concept": [ {
-        "code": "I5.1",
-        "display": "Problemer med kommunikation",
-        "definition": "Problemer med kommunikation"
-      } ]
-    }, {
-      "code": "I6",
-      "display": "Psykosociale forhold",
-      "definition": "Psykosociale forhold",
-      "concept": [ {
-        "code": "I6.1",
-        "display": "Problemer med socialt samvær",
-        "definition": "Problemer med socialt samvær"
-      }, {
-        "code": "I6.2",
-        "display": "Emotionelle problemer",
-        "definition": "Emotionelle problemer"
-      }, {
-        "code": "I6.3",
-        "display": "Problemer med misbrug",
-        "definition": "Problemer med misbrug"
-      }, {
-        "code": "I6.4",
-        "display": "Mentale problemer",
-        "definition": "Mentale problemer"
-      } ]
-    }, {
-      "code": "I7",
-      "display": "Respiration og cirkulation",
-      "definition": "Respiration og cirkulation",
-      "concept": [ {
-        "code": "I7.1",
-        "display": "Respirationsproblemer",
-        "definition": "Respirationsproblemer"
-      }, {
-        "code": "I7.2",
-        "display": "Cirkulationsproblemer",
-        "definition": "Cirkulationsproblemer"
-      } ]
-    }, {
-      "code": "I8",
-      "display": "Seksualitet",
-      "definition": "Seksualitet",
-      "concept": [ {
-        "code": "I8.1",
-        "display": "Problemer med seksualitet",
-        "definition": "Problemer med seksualitet"
-      } ]
-    }, {
-      "code": "I9",
-      "display": "Smerter og sanseindtryk",
-      "definition": "Smerter og sanseindtryk",
-      "concept": [ {
-        "code": "I9.1",
-        "display": "Akutte smerter",
-        "definition": "Akutte smerter"
-      }, {
-        "code": "I9.2",
-        "display": "Periodevise smerter",
-        "definition": "Periodevise smerter"
-      }, {
-        "code": "I9.3",
-        "display": "Kroniske smerter",
-        "definition": "Kroniske smerter"
-      }, {
-        "code": "I9.4",
-        "display": "Problemer med lugtesans",
-        "definition": "Problemer med lugtesans"
-      }, {
-        "code": "I9.5",
-        "display": "Problemer med følesans",
-        "definition": "Problemer med følesans"
-      }, {
-        "code": "I9.6",
-        "display": "Problemer med synssans",
-        "definition": "Problemer med synssans"
-      }, {
-        "code": "I9.7",
-        "display": "Problemer med hørelse",
-        "definition": "Problemer med hørelse"
-      }, {
-        "code": "I9.8",
-        "display": "Problemer med smagssans",
-        "definition": "Problemer med smagssans"
-      } ]
-    }, {
-      "code": "I10",
-      "display": "Søvn og hvile",
-      "definition": "Søvn og hvile",
-      "concept": [ {
-        "code": "I10.1",
-        "display": "Døgnrytmeproblemer",
-        "definition": "Døgnrytmeproblemer"
-      }, {
-        "code": "I10.2",
-        "display": "Søvnproblemer",
-        "definition": "Søvnproblemer"
-      } ]
-    }, {
-      "code": "I11",
-      "display": "Viden og udvikling",
-      "definition": "Viden og udvikling",
-      "concept": [ {
-        "code": "I11.1",
-        "display": "Problemer med hukommelse",
-        "definition": "Problemer med hukommelse"
-      }, {
-        "code": "I11.2",
-        "display": "Problemer med indsigt i behandlingsformål",
-        "definition": "Problemer med indsigt i behandlingsformål"
-      }, {
-        "code": "I11.3",
-        "display": "Problemer med sygdomsindsigt",
-        "definition": "Problemer med sygdomsindsigt"
-      }, {
-        "code": "I11.4",
-        "display": "Kognitive problemer",
-        "definition": "Kognitive problemer"
-      } ]
-    }, {
-      "code": "I12",
-      "display": "Udskillelse af affaldsstoffer",
-      "definition": "Udskillelse af affaldsstoffer",
-      "concept": [ {
-        "code": "I12.1",
-        "display": "Problemer med afføringsinkontinens",
-        "definition": "Problemer med afføringsinkontinens"
-      }, {
-        "code": "I12.2",
-        "display": "Problemer med vandladning",
-        "definition": "Problemer med vandladning"
-      }, {
-        "code": "I12.3",
-        "display": "Problemer med urininkontinens",
-        "definition": "Problemer med urininkontinens"
-      }, {
-        "code": "I12.4",
-        "display": "Problemer med mave og tarm",
-        "definition": "Problemer med mave og tarm"
-      } ]
-    } ]
-  }, {
-    "code": "0fa991ef-adf5-4202-8cfe-a31454ed6e9d",
-    "display": "§119 tilstande",
-    "definition": "§119 tilstande\n\nMapset: 418000016144 (§119 tistande til SNOMED CT)\nMapset: 378000019148 (OmrHierarki119)\nMapset: 508000016142 (Tilstandsrelationer§119)",
-    "concept": [ {
-      "code": "7b3b3587-4ddd-4b93-a81b-455bfc601492",
-      "display": "Hverdagsliv",
-      "definition": "Hverdagsliv",
-      "concept": [ {
-        "code": "fab34c19-4805-45af-b961-56099c849744",
-        "display": "Daglige aktiviteter",
-        "definition": "Udføre simple, komplekse og sammensatte handlinger til planlægning, styring og gennemførelse af dagligt tilbagevendende rutiner eller pligter Fx planlægge indkøb, strukturere og administrere tid i forhold til forskellige aktiviteter - skole/arbejde/hobby eller motionsaktiviteter."
-      }, {
-        "code": "08042057-72f4-4798-a727-75ce6205dc86",
-        "display": "Sociale relationer",
-        "definition": "Deltage i alle aspekter af fælles socialt liv Fx deltage i familieliv, sport, leg eller fornøjelse sammen med andre."
-      } ]
-    }, {
-      "code": "d03da587-94dc-46e6-ba71-eb1e43ec7df6",
+      "code": "aec684bd-c2ea-4ff0-8eb7-6d2cf67fb863",
       "display": "Kroppen",
       "definition": "Kroppen",
       "concept": [ {
-        "code": "e33396bb-019a-4fda-b901-1dbfdea1fc10",
-        "display": "Respiration",
-        "definition": "Funktioner relateret til påvirket vejrtrækningen. Fx uregelmæssig respirationsfrekvens, hoste, slimdannelse eller åndenød."
+        "code": "263a2c2f-7ae2-4264-8808-7e8216b1a118",
+        "display": "Sår og cicatriser",
+        "definition": "Fund vedrørende cicatriser, sår og andre hudlæsioner.\n\nEksempler: Arvævsdannelse, infektion omkring cicatrise og/eller manglende opheling."
       }, {
-        "code": "e3ff3fea-a4ff-4c7b-ad04-f4aad2e67fd3",
-        "display": "Cirkulation",
-        "definition": "Funktioner relateret til det kardiovaskulære system herunder kondition. Fx hævelser, ødemer, sårdannelse eller påvirket gangfunktion."
+        "code": "26b05040-94f3-4c8c-9ede-c7223bddf518",
+        "display": "Respiration og cirkulation",
+        "definition": "Fund vedrørende vejrtrækning  i relation til respirationssystemet, samt følger af påvirket blodgennemstrømning og venøst tilbageløb.\n\nEksempler: Respirationsfrekvens, respirationsrytme,  dyspnø, hyperventilering, ødemer."
       }, {
-        "code": "e7531532-7b7f-4ac0-863a-0b6a4cbe6ce2",
-        "display": "Smerte",
-        "definition": "Opfattelse af ubehagelige fornemmelser som tegn på potentiel eller aktuel skade eller tilstand på dele af kroppen. Fx påvirket smertemønster, smertefornemmelse og smerteintensitet."
+        "code": "3c685f14-5d48-4b1c-a451-9da780e2b41c",
+        "display": "Sanser og smerter",
+        "definition": "Fund vedrørende smerter og smerteopfattelse og sansning.\n\nEksempler: Påvirkning af det sensoriske nervesystem, smertemønstre og smertelokalitet, neglect, fantom-oplevelser."
       }, {
-        "code": "880cdd75-c63a-44a0-a4e4-8209644c8628",
+        "code": "bbc99471-a9f3-41f1-a95b-6842abfb551a",
         "display": "Kontinens",
-        "definition": "Funktioner bestemmende for kontrol af afføring. Funktioner bestemmende for kontrol af vandladning og afløb af urin fra blære. Fx stress- eller urgeinkontinens og obstipation eller diarré."
+        "definition": "Fund vedr. urin- og afføringsproblematikker som følge af fx traume og operation.\n\nEksempler: Retention, urin - og analinkontinens, urinvejsinfektioner."
       }, {
-        "code": "c0ee1cf6-47a9-4523-8fda-a80a13e28e30",
+        "code": "c6f49b84-58af-43df-bb3e-0d6a67fa0aba",
+        "display": "Bevægeapparat",
+        "definition": "Fund vedrørende muskelstyrke, ledbevægelighed og koordination.\n\nEksempler: Muskelstyrke, muskeltonus,  stabilitet i et eller flere led, koordination og viljebestemte bevægelser, muskeludholdenhed, ledbevægelighed."
+      } ]
+    }, {
+      "code": "b9c4561d-20bc-48c9-a727-fea719424a86",
+      "display": "Praktiske opgaver",
+      "definition": "Praktiske opgaver",
+      "concept": [ {
+        "code": "2bd07f7c-e6bb-424b-ab8f-f7c1de2afe80",
+        "display": "Lave mad",
+        "definition": "Aktiviteter forbundet med at planlægge, tilberede og servere enkle eller sammensatte måltider til sig selv og andre.\n\nEksempler: Planlægge et måltid, tilberede et måltid, opvarme færdiglavet mad, rydde op efter måltidet fx vaske op."
+      }, {
+        "code": "b53bca74-fd3f-4127-89ae-1a39d7836b93",
+        "display": "Lave husligt arbejde",
+        "definition": "Aktiviteter forbundet med at holde omgivelser ryddelige, rene og hygiejniske.\n\nEksempler: Støvsuge, vaske gulv, gøre rent i øvrigt, skifte sengetøj, ordne affald, vaske tøj og tørre det."
+      }, {
+        "code": "bd088375-65fc-4e1d-9a8b-78dc918e6581",
+        "display": "Indkøb",
+        "definition": "Aktiviteter forbundet med at planlægge og foretage indkøb.\n\nEksempler: Planlægge og udføre indkøb, stille varer på plads, benytte indkøbsordning, bestille varer på nettet."
+      } ]
+    }, {
+      "code": "df62498e-7ad1-4f01-93ce-a0441f879a2c",
+      "display": "Egenomsorg",
+      "definition": "Egenomsorg",
+      "concept": [ {
+        "code": "0c126894-60e1-4781-96b7-9b227677bfb6",
+        "display": "Vaske sig",
+        "definition": "Komme til og fra badeværelse/bruseniche/karbad, vaske og tørre kroppen, vaske og tørre hår"
+      }, {
+        "code": "1e199483-7201-43ef-a685-7fee7f4398ce",
+        "display": "Af- og påklædning",
+        "definition": "Klæde sig af og på på overkrop og underkrop, tage fodtøj af og på, tage tøj frem efter behov, tage strømper af og på, tage kropsbårne hjælpemidler af og på"
+      }, {
+        "code": "91fbebf5-9cd2-4a95-ab7f-3e94e635253e",
+        "display": "Varetage egen sundhed",
+        "definition": "Have hensigtsmæssige kostvaner, have hensigtsmæssige og tilstrækkelige motionsvaner, have hensigtsmæssig balance mellem aktivitet og hvile, følge behandlingsvejledning, undgå risikoadfærd fx rygning"
+      }, {
+        "code": "a05628c5-0128-42f7-844c-0f8261041328",
+        "display": "Spise og drikke",
+        "definition": "Skære mad ud, skænke drikke op, føre mad- og drikkevarer op til munden, åbne flaske og dåser, deltage i måltider, benytte kniv, gaffel og ske, bruge sugerør"
+      }, {
+        "code": "cffd4ef7-0282-4a68-a542-bae128172047",
+        "display": "Gå på toilet",
+        "definition": "Komme til og fra badeværelset, forflytte sig til/fra toiletsædet, udføre intimhygiejne, vaske hænder efter toiletbesøg, af- og påklædning i forbindelse med toiletbesøg, viljemæssig/kontrolleret tømning af tarm og blære"
+      }, {
+        "code": "dc2691db-fcc5-406f-a790-3c1f2f91c6b9",
+        "display": "Kropspleje",
+        "definition": "Rede hår, børste tænder, barbere sig, lægge make-up, rense og klippe finger- og tånegle"
+      }, {
+        "code": "243ae4ae-4e36-4192-88cb-399711ac3766",
+        "display": "Personlig pleje",
+        "definition": "Aktiviteter forbundet med evnen til at udføre hygiejne og soignere sig og holde sig ren.\n\nEksempler: Toiletbesøg, tandbørstning, vaske sig , hårpleje, af- og påklædning,  neglepleje, barbering."
+      }, {
+        "code": "290baa56-5d8c-40a6-b40c-1de05649f0d1",
+        "display": "Spise og drikke",
+        "definition": "Aktiviteter forbundet med evnen til at indtage fødevarer og væsker.\n\nEksempler: Bearbejdning af føde, optagelse af næringsstoffer, synkefunktion, koordinere aktiviteter i forbindelse med at føre mad og drikke til munden."
+      }, {
+        "code": "6a2c3341-c13e-4638-961d-72ba0fe29a80",
+        "display": "Sundhedskompetence",
+        "definition": "Aktiviteter forbundet med evnen til at finde, forstå, vurdere og bruge informationer til at tage beslutninger om sundhed og handle herefter.\n\nEksempler: Samarbejde og kontakt med sundhedsvæsenet, indsigt i eget helbred og behandling."
+      } ]
+    } ]
+  }, {
+    "code": "9faf9d59-f308-498a-96d1-aa1d9124d514",
+    "display": "Kommunalt hjælpemiddelområde tilstande",
+    "definition": "Kommunalt hjælpemiddelområde tilstande.",
+    "concept": [ {
+      "code": "0f033909-e470-4e83-a707-edce5e96bb9a",
+      "display": "Praktiske opgaver",
+      "definition": "Praktiske opgaver",
+      "concept": [ {
+        "code": "c26718f2-4dd7-464b-97ee-50b474c01091",
+        "display": "Praktiske opgaver",
+        "definition": "I tilstanden Praktiske opgaver beskrives borgers forudsætninger for at varetage aktiviteter forbundet med den almindelige daglige livsførelse (ADL).\n\nEksempler: Aktiviteter, der knytter sig til tilstanden Praktiske opgaver kan være rengøring, indkøb, madlavning og tøjvask. Eksempler på hjælpemidler/boligindretning kan være småhjælpemidler til køkkenbrug, ændring af køkkenbordplade mm."
+      } ]
+    }, {
+      "code": "45061921-7da7-4d12-b3eb-af687e99400f",
+      "display": "Kommunikation",
+      "definition": "Kommunikation",
+      "concept": [ {
+        "code": "4f703eed-305f-47d2-872d-08988da2eb2c",
+        "display": "Kommunikation",
+        "definition": "I tilstanden Kommunikation beskrives borgers forudsætninger for at varetage aktiviteter i forbindelse med at kommunikere verbalt, skriftligt eller via billeder samt at kunne modtage informationer.\n\nEksempler: Aktiviteter, der knytter sig til Kommunikation kan være at modtage information, fungere i sociale sammenhænge, samt være i stand til at kommunikere. Herunder anvende hjælpemider som fx 'øjenstyring', talemaskine eller syns- og hørehjælpemidler."
+      } ]
+    }, {
+      "code": "6322f707-8e41-4881-8f57-020960964488",
+      "display": "Mobilitet",
+      "definition": "Mobilitet",
+      "concept": [ {
+        "code": "63612558-1d94-44af-a36d-7a2de24ab733",
+        "display": "Mobilitet",
+        "definition": "I tilstanden Mobilitet beskrives borgers forudsætninger for at forflytte sig og færdes i forskellige omgivelser.\n\nEksempler: Aktiviteter, der knytter sig til Mobilitet kan være at komme til og fra aktiviteter, forflytte sig i sengen (vendinger), forflytte sig mellem seng, stol, toilet og/eller kørestol. Færden inde og ude eller benytte transportmidler - fx ved brug af ortoser, ganghjælpemidler, kørestol, bil eller boligindretning."
+      } ]
+    }, {
+      "code": "9ef9970c-c635-4179-a275-6c5f7fc30ffa",
+      "display": "Samfundsliv",
+      "definition": "Samfundsliv",
+      "concept": [ {
+        "code": "5ed4346d-3fb2-456b-a62a-98f8fbcfe101",
+        "display": "Samfundsliv",
+        "definition": "I tilstanden Samfundsliv beskrives borgers forudsætninger for at varetage aktiviteter forbundet med deltagelse i samfundslivet.\n\nEksempler: Aktiviteter, der knytter sig til tilstanden Samfundsliv kan være uddannelse, arbejde, fritidsliv, familieliv og andre meningsfulde og identitetsunderstøttende aktiviteter. Eksempler på hjælpemidler fx støtte til bil, servicehund, brystprotese og paryk."
+      } ]
+    }, {
+      "code": "ad513193-df34-4ff8-8846-3486f47192e8",
+      "display": "Egenomsorg",
+      "definition": "Egenomsorg",
+      "concept": [ {
+        "code": "5813303f-d4d8-46f9-91ba-f7a300e46920",
+        "display": "Egenomsorg",
+        "definition": "I tilstanden Egenomsorg beskrives borgers forudsætninger for at kunne varetage aktiviteter relateret til almindelig daglig levevis (ADL).\n\nEksempler: Aktiviteter, der knytter sig til tilstanden Egenomsorg kan være toiletbesøg, bad, personlig pleje, af- og påklædning, spise og drikke eller seksuelle funktioner.  \nEksempler på hjælpemidler/boligindretninger kan være toiletforhøjer, badetaburet, strømpepåtager, spise- og drikkehjælpemidler eller ændring af badeværelse. Det kan også være kropsbårne hjælpemidler som fx diabeteshjælpemidler, kateter og stomi."
+      } ]
+    }, {
+      "code": "ca4305dd-2693-4b3e-855c-2d122a8d3cb0",
+      "display": "Mentale funktioner",
+      "definition": "Mentale funktioner",
+      "concept": [ {
+        "code": "1b5e19ec-cefc-480d-9ba2-46a098b8d2b9",
+        "display": "Mentale funktioner",
+        "definition": "I tilstanden Mentale Funktioner beskrives borgers evne til eller behov for hjælp i forbindelse med at træffe beslutninger, planlægge og gennemføre aktiviteter forbundet med de mentale funktioner.\n\nEksempler: Aktiviteter, der knytter sig til Mentale funktioner kan være orientering, søvnmønster, planlægning og strukturering samt energiforvaltning. Eller specifikke mentale funktioner som fx hukommelse, sprog og regning. Eksempelvis administration af tid, strukturere hverdag, dømmekraft, omstille sig til noget nyt, deltage i kendte aktiviteter. Et eksempel på hjælpemidler kan være strukturredskaber (medicinur, demensur)."
+      } ]
+    } ]
+  }, {
+    "code": "ad78224f-b339-462c-9f2c-90b3120605cb",
+    "display": "Resultat af opfølgning kommunal pleje og omsorg",
+    "definition": "Resultat af opfølgning kommunal pleje og omsorg",
+    "concept": [ {
+      "code": "59753987-c38d-41c5-b201-0eeff3032fef",
+      "display": "Afsluttes",
+      "definition": "Afsluttes"
+    }, {
+      "code": "61b9a5c2-2ea7-45ad-82b8-53cbb513290e",
+      "display": "Revisitation",
+      "definition": "Revisitation"
+    }, {
+      "code": "9c90b0e5-9c0a-4b72-a18c-76cd6d6c6213",
+      "display": "Fortsættes",
+      "definition": "Fortsættes"
+    }, {
+      "code": "c6e71993-5d72-409a-8ab9-ecc094968635",
+      "display": "Ændres inden for rammen",
+      "definition": "Ændres inden for rammen"
+    } ]
+  }, {
+    "code": "b07bbb6d-16b2-4cee-b5a5-771ca5beb67c",
+    "display": "Kommunale pleje- og omsorgsindsatser",
+    "definition": "Kommunale pleje- og omsorgsindsatser.",
+    "concept": [ {
+      "code": "5270beb2-5d61-46f0-acc3-d1ee2a750e53",
+      "display": "SEL § 83A",
+      "definition": "Kortvarende og tidsafgrænset hjemmehjælp."
+    }, {
+      "code": "5c8f6a03-bcd2-4c70-b427-14bb684aff5d",
+      "display": "Madservice",
+      "definition": "Der leveres mad til hjemmet."
+    }, {
+      "code": "642bc356-a7e2-4dcf-9d3d-7ae90bf936c2",
+      "display": "SEL § 83",
+      "definition": "Personlig hjælp og pleje"
+    }, {
+      "code": "c3e6dc66-ecbc-4926-a06c-eb2c99c0f29e",
+      "display": "Hjemmehjælp - Praktisk hjælp og støtte",
+      "definition": "Hjælp eller støtte til nødvendige praktiske opgaver i hjemmet."
+    }, {
+      "code": "23a80ae9-ab88-48ed-a689-36bdd3cc6e41",
+      "display": "§ 83 stk. 1, nr. 1 Personlig hjælp og pleje",
+      "definition": "§ 83 stk. 1, nr. 1 Personlig hjælp og pleje",
+      "concept": [ {
+        "code": "17312894-b23f-43d9-9723-b725ac25d872",
+        "display": "Personlig hygiejne",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. hygiejne og soignering. Inkluderer af- og påsætning af kropsbårne hjælpemidler.\n\nEksempler: Bad, hudpleje, hårvask, øvre toilette, nedre toilette, negleklipning, påsætning af ortose/protese."
+      }, {
+        "code": "1ae7906b-5f16-4ba4-9077-7f59067cbedb",
+        "display": "Hverdagens aktiviteter",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. administrative og strukturelle opgaver i hverdagen.\n\nEksempler: Udfylde skemaer, kontakt til myndighedspersoner, pårørende, læge. Motivation, støtte og vejledning i daglige opgaver samt struktur i hverdagens aktiviteter."
+      }, {
+        "code": "4a4add40-ee74-4090-bd70-48d9bda9c5c4",
+        "display": "Udskillelser",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. det at gå på toilettet og udskille affaldsstoffer.\n\nEksempler: Toiletbesøg, bleskift, uridomskift, bækken- /kolbetømning."
+      }, {
+        "code": "a3af0522-e228-4a6a-b5c2-c9fcf0f3b2c4",
+        "display": "Tilsyn/omsorg",
+        "definition": "Indsatsen er ikke er forbundet med en konkret opgave, men handler om at give psykisk støtte og tryghed hos borgeren.\n\nEksempler: Tilsynsbesøg, omsorgsbesøg, tryghedsbesøg, støttebesøg, psykisk pleje."
+      }, {
+        "code": "ac68ca34-bfad-4254-a715-6fd758838e67",
         "display": "Ernæring",
-        "definition": "Tage vare på sig selv ved at være opmærksom på, at vælge og indtage næringsrigtig mad. Fx energisammensætning og indhold af næringsstoffer i mad og drikke, som borgeren indtager i hverdagen."
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. indtagelse af mad og drikke, herunder at føre mad og drikke fra bord til mund, samt indsatser der sikrer samvær under måltidet.\n\nEksempler: Tilstedeværelse ved måltider, indtagelse af mad og drikke."
       }, {
-        "code": "febbd20d-f5ff-41e7-bf12-dfa0700678e0",
-        "display": "Vægt",
-        "definition": "Regulering af passende kropsvægt inklusiv vægtøgning i udviklingsperioder. Fx undervægt, overvægt og/eller uhensigtsmæssig eller uplanlagt vægtændring."
+        "code": "ef8ee035-00d2-48b9-b366-27753ccd5504",
+        "display": "Mobilitet",
+        "definition": "Indsatsen omfatter omfatter hjælp, støtte eller guidning ifm. mobilitet eller ændringer i kroppens stilling og placering.\n\nEksempler: Forflytning, lejring, vending."
+      } ]
+    }, {
+      "code": "3823d4cd-c38f-49f7-bb15-bd2488b07cd9",
+      "display": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
+      "definition": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
+      "concept": [ {
+        "code": "074078e1-b78b-4167-b125-f7b76923469e",
+        "display": "Praktiske indsatser i relation til børn i husstanden",
+        "definition": "Indsatsen omfatter praktisk bistand til den forælder, der ikke selv er i stand til at udføre opgaven. De praktiske opgaver relaterer sig til børn i husstanden.\n\nEksempler: Vask og påklædning af børn, bleskift, tilberedning af måltider, følge børn i institution/skole, lægge børn i seng."
       }, {
-        "code": "abc0b770-d080-4cc8-851a-aa62556730e6",
+        "code": "1d25d761-72a9-41c8-a29d-d6a47975dc05",
+        "display": "Tilberede/anrette mad",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. den praktiske del af madlavning og måltider.\n\nEksempler: Tilberede og anrette mad, rydde op/vaske op efter måltid."
+      }, {
+        "code": "43608562-e356-4990-8b96-e35128bbdc4f",
+        "display": "Rengøring",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. den daglige rengøring og hovedrengøring.\n\nEksempler: Støvsugning, aftørring, gulvvask, hovedrengøring, skift af sengelinned, snerydning."
+      }, {
+        "code": "8bf6aa06-6e1f-47b6-96ab-4b7d153305f0",
+        "display": "Tøjvask",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. håndtering af vasketøj, fra snavsetøjskurven til tøjskabet.\n\nEksempler: Tøjvask i eget hjem, på vaskeri, fællesvaskeri, strygning, sortering, tørring og sammenlægning af tøj."
+      }, {
+        "code": "bc0306e2-5090-4bc8-b878-9814cafea403",
+        "display": "Indkøb",
+        "definition": "Indsatsen omfatter hjælp, støtte eller guidning ifm. at skaffe sig dagligvarer - fra indkøbsseddel skrives, til varer er stillet på plads.\n\nEksempler: Indkøb af dagligvarer, varebestilling, foretage indkøb/gå ærinder, sætte varer på plads."
+      } ]
+    }, {
+      "code": "4bfff76f-cc05-4635-96e5-282f4abb2986",
+      "display": "§ 83a Rehabilitering praktisk hjælp i hjemmet",
+      "definition": "§ 83a Rehabilitering praktisk hjælp i hjemmet",
+      "concept": [ {
+        "code": "17e261ba-e33b-467a-af08-094dc38b4190",
+        "display": "RH Indkøb",
+        "definition": "Rehabiliterende indsatser der vedrører aktiviteter foretaget for at skaffe dagligvarer - fra indkøbsseddel skrives, til varer er stillet på plads.\n\nEksempler: Hjælp til indkøb af dagligvarer, varebestilling, foretage indkøb/gå ærinder, sætte varer på plads."
+      }, {
+        "code": "6b3c5af0-22ac-40eb-bc50-c7734da2bf6d",
+        "display": "RH Tilberede/anrette mad",
+        "definition": "Rehabiliterende indsatser der vedrører den praktiske del af madlavning og måltider.\n\nEksempler: Tilberede og anrette mad, rydde op/vaske op efter måltid. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "8cbba31e-ae0c-4fb4-9389-21acf9805ad2",
+        "display": "RH Praktiske indsatser i relation til børn i husstanden",
+        "definition": "Rehabiliterende indsatser der vedrører tilbagevendende praktiske opgaver der relaterer sig til børn i husstanden. Indsatsen bevilliges som praktisk bistand til den forælder, der ikke selv er i stand til at udføre opgaven.\n\nEksempler: Vask og iklædning af børn, bleskift, tilberede og give måltider, følge børn i institution/skole, lægge børn i seng. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "b3c16115-d0d9-4229-a526-df366d44f948",
+        "display": "RH Rengøring",
+        "definition": "Rehabiliterende indsatser der vedrører rengøring, både den daglige og hovedrengøring. Bemærk: Skift af sengelinned samt evt. snerydning er en rengøringsydelse. Bækken-/kolbetømning kan også placeres her, såfremt det ikke indgår i forbindelse med en personlig pleje indsats.\n\nEksempler: Daglig rengøring, hovedrengøring, støvsugning, aftørring, gulvvask. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "dae030b6-2807-4a99-aebb-9309f5997082",
+        "display": "RH Tøjvask",
+        "definition": "Rehabiliterende indsatser der vedrører håndtering af vasketøj, fra snavsetøjskurven til tøjskabet.\n\nEksempler: Tøjvask i eget hjem, på vaskeri, fællesvaskeri, strygning, sortering, tørring og sammenlægning af tøj. Med fokus på at træne borger til at være mest muligt deltagende."
+      } ]
+    }, {
+      "code": "6cacf7a2-97ef-4981-a16a-338d571fc115",
+      "display": "§ 83 stk. 1, nr. 3 Madservice",
+      "definition": "§ 83 stk. 1, nr. 3 Madservice",
+      "concept": [ {
+        "code": "9aad7654-b9f9-40a3-84d9-2ae1dec4228a",
+        "display": "Madservice",
+        "definition": "Indsatsen er ikke er forbundet med en konkret opgave, men omhandler alene borgere, der modtager mad via en madserviceordning."
+      } ]
+    }, {
+      "code": "6f9ed46f-6498-4567-9637-2324dbfaa0a0",
+      "display": "0-ydelser",
+      "definition": "Kommunens administrative understøttende aktiviteter.",
+      "concept": [ {
+        "code": "4e5198d5-7d1b-44bc-9ab0-98ca8964a521",
+        "display": "Generel 0-ydelse",
+        "definition": "Ydelsen kan anvendes kommunalt eller tværkommunalt i en periode, fx i forbindelse med puljemidler, projekter eller lignende."
+      }, {
+        "code": "4e6ac795-fc5d-433a-9d0a-1b1006132525",
+        "display": "Koordinerende 0-ydelse",
+        "definition": "Ydelsen omfatter en systematisk koordinering af kommunale aktørers tværfaglige indsatser. Som udgangspunkt sammen med borgeren og evt. med deltagelse af pårørende."
+      } ]
+    }, {
+      "code": "90910722-a79d-4c35-8110-3adc988b206b",
+      "display": "§ 84 stk. 1 Aflastning - afløsning",
+      "definition": "Støtte og hjælp til pårørende og/eller aflastning uden for eget hjem.",
+      "concept": [ {
+        "code": "06ebbe96-1f58-4f77-b06e-217ac754c597",
+        "display": "Afløsning i hjemmet",
+        "definition": "Dækker afløsning af den pårørende. Indsatsen omfatter kommunal tilstedeværelse, således at den pårørende kan deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra.\n\nEksempler: Fast vagt, tilstedeværelse."
+      }, {
+        "code": "406a5834-76fc-42fb-a1d5-c471e39f9ef0",
+        "display": "Aflastningsophold uden for hjemmet",
+        "definition": "Dækker aflastning af den pårørende. Indsatsen omfatter alle former for aflastningsophold uden for hjemmet, således at den pårørende kan aflastes og/eller deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra.\n\nEksempler: Daghjem, nathjem, døgnophold."
+      }, {
+        "code": "78bdd2d6-c5cc-446f-8f68-78a9416134ec",
+        "display": "Praktisk hjælp efter §84",
+        "definition": "Afløsning af den pårørendes indsats med praktisk hjælp.\n\nEksempler: Vask og påklædning af børn, bleskift, tilberedning af måltider, rydde op/vaske op efter måltid, følge børn i institution/skole, lægge børn i seng. Indkøb af dagligvarer, daglig rengøring, hovedrengøring, tøjvask."
+      } ]
+    }, {
+      "code": "ae759142-4006-454f-a585-ca02519e5579",
+      "display": "§ 86 stk. 2 Vedligeholdelsestræning",
+      "definition": "Hjælp til at vedligeholde fysiske og psykiske evner.",
+      "concept": [ {
+        "code": "c7d79b23-a53d-4ad5-a536-24d7c7fe8e18",
+        "display": "Vedligehold af færdigheder",
+        "definition": "Vedligeholdelsestræning med fokus på at fastholde færdigheder/funktionsniveau, hvor der er risiko for forringelse eller bortfald af funktioner.\n\nEksempler: Træne borger med fx kendt apopleski, som har oplevet et fald i funktioner, hvis det kan vedligeholde borgers samlede funktionsniveau."
+      } ]
+    }, {
+      "code": "aeb52f84-c587-4e12-8793-69ebf83819f5",
+      "display": "§ 84 stk. 2 Midlertidigt ophold",
+      "definition": "Midlertidigt ophold med personlig hjælp og pleje og/eller praktisk støtte og hjælp.",
+      "concept": [ {
+        "code": "82d29975-53e4-4634-bd1c-87278376bb9e",
+        "display": "Midlertidig ophold",
+        "definition": "Midlertidig ophold er udelukkende en bevilling af en plads. De indsatser, der leveres under et midlertidigt ophold, vil være indsatser, der er visiteret efter §§ 83, 83a, 86.\n\nEksempler: Midlertidig ophold er udelukkende en bevilling af en plads."
+      } ]
+    }, {
+      "code": "db582ef3-121c-4061-9569-3dbede361d47",
+      "display": "§ 86 stk. 1 Genoptræning",
+      "definition": "Hjælp til at genvinde fysiske funktionsevner.",
+      "concept": [ {
+        "code": "49b9601f-eff7-43a4-8263-56296ec82601",
+        "display": "Genoptræning af funktionsnedsættelse",
+        "definition": "Genoptræning med fokus på at borger kan opnå et funktionsniveau svarende til det borgeren havde forud for en hændelse.\n\nEksempler: Træne borger efter fx lungebetændelse  eller anden sygdom, der ikke har krævet sygehusindlæggelse."
+      } ]
+    }, {
+      "code": "fe266687-9efd-4aea-a37c-49c88632d4f3",
+      "display": "§ 83a Rehabilitering personlig hjælp og pleje",
+      "definition": "Rehabiliterende indsatser der vedrører aktiviteter der foregår fra bord til mund. Alle indsatser der vedrører indtagelse af mad og drikke, hvad enten der er tale om indsats til den egentlig handling at spise eller en indsats, der sikrer samvær under måltidet.\n\nEksempler: Mad og drikke, måltider, indtagelse af mad og drikke, hjælp til indtagelse af mad og drikke, støtte/guide til indtagelse af mad og drikke, samvær under måltider.",
+      "concept": [ {
+        "code": "0b654911-f2b6-47d3-948b-3e9fb315b4c9",
+        "display": "RH Mobilitet",
+        "definition": "Rehabiliterende indsatser der vedrører mobilitet eller ændringer i kroppens stilling og placering.\n\nEksempler: Forflytning, lejring, vending. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "2912752c-2e9e-4702-8787-b45f73ff5b05",
+        "display": "RH Personlig hygiejne",
+        "definition": "Rehabiliterende indsatser der vedrører hygiejne og soignering. inkluderer af- og påsætning af kropsbårne hjælpemidler. Inkluderer af- og påsætning af kropsbårne hjælpemidler.\n\nEksempler: Bad, hudpleje, hårvask, øvre toilette, nedre toilette, negleklipning, påsætning af ortose/protese. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "42a41f1d-80a5-4a3e-8de2-db8bb684a889",
+        "display": "RH Tilsyn/omsorg",
+        "definition": "Rehabiliterende indsatser der ikke er forbundet med en konkret opgave, men handler om at give psykisk støtte og tryghed hos borgeren.\n\nEksempler: Tilsynsbesøg, omsorgsbesøg, tryghedsbesøg, støttebesøg, psykisk pleje. At træne borger i at være alene gennem rehabilitering eller håndtere uro gennem rehabilitering."
+      }, {
+        "code": "754c06a7-d6f1-4f8d-ad3e-a5c109efaca6",
+        "display": "RH Ernæring",
+        "definition": "Rehabiliterende indsatser der vedrører indtagelse af mad og drikke, herunder at føre mad og drikke fra bord til mund, samt indsatser der sikrer samvær under måltidet.\n\nEksempler:  Tilstedeværelse ved måltider, indtagelse af mad og drikke. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "a6199582-15a7-4c3d-bbdf-21f5059031c6",
+        "display": "RH Udskillelser",
+        "definition": "Rehabiliterende indsatser der vedrører det at gå på toilettet og udskille affaldsstoffer.\n\nEksempler: Toiletbesøg, bleskift, uridomskift, bækken- /kolbetømning. Med fokus på at træne borger til at være mest muligt deltagende."
+      }, {
+        "code": "f9cd3ded-f8af-4060-aad5-7e7c342d0230",
+        "display": "RH Hverdagens aktiviteter",
+        "definition": "Rehabiliterende indsatser der vedrører administrative og strukturelle opgaver i hverdagen. \n\nEksempler: Udfylde skemaer, kontakt til myndighedspersoner, pårørende, læge. Motivation, støtte og vejledning i daglige opgaver samt struktur i hverdagens aktiviteter. Med fokus på at træne borger til at være mest muligt deltagende."
+      } ]
+    } ]
+  }, {
+    "code": "cac857f7-2957-4fc7-a814-9e7fc450270a",
+    "display": "Kommunale sygeplejeindsatser",
+    "definition": "Kommunale sygeplejeindsatser.",
+    "concept": [ {
+      "code": "993d8f7b-fbed-4a78-90d9-6efbfa835114",
+      "display": "SUL § 138",
+      "definition": "Kommunal sygepleje til borger i hjemmet eller på andet opholdssted",
+      "concept": [ {
+        "code": "0204a44a-29ca-4ac0-9f08-a8dcb35b44d9",
+        "display": "Vejledning",
+        "definition": "Indsatsen omfatter typisk samtale om, hvordan borgeren kan håndtere og agere ift. fysiske, psykiske, sociale og åndelige potentielle og/eller aktuelle tilstande, fx hvordan borgeren søger kommunale indsatser, eller hvordan konflikter kan håndteres."
+      }, {
+        "code": "4374f01c-494b-4fc6-9d95-a0022fa515cf",
+        "display": "Psykiatrisk pleje",
+        "definition": "Indsatsen omfatter typisk opbygning af relation, støtte til at få praktisk og mental struktur i dagligdagen, fx til håndtering og accept af psykiatriske symptomer, diagnoser, behandling og afledte problemer."
+      }, {
+        "code": "476708f4-505d-4575-9e1f-e9dadb7d7759",
+        "display": "Psykisk støtte",
+        "definition": "Indsatsen omfatter typisk støtte til at mestre dagligdagen, bevare livskvalitet, forbedre mulighederne for livsudfoldelse og forebygge forværring."
+      }, {
+        "code": "61bbabf0-40a9-4e4c-ae73-5eea09928299",
+        "display": "Behandling med ortopædiske hjælpemidler",
+        "definition": "Indsatsen omfatter typisk fx anlæggelse af og støtte til brug af ordinerede arm-, ben- og knæskinner, armslynger og korsetter."
+      }, {
+        "code": "84538b56-8405-4662-ac59-d9d443ca4508",
+        "display": "Pleje ved anvendelse af personlige hjælpemidler",
+        "definition": "Indsatsen omfatter typisk vejledning i og støtte til brug af personlige hjælpemidler, fx rensning af glasøje og vedligeholdelse af høreapparat."
+      }, {
+        "code": "8f8ee1d1-df6f-4c1c-8293-0b47a46b5c21",
+        "display": "Rehabilitering",
+        "definition": "Indsatsen omfatter en korterevarende, tidsafgrænset, helhedsorienteret og tværfaglig tilrettelæggelse og træning af aktiviteter der er genkendelige og betydningsfulde for borgeren."
+      }, {
+        "code": "932da174-e1ee-4991-bfd8-5b5fd18b7301",
+        "display": "Forflytning og mobilisering",
+        "definition": "Indsatsen omfatter forflytning og/eller mobilisering. Forflytning omfatter fx træk, skub og flytning vha. hjælpemidler. Mobilisering omfatter fx støtte til at bevæge sig rundt vha. gangstativ."
+      }, {
+        "code": "a13ec0ec-b525-4b42-89e1-a75c743fcca5",
+        "display": "Særlig kommunikationsform",
+        "definition": "Indsatsen omfatter samtale med borgeren og evt. også med pårørende ved hjælp af tolk og/eller instrumentelle kommunikationshjælpemidler som fx pc eller pegeplade."
+      }, {
+        "code": "c37b573b-d4a8-4784-8751-b54c70249902",
+        "display": "Respiratorbehandling",
+        "definition": "Indsatsen omfatter typisk justering af respiratorordination, sekretsugning og mundpleje."
+      }, {
+        "code": "c77c0972-df47-4ebe-a274-75c470dc010a",
+        "display": "Oplæring",
+        "definition": "Indsatsen omfatter typisk at oplære borger og/eller pårørende i at varetage hele eller dele af en indsats, fx sårbehandling, blodsukkermåling, stomi- og kateterpleje, brug af personlige og ortopædiske hjælpemidler samt medicinadministration."
+      }, {
+        "code": "c926c94f-137e-4317-9fb0-ad074ba5c5be",
+        "display": "Samarbejde med netværk",
+        "definition": "Indsatsen består i samarbejde med pårørende om de indsatser, der ydes til borgeren, fx støtte til pårørende til en borger med demens eller psykisk sygdom."
+      }, {
+        "code": "d615e2f1-4fe8-491f-84de-40d97a8d51f0",
+        "display": "Støtte til ADL-aktivitet",
+        "definition": "Indsatsen omfatter typisk støtte til at udføre eller udførelse af aktiviteter i 'almindelig daglig livsførelse' (ADL), fx påklædning, madlavning, spisning, telefonering, oprydning, rengøring og betaling af regninger."
+      }, {
+        "code": "021b4fae-e0f2-46a7-ad3e-26044d207e03",
+        "display": "Parenteral ernæring",
+        "definition": "Indsatsen omfatter klargøring af ordineret ernæringspræparat, herunder tilsætning af vitaminer, samt tilkobling af infusionssæt, tilslutning til og frakobling fra iv-adgang, indstilling af infusionshastighed, skift af forbinding og pleje af iv-adgang og indstikssted."
+      }, {
+        "code": "04393d04-a756-41d8-b0b0-f88577526443",
+        "display": "Anlæggelse og pleje af kateter",
+        "definition": "Indsatsen omfatter midlertidig eller permanent anlæggelse af kateter, skylning af kateter, tømning og skift af kateterpose, kontrol af kateterballon samt skift af forbinding og pleje af hud ved indstikssted."
+      }, {
+        "code": "0eda48a1-b117-47d8-b4f0-a2e1fc12a053",
+        "display": "Sondeernæring",
+        "definition": "Indsatsen omfatter typisk anlæggelse af sonde, indgift af næring og væske via sonde og skift af forbinding og hudpleje ved indstikssted."
+      }, {
+        "code": "1219579a-0c73-4777-957c-f2fa78c3cd3e",
+        "display": "Behandling og pleje af hudproblem",
+        "definition": "Indsatsen omfatter typisk behandling og pleje af hud samt forebyggelse af tryksår og andre sårtyper."
+      }, {
+        "code": "13702705-9e2d-441a-a7cd-15053e6664fd",
+        "display": "Hjælp til hjemmemonitorering relateret til diabetes",
+        "definition": "Indsatsen omfatter opsætning af udstyr, instruktion og vejledning af borger samt opfølgning.\n\nEksempler: Opsætning af udstyr, instruktion og vejledning af borger samt opfølgning."
+      }, {
+        "code": "1cb4bf0a-da39-44fa-b9c8-52093d3ae956",
+        "display": "Trakeostomipleje",
+        "definition": "Indsatsen omfatter typisk skift af trakealkanyle, skift af forbinding og pleje af hud ved indstikssted."
+      }, {
+        "code": "23eb1228-e878-4960-8d3c-2c022c66a489",
+        "display": "Kompressionsbehandling",
+        "definition": "Indsatsen omfatter typisk anlæggelse og aftagning af kompressionsforbinding eller kompressionsærmer, -handsker og -strømper, vejledning i venepumpeøvelser samt hudpleje."
+      }, {
+        "code": "2793feb9-a99e-4157-81bb-9ce9d8ae0657",
+        "display": "Ernæringsindsats",
+        "definition": "Indsatsen omfatter typisk løbende vægtkontrol, kostvejledning og støtte til indtagelse af mad og drikke."
+      }, {
+        "code": "27ff5930-0a20-4b48-b22e-aa0a01175702",
+        "display": "Behandling og pleje af mave-tarmproblem",
+        "definition": "Indsatsen omfatter typisk vejledning om kost, væskeindtag, fysisk aktivitet og gode toiletvaner samt vurdering af medicinsk behandling."
+      }, {
+        "code": "2db1c5e7-9744-4faf-b874-4edab43e17b6",
+        "display": "Drænpleje",
+        "definition": "Indsatsen omfatter sikring af afløb, tømning og skylning af dræn, skift af forbinding og pleje af hud ved indstikssted."
+      }, {
+        "code": "3198a6ba-879c-4d2e-914b-560ba1e0d63a",
+        "display": "Respirationsbehandling",
+        "definition": "Indsatsen omfatter typisk behandling med fx CPAP-, PEEP- eller BIPAP-maske og vejledning i vejrtrækningsteknikker og mundpleje."
+      }, {
+        "code": "34b8b9a0-41bf-4dce-88f6-409de21fb175",
+        "display": "Undersøgelser og måling af værdier",
+        "definition": "Indsatsen omfatter lægeordineret undersøgelse af urin og afføring og målinger af fx blodsukker, temperatur, blodtryk og puls."
+      }, {
+        "code": "363f2ea2-6781-497b-969d-71221c676883",
+        "display": "Dialyse",
+        "definition": "Indsatsen omfatter enten håndtering af posedialyse fx klargøring af dialysemaskine, klargøring af posevæsker, til- og frakobling af poser og behandling og pleje af indstikssted og dialysekateter eller observation efter hæmodialyse."
+      }, {
+        "code": "399fb4f4-b1e0-48a1-8d92-05f5c5ba7d3b",
+        "display": "Væske per os",
+        "definition": "Indsatsen omfatter støtte til indtagelse af væske, herunder fx registrering af væskeindtag i væskeskema samt udregning af væskebalance."
+      }, {
+        "code": "3ba23b7c-4004-4b09-a133-1087e513a926",
+        "display": "Hjælp til hjemmemonitorering relateret til hjerte",
+        "definition": "Indsatsen omfatter opsætning af udstyr, instruktion og vejledning af borger samt opfølgning.\n\nEksempler: Opsætning af udstyr, instruktion og vejledning af borger samt opfølgning."
+      }, {
+        "code": "58091c74-aa47-4c34-acd5-96fbb4f2ebd8",
+        "display": "Stomipleje",
+        "definition": "Indsatsen omfatter typisk skift af pladesystem og pose/tømning af pose samt hudpleje."
+      }, {
+        "code": "6260adb6-38a0-42e3-9505-01bc3da5af94",
+        "display": "Psykisk pleje og støtte",
+        "definition": "Indsatsen omfatter typisk støtte til at mestre dagligdagen ved psykiske og psykiatriske udfordringer, bevare livskvalitet, forbedre mulighederne for livsudfoldelse og forebygge forværring, håndtering og accept af psykiatriske symptomer, diagnoser, behandling og afledte problemer."
+      }, {
+        "code": "63a47ab5-2266-42f1-b974-0c9021d73671",
+        "display": "Udtagelse af kapillærblodprøver og veneblodprøver",
+        "definition": "Indsatsen omfatter udtagelse af ikke lægeordinerede blodprøver. Det vil typisk dreje sig om kapillærblodprøver som blodsukker, Hgb, og CRP i forbindelse med udredning af akut påvirket borger, samt venøse blodprøver som væsketal, som den er afgrænset i kommunal sygepleje i bekendtgørelse om sygeplejerskers forbeholdte virksomhedsområde og orientering af patientens egen eller behandlende læge."
+      }, {
+        "code": "7511b78b-1417-4215-9c28-70b4adaee0f8",
+        "display": "Hjælp til hjemmemonitorering relateret til sår",
+        "definition": "Indsatsen omfatter opsætning af udstyr, instruktion og vejledning af borger samt opfølgning.\n\nEksempler: Opsætning af udstyr, instruktion og vejledning af borger samt opfølgning."
+      }, {
+        "code": "76878386-b3d2-4320-828a-a700e8a66234",
+        "display": "Sårbehandling",
+        "definition": "Indsatsen omfatter typisk skift af forbinding, sårbehandling og hudpleje. Indsatsen kan fx også omfatte trykaflastning, VAC-behandling samt fjernelse af suturer og agraffer."
+      }, {
+        "code": "800ff360-e737-4ba0-a384-c2f107c77369",
+        "display": "Hjælp til hjemmemonitorering relateret til KOL",
+        "definition": "Indsatsen omfatter opsætning af udstyr, instruktion og vejledning af borger samt opfølgning.\n\nEksempler: Opsætning af udstyr, instruktion og vejledning af borger samt opfølgning."
+      }, {
+        "code": "81ad7190-f253-47c2-a7c9-3d61dd4f7275",
+        "display": "Medicindispensering",
+        "definition": "Indsatsen omfatter bestilling, modtagelse, kontrol, opbevaring, klargøring og bortskaffelse af medicin samt dokumentation, opfølgning på medicinsk behandling og receptfornyelser. Ved medicin forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Klargøring omfatter typisk ophældning, optrækning, opløsning eller blanding af medicin. Indsatsen omfatter både medicin, der modtages maskinelt dosisdispenseret og medicin, der dispenseres (manuelt) umiddelbart før administration."
+      }, {
+        "code": "967855e5-386d-4c00-8e42-de05a8672e6d",
+        "display": "Cirkulationsbehandling",
+        "definition": "Indsatsen omfatter typisk måling af vægt, venepumpeøvelser og evt. anlæggelse af stumpforbinding efter amputation."
+      }, {
+        "code": "999e4908-106e-49b8-bc5f-8f9778df8a8d",
+        "display": "Subkutan væskebehandling",
+        "definition": "Indsatsen omfatter typisk anlæggelse af subkutan kanyle, samt tilkobling af infusionssæt, tilslutning og afkobling af infusionsvæsker, indstilling af infusionshastighed og pleje af hud ved indstikssted."
+      }, {
+        "code": "9c413b5d-9ddb-4298-8f78-f9459c6f142c",
+        "display": "Ordination af medicin",
+        "definition": "Indsatsen omfatter ordination af medicin uden lægeordination, som den er afgrænset i kommunal sygepleje i bekendtgørelse om sygeplejerskers forbeholdte virksomhedsområde og orientering af patientens egen eller behandlende læge."
+      }, {
+        "code": "a0c9f295-7608-4d80-b6e7-fb37908b330a",
+        "display": "Nonfarmakologisk smertelindring",
+        "definition": "Indsatsen omfatter nonfarmakologisk behandling/lindring af smerter, fx vejledning i visualiseringsøvelser, massage og kulde-/varmebehandling."
+      }, {
+        "code": "b0c840e3-dc65-461e-b176-a3b540cca7ce",
+        "display": "Syning af overfladiske hudsår udenfor ansigtet",
+        "definition": "Indsatsen omfatter syning af overfladiske hudsår udenfor ansigtet uden lægeordination og fjernelse af sutur i ansigtet, som den er afgrænset i kommunal sygepleje i bekendtgørelse om sygeplejerskers forbeholdte virksomhedsområde og orientering af patientens egen eller behandlende læge."
+      }, {
+        "code": "b2634ff3-544b-46e8-8908-b056b3c4e27c",
+        "display": "Supplerende udredning",
+        "definition": "Indsatsen omfatter en supplerende og mere dybtgående udredning af en konkret helbredstilstand, fx en ernærings-, hukommelsesproblematik, fald eller smerter."
+      }, {
+        "code": "bce1125d-3f4e-4be4-b1eb-f26b7454b2d2",
+        "display": "Iltbehandling",
+        "definition": "Indsatsen omfatter saturationsmåling, indstilling af iltmængde iht. ordination, skift og rengøring af iltkatetre og andet udstyr samt vejledning i korrekt håndtering af iltudstyr."
+      }, {
+        "code": "d2d42368-9d6d-4ca2-affe-f7116da86e1b",
+        "display": "Medicinadministration",
+        "definition": "Indsatsen omfatter udlevering og/eller tilføring af medicin. Ved medicin forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Når medicinadministration og medicindispensering effektueres i en og samme handling, som det fx er tilfældet med øjendrypning og injektion, registreres det som medicinadministration."
+      }, {
+        "code": "d67e7cd7-2b3a-4cb7-9309-b799a94ddd6d",
+        "display": "Hjælp til hjemmemonitorering - andet",
+        "definition": "Indsatsen omfatter opsætning af udstyr, instruktion og vejledning af borger samt opfølgning.\n\nEksempler: Opsætning af udstyr, instruktion og vejledning af borger samt opfølgning."
+      }, {
+        "code": "e3eabbbe-b1a2-499f-beff-cca6e28c5e5c",
+        "display": "Intravenøs væskebehandling",
+        "definition": "Indsatsen omfatter typisk tilkobling af infusionssæt, til- og frakobling af infusionsvæsker, indstilling af infusionshastighed samt behandling og pleje af indstikssted."
+      }, {
+        "code": "e6c95074-ce45-488a-af8b-b6b39d20808f",
+        "display": "Inkontinensbehandling",
+        "definition": "Indsatsen omfatter typisk kontinensudredning, bækkenbundstræning, vejledning i blære- og tarmtømning, toiletvaner og brug af kontinenshjælpemidler."
+      }, {
+        "code": "e8e49a3f-9b29-4486-9274-1c8bcd478c5e",
+        "display": "Sekretsugning",
+        "definition": "Indsatsen omfatter sugning af mundhule og svælg, udførelse af eller støtte til mundhygiejne og instruktion i korrekt hosteteknik."
+      }, {
+        "code": "f0d23296-29c5-4dc4-942e-3ce4cfdf6741",
+        "display": "Intravenøs medicinsk behandling",
+        "definition": "Indsatsen omfatter dispensering og administration af medicin, der skal gives intravenøst. Ved medicin forstås ordinerede lægemidler, naturlægemidler og kosttilskud. Indsatsen omfatter typisk behandling og pleje af iv-adgang og indstikssted samt indgift af medicin. Indsatsen kan også omfatte anlæggelse af iv-adgang."
+      }, {
+        "code": "fdf43795-6499-4a5b-a1d9-d045975682b2",
+        "display": "Personlig pleje",
+        "definition": "Indsatsen anvendes i de tilfælde, hvor komplekse og/eller kritiske situationer omkring borger og/eller i hjemmet kræver et særligt kompetenceniveau til at løse opgaven."
+      } ]
+    }, {
+      "code": "ff47f955-3179-446f-b211-dc29de9456e3",
+      "display": "0-ydelser",
+      "definition": "0-ydelser",
+      "concept": [ {
+        "code": "0899186c-200c-4048-8cda-929b4d629343",
+        "display": "Koordinering",
+        "definition": "Ydelsen omfatter en systematisk koordinering af kommunale og tværsektorielle aktørers indsatser til borgeren, fx hjemmehjælp, sygepleje, træningsenhed, praktiserende læge, ambulatorium og sygehus."
+      }, {
+        "code": "96546362-359b-401f-8760-f2c54f62d804",
+        "display": "Sygeplejefaglig udredning",
+        "definition": "Ydelsen omfatter en systematisk indsamling og analyse af data om borgerens aktuelle og potentielle helbredstilstande inden for de 12 sygeplejefaglige problemområder, tildeling af indsatser, udarbejdelse af handlingsanvisninger og stillingtagen til opgaveoverdragelse. Der skal foretages en sygeplejefaglig udredning, før en (ny) indsats kan iværksættes."
+      }, {
+        "code": "ccbed25e-da29-4c4e-9f6c-0b3132125336",
+        "display": "Generel 0-ydelse",
+        "definition": "Ydelsen kan anvendes kommunalt eller tværkommunalt i en periode, fx ved/i forbindelse med tiltag iht. puljemidler, som fx kan være opfølgende hjemmebesøg eller systematisk faldforebyggelse."
+      }, {
+        "code": "f2ac3b5e-ff62-4510-88ce-7a916fc24a90",
+        "display": "Opfølgning",
+        "definition": "Ydelsen omfatter en systematisk opfølgning på borgerens helbredstilstande, forventede helbredstilstande og fastsatte mål for indsatser. Det skal vurderes, om der skal fortsættes, ændres, afsluttes eller udredes på ny."
+      } ]
+    } ]
+  }, {
+    "code": "d49d6b0c-c067-4469-b92d-3842822c4971",
+    "display": "Kommunale pleje- og omsorgstilstande",
+    "definition": "Kommunale pleje- og omsorgstilstande.",
+    "concept": [ {
+      "code": "86b53158-6d05-412e-ad55-2e1fa26359b3",
+      "display": "Samfundsliv",
+      "definition": "Samfundsliv",
+      "concept": [ {
+        "code": "589d1a12-9be3-4d4c-bb72-3de133731e2f",
+        "display": "Have lønnet beskæftigelse",
+        "definition": "Deltage i alle aspekter af et arbejde, erhverv eller anden form for beskæftigelse som ansat på fuldtid eller deltid eller som selvstændig som f.eks. at søge et arbejde og få det, udføre de nødvendige opgaver i jobbet, møde på arbejde til tiden, lede andre arbejdere eller selv blive ledet, udføre de nødvendige opgaver alene eller i gruppe."
+      } ]
+    }, {
+      "code": "1c850a09-aa49-4fae-9354-f932f13e030b",
+      "display": "Praktiske opgaver",
+      "definition": "Praktiske opgaver",
+      "concept": [ {
+        "code": "e40942af-08a1-49ef-90c3-93541c53b47a",
+        "display": "Udføre daglige rutiner",
+        "definition": "Udføre simple, komplekse og sammensatte handlinger til planlægning, styring og gennemførelse af dagligt tilbagevendende rutiner eller pligter som f.eks. at overholde tider og lægge planer for særlige aktiviteter i løbet af dagen."
+      }, {
+        "code": "293bd85b-d9b4-4e2c-83d9-d3df32ce9d82",
+        "display": "Indkøb",
+        "definition": "Evnen til og behovet for støtte til at planlægge indkøb og få købt varer.\n\nEksempler: Skrive indkøbsseddel, foretage indkøb, bære og stille varer på plads. Bestille og fortage indkøb af fx tøj og sko."
+      }, {
+        "code": "75bfc8db-a220-4801-a8c7-5e968e94d44b",
+        "display": "Lave mad",
+        "definition": "Evnen til og behovet for støtte til madlavning.\n\nEksempler: Planlægge, tilberede og servere enkle eller sammensatte måltider til sig selv, bestille madudbringning."
+      }, {
+        "code": "a7ac8429-513f-43cd-bc69-96a8d0e0f0ff",
+        "display": "Lave husligt arbejde",
+        "definition": "Evnen til og behovet for støtte til husligt arbejde og opgaver i hjemmet.\n\nEksempler: Holde bolig ren og ryddelig, vaske tøj og tørre tøj."
+      } ]
+    }, {
+      "code": "43c2b7f0-5e55-4627-8fcf-bdaf5a9d84ac",
+      "display": "Egenomsorg",
+      "definition": "Egenomsorg",
+      "concept": [ {
+        "code": "0285a61e-e563-4f2a-a33f-fedf28a57661",
+        "display": "Drikke",
+        "definition": "Holde fast om en drik, tage drikken op til munden og drikke på en kulturelt accepteret måde, blande, omrøre og skænke drikke op, åbne flasker og dåser, bruge sugerør eller drikke af rindende vand fra en hane eller en kilde; amning."
+      }, {
+        "code": "4d46bd94-9518-431c-82e8-ebb91bca307a",
+        "display": "Vaske sig",
+        "definition": "Vaske og tørre sig på kroppen og kropsdele med anvendelse af vand og passende rensemidler f.eks. tage bad, brusebad, vaske hænder og fødder, ansigt og hår og tørre sig med håndklæde."
+      }, {
+        "code": "56291a75-960d-4fbb-8f28-ae27da8851dc",
+        "display": "Fødeindtagelse",
+        "definition": "Indtagelse og bearbejdning af fødemidler og væsker gennem munden."
+      }, {
+        "code": "581f65f9-cd0a-4630-8cc5-c8c125ae2d0c",
+        "display": "Kropspleje",
+        "definition": "Pleje af de dele af kroppen, som behøver anden pleje end vask og tørring f.eks. hud, ansigt, tænder, hår, negle og kønsdele."
+      }, {
+        "code": "5eecf025-ae93-4256-8df5-bc304c149b96",
+        "display": "Gå på toilet",
+        "definition": "Planlægge og udføre toiletbesøg til udskillelse af affaldsprodukter (menstruation, urin og afføring) og efterfølgende rengøring."
+      }, {
+        "code": "888c8f63-c059-46c3-8f36-f9649dbd0771",
+        "display": "Spise",
+        "definition": "Udføre sammensatte handlinger i forbindelse med indtagelse af føde, som er serveret for en, få maden op til munden og spise på en kulturelt accepteret måde, skære eller bryde maden i stykker, åbne flasker og dåser, anvende spiseredskaber, deltage i måltider og i festligheder."
+      }, {
+        "code": "91762d6a-fd77-454c-88cd-8d9bc49b1ab8",
+        "display": "Varetage egen sundhed",
+        "definition": "Sikre sit velvære, helbred og fysiske og psykiske velbefindende ved f.eks. at indtage varieret kost, have passende niveau af fysisk aktivitet, holde sig varm eller afkølet, undgå skader på helbredet, dyrke sikker sex inkl. anvendelse af kondomer, lade sig vaccinere og følge regelmæssige helbredsundersøgelser."
+      }, {
+        "code": "e853d3e7-1de5-44f0-ab48-1fb20c449035",
+        "display": "Af- og påklædning",
+        "definition": "Udføre sammensatte handlinger i forbindelse med på- og afklædning, at tage fodbeklædning på og af i rækkefølge og i overensstemmelse med den sociale sammenhæng og de klimatiske forhold som f.eks. iføre sig, rette på og afføre sig skjorter, bluser, bukser, undertøj, sarier, kimonoer, strømpebukser, hatte, handsker, frakker, sko, støvler, sandaler og hjemmesko."
+      }, {
+        "code": "41c201d5-6d3d-4576-b3d2-510a9b105631",
+        "display": "Spise og drikke",
+        "definition": "Evnen til og behovet for støtte til at indtage fødevarer og væsker.\n\nEksempler: Indtage føde og væske, herunder besvær med at synke og bearbejde føde og væske, at føre mad og drikke til munden."
+      }, {
+        "code": "98cfcc91-682e-4777-bfa5-6dcae59ff77f",
+        "display": "Sundhedskompetence",
+        "definition": "Evnen til og behovet for støtte til at finde, forstå, vurdere og bruge informationer til at tage beslutninger om sundhed og handle herefter.\n\nEksempler: Hensigtsmæssige kost- og motionsvaner,  samarbejde og kontakt med sundhedsvæsenet, indsigt i eget helbred og behandling."
+      }, {
+        "code": "feb38b55-c2d7-4d57-99c2-93622eaa0025",
+        "display": "Personlig pleje",
+        "definition": "Evnen til og behovet for støtte til at udføre hygiejne og soignere sig og holde sig ren.\n\nEksempler: Vaske sig, vaske hår, børste tænder, udføre hudpleje, af- og påklædning samt klare toilet."
+      } ]
+    }, {
+      "code": "4571f168-a92a-4caf-8dc8-35f45c2a1cb4",
+      "display": "Mentale funktioner",
+      "definition": "Mentale funktioner",
+      "concept": [ {
+        "code": "1054554c-2178-4b4a-8edf-cbf68345226e",
+        "display": "Problemløsning",
+        "definition": "Løsning af spørgsmål eller situationer ved at identificere og analysere emner, udvikle muligheder og løsninger, evaluere mulige virkninger af løsninger og gennemføre en valgt løsning som f.eks. ved løsning af en uoverensstemmelse mellem to personer."
+      }, {
+        "code": "12ada406-5ed6-44fb-8ba3-86828c157167",
+        "display": "Følelsesfunktioner",
+        "definition": "Specifikke mentale funktioner forbundet med følelser og affektive komponenter i sindet."
+      }, {
+        "code": "3b29a8ea-282b-4118-8d83-2f494a509c27",
+        "display": "Orienteringsevne",
+        "definition": "Overordnede mentale funktioner bestemmende kendskab til og konstatering af relationerne til en selv, til andre, til tid, sted og andre omgivelser."
+      }, {
+        "code": "986028e0-3f13-4fa8-b059-c0ae7f161a1c",
+        "display": "Tilegne sig færdigheder",
+        "definition": "Udvikle basale og komplekse kompetencer i sammensatte handlinger eller opgaver med det formål at påbegynde og gennemføre erhvervelsen af en færdighed, som f.eks. håndtering af værktøj eller spil som skak."
+      }, {
+        "code": "bc6a1539-a606-4032-875f-f7cd062f8364",
+        "display": "Overordnede kognitive funktioner",
+        "definition": "Specifikke mentale funktioner først og fremmest knyttet til hjernens pandelapper omfattende kompleks målrettet adfærd som beslutningstagning, abstrakt tænkning, planlægning og gennemførelse af planer, mental fleksibilitet og tilpasning af adfærden efter omstændighederne, såkaldte eksekutive funktioner."
+      }, {
+        "code": "c8b28097-70b7-41d8-b91f-57aa68ddac51",
+        "display": "Anvende kommunikationsudstyr og -teknikker",
+        "definition": "Anvende udstyr, teknikker og andre midler med kommunikationsformål som f. eks. at ringe til en ven."
+      }, {
+        "code": "08267627-cf37-49e9-ae2a-4cafdca51ba0",
+        "display": "Kommunikation",
+        "definition": "Evnen til og behovet for støtte til at kommunikere mundtligt og skriftligt samt anvende udstyr til kommunikationsformål.\n\nEksempler: Udtrykke mundtlige og skriftlige meddelelser, anvende udstyr til kommunikationsformål fx telefon, nødkald, skærmbesøg samt anden teknologi."
+      }, {
+        "code": "a3ac7928-77c9-425c-a7f1-1248a3764d0a",
+        "display": "Hukommelse",
+        "definition": "Evnen til og behovet for støtte til at huske, lagre og genkalde informationer efter behov.\n\nEksempler: Huske information, der er gemt i både kortids- og langtidshukommelsen, huske aftaler, steder og personer."
+      }, {
+        "code": "d7687a4e-d848-4931-940e-8ef338eb3f85",
+        "display": "Kognitive funktioner",
+        "definition": "Evnen til og behovet for støtte til kompleks målrettet tænkning samt forstå, ræsonnere, reflektere.\n\nEksempler: Beslutningstagen, fastlægge rækkefølge af handlinger, lære nye færdigheder, skabe struktur, følelsesregulering, impulskontrol."
+      }, {
+        "code": "ea9d19bc-d513-4f4b-936f-8f0a405ae134",
+        "display": "Trivsel",
+        "definition": "Evnen til og behovet for støtte til håndtering af egen livssituation og følelser forbundet hermed.\n\nEksempler: Sorg, ensomhed, nedgang i generel trivsel, mistrivsel og andre udfordringer."
+      }, {
+        "code": "ff8312dc-442a-43f8-831a-faa18918c1ee",
+        "display": "Energi og handlekraft",
+        "definition": "Evnen til og behovet for støtte til at kunne igangsætte en aktivitet og afslutte den.\n\nEksempler: Energiforvaltning, tage initiativ,  omsætte tanke eller følelse til handling, tage initiativ til at igangsætte en aktivitet."
+      } ]
+    }, {
+      "code": "462f9352-0129-4d8e-8c75-a6dfed78ddcf",
+      "display": "Mobilitet",
+      "definition": "Mobilitet",
+      "concept": [ {
+        "code": "0266853a-f222-4955-a2ce-687e26161144",
+        "display": "Færden i forskellige omgivelser",
+        "definition": "Gang og færden i forskellige omgivelser som f.eks. at gå mellem rum i huset, inden for en bygning eller ned ad gaden."
+      }, {
+        "code": "346de9b3-4ba4-4ebd-b41d-b863b611159a",
+        "display": "Muskelstyrke",
+        "definition": "Kraften som opstår ved kontraktion af en muskel eller en muskelgruppe."
+      }, {
+        "code": "3770dcf7-8285-45c9-90e6-d3efa1d85f99",
+        "display": "Bruge transportmidler",
+        "definition": "Bruge transportmidler som passager til at færdes omkring som f.eks. at blive kørt i en bil eller køre med bus, rickshaw, hestetrukken vogn, private eller offentlig taxi, bus, tog, sporvogn, undergrundsbane, skib eller fly."
+      }, {
+        "code": "4f915ee9-9f30-47b5-b582-c0f1467dd271",
+        "display": "Bevæge sig omkring",
+        "definition": "Bevæge sig fra et sted til et andet på andre måder end ved at gå som f.eks. ved at klatre over en sten, løbe ned ad en gade, hoppe, springe, slå kolbøtter eller rende rundt om genstande."
+      }, {
+        "code": "51697715-965a-40f3-b4a5-819103bf9d49",
+        "display": "Gå",
+        "definition": "Bevæge sig til fods skrift for skridt på et underlag, således at den ene fod hele tiden hviler på underlaget, som når man slentrer, går forlæns, baglæns eller sidelæns."
+      }, {
+        "code": "8d848883-6da7-4a7a-91a9-83fc9ffa2e06",
+        "display": "Ændre kropsstilling",
+        "definition": "Skifte kropsstilling og bevæge sig fra et sted til et andet som f.eks. at flytte sig fra en stol til liggende stilling og skifte til og fra knælende eller hugsiddende stilling."
+      }, {
+        "code": "b1d490a4-229c-465e-99b8-554e1e68513a",
+        "display": "Udholdenhed",
+        "definition": "Funktioner bestemmende for respiratorisk og kardiovaskulær kapacitet, som er nødvendig ved fysisk anstrengelse."
+      }, {
+        "code": "ba4683f8-4700-4059-a2f6-0598e2e9e15a",
+        "display": "Løfte og bære",
+        "definition": "Løfte en genstand op og flytte noget fra et sted til et andet som f.eks. at løfte en kop eller bære et barn fra et rum til et andet."
+      }, {
+        "code": "d39cd035-eb12-4a18-8a68-f43d4c0c62ef",
+        "display": "Forflytte sig",
+        "definition": "Evnen til og behovet for støtte til at flytte sin krop mellem forskellige sidde -eller liggeflader.\n\nEksempler: Flytte sig i sengen, mellem seng, stol, toilet og/eller kørestol."
+      }, {
+        "code": "d8aa5f09-cd9c-4996-a853-1c95ee98f25c",
         "display": "Mobilitet og bevægelse",
-        "definition": "Ændre kropsstilling og forflytte sig fra et sted til et andet. Fx at bevæge sig omkring i hjemmet eller i nærmiljøet. Indendørs, udendørs med eller uden hjælpemidler. Gælder såvel forflytninger, som det at bevæge sig fra A til B."
-      }, {
-        "code": "43f0b6da-11da-4eed-b00b-19b2177690b5",
-        "display": "Håndtere genstande",
-        "definition": "Bære, flytte og håndtere genstande med hænder og arme. Fx at være i stand til at løfte, bære, håndtere eller styre maskiner eller redskaber i hverdagen."
-      } ]
-    }, {
-      "code": "b349c7ec-86c5-4c52-aaf2-9034d98b0e3b",
-      "display": "Sundhedsadfærd",
-      "definition": "Sundhedsadfærd",
-      "concept": [ {
-        "code": "57b8979f-cf46-4312-aafa-3a0dd93aa921",
-        "display": "Alkohol",
-        "definition": "En handling relateret til en persons indtag/anvendelse af alkohol. Tage vare på sig selv ved at være opmærksom på og ved at reagere på risikofaktorer så som fysiske skader. Fx uhensigtsmæssig drikkefrekvens, drikkevaner og/eller manglende evne til at kontrollere drikkemønster. Afvise eller vedkende sig brugen af alkohol."
-      }, {
-        "code": "1a34ed6c-083b-451f-b8c8-137f99126b0c",
-        "display": "Tobak",
-        "definition": "Rygning er en handling, hvor en person anvender tobaksprodukter. Evne til at tage vare på sig selv ved at være opmærksom på og reagere på risikofaktorer så som fysiske skader. Fx rygestop, forsøg på rygestop eller tilbagefald - identifikation af rygemønster. Begrebet omfatter både cigaretter, pibe, vandpibe, e-cigaretter, snus mv."
-      }, {
-        "code": "f0b62265-6c83-4239-af97-4d6e9ba9dea7",
-        "display": "Medicin og stoffer",
-        "definition": "En handling relateret til en persons indtag/anvendelse af medicin og/eller stoffer. Tage vare på sig selv ved at være opmærksom på og ved at reagere på risikofaktorer så som fysiske skader. Fx uhensigtsmæssigt forbrug eller misbrug af håndkøbsmedicin, ordinerede lægemidler og narkorelaterede stoffer."
-      }, {
-        "code": "f715168e-125b-4d00-8e93-2ca4147ed13f",
-        "display": "Spisemønster",
-        "definition": "Sikre sit velvære, helbred og fysiske og psykiske velbefindende. Udføre handlinger i forbindelse med indtagelse af føde, deltage i måltider og i festligheder. Fx hyppighed af måltider, varieret kost og mængder af mad der indtages."
-      }, {
-        "code": "f1f1eee3-a3ea-4ca1-bfa9-ebb381af1a1f",
-        "display": "Fysisk aktivitet",
-        "definition": "Motion er en handling, hvor en person udfører regelmæssige, fysiske aktiviteter med henblik på at bevare et godt helbred og holde kroppen i form. Fx hyppighed, intensitet i motionsmønster, uhensigtsmæssigt motionsmønster eller inaktivitet."
-      }, {
-        "code": "bb7e9e71-73f6-4ec6-a0bf-eaec1e5982b4",
-        "display": "Sundhedskompetencer",
-        "definition": "Sikre sit velvære, helbred og fysiske og psykiske velbefindende. Fx varetage egen sundhed ved at kunne identificere og undgå risikoadfærd og ved fx at indtage varieret kost, have passende niveau af fysisk aktivitet, holde sig varm eller afkølet, undgå skader på helbredet."
-      } ]
-    }, {
-      "code": "3547a306-8623-4713-a8ce-db1e82839c50",
-      "display": "Mental sundhed",
-      "definition": "Mental sundhed",
-      "concept": [ {
-        "code": "0520a107-2bb0-47b8-8856-c53e27607e51",
-        "display": "Kognitiv funktion",
-        "definition": "Mentale funktioner omfattende kompleks målrettet adfærd, såkaldte eksekutive funktioner Fx at være i stand til at problemløse og indlære, samt til beslutningstagning."
-      }, {
-        "code": "525b5dd8-d62b-4efa-bf66-262ac47eca5b",
-        "display": "Emotionel funktion",
-        "definition": "Mentale funktioner forbundet med følelser og affektive komponenter i sindet. Fx følelse af nedtrykthed, stressende situationer, ængstelighed eller bekymring, i forbindelse med at have en kronisk lidelse."
-      }, {
-        "code": "cb55874a-93d9-45c7-a25a-8ff677c24385",
-        "display": "Søvn og hvile",
-        "definition": "Generelle mentale funktioner der er bestemmende for en naturlig søvn med optimal fysisk og psykisk hvile og afslapning og dermed påvirkning af ens nære omgivelser. Planlægning af forskellige aktiviteter henover døgnet. Fx indvirkningen på de nære omgivelser, på familiens livsstil, det daglige aktivitetsmønster og borgerens fysiske form."
-      }, {
-        "code": "43ad3091-f684-4d6f-8885-20ecd1cf2255",
-        "display": "Kropsopfattelse",
-        "definition": "Mentale funktioner bestemmende for repræsentation og bevidsthed om egen krop Fx at finde sig til rette med en ændret eller forstyrret kropsopfattelse, som kan skyldes ændringer i oplevelsen af egen seksualitet eller intimitet, i forbindelse med at have en kronisk lidelse."
+        "definition": "Evnen til og behovet for støtte til at bevæge sig omkring indendørs og udendørs samt løfte, bære og flytte ting.\n\nEksempler: Gå og færden indendørs og udendørs, gå på trapper,  anvende transportmidler, løfte, håndtere og bære ting, som en del af hverdagslivet."
       } ]
     } ]
   }, {
-    "code": "7deb81de-12c0-4a49-bd5b-72ea6fe89d83",
-    "display": "Genoptræning efter sygehusindlæggelse",
-    "definition": "Genoptræning efter sygehusindlæggelse, på baggrund af et lægefagligt vurderet behov.",
+    "code": "f5e2461b-2737-4b52-846c-2ff8f2d88db5",
+    "display": "Kommunalt hjælpemiddelområde indsatser",
+    "definition": "Kommunalt hjælpemiddelområde indsatser.",
     "concept": [ {
-      "code": "1130ad70-6553-490d-87f8-5e8941687a0c",
-      "display": "Terapeutfaglig udredning",
-      "definition": "Indsatsen anvendes ved anamnese, undersøgelse, test, faglig vurdering af undersøgelsesfund og på denne baggrund opstilling af borgerens mål og planlægning af den videre indsats."
+      "code": "0310e06b-dc06-4bd6-9506-a362323ff493",
+      "display": "§ 113 i Serviceloven",
+      "definition": "§ 113 i Serviceloven",
+      "concept": [ {
+        "code": "1385779d-32f8-4810-9747-101a6ebdb148",
+        "display": "Forbrugsgoder",
+        "definition": "Indsatsen dækker forbrugsgoder som er produkter, der forhandles bredt med henblik på sædvanligt forbrug med den almindelige befolkning som målgruppe. Sådanne produkter kan dog i en række tilfælde udgøre den kompensation, som personer med nedsat funktionsevne har behov for. \n\nEksempler: Elscooter, gelænder, ståstøttestole med fodring."
+      } ]
     }, {
-      "code": "7f825e3e-1a5c-4249-bf41-9f7171fb6b8a",
-      "display": "ADL-træning",
-      "definition": "Indsatsen anvendes ved struktureret og systematisk træning gennem hverdagsaktiviteter."
+      "code": "250f6486-9bb7-42c6-91cb-0a65a8508d02",
+      "display": "§ 112 i Serviceloven",
+      "definition": "§ 112 i Serviceloven",
+      "concept": [ {
+        "code": "0f1c5a0b-fdd3-4102-81e3-7402159fb250",
+        "display": "Mobilitetshjælpemidler",
+        "definition": "Indsatsen dækker mobilitetshjælpemidler, der anvendes til at give borgeren mulighed for udøvelse af aktiviteter på trods af nedsat mobilitet. \n\nEksempler: Ganghjælpemidler (herunder rollator, talerstol, gangvogn (børn)), el-kørestol, manuel kørestol, 3-hjulet cykel, glidebræt, glidesystem i seng, førerhund."
+      }, {
+        "code": "6b6bbece-97df-4d9e-8cfe-6b16354ed685",
+        "display": "Kropsbårne hjælpemidler",
+        "definition": "Indsatsen dækker kropsbårne hjælpemidler, der skal medvirke til, at borgeren får muligheden for at føre en så normal og selvstændig tilværelse som muligt og i størst mulig grad gøres uafhængig af andres bistand i dagligdagen. Skal samtidig sikre mulighed for at bevare tilknytning til arbejdsmarkedet.\n\nEksempler: Proteser, ortoser, optiske synshjælpemidler, Stomi-hjælpemidler (herunder nefrostomi, trachtostomi), inkontinens (herunder bleer, kateter), kompression, paryk, ortopædisk fodtøj og indlæg, diabeteshjælpemidler, kropsbeskyttelse (hjemle), seksuelle hjælpemidler."
+      }, {
+        "code": "7914915c-a202-47c4-be5c-a713ad5fd462",
+        "display": "Genbrugshjælpemidler",
+        "definition": "Indsatsen dækker sager, hvor der bevilliges eller tildeles hjælpemidler som udlån. Det omfatter ikke kropsbårne -eller mobilitetshjælpemidler.\n\nEksempler: Hjælpemidler i husholdningen, hjælpemidler til personlig pleje, kommunikationshjælpemidler, strukturhjælpemidler, sansestimulerende hjælpemidler (kugle- og kædevest), greb, dørtrinsrampe, løse ramper, nødkald,  syn- og høretekniske hjælpemidler, spise-drikke hjælpemidler,  arbejdstol/stålstol m. centralbremse, psykisk servicehund, særlige beklædningsgenstande."
+      } ]
     }, {
-      "code": "2abe20c7-c0b4-41c1-b397-52acf36499ef",
-      "display": "Fysisk træning",
-      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance."
+      "code": "b7821542-0e47-4d8d-a007-fbb2fc9abb5a",
+      "display": "§ 114 i Serviceloven",
+      "definition": "§ 114 i Serviceloven",
+      "concept": [ {
+        "code": "4436b19b-5ea2-4611-aea1-9bc9bd6b963c",
+        "display": "Støtte til bil efter serviceloven",
+        "definition": "Indsatsen dækker sager, hvor der ydes støtte til køb af bil til personer med varigt nedsat fysisk eller psykisk funktionsevne. \n\nEksempler: Støtte til køb af bil, særlig indretning af bil, støtte til kørekort, reparation af særlig indretning."
+      } ]
     }, {
-      "code": "58293f63-00d7-4730-8dbc-c784d40f9e23",
-      "display": "Funktionstræning",
-      "definition": "Funktionstræning"
-    }, {
-      "code": "2c661159-1bb3-4af2-bdf1-f3a9927a99e2",
-      "display": "Kognitiv træning",
-      "definition": "Indsatsen anvendes ved superviseret øvelsesterapi, der er målrettet bevægelighed, muskelfunktion, kredsløb, koordination og balance."
-    }, {
-      "code": "8d714c98-f23a-4722-8a2f-85c162fe4840",
-      "display": "Psykomotorisk træning",
-      "definition": "Indsatsen anvendes ved træning målrettet mentalt og kropsligt samspil."
-    }, {
-      "code": "66fb32c9-ecc3-484b-be49-f20094be237c",
-      "display": "Vejledning og undervisning",
-      "definition": "Indsatsen anvendes ved vejledning, undervisning, instruktion, rådgivning af borger, pårørende og samarbejdspartnere i forbindelse med træningsforløbet."
-    }, {
-      "code": "ba3e17bd-d4aa-4848-acad-25adc8285c19",
-      "display": "Koordinering og kommunikation",
-      "definition": "Indsatsen anvendes ved systematisk koordinering af kommunale og tværsektorielle aktørers indsatser til borgeren."
-    }, {
-      "code": "571fa7da-a155-4a84-b780-ef19170d48a0",
-      "display": "Opfølgning",
-      "definition": "Indsatsen anvendes ved opfølgning på borgerens tilstande efter afsluttede indsatser."
-    }, {
-      "code": "f8ac963c-6ec5-4ec5-bd90-a22fea4e2d16",
-      "display": "Manuel behandling",
-      "definition": "Indsatsen anvendes ved manuelle behandlingsteknikker, der virker udspændende, mobiliserende og/eller stimulerende på fx led, muskler og senevæv."
-    } ]
-  }, {
-    "code": "102ea764-d2cf-4a24-979d-68c2e8d638cf",
-    "display": "Forebyggende sundhedstilbud",
-    "definition": "Forebyggelsestilbud i forbindelse med kronisk sygdom.",
-    "concept": [ {
-      "code": "abe847e0-1ce0-44dc-a675-ce05b66f47e6",
-      "display": "Vejledning og introduktion til fysiske aktiviteter",
-      "definition": "Vejledning og støtte til at være fysisk aktiv \"på egen hånd\" og introduktion til fysiske aktiviteter."
-    }, {
-      "code": "ab87c0b5-40be-4e0a-b749-d9f833bfed2d",
-      "display": "Fysisk træning",
-      "definition": "Superviserede aktiviteter der bidrager til øget muskelstyrke og/eller øget kondition."
-    }, {
-      "code": "61692d91-69b8-4830-9453-3d58454e49d3",
-      "display": "Færdighedstræning",
-      "definition": "Vejledning, introduktion og igangsætning af aktiviteter, der bidrager til øget selvhjulpenhed i hverdagslivet."
-    }, {
-      "code": "cf7a55c2-7061-47ed-b7c5-e29620fe93bf",
-      "display": "Diætbehandling",
-      "definition": "En intervention i forhold til et ernæringsproblem, der er opstået som følge af sygdom eller behandling."
-    }, {
-      "code": "c9a99304-1788-43b7-b7be-e187b092ae9c",
-      "display": "Kostvejledning",
-      "definition": "Vejledning om de officielle (generelle) kostråd suppleret af relevante ernæringsanbefalinger."
-    }, {
-      "code": "01a500f6-c221-4fd0-b518-cd361218b60d",
-      "display": "Madlavning i praksis",
-      "definition": "Aktiviteter hvor kostråd, ernæringsanbefalinger samt hensigtsmæssige mad- og måltidsvaner omsættes til praksis."
-    }, {
-      "code": "924e9828-84cf-4689-9551-0ebb6dc71b98",
-      "display": "Samtale om alkohol",
-      "definition": "Rådgivning om og støtte til hensigtsmæssig alkoholadfærd."
-    }, {
-      "code": "c203c6b5-3be0-40a8-8204-e93751deabf5",
-      "display": "Tobaksafvænning",
-      "definition": "Rådgivning om og støtte til forandring af vaner i relation til tobaksanvendelse."
-    }, {
-      "code": "e71b7d85-5c78-49c2-8624-8499d162317b",
-      "display": "Sygdomshåndtering",
-      "definition": "Støtte til at forstå og håndtere livet me.d kronisk sygdom"
-    }, {
-      "code": "f30cab6d-2a42-4358-99d7-811127fb6e05",
-      "display": "Mental håndtering",
-      "definition": "Vejledning eller undervisning i øvelser og teknikker, der fremmer mentalt velbefindende."
-    }, {
-      "code": "03a3ebdb-9e2d-4be1-b32b-42f0bd2a3362",
-      "display": "Afsluttende samtale",
-      "definition": "Samtale der afslutter en eller flere indsatser."
-    }, {
-      "code": "ee5606ac-1bed-487e-aa3c-72dcc30ec037",
-      "display": "Behovssamtale",
-      "definition": "Samtale der bidrager til at afstemme borgerens motivation, ønsker og behov under igangværende forløb."
-    }, {
-      "code": "6eddbaf7-2a73-49d4-91e7-6138d419f58c",
-      "display": "Afklarende samtale",
-      "definition": "Afklarende samtale"
-    }, {
-      "code": "d1e016b5-150a-4ac4-97ba-d3e19e28471e",
-      "display": "Opfølgning",
-      "definition": "Aktivitet der følger op på borgerens fastholdelse af ændringer i hverdagslivet efter afsluttede indsatser."
+      "code": "c0358cd5-9193-40de-b71c-86453d6abda6",
+      "display": "§ 116 i Serviceloven",
+      "definition": "§ 116 i Serviceloven",
+      "concept": [ {
+        "code": "2e43fc47-573b-498d-adc7-6d9b6edb8f15",
+        "display": "Boligindretning",
+        "definition": "Indsatsen dækker hjælp til indretning af bolig til personer med varigt nedsat fysisk eller psykisk funktionsevne, således at boligen bliver bedre egnet som opholdssted for den pågældende. I ganske særlige tilfælde kan der ydes hjælp til anskaffelse af anden bolig. \n\nEksempler: Vægmonteret klapsæde, fjernelse af dørtrin, fastmonteret rampe(r), udligning af niveauforskelle, handicapkompenserende kvadratmeter eller ombygning, handicapkompenserende indretning af køkken og badeværelse, anskaffelse af ny bolig, platformslift/elevator, trappelift, skinner til loftslifte, opsætning af skillevægge (tilbygning/nedtagning), dørautomatik, opladning til elscooter, ladestik til el-bil."
+      } ]
     } ]
   } ]
 }
