@@ -6,9 +6,5 @@
     "status" : "release",
     "sequence" : "Releases",
     "desc": "New release of changes to FSIII and FBOE",
-    "descmd": "@release-notes.md",
-    "title" : "KLTerm",
-    "ci-build" : "http://build.fhir.org/ig/hl7dk/kl-term/",
-    "category" : "Terminology",
-    "introduction" : "This IG includes CodeSystems and ValueSets defined by KL/Local Government Denmark used in KL's FHIR standards."
+    "descmd": "@release-notes.md"
   }

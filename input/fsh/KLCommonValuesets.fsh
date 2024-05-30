@@ -327,7 +327,7 @@ ValueSet: KLGeneralInformationFSIII
 Title: "KLGenerelInformationFSIII"
 Description: "Generel information codes (observations) as defined by FSIII"
 * ^experimental = false
-* include codes from system FSIII where concept descendent-of #F
+* include codes from system FSIII where concept descendent-of #370e6178-9a5d-45f9-a2c9-f658186059c9 // - F generelle oplysninger - udgående
 
 ValueSet: KLNursingAreasFSIII
 Title: "KLSygeplejeOmråderFSIII"
