@@ -34,7 +34,7 @@ Description: "Danish municipality nursing condition codes"
 
 ValueSet: KLMatterOfInterestValues
 Title: "KLIngenOplysningerKoder"
-Description: "Matter of interes values to support when no observations have been made"
+Description: "Matter of interest values to support when no observations have been made"
 * ^experimental = false
 * FSIII#d7ff926a-4955-478f-b300-0b0ec0785013 //ikke relevant - B6
 * FFB#2254dac8-8aa3-4334-8502-9720194f49ad //"ikke vurderet"
@@ -604,8 +604,8 @@ ValueSet: KLComplicationCodesSCT
 Title: "KLKomplikationskoderSCT"
 Description: "Codes that indicate whether an intervention had complications or not"
 * ^experimental = false
-* SCT#160245001 //"ingen aktuelle problemer eller funktionsnedsættelse"
-* SCT#116223007 //"Komplikation"
+//* SCT#160245001 //"ingen aktuelle problemer eller funktionsnedsættelse"
+* SCT#116224001 //|Complication of procedure|
 
 ValueSet: KLInformationGatheringTypeCodes
 Title: "KLOplysningsaktivitetsTypeKoder"
