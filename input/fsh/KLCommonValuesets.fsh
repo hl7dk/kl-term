@@ -14,6 +14,11 @@ Description: "Danish municipality home care condition codes (funktionsevnetilsta
 * include codes from system FSIII where concept descendent-of #462f9352-0129-4d8e-8c75-a6dfed78ddcf //Mobilitet - J3
 * include codes from system FSIII where concept descendent-of #4571f168-a92a-4caf-8dc8-35f45c2a1cb4 //Mentale funktioner - J4 
 * include codes from system FSIII where concept descendent-of #86b53158-6d05-412e-ad55-2e1fa26359b3 //Samfundsliv - J5 - udgående
+* include codes from system FSIII where concept descendent-of #J1 //Egenomsorg - 43c2b7f0-5e55-4627-8fcf-bdaf5a9d84ac
+* include codes from system FSIII where concept descendent-of #J2 //Praktiske opgaver - 1c850a09-aa49-4fae-9354-f932f13e030b
+* include codes from system FSIII where concept descendent-of #J3 //Mobilitet - 462f9352-0129-4d8e-8c75-a6dfed78ddcf
+* include codes from system FSIII where concept descendent-of #J4 //Mentale funktioner - 4571f168-a92a-4caf-8dc8-35f45c2a1cb4
+* include codes from system FSIII where concept descendent-of #J5 //Samfundsliv - 86b53158-6d05-412e-ad55-2e1fa26359b3
 
 ValueSet: KLConditionCodesNursing
 Title: "KLTilstandeKoderSygepleje"
@@ -31,12 +36,25 @@ Description: "Danish municipality nursing condition codes"
 * include codes from system FSIII where concept descendent-of #8c539fd9-7f31-4b4e-8b30-8298c8ab640f //Søvn og hvile -  I10
 * include codes from system FSIII where concept descendent-of #9162d29a-1c7f-4585-8145-8fb4f1a999e3 //Viden og udvikling -  I11
 * include codes from system FSIII where concept descendent-of #045fa500-35b0-46b7-97dd-adb60888a8ea //Udskillelse af affaldsstoffer -  I12
+* include codes from system FSIII where concept descendent-of #I1 //Funktionsniveau - fa6aa904-d06e-4029-b4c4-13ead04ace27
+* include codes from system FSIII where concept descendent-of #I2 // Bevægeapperatet - 	55670b1e-7a36-46b2-8712-b7536237f22d
+* include codes from system FSIII where concept descendent-of #I3 //Ernæring - 	25dcedb3-7149-4ef9-a2c3-be30267441fb
+* include codes from system FSIII where concept descendent-of #I4 //Hud og slimhinder - 	1bb534f3-e526-41a9-b9c3-6157ea19c915
+* include codes from system FSIII where concept descendent-of #I5 //Kommunikation - 	3f00a76f-8e7b-4b13-80cc-f2ceef4e51d1
+* include codes from system FSIII where concept descendent-of #I6 //Psykosociale forhold - 5bfe4bda-2358-41da-946e-1fdaa33d5fe8
+* include codes from system FSIII where concept descendent-of #I7 //Respiration og cirkulation - 	01150cdb-6098-48ce-bb61-60967f6bcc37
+* include codes from system FSIII where concept descendent-of #I8 //Seksualitet - 	cc377732-7f14-49b7-8940-1aa07b8884e7
+* include codes from system FSIII where concept descendent-of #I9 //Smerter og sanseindtryk - 94e9c867-fbc8-4d35-8596-e6b8765b12e8
+* include codes from system FSIII where concept descendent-of #I10 //Søvn og hvile - 8c539fd9-7f31-4b4e-8b30-8298c8ab640f
+* include codes from system FSIII where concept descendent-of #I11 //Viden og udvikling - 9162d29a-1c7f-4585-8145-8fb4f1a999e3
+* include codes from system FSIII where concept descendent-of #I12 //Udskillelse af affaldsstoffer - 045fa500-35b0-46b7-97dd-adb60888a8ea
 
 ValueSet: KLMatterOfInterestValues
 Title: "KLIngenOplysningerKoder"
 Description: "Matter of interest values to support when no observations have been made"
 * ^experimental = false
 * FSIII#d7ff926a-4955-478f-b300-0b0ec0785013 //ikke relevant - B6
+* FSIII#B6 //ikke relevant - d7ff926a-4955-478f-b300-0b0ec0785013
 * FFB#2254dac8-8aa3-4334-8502-9720194f49ad //"ikke vurderet"
 
 ValueSet: KLConditionCodesTheraphy
@@ -187,6 +205,7 @@ Title: "KLFunktionsevneniveauFSIII"
 Description: "Severities related to conditions in FSIII home care (funktionsniveau)"
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #2c02a704-deee-4878-9378-1167613b3da6 //funktionsniveau - B
+* include codes from system FSIII where concept descendent-of #B //funktionsniveau - 2c02a704-deee-4878-9378-1167613b3da6
 
 ValueSet: KLSeverities
 Title: "KLSværhedgrader"
@@ -328,6 +347,7 @@ Title: "KLGenerelInformationFSIII"
 Description: "Generel information codes (observations) as defined by FSIII"
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #370e6178-9a5d-45f9-a2c9-f658186059c9 // - F generelle oplysninger - udgående
+* include codes from system FSIII where concept descendent-of #F
 
 ValueSet: KLNursingAreasFSIII
 Title: "KLSygeplejeOmråderFSIII"
@@ -345,6 +365,18 @@ Description: "Observation codes for the 12 nursing areas as defined by FSIII"
 * FSIII#045fa500-35b0-46b7-97dd-adb60888a8ea //"Udskillelse af affaldsstoffer" I12
 * FSIII#8c539fd9-7f31-4b4e-8b30-8298c8ab640f //"Søvn og hvile" I10
 * FSIII#5bfe4bda-2358-41da-946e-1fdaa33d5fe8 //"Psykosociale forhold" I6
+* FSIII#I9 //"Smerter og sanseindtryk"
+* FSIII#I2 //"Bevægeapparat"
+* FSIII#I11 //"Viden og udvikling"
+* FSIII#I1 //"Funktionsniveau"
+* FSIII#I5 //"Kommunikation"
+* FSIII#I7 //"Respiration og cirkulation"
+* FSIII#I4 //"Hud og slimhinder"
+* FSIII#I8 //"Seksualitet"
+* FSIII#I3 //"Ernæring"
+* FSIII#I12 //"Udskillelse af affaldsstoffer"
+* FSIII#I10 //"Søvn og hvile"
+* FSIII#I6 //"Psykosociale forhold"
 
 ValueSet: KLHomeCareAreasFSIII
 Title: "KLHjemmeplejeOmråderFSIII"
@@ -355,6 +387,11 @@ Description: "Observation codes for the five home care areas as defined by FSIII
 * FSIII#1c850a09-aa49-4fae-9354-f932f13e030b //"Praktiske opgaver" J2
 * FSIII#462f9352-0129-4d8e-8c75-a6dfed78ddcf //"Mobilitet" J3
 * FSIII#4571f168-a92a-4caf-8dc8-35f45c2a1cb4 //"Mentale funktioner" J4
+* FSIII#J1 //"Egenomsorg"
+* FSIII#J5 //"Samfundsliv"
+* FSIII#J2 //"Praktiske opgaver"
+* FSIII#J3 //"Mobilitet"
+* FSIII#J4 //"Mentale funktioner"
 
 ValueSet: KLTheraphyAreasFSIII
 Title: "KLTræningOmråderFSIII"
@@ -417,12 +454,14 @@ Title: "KLUdførelsesKoderFSIII"
 Description: "Performance level codes (Udførelse), as evaluated by the citizen"
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #d6d48a71-b96f-4b88-86f9-b13bd3c03560 //Udførelse - C
+* include codes from system FSIII where concept descendent-of #C
 
 ValueSet: KLImportanceLevelCodesFSIII
 Title: "KLBetydningKoderFSIII"
 Description: "Importance level codes (Betydning), as evaluated by the citizen"
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #687159ad-a61c-47c0-a878-53aa54bae2d5 //Betydning - D
+* include codes from system FSIII where concept descendent-of #D 
 
 ValueSet: KLCitizenObservationResultCodesFSIII
 Title: "KLBorgervurderingsResultatkoderFSIII"
@@ -437,12 +476,15 @@ Description: "Observation codes for citizens own observations as defined by FSII
 * ^experimental = false
 * FSIII#d6d48a71-b96f-4b88-86f9-b13bd3c03560 //"Udførelse" - C
 * FSIII#687159ad-a61c-47c0-a878-53aa54bae2d5 //"Betydning" - D
+* FSIII#C //"Udførelse"
+* FSIII#D //"Betydning"
 
 ValueSet: KLFollowUpCodesFSIII
 Title: "KLOpfølgningKoderFSIII"
 Description: "Follow-up codes used in FSIII"
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #ad78224f-b339-462c-9f2c-90b3120605cb //Resultat af opfølgning - E
+* include codes from system FSIII where concept descendent-of #E //Resultat af opfølgning
 
 ValueSet: KLFollowUpCodesFFB
 Title: "KLOpfølgningKoderFFB"
@@ -461,14 +503,17 @@ ValueSet: KLRequestFromFSIII
 Title: "KLHenvendelseHenvisningFraFSIII"
 Description: "Type of service requesters as defined by FSIII"
 * ^experimental = false
-* include codes from system FSIII where concept descendent-of #95851822-5a33-4349-a1f2-9b1245369bf5 //"Henvendelse/henvisning fra
+* include codes from system FSIII where concept descendent-of #95851822-5a33-4349-a1f2-9b1245369bf5 //"Henvendelse/henvisning fra A
+* include codes from system FSIII where concept descendent-of #A //"Henvendelse/henvisning fra
 
 ValueSet: KLNursingInterventionsFSIII
 Title: "KLSygeplejeIndsatserFSIII"
 Description: "Nursing interventions as described by FSIII" 
 * ^experimental = false
 * include codes from system FSIII where concept descendent-of #993d8f7b-fbed-4a78-90d9-6efbfa835114 //SUL § 138 G1
-* include codes from system FSIII where concept descendent-of #ff47f955-3179-446f-b211-dc29de9456e3 //0-ydelser
+* include codes from system FSIII where concept descendent-of #ff47f955-3179-446f-b211-dc29de9456e3 //0-ydelser G2
+* include codes from system FSIII where concept descendent-of #G1 //SUL § 138
+* include codes from system FSIII where concept descendent-of #G2 //0-ydelser
 
 ValueSet: KLHomeCareInterventionsFSIII
 Title: "KLHjemmeplejeIndsatserFSIII"
@@ -492,6 +537,16 @@ Description: "Home Care Interventions as described by FSIII"
 * include codes from system FSIII where concept descendent-of #ae759142-4006-454f-a585-ca02519e5579 //86, 2 H6
 * include codes from system FSIII where concept descendent-of #6f9ed46f-6498-4567-9637-2324dbfaa0a0 //0-ydelser H7
 
+* include codes from system FSIII where concept descendent-of #83_stk_1_nr_1_Personlig_hjaelp_og_pleje //83 1,1
+* include codes from system FSIII where concept descendent-of #83_stk_1_nr_2_Praktisk_hjaelp_i_hjemmet //83,1,2
+* include codes from system FSIII where concept descendent-of #83_stk_1_nr_3_Madservice //83 1,3
+* include codes from system FSIII where concept descendent-of #83a_Rehabilitering_personlig_hjaelp_og_pleje //83a personlig hjælp og pleje
+* include codes from system FSIII where concept descendent-of #83a_Rehabilitering_praktisk_hjaelp_i_hjemmet //83a praktisk hjælp
+* include codes from system FSIII where concept descendent-of #H3 //SEL § 84 stk. 1
+* include codes from system FSIII where concept descendent-of #H4 //SEL § 84 stk. 2
+* include codes from system FSIII where concept descendent-of #H5 //SEL § 86 stk. 1
+* include codes from system FSIII where concept descendent-of #H6 //SEL § 86 stk. 2
+* include codes from system FSIII where concept descendent-of #H7 //0-ydelser
 
 ValueSet: KLTrainingInterventionsFSIII
 Title: "KLTræningIndsatserFSIII"
