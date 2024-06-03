@@ -18,192 +18,192 @@
   "concept": [ {
     "code": "67b4ac73-dedf-4337-ad56-476b0a55ab03",
     "display": "Social indsats",
-    "definition": "En social indsats, er en indsats, der består af en eller flere ydelser, som leveres til en eller flere borgere af et eller flere tilbud. En social indsats skal forebygge eller tilgodese behov, som følger af en nedsat funktionsevne. Indsatsen gives med henblik på at fremme den enkeltes mulighed for at klare sig selv eller at lette den daglige tilværelse eller forbedre livskvaliteten. I generelle vendinger er det tale om en social indsats, når 'nogen' leverer 'noget' til 'en modtager' med det beskrevne formål. Mere konkret vil en social indsats bestå af en eller flere specifikke ydelser, som typisk leveres til én borger af ét tilbud. Det kan fx være når et ambulant behandlingstilbud til voksne leverer misbrugsbehandling til en stofmisbruger eller når et socialpædagogisk opholdssted leverer socialpædagogisk behandling til et barn. Der vil typisk være en eller flere bestemte faglige tilgange til leveringen af den sociale indsats, der kan leveres efter en eller flere metoder. En social indsats vil almindeligvis...",
+    "definition": "En social indsats, er en indsats, der bestÃ¥r af en eller flere ydelser, som leveres til en eller flere borgere af et eller flere tilbud. En social indsats skal forebygge eller tilgodese behov, som fÃ¸lger af en nedsat funktionsevne. Indsatsen gives med henblik pÃ¥ at fremme den enkeltes mulighed for at klare sig selv eller at lette den daglige tilvÃ¦relse eller forbedre livskvaliteten. I generelle vendinger er det tale om en social indsats, nÃ¥r 'nogen' leverer 'noget' til 'en modtager' med det beskrevne formÃ¥l. Mere konkret vil en social indsats bestÃ¥ af en eller flere specifikke ydelser, som typisk leveres til Ã©n borger af Ã©t tilbud. Det kan fx vÃ¦re nÃ¥r et ambulant behandlingstilbud til voksne leverer misbrugsbehandling til en stofmisbruger eller nÃ¥r et socialpÃ¦dagogisk opholdssted leverer socialpÃ¦dagogisk behandling til et barn. Der vil typisk vÃ¦re en eller flere bestemte faglige tilgange til leveringen af den sociale indsats, der kan leveres efter en eller flere metoder. En social indsats vil almindeligvis...",
     "concept": [ {
       "code": "af7624f8-affd-4a7e-8754-b1b1dd9d8def",
       "display": "Ydelse",
-      "definition": "En ydelse er en tjeneste, genstand eller et beløb, der gives eller modtages. En ydelse på socialområdet kan i visse tilfælde også bestå af en sanktion, som fx forældrepålæg.",
+      "definition": "En ydelse er en tjeneste, genstand eller et belÃ¸b, der gives eller modtages. En ydelse pÃ¥ socialomrÃ¥det kan i visse tilfÃ¦lde ogsÃ¥ bestÃ¥ af en sanktion, som fx forÃ¦ldrepÃ¥lÃ¦g.",
       "concept": [ {
         "code": "72a2a2d4-5a83-4093-ba1c-7f759c132801",
         "display": "Afklaring",
-        "definition": "Afklaring er en ydelse, der har til formål at afdække en borgers situation.",
+        "definition": "Afklaring er en ydelse, der har til formÃ¥l at afdÃ¦kke en borgers situation.",
         "concept": [ {
           "code": "35b593cf-724f-4058-9f31-fe1b3e8df124",
-          "display": "Pædagogisk udredning",
-          "definition": "Pædagogisk udredning er en aktivitet, hvor en leverandør afdækker en borgers funktionsevne i relation til daglige aktiviteter. Et centralt aspekt i afdækningen af funktionsevnen er borgerens mestringsevne, som har betydning for, hvordan man begriber, håndterer og handler i forskellige situationer. Visitationsparagraf: Serviceloven § 85."
+          "display": "PÃ¦dagogisk udredning",
+          "definition": "PÃ¦dagogisk udredning er en aktivitet, hvor en leverandÃ¸r afdÃ¦kker en borgers funktionsevne i relation til daglige aktiviteter. Et centralt aspekt i afdÃ¦kningen af funktionsevnen er borgerens mestringsevne, som har betydning for, hvordan man begriber, hÃ¥ndterer og handler i forskellige situationer. Visitationsparagraf: Serviceloven Â§ 85."
         } ]
       }, {
         "code": "a1eaa022-9e5c-493c-83d3-7cc40b9df9e9",
         "display": "Ophold",
-        "definition": "Ophold er en ydelse, der har til formål at huse en borger. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask.",
+        "definition": "Ophold er en ydelse, der har til formÃ¥l at huse en borger. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfÃ¦lde Ã©n ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillÃ¦g til disse andre ydelser. Det primÃ¦re fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan vÃ¦re egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask.",
         "concept": [ {
           "code": "5af56051-8413-4115-aaa2-83a0767e1137",
-          "display": "Længerevarende ophold",
-          "definition": "Længerevarende ophold er en ydelse, der har til formål at huse en borger, og som er tilkendt for en ikke-midlertidig periode. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf: Serviceloven § 108, Almenboligloven § 54, Friplejeboligloven, Ældreboligloven m.fl."
+          "display": "LÃ¦ngerevarende ophold",
+          "definition": "LÃ¦ngerevarende ophold er en ydelse, der har til formÃ¥l at huse en borger, og som er tilkendt for en ikke-midlertidig periode. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfÃ¦lde Ã©n ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillÃ¦g til disse andre ydelser. Det primÃ¦re fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan vÃ¦re egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf: Serviceloven Â§ 108, Almenboligloven Â§ 54, Friplejeboligloven, Ã†ldreboligloven m.fl."
         }, {
           "code": "80aa8ea7-4ad8-405f-876a-4c0f89fde06a",
           "display": "Midlertidigt ophold",
-          "definition": "Midlertidigt ophold er en ydelse, der har til formål at huse en borger, og som tilkendes midlertidigt. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf på Børn- og ungeområdet: Serviceloven §§ 52, 58, 66. Vejledende visitationsparagraf på Voksen-området: Serviceloven §§ 107, 109, 110."
+          "definition": "Midlertidigt ophold er en ydelse, der har til formÃ¥l at huse en borger, og som tilkendes midlertidigt. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfÃ¦lde Ã©n ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillÃ¦g til disse andre ydelser. Det primÃ¦re fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan vÃ¦re egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf pÃ¥ BÃ¸rn- og ungeomrÃ¥det: Serviceloven Â§Â§ 52, 58, 66. Vejledende visitationsparagraf pÃ¥ Voksen-omrÃ¥det: Serviceloven Â§Â§ 107, 109, 110."
         }, {
           "code": "a81a3fa9-6601-4d1e-a11e-f7444dfd3828",
           "display": "Akut ophold",
-          "definition": "Akut ophold leveres til en persone med et pludseligt opstået behov for husning. Akut ophold leveres typisk på en type af botilbud eller andeet overnatningssted fx vandrehjem. Akut ophold kan være én af flere ydelser, der leveres til personen. Det kan være egenbetaling for personens ophold."
+          "definition": "Akut ophold leveres til en persone med et pludseligt opstÃ¥et behov for husning. Akut ophold leveres typisk pÃ¥ en type af botilbud eller andeet overnatningssted fx vandrehjem. Akut ophold kan vÃ¦re Ã©n af flere ydelser, der leveres til personen. Det kan vÃ¦re egenbetaling for personens ophold."
         } ]
       }, {
         "code": "a2256d86-1cf8-4da5-be49-1f49f4335ecb",
-        "display": "Aktivitet og samvær",
-        "definition": "Aktivitet- og samvær er en ydelse, der gennem udviklende eller vedligeholdende aktiviteter har til formål at fremme socialt samvær eller at tilbyde et miljøskift. I aktivitet og samvær kan der også indgå individuel vejledning, støtte, omsorg og hjælp til at deltage i aktiviteterne. Lovhjemmel: Serviceloven § 104.",
+        "display": "Aktivitet og samvÃ¦r",
+        "definition": "Aktivitet- og samvÃ¦r er en ydelse, der gennem udviklende eller vedligeholdende aktiviteter har til formÃ¥l at fremme socialt samvÃ¦r eller at tilbyde et miljÃ¸skift. I aktivitet og samvÃ¦r kan der ogsÃ¥ indgÃ¥ individuel vejledning, stÃ¸tte, omsorg og hjÃ¦lp til at deltage i aktiviteterne. Lovhjemmel: Serviceloven Â§ 104.",
         "concept": [ {
           "code": "299af83f-586c-4c17-8af6-c8c47a847d6d",
           "display": "Sansestimulerende aktivitet",
-          "definition": "Sansestimulerende aktiviteter er aktivitet og samvær, hvor en borger får stimuleret sine sanser med henblik på evnen til at kunne sortere, organisere og bearbejde sanseindtryk. Sansestimulerende aktiviteter kan fx være massage, gyngeture, kuglebad og -dyne, sansehave og brug af musik-, lyd- og lysstimuli. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Sansestimulerende aktiviteter er aktivitet og samvÃ¦r, hvor en borger fÃ¥r stimuleret sine sanser med henblik pÃ¥ evnen til at kunne sortere, organisere og bearbejde sanseindtryk. Sansestimulerende aktiviteter kan fx vÃ¦re massage, gyngeture, kuglebad og -dyne, sansehave og brug af musik-, lyd- og lysstimuli. Visitationsparagraf: Serviceloven Â§ 104."
         }, {
           "code": "2c1944be-fe87-4c42-b08e-9cc075c9ef18",
           "display": "Oplevelsesaktivitet",
-          "definition": "Oplevelsesaktiviteter er aktivitet og samvær, hvor en borger har individuelle oplevelser eller oplevelser sammen med andre borgere eller personale. Oplevelser kan fx være natur- og kulturoplevelser. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Oplevelsesaktiviteter er aktivitet og samvÃ¦r, hvor en borger har individuelle oplevelser eller oplevelser sammen med andre borgere eller personale. Oplevelser kan fx vÃ¦re natur- og kulturoplevelser. Visitationsparagraf: Serviceloven Â§ 104."
         }, {
           "code": "66e23d66-1c5f-4070-bed1-8827cc863dcd",
           "display": "Fysisk aktivitet",
-          "definition": "Fysiske aktiviteter er aktivitet og samvær, der gennem fysiske bevægelser giver en borger mulighed for at bruge sin krop. Det omfatter fx idræts- og motionsaktiviteter og forskellige former for bevægelse, hvor samværet kan være i centrum. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Fysiske aktiviteter er aktivitet og samvÃ¦r, der gennem fysiske bevÃ¦gelser giver en borger mulighed for at bruge sin krop. Det omfatter fx idrÃ¦ts- og motionsaktiviteter og forskellige former for bevÃ¦gelse, hvor samvÃ¦ret kan vÃ¦re i centrum. Visitationsparagraf: Serviceloven Â§ 104."
         }, {
           "code": "7e419926-bb04-4829-99c9-95ea20403c2c",
           "display": "Social aktivitet",
-          "definition": "Social aktivitet er aktivitet og samvær, som ved at få en borger ind i et fællesskab med andre, forebygger eller bryder med social isolation og vedligeholder de sociale relationer. Social aktivitet kan fx være at spise, spille spil eller høre musik sammen med andre. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Social aktivitet er aktivitet og samvÃ¦r, som ved at fÃ¥ en borger ind i et fÃ¦llesskab med andre, forebygger eller bryder med social isolation og vedligeholder de sociale relationer. Social aktivitet kan fx vÃ¦re at spise, spille spil eller hÃ¸re musik sammen med andre. Visitationsparagraf: Serviceloven Â§ 104."
         }, {
           "code": "be5d5058-ef06-42a9-b894-51e44513e717",
           "display": "Kreativ aktivitet",
-          "definition": "Kreative aktiviteter er aktivitet og samvær, hvor en borger kan udfolde sig kreativt. Aktiviteterne kan foretages alene eller sammen med andre borgere eller personale. Kreative aktiviteter kan fx være madlavning; musik, sang og drama; håndarbejde; maleri eller værkstedsaktiviteter. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Kreative aktiviteter er aktivitet og samvÃ¦r, hvor en borger kan udfolde sig kreativt. Aktiviteterne kan foretages alene eller sammen med andre borgere eller personale. Kreative aktiviteter kan fx vÃ¦re madlavning; musik, sang og drama; hÃ¥ndarbejde; maleri eller vÃ¦rkstedsaktiviteter. Visitationsparagraf: Serviceloven Â§ 104."
         }, {
           "code": "f25674bf-3162-45c3-bde4-6d542bf9629b",
           "display": "Kompetenceudviklende aktivitet",
-          "definition": "Kompetenceudviklende aktiviteter er aktivitet og samvær, hvor en borger eller gruppe af borgere undervises i bestemte færdigheder eller kompetencer. Kompetenceudviklende aktiviteter kan således både sigte på at opnå helt konkrete færdigheder fx i forhold til brug af IT og mobiltelefon eller på at lave mad, eller på mere brede kompetenceløft, der sigter mod evnen til at varetage egen sundhed og livsførelse. Visitationsparagraf: Serviceloven § 104."
+          "definition": "Kompetenceudviklende aktiviteter er aktivitet og samvÃ¦r, hvor en borger eller gruppe af borgere undervises i bestemte fÃ¦rdigheder eller kompetencer. Kompetenceudviklende aktiviteter kan sÃ¥ledes bÃ¥de sigte pÃ¥ at opnÃ¥ helt konkrete fÃ¦rdigheder fx i forhold til brug af IT og mobiltelefon eller pÃ¥ at lave mad, eller pÃ¥ mere brede kompetencelÃ¸ft, der sigter mod evnen til at varetage egen sundhed og livsfÃ¸relse. Visitationsparagraf: Serviceloven Â§ 104."
         } ]
       }, {
         "code": "d8505298-6ea5-4ca8-923d-6e4451cc9a48",
-        "display": "Beskyttet beskæftigelse",
-        "definition": "Beskyttet beskæftigelse er en ydelse, der gennem arbejdslignende, lønnede aktiviteter har til formål at afdække, oparbejde, udvikle eller bevare en borgers arbejdsevne og beskæftigelsesrelevante kompetencer. I beskyttet beskæftigelse kan der også indgå individuel vejledning, støtte og hjælp til at deltage i aktiviteterne. Beskyttet beskæftigelse er rettet mod borgere, der ikke kan opnå eller fastholde beskæftigelse på normale vilkår på arbejdsmarkedet, og som ikke kan få indsatser efter anden lovgivning. Lovhjemmel: Serviceloven § 103.",
+        "display": "Beskyttet beskÃ¦ftigelse",
+        "definition": "Beskyttet beskÃ¦ftigelse er en ydelse, der gennem arbejdslignende, lÃ¸nnede aktiviteter har til formÃ¥l at afdÃ¦kke, oparbejde, udvikle eller bevare en borgers arbejdsevne og beskÃ¦ftigelsesrelevante kompetencer. I beskyttet beskÃ¦ftigelse kan der ogsÃ¥ indgÃ¥ individuel vejledning, stÃ¸tte og hjÃ¦lp til at deltage i aktiviteterne. Beskyttet beskÃ¦ftigelse er rettet mod borgere, der ikke kan opnÃ¥ eller fastholde beskÃ¦ftigelse pÃ¥ normale vilkÃ¥r pÃ¥ arbejdsmarkedet, og som ikke kan fÃ¥ indsatser efter anden lovgivning. Lovhjemmel: Serviceloven Â§ 103.",
         "concept": [ {
           "code": "55b77d7c-afce-4269-9232-7731ab1ef4fc",
           "display": "Service",
-          "definition": "Service og tjenesteydelser er beskyttet beskæftigelse, der er centreret omkring udførelse af servicerende, understøttende arbejdsfunktioner. I en service og tjenesteydelse vil der ofte indgå kontakt med andre, hvorfor der typisk vil være fokus på at træne dette. Eksempler på service og tjenesteydelser er kantine- og cafédrift, pedel- og rengøringsopgaver samt kontor- og piccolineopgaver, butik- og kundebetjening og vedligeholdelse af grønne områder. Visitationsparagraf: Serviceloven § 103."
+          "definition": "Service og tjenesteydelser er beskyttet beskÃ¦ftigelse, der er centreret omkring udfÃ¸relse af servicerende, understÃ¸ttende arbejdsfunktioner. I en service og tjenesteydelse vil der ofte indgÃ¥ kontakt med andre, hvorfor der typisk vil vÃ¦re fokus pÃ¥ at trÃ¦ne dette. Eksempler pÃ¥ service og tjenesteydelser er kantine- og cafÃ©drift, pedel- og rengÃ¸ringsopgaver samt kontor- og piccolineopgaver, butik- og kundebetjening og vedligeholdelse af grÃ¸nne omrÃ¥der. Visitationsparagraf: Serviceloven Â§ 103."
         }, {
           "code": "c429b7a9-5085-472b-b118-a21ca90f769f",
-          "display": "Praktikforløb",
-          "definition": "Praktikforløb er beskyttet beskæftigelse, der har til formål, at en borger kan afprøve ressourcer og kompetencer i forhold til et specifikt arbejdsområde eller en given arbejdsplads i en afgrænset periode. Praktikforløb kan også foregå i en ekstern virksomhed, fx en dagligvareforretning eller en produktionsvirksomhed. Visitationsparagraf: Serviceloven § 103."
+          "display": "PraktikforlÃ¸b",
+          "definition": "PraktikforlÃ¸b er beskyttet beskÃ¦ftigelse, der har til formÃ¥l, at en borger kan afprÃ¸ve ressourcer og kompetencer i forhold til et specifikt arbejdsomrÃ¥de eller en given arbejdsplads i en afgrÃ¦nset periode. PraktikforlÃ¸b kan ogsÃ¥ foregÃ¥ i en ekstern virksomhed, fx en dagligvareforretning eller en produktionsvirksomhed. Visitationsparagraf: Serviceloven Â§ 103."
         }, {
           "code": "fb3d8722-90e0-4a80-ba65-490617ffeb0f",
-          "display": "Produktion og værksted",
-          "definition": "Produktion og værksted er beskyttet beskæftigelse, der er centreret omkring udførelse af enkle, afgrænsede arbejdsopgaver som led i en samlet produktion af konkrete produkter. De konkrete arbejdsopgaver kan fx være fremstilling af produkter, herunder fx kunsthåndværk, optændingsbrænde, grøntsager, produktion af avis og medier. Opgaverne kan eksempelvis omfatte montering, sortering, optælling og pakning og kontrol af produkter. Visitationsparagraf: Serviceloven § 103."
+          "display": "Produktion og vÃ¦rksted",
+          "definition": "Produktion og vÃ¦rksted er beskyttet beskÃ¦ftigelse, der er centreret omkring udfÃ¸relse af enkle, afgrÃ¦nsede arbejdsopgaver som led i en samlet produktion af konkrete produkter. De konkrete arbejdsopgaver kan fx vÃ¦re fremstilling af produkter, herunder fx kunsthÃ¥ndvÃ¦rk, optÃ¦ndingsbrÃ¦nde, grÃ¸ntsager, produktion af avis og medier. Opgaverne kan eksempelvis omfatte montering, sortering, optÃ¦lling og pakning og kontrol af produkter. Visitationsparagraf: Serviceloven Â§ 103."
         } ]
       }, {
         "code": "1f0ff82b-3243-422f-9651-1d00fd2dcd61",
-        "display": "Socialpædagogisk støtte",
-        "definition": "Socialpædagogisk støtte er en ydelse, der gennem motivation, vejledning og støtte har til formål at udvikle eller fastholde en borgers funktionsevne og muligheder for selvstændighed og selvbestemmelse i forhold til borgerens situation. Socialpædagogisk støtte retter sig blandt andet mod udvikling og vedligeholdelse af færdigheder i forbindelse med almindelig daglig livsførelse, herunder at skabe struktur i hverdagen og understøtte deltagelse i samfundets almene fællesskaber, eksempelvis uddannelse, beskæftigelse og foreningsliv. Socialpædagogisk støtte kan også ydes med det formål at begrænse tabet af funktionsevne og at yde kompensation, omsorg og pleje. Lovhjemmel: Serviceloven § 85.",
+        "display": "SocialpÃ¦dagogisk stÃ¸tte",
+        "definition": "SocialpÃ¦dagogisk stÃ¸tte er en ydelse, der gennem motivation, vejledning og stÃ¸tte har til formÃ¥l at udvikle eller fastholde en borgers funktionsevne og muligheder for selvstÃ¦ndighed og selvbestemmelse i forhold til borgerens situation. SocialpÃ¦dagogisk stÃ¸tte retter sig blandt andet mod udvikling og vedligeholdelse af fÃ¦rdigheder i forbindelse med almindelig daglig livsfÃ¸relse, herunder at skabe struktur i hverdagen og understÃ¸tte deltagelse i samfundets almene fÃ¦llesskaber, eksempelvis uddannelse, beskÃ¦ftigelse og foreningsliv. SocialpÃ¦dagogisk stÃ¸tte kan ogsÃ¥ ydes med det formÃ¥l at begrÃ¦nse tabet af funktionsevne og at yde kompensation, omsorg og pleje. Lovhjemmel: Serviceloven Â§ 85.",
         "concept": [ {
           "code": "309b778e-52ed-448a-91ae-0650a6cd8b1b",
-          "display": "Støtte til samfundsdeltagelse",
-          "definition": "Støtte til samfundsdeltagelse er socialpædagogisk støtte, der retter sig mod aktiviteter, der er en forudsætning for at kunne deltage i samfundslivet. Visitationsparagraf: Serviceloven § 85.",
+          "display": "StÃ¸tte til samfundsdeltagelse",
+          "definition": "StÃ¸tte til samfundsdeltagelse er socialpÃ¦dagogisk stÃ¸tte, der retter sig mod aktiviteter, der er en forudsÃ¦tning for at kunne deltage i samfundslivet. Visitationsparagraf: Serviceloven Â§ 85.",
           "concept": [ {
             "code": "0886a1b6-4a3a-47e5-9c97-066270529e4f",
-            "display": "Støtte til transport",
-            "definition": "Socialpædagogisk støtte til transport er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgers mulighed for selvstændigt at færdes uden for hjemmet. Støtte til transport omfatter eksempelvis træning i at anvende offentlige transportmidler, fx at tage med bussen til og fra arbejde og uddannelse, behandling og lægebesøg eller aktiviteter af social karakter. Støtte til transport er ikke ledsagelse, men er rettet mod personens evne til at færdes selvstændigt. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til transport",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til transport er motivation, vejledning og stÃ¸tte til samfundsdeltagelse, der retter sig mod en borgers mulighed for selvstÃ¦ndigt at fÃ¦rdes uden for hjemmet. StÃ¸tte til transport omfatter eksempelvis trÃ¦ning i at anvende offentlige transportmidler, fx at tage med bussen til og fra arbejde og uddannelse, behandling og lÃ¦gebesÃ¸g eller aktiviteter af social karakter. StÃ¸tte til transport er ikke ledsagelse, men er rettet mod personens evne til at fÃ¦rdes selvstÃ¦ndigt. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "1a2daf63-0510-4bf3-8578-662d4300c965",
-            "display": "Støtte til uddannelse",
-            "definition": "Socialpædagogisk støtte til uddannelse er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgersmuligheder for at varetage en uddannelse. Støtte til uddannelse kan fx være at afdække ønsker og muligheder i forbindelse med uddannelse, etablering af hensigtsmæssige rutiner og struktur i forhold til at varetage en uddannelse samt at fastholde motivation og engagement. Herved adskiller støtte til uddannelse sig fra specialpædagogisk støtte under uddannelse efter Lov om specialpædagogisk støtte. Støtte til uddannelse er helt eller delvist sammenfaldende med mentorstøtte efter Lov om aktiv beskæftigelsesindsats § 31.b Med uddannelse menes både ordinær uddannelse såvel som uddannelse på særlige vilkår. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til uddannelse",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til uddannelse er motivation, vejledning og stÃ¸tte til samfundsdeltagelse, der retter sig mod en borgersmuligheder for at varetage en uddannelse. StÃ¸tte til uddannelse kan fx vÃ¦re at afdÃ¦kke Ã¸nsker og muligheder i forbindelse med uddannelse, etablering af hensigtsmÃ¦ssige rutiner og struktur i forhold til at varetage en uddannelse samt at fastholde motivation og engagement. Herved adskiller stÃ¸tte til uddannelse sig fra specialpÃ¦dagogisk stÃ¸tte under uddannelse efter Lov om specialpÃ¦dagogisk stÃ¸tte. StÃ¸tte til uddannelse er helt eller delvist sammenfaldende med mentorstÃ¸tte efter Lov om aktiv beskÃ¦ftigelsesindsats Â§ 31.b Med uddannelse menes bÃ¥de ordinÃ¦r uddannelse sÃ¥vel som uddannelse pÃ¥ sÃ¦rlige vilkÃ¥r. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "cb1169ee-8969-46d3-813d-f0dd555bd838",
-            "display": "Støtte til beskæftigelse",
-            "definition": "Socialpædagogisk støtte til beskæftigelse er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgers muligheder for at varetage et arbejde. Støtte til beskæftigelse kan fx være etablering af hensigtsmæssige rutiner og struktur i forhold til at varetage et arbejde samt at fastholde motivation og engagement. Støtte til beskæftigelse er helt eller delvist sammenfaldende med mentorstøtte efter Lov om aktiv beskæftigelsesindsats § 31.b. Med beskæftigelse menes både ordinær beskæftigelse og beskæftigelse på særlige vilkår. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til beskÃ¦ftigelse",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til beskÃ¦ftigelse er motivation, vejledning og stÃ¸tte til samfundsdeltagelse, der retter sig mod en borgers muligheder for at varetage et arbejde. StÃ¸tte til beskÃ¦ftigelse kan fx vÃ¦re etablering af hensigtsmÃ¦ssige rutiner og struktur i forhold til at varetage et arbejde samt at fastholde motivation og engagement. StÃ¸tte til beskÃ¦ftigelse er helt eller delvist sammenfaldende med mentorstÃ¸tte efter Lov om aktiv beskÃ¦ftigelsesindsats Â§ 31.b. Med beskÃ¦ftigelse menes bÃ¥de ordinÃ¦r beskÃ¦ftigelse og beskÃ¦ftigelse pÃ¥ sÃ¦rlige vilkÃ¥r. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "e2631dec-fd8b-420e-94db-53fd80e82766",
-            "display": "Støtte til kontakt til offentlige og private instanser",
-            "definition": "Socialpædagogisk støtte til kontakt til offentlige og private instanser er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod gennemførsel af besøg hos og kontakt til offentlige og private instanser med et specifikt formål. Støtte til kontakt til offentlige og private instanser kan fx være rettet mod at henvende sig hos banken, foreninger, organisationer og offentlige myndigheder. Det kan også være støtte til at gennemføre besøg fx hos lægen eller tandlægen. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til kontakt til offentlige og private instanser",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til kontakt til offentlige og private instanser er motivation, vejledning og stÃ¸tte til samfundsdeltagelse, der retter sig mod gennemfÃ¸rsel af besÃ¸g hos og kontakt til offentlige og private instanser med et specifikt formÃ¥l. StÃ¸tte til kontakt til offentlige og private instanser kan fx vÃ¦re rettet mod at henvende sig hos banken, foreninger, organisationer og offentlige myndigheder. Det kan ogsÃ¥ vÃ¦re stÃ¸tte til at gennemfÃ¸re besÃ¸g fx hos lÃ¦gen eller tandlÃ¦gen. Visitationsparagraf: Serviceloven Â§ 85."
           } ]
         }, {
           "code": "329782cf-a740-4eb7-aa7e-aaaa9a53c99e",
-          "display": "Støtte til sundhed",
-          "definition": "Støtte til sundhed er socialpædagogisk støtte, der retter sig mod et eller flere aspekter af sundhed og indeholder et element af sundhedsfremme. Sundhed omfatter både fysisk og mental trivsel. Visitationsparagraf: Serviceloven § 85.",
+          "display": "StÃ¸tte til sundhed",
+          "definition": "StÃ¸tte til sundhed er socialpÃ¦dagogisk stÃ¸tte, der retter sig mod et eller flere aspekter af sundhed og indeholder et element af sundhedsfremme. Sundhed omfatter bÃ¥de fysisk og mental trivsel. Visitationsparagraf: Serviceloven Â§ 85.",
           "concept": [ {
             "code": "3c1639d0-e486-43c6-8add-448b8aff4b8f",
-            "display": "Støtte til sund levevis",
-            "definition": "Socialpædagogisk støtte til sund levevis er motivation, vejledning og støtte til sundhed, der retter sig mod livsstilsbetingede forhold. Støtte til sund levevis kan fx være at dyrke motion, etablere en sund døgnrytme, stoppe med at ryge eller motivere borgeren til at spise sundt og hensigtsmæssigt, herunder støtte til måltider. Vejledende visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til sund levevis",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til sund levevis er motivation, vejledning og stÃ¸tte til sundhed, der retter sig mod livsstilsbetingede forhold. StÃ¸tte til sund levevis kan fx vÃ¦re at dyrke motion, etablere en sund dÃ¸gnrytme, stoppe med at ryge eller motivere borgeren til at spise sundt og hensigtsmÃ¦ssigt, herunder stÃ¸tte til mÃ¥ltider. Vejledende visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "72272d03-1774-4a14-b598-5f19b5eac83f",
-            "display": "Støtte til personlig hygiejne",
-            "definition": "Socialpædagogisk støtte til personlig hygiejne er motivation, vejledning og støtte til sundhed, der retter sig mod hygiejnemæssige opgaver i relation til borgeren selv. Støtte til personlig hygiejne kan fx være rettet mod etablering af struktur og rutiner i forbindelse med af- og påklædning og bad. Herved adskiller støtte til personlig hygiejne sig fra personlig hjælp efter serviceloven § 83. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til personlig hygiejne",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til personlig hygiejne er motivation, vejledning og stÃ¸tte til sundhed, der retter sig mod hygiejnemÃ¦ssige opgaver i relation til borgeren selv. StÃ¸tte til personlig hygiejne kan fx vÃ¦re rettet mod etablering af struktur og rutiner i forbindelse med af- og pÃ¥klÃ¦dning og bad. Herved adskiller stÃ¸tte til personlig hygiejne sig fra personlig hjÃ¦lp efter serviceloven Â§ 83. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "ad7755d2-11bf-468d-958b-2f0c8d9c3742",
-            "display": "Støtte til psykisk trivsel",
-            "definition": "Socialpædagogisk støtte til psykisk trivsel er motivation, vejledning og støtte til sundhed, der retter sig mod en borgers psykiske velbefindende. Støtte til psykisk trivsel kan fx være rettet mod en borgers følelsesregulering og handlemønstre, indsigt i og forståelse af egen situation, opbygning af positivt selvværd og identitet. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til psykisk trivsel",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til psykisk trivsel er motivation, vejledning og stÃ¸tte til sundhed, der retter sig mod en borgers psykiske velbefindende. StÃ¸tte til psykisk trivsel kan fx vÃ¦re rettet mod en borgers fÃ¸lelsesregulering og handlemÃ¸nstre, indsigt i og forstÃ¥else af egen situation, opbygning af positivt selvvÃ¦rd og identitet. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "bd5fea9a-16ed-4e63-b6a1-8e83caaf9b0b",
-            "display": "Støtte til seksualitet",
-            "definition": "Socialpædagogisk støtte til seksualitet er motivation, vejledning og støtte til sundhed, der retter sig mod den måde, som en borgers seksualitet kommer til udtryk på. Støtte til seksualitet kan fx være støtte til at udtrykke sin seksualitet hensigtsmæssigt eller sætte grænser. Det kan også være støtte til at opsøge specialiseret rådgivning og vejledning i forhold til seksualitet og funktionsnedsættelser. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til seksualitet",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til seksualitet er motivation, vejledning og stÃ¸tte til sundhed, der retter sig mod den mÃ¥de, som en borgers seksualitet kommer til udtryk pÃ¥. StÃ¸tte til seksualitet kan fx vÃ¦re stÃ¸tte til at udtrykke sin seksualitet hensigtsmÃ¦ssigt eller sÃ¦tte grÃ¦nser. Det kan ogsÃ¥ vÃ¦re stÃ¸tte til at opsÃ¸ge specialiseret rÃ¥dgivning og vejledning i forhold til seksualitet og funktionsnedsÃ¦ttelser. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "e7c8b42e-b882-4629-8e03-65e44b1aa3e3",
-            "display": "Støtte til behandling",
-            "definition": "Socialpædagogisk støtte til behandling er motivation, vejledning og støtte til sundhed, der retter sig mod en borgers behandling. Støtte til behandling kan fx være rettet mod, at borgeren fastholder beslutningen om at påbegynde behandling eller opretholder igangværende behandling, herunder fx misbrugsbehandling, psykologisk behandling og medicinsk behandling, Herved adskiller støtte til behandling sig fra ydelser efter Sundhedsloven § 138. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til behandling",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til behandling er motivation, vejledning og stÃ¸tte til sundhed, der retter sig mod en borgers behandling. StÃ¸tte til behandling kan fx vÃ¦re rettet mod, at borgeren fastholder beslutningen om at pÃ¥begynde behandling eller opretholder igangvÃ¦rende behandling, herunder fx misbrugsbehandling, psykologisk behandling og medicinsk behandling, Herved adskiller stÃ¸tte til behandling sig fra ydelser efter Sundhedsloven Â§ 138. Visitationsparagraf: Serviceloven Â§ 85."
           } ]
         }, {
           "code": "4ff4a2d4-4cde-4a22-bb37-ecfbd3fd9650",
-          "display": "Støtte til relationer og fællesskaber",
-          "definition": "Støtte til relationer og fællesskaber er socialpædagogisk støtte, der retter sig mod relationer og fællesskaber, hvor samspillet med andre er et centralt element. Visitationsparagraf: Serviceloven § 85.",
+          "display": "StÃ¸tte til relationer og fÃ¦llesskaber",
+          "definition": "StÃ¸tte til relationer og fÃ¦llesskaber er socialpÃ¦dagogisk stÃ¸tte, der retter sig mod relationer og fÃ¦llesskaber, hvor samspillet med andre er et centralt element. Visitationsparagraf: Serviceloven Â§ 85.",
           "concept": [ {
             "code": "05cd5e81-1a3a-4bdd-901b-7ec96c12d990",
-            "display": "Støtte til sociale relationer",
-            "definition": "Socialpædagogisk støtte til sociale relationer er motivation, vejledning og støtte til relationer og fællesskaber, der retter sig mod at udvikle, indgå i og bevare relationer til andre mennesker. Støtte til sociale relationer kan både være rettet mod en borgers relationer til enkeltpersoner eller på, hvordan en borger indgår i et større fællesskab. Støtte til sociale relationer kan både være hjælp til at håndtere de følelsesmæssige og sociale aspekter ved samværet, fx at håndtere følelser og problemstillinger i sociale sammenhænge, at skabe og fastholde netværk og at holde kontakt med venner og familie eller deltage i og gennemføre aktiviteter sammen med andre. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til sociale relationer",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til sociale relationer er motivation, vejledning og stÃ¸tte til relationer og fÃ¦llesskaber, der retter sig mod at udvikle, indgÃ¥ i og bevare relationer til andre mennesker. StÃ¸tte til sociale relationer kan bÃ¥de vÃ¦re rettet mod en borgers relationer til enkeltpersoner eller pÃ¥, hvordan en borger indgÃ¥r i et stÃ¸rre fÃ¦llesskab. StÃ¸tte til sociale relationer kan bÃ¥de vÃ¦re hjÃ¦lp til at hÃ¥ndtere de fÃ¸lelsesmÃ¦ssige og sociale aspekter ved samvÃ¦ret, fx at hÃ¥ndtere fÃ¸lelser og problemstillinger i sociale sammenhÃ¦nge, at skabe og fastholde netvÃ¦rk og at holde kontakt med venner og familie eller deltage i og gennemfÃ¸re aktiviteter sammen med andre. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "ea47a198-7e24-472d-ba5d-132b8b744710",
-            "display": "Støtte til varetagelse af forældrerollen",
-            "definition": "Socialpædagogisk støtte til varetagelse af forældrerollen er motivation, vejledning og støtte til relationer og fællesskaber, der retter sig mod strukturering og håndtering af opgaver, som er en almindelig del af forældreansvaret, og hvor samværet mellem barn og forælder er centralt. Støtten tildeles på baggrund af borgerens nedsatte funktionsevne i forhold til at gennemføre de opgaver, der indgår i varetagelse af forældrerollen og ikke grundet manglende forældreevne. Herved adskiller støtte til varetagelse af forældrerollen sig fra foranstaltninger efter Serviceloven § 52, hvor fokus er på barnets trivsel. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til varetagelse af forÃ¦ldrerollen",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til varetagelse af forÃ¦ldrerollen er motivation, vejledning og stÃ¸tte til relationer og fÃ¦llesskaber, der retter sig mod strukturering og hÃ¥ndtering af opgaver, som er en almindelig del af forÃ¦ldreansvaret, og hvor samvÃ¦ret mellem barn og forÃ¦lder er centralt. StÃ¸tten tildeles pÃ¥ baggrund af borgerens nedsatte funktionsevne i forhold til at gennemfÃ¸re de opgaver, der indgÃ¥r i varetagelse af forÃ¦ldrerollen og ikke grundet manglende forÃ¦ldreevne. Herved adskiller stÃ¸tte til varetagelse af forÃ¦ldrerollen sig fra foranstaltninger efter Serviceloven Â§ 52, hvor fokus er pÃ¥ barnets trivsel. Visitationsparagraf: Serviceloven Â§ 85."
           } ]
         }, {
           "code": "a63f7092-63d9-4cb5-ace5-655b552fdacc",
-          "display": "Støtte til praktiske opgaver",
-          "definition": "Støtte til praktiske opgaver er socialpædagogisk støtte, der retter sig imod almindelige praktiske opgaver. Støtte til praktiske opgaver består af motivation, vejledning og støtte til udførelsen af de praktiske opgaver, herunder udvikling og vedligeholdelse af kompetencer til at strukturere, planlægge og udføre de konkrete aktiviteter. Herved adskiller støtte til praktiske opgaver sig fra praktisk hjælp efter § 83. Visitationsparagraf: Serviceloven § 85.",
+          "display": "StÃ¸tte til praktiske opgaver",
+          "definition": "StÃ¸tte til praktiske opgaver er socialpÃ¦dagogisk stÃ¸tte, der retter sig imod almindelige praktiske opgaver. StÃ¸tte til praktiske opgaver bestÃ¥r af motivation, vejledning og stÃ¸tte til udfÃ¸relsen af de praktiske opgaver, herunder udvikling og vedligeholdelse af kompetencer til at strukturere, planlÃ¦gge og udfÃ¸re de konkrete aktiviteter. Herved adskiller stÃ¸tte til praktiske opgaver sig fra praktisk hjÃ¦lp efter Â§ 83. Visitationsparagraf: Serviceloven Â§ 85.",
           "concept": [ {
             "code": "638f44df-6bf2-47f8-9935-b8fdc83e5bf5",
-            "display": "Støtte til daglige opgaver i hjemmet",
-            "definition": "Socialpædagogisk støtte til daglige opgaver i hjemmet er motivation, vejledning og støtte til praktiske opgaver, der har hverdagskarakter og retter sig mod borgerens hjem. Støtte til daglige opgaver i hjemmet kan eksempelvis være støtte til oprydning, tøjvask, rengøring eller indkøb og madlavning. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til daglige opgaver i hjemmet",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til daglige opgaver i hjemmet er motivation, vejledning og stÃ¸tte til praktiske opgaver, der har hverdagskarakter og retter sig mod borgerens hjem. StÃ¸tte til daglige opgaver i hjemmet kan eksempelvis vÃ¦re stÃ¸tte til oprydning, tÃ¸jvask, rengÃ¸ring eller indkÃ¸b og madlavning. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "c56634ca-6847-4c50-b5c1-c528c1ffc1d8",
-            "display": "Støtte til etablering i bolig",
-            "definition": "Socialpædagogisk støtte til etablering i bolig er motivation, vejledning og støtte til praktiske opgaver, der retter sig mod anskaffelse af og etablering i borgerens bolig. Et eksempel på støtte til etablering i bolig er at søge efter en bolig eller at guide og motivere i forbindelse med ind- og udflytning fx i forbindelse med planlægning, strukturering og gennemførsel af praktiske opgaver og indretning af boligen til borgerens behov. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til etablering i bolig",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til etablering i bolig er motivation, vejledning og stÃ¸tte til praktiske opgaver, der retter sig mod anskaffelse af og etablering i borgerens bolig. Et eksempel pÃ¥ stÃ¸tte til etablering i bolig er at sÃ¸ge efter en bolig eller at guide og motivere i forbindelse med ind- og udflytning fx i forbindelse med planlÃ¦gning, strukturering og gennemfÃ¸rsel af praktiske opgaver og indretning af boligen til borgerens behov. Visitationsparagraf: Serviceloven Â§ 85."
           }, {
             "code": "d473dea2-4f6d-4f36-a8f0-260f0213f50a",
-            "display": "Støtte til administration",
-            "definition": "Socialpædagogisk støtte til administration er motivation, vejledning og støtte til praktiske opgaver af administrativ eller økonomisk karakter. Støtte til administration kan fx være rettet mod borgerens håndtering og forståelse af post, herunder digital post og selvbetjeningsløsninger, personlig økonomi, herunder budget, opsparing og regninger, samt opdatering og anvendelse af software eller apps, herunder digitaliserede hjælpemidler. Visitationsparagraf: Serviceloven § 85."
+            "display": "StÃ¸tte til administration",
+            "definition": "SocialpÃ¦dagogisk stÃ¸tte til administration er motivation, vejledning og stÃ¸tte til praktiske opgaver af administrativ eller Ã¸konomisk karakter. StÃ¸tte til administration kan fx vÃ¦re rettet mod borgerens hÃ¥ndtering og forstÃ¥else af post, herunder digital post og selvbetjeningslÃ¸sninger, personlig Ã¸konomi, herunder budget, opsparing og regninger, samt opdatering og anvendelse af software eller apps, herunder digitaliserede hjÃ¦lpemidler. Visitationsparagraf: Serviceloven Â§ 85."
           } ]
         } ]
       }, {
         "code": "21dca9cf-c238-465b-9f12-15351f51b038",
-        "display": "Forebyggende hjælp og støtte",
-        "definition": "Forebyggende hjælp og støtte er en ydelse til voksne, der retter sig mod personer med lettere fysisk elle psykisk funktionsnedsættelse eller lettere sociale problemer og personer, der er i risiko for at udvikle funktionsnedsættelse eller sociale problemer. Forebyggende hjælp og støtte har til formål at forbedre personens aktuelle funktionsniveau eller den sociale problematik, eller forebygge at funktionsnedsættelsen eller de sociale problemer udvikles eller forværres.",
+        "display": "Forebyggende hjÃ¦lp og stÃ¸tte",
+        "definition": "Forebyggende hjÃ¦lp og stÃ¸tte er en ydelse til voksne, der retter sig mod personer med lettere fysisk elle psykisk funktionsnedsÃ¦ttelse eller lettere sociale problemer og personer, der er i risiko for at udvikle funktionsnedsÃ¦ttelse eller sociale problemer. Forebyggende hjÃ¦lp og stÃ¸tte har til formÃ¥l at forbedre personens aktuelle funktionsniveau eller den sociale problematik, eller forebygge at funktionsnedsÃ¦ttelsen eller de sociale problemer udvikles eller forvÃ¦rres.",
         "concept": [ {
           "code": "3459f530-7334-48c4-9037-53bf80df8851",
-          "display": "Gruppebaseret hjælp og støtte",
-          "definition": "Gruppebaseret hjælp og støtte er forebyggende hjælp og støtte, der leveres til en gruppe af personer og kan fx bestå i træning, hjælp og støtte til udvikling af færdigheder, mestringskurser eller gruppesamtaler."
+          "display": "Gruppebaseret hjÃ¦lp og stÃ¸tte",
+          "definition": "Gruppebaseret hjÃ¦lp og stÃ¸tte er forebyggende hjÃ¦lp og stÃ¸tte, der leveres til en gruppe af personer og kan fx bestÃ¥ i trÃ¦ning, hjÃ¦lp og stÃ¸tte til udvikling af fÃ¦rdigheder, mestringskurser eller gruppesamtaler."
         }, {
           "code": "f3edac43-d0d6-4cc3-96c7-4658a557257a",
-          "display": "Akut rådgivning, omsorg og støtte",
-          "definition": "Akut rådgivning, omsorg eller støtte er forebyggende hjælp og støtte, der retter sig mod personer med psykiske vanskeligheder, der akut har brug for rådgivning, omsorg eller støtte. Ved akut forstås, at behovet er opstået pludseligt, og at det kræver øjeblikkelig levering af en given ydelse, der kan hindre forværring af eller stabilisere personens funktionsevne eller hindre, at sociale problemer forværres. Akut rådgivning, omsorg eller støtte kan fx leveres som telefonisk kontakt eller ved fremmøde, når en person møder op på et tilbud ved akut opstået behov."
+          "display": "Akut rÃ¥dgivning, omsorg og stÃ¸tte",
+          "definition": "Akut rÃ¥dgivning, omsorg eller stÃ¸tte er forebyggende hjÃ¦lp og stÃ¸tte, der retter sig mod personer med psykiske vanskeligheder, der akut har brug for rÃ¥dgivning, omsorg eller stÃ¸tte. Ved akut forstÃ¥s, at behovet er opstÃ¥et pludseligt, og at det krÃ¦ver Ã¸jeblikkelig levering af en given ydelse, der kan hindre forvÃ¦rring af eller stabilisere personens funktionsevne eller hindre, at sociale problemer forvÃ¦rres. Akut rÃ¥dgivning, omsorg eller stÃ¸tte kan fx leveres som telefonisk kontakt eller ved fremmÃ¸de, nÃ¥r en person mÃ¸der op pÃ¥ et tilbud ved akut opstÃ¥et behov."
         }, {
           "code": "fe42f8f4-d516-4bab-b006-12b0cd186603",
-          "display": "Individuel tidsbegrænset socialpædagogisk hjælp og støtte",
-          "definition": "Individuel, tidsbegrænset socialpædagogisk hjælp og støtte er forebyggende hjælp og støtte, der leveres i en på forhånd afgrænset periode til enkeltpersoner. Individuel tidsbegrænset socialpædagogisk hjælp og støtte kan gives i en periode på op til seks måneder med det formål at udvikle, forbedre eller forebygge tab af personens funktionsevne og muligheder for selvstændighed og selvbestemmelse i forhold til personens situation."
+          "display": "Individuel tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte",
+          "definition": "Individuel, tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte er forebyggende hjÃ¦lp og stÃ¸tte, der leveres i en pÃ¥ forhÃ¥nd afgrÃ¦nset periode til enkeltpersoner. Individuel tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte kan gives i en periode pÃ¥ op til seks mÃ¥neder med det formÃ¥l at udvikle, forbedre eller forebygge tab af personens funktionsevne og muligheder for selvstÃ¦ndighed og selvbestemmelse i forhold til personens situation."
         }, {
           "code": "794ebc42-0639-46eb-aca2-40e996568578",
-          "display": "Hjælp og støtte etableret i samarbejde med frivillige",
-          "definition": "Hjælp og støtte etableret i samarbejde med frivillige er forebyggende hjælp og støtte, der leveres i samarbejde med frivillige sociale organisationer eller foreninger. Hjælp og støtte etableret i samarbejde med frivillige kan konkret leveres som henholdsvis gruppebaseret hjælp og støtte efter § 82a og individuel tidsbegrænset socialpædagogisk hjælp og støtte efter § 82 b.",
+          "display": "HjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige",
+          "definition": "HjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige er forebyggende hjÃ¦lp og stÃ¸tte, der leveres i samarbejde med frivillige sociale organisationer eller foreninger. HjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige kan konkret leveres som henholdsvis gruppebaseret hjÃ¦lp og stÃ¸tte efter Â§ 82a og individuel tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte efter Â§ 82 b.",
           "concept": [ {
             "code": "b6e1f331-fccf-4a33-8bb6-566546edc405",
-            "display": "Gruppebaseret hjælp og støtte etableret i samarbejde med frivillige",
-            "definition": "Hjælp og støtte etableret i samarbejde med frivillige der konkret leveres som gruppebaseret hjælp og støtte efter § 82a"
+            "display": "Gruppebaseret hjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige",
+            "definition": "HjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige der konkret leveres som gruppebaseret hjÃ¦lp og stÃ¸tte efter Â§ 82a"
           }, {
             "code": "d580bcb7-145a-4346-8e99-d387bbf08a40",
-            "display": "Individuel tidsbegrænset socialpædagogisk hjælp og støtte leveret i samarbejde med frivillige",
-            "definition": "Hjælp og støtte etableret i samarbejde med frivillige der konkret leveres som individuel tidsbegrænset socialpædagogisk hjælp og støtte efter § 82 b."
+            "display": "Individuel tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte leveret i samarbejde med frivillige",
+            "definition": "HjÃ¦lp og stÃ¸tte etableret i samarbejde med frivillige der konkret leveres som individuel tidsbegrÃ¦nset socialpÃ¦dagogisk hjÃ¦lp og stÃ¸tte efter Â§ 82 b."
           } ]
         } ]
       } ]
@@ -214,32 +214,32 @@
       "concept": [ {
         "code": "5ea75f09-8eec-4edc-aafd-a330a523c33e",
         "display": "Socialt akuttilbud",
-        "definition": "Et socialt akuttilbud er et tilbud til voksne, der retter sig mod personer med psykiske vanskeligheder, herunder psykisk sårbare, der oplever et akut behov for rådgivning, omsorg, støtte eller akut ophold, men som ikke har umiddelbart behov for psykiatrisk behandling. Ved akut behov forstås almindeligvis et behov, der er pludseligt opstået, og som fordrer øjeblikkelig levering af en given ydelse, der kan hindre forværring af eller stabilisere personens funktionsevne eller hindre, at sociale problemer forværres. Personen kan henvende sig anonymt og uanset aktuel boform."
+        "definition": "Et socialt akuttilbud er et tilbud til voksne, der retter sig mod personer med psykiske vanskeligheder, herunder psykisk sÃ¥rbare, der oplever et akut behov for rÃ¥dgivning, omsorg, stÃ¸tte eller akut ophold, men som ikke har umiddelbart behov for psykiatrisk behandling. Ved akut behov forstÃ¥s almindeligvis et behov, der er pludseligt opstÃ¥et, og som fordrer Ã¸jeblikkelig levering af en given ydelse, der kan hindre forvÃ¦rring af eller stabilisere personens funktionsevne eller hindre, at sociale problemer forvÃ¦rres. Personen kan henvende sig anonymt og uanset aktuel boform."
       }, {
         "code": "d90f4da6-f87a-43b5-833f-646b4baf16d6",
         "display": "Mobilt tilbud",
-        "definition": "Et mobilt tilbud er et tilbud, der ikke leverer ydelser til en borger på en bestemt matrikel, men flyttes ud, der hvor borgeren opholder sig. Det kan eksempelvis være i borgerens eget hjem, på et dagtilbud, et frivilligt tilbud eller i det offentlige rum, fx i forhold til hjemløse. Et mobilt tilbud leverer ydelser til borgere med nedsat fysisk eller psykisk funktionsevne eller sociale problemer, men som ikke har behov for et midlertidigt eller længerevarende ophold. Vejledende lovhjemmel: Serviceloven § 82a, § 82b, §82d, § 85"
+        "definition": "Et mobilt tilbud er et tilbud, der ikke leverer ydelser til en borger pÃ¥ en bestemt matrikel, men flyttes ud, der hvor borgeren opholder sig. Det kan eksempelvis vÃ¦re i borgerens eget hjem, pÃ¥ et dagtilbud, et frivilligt tilbud eller i det offentlige rum, fx i forhold til hjemlÃ¸se. Et mobilt tilbud leverer ydelser til borgere med nedsat fysisk eller psykisk funktionsevne eller sociale problemer, men som ikke har behov for et midlertidigt eller lÃ¦ngerevarende ophold. Vejledende lovhjemmel: Serviceloven Â§ 82a, Â§ 82b, Â§82d, Â§ 85"
       }, {
         "code": "7fec7d14-addb-4684-9637-403739de6228",
         "display": "Dagtilbud til voksne",
-        "definition": "Et dagtilbud til voksne er et tilbud, der udelukkende leverer ydelser til en borger i dagtimerne. Dagtilbud adskiller sig fra ambulante tilbud ved varigheden af de ydelser, som leveres i tilbuddet, dvs. borgeren opholder sig i længere tid på dagtilbuddet. Et dagtilbud til voksne kan fx være et aktivitets- og samværstilbud eller et beskyttet beskæftigelsestilbud.",
+        "definition": "Et dagtilbud til voksne er et tilbud, der udelukkende leverer ydelser til en borger i dagtimerne. Dagtilbud adskiller sig fra ambulante tilbud ved varigheden af de ydelser, som leveres i tilbuddet, dvs. borgeren opholder sig i lÃ¦ngere tid pÃ¥ dagtilbuddet. Et dagtilbud til voksne kan fx vÃ¦re et aktivitets- og samvÃ¦rstilbud eller et beskyttet beskÃ¦ftigelsestilbud.",
         "concept": [ {
           "code": "9401777d-bdc5-4f52-9804-63c8cae9a792",
-          "display": "Aktivitets- og samværstilbud",
-          "definition": "Et aktivitets- og samværstilbud er et dagtilbud til voksne, der gennem aktivitets- og samværsydelser fremmer socialt samvær eller tilbyder et miljøskift. Et aktivitets- og samværstilbud kan også levere andre ydelser ud over aktivitets- og samværsydelser. Begrebet dækker også uvisiterede væresteder og varmestuer. Lovhjemmel: Serviceloven § 104"
+          "display": "Aktivitets- og samvÃ¦rstilbud",
+          "definition": "Et aktivitets- og samvÃ¦rstilbud er et dagtilbud til voksne, der gennem aktivitets- og samvÃ¦rsydelser fremmer socialt samvÃ¦r eller tilbyder et miljÃ¸skift. Et aktivitets- og samvÃ¦rstilbud kan ogsÃ¥ levere andre ydelser ud over aktivitets- og samvÃ¦rsydelser. Begrebet dÃ¦kker ogsÃ¥ uvisiterede vÃ¦resteder og varmestuer. Lovhjemmel: Serviceloven Â§ 104"
         }, {
           "code": "a0fb02a2-367c-48bc-bacd-92e49a861a4c",
-          "display": "Beskyttet beskæftigelsestilbud",
-          "definition": "Et beskyttet beskæftigelsestilbud er et dagtilbud til voksne, der leverer beskyttet beskæftigelses-ydelser med fokus på arbejdsevne og beskæftigelsesrelevante kompetencer til borgere, der ikke kan opnå eller fastholde beskæftigelse på normale vilkår på arbejdsmarkedet eller benytte arbejdsmarkedsrelaterede indsatser efter anden lovgivning. Lovhjemmel: Serviceloven § 103"
+          "display": "Beskyttet beskÃ¦ftigelsestilbud",
+          "definition": "Et beskyttet beskÃ¦ftigelsestilbud er et dagtilbud til voksne, der leverer beskyttet beskÃ¦ftigelses-ydelser med fokus pÃ¥ arbejdsevne og beskÃ¦ftigelsesrelevante kompetencer til borgere, der ikke kan opnÃ¥ eller fastholde beskÃ¦ftigelse pÃ¥ normale vilkÃ¥r pÃ¥ arbejdsmarkedet eller benytte arbejdsmarkedsrelaterede indsatser efter anden lovgivning. Lovhjemmel: Serviceloven Â§ 103"
         } ]
       }, {
         "code": "d23e3e8a-7fcf-4603-9d75-481b6e47e0eb",
         "display": "Botilbudslignende tilbud",
-        "definition": "Et botilbudslignende tilbud er et tilbud, der ligner botilbud efter servicelovens § 107 eller § 108, men som er etableret efter anden lovgivning og opfylder betingelserne i socialtilsynsloven § 4, stk. 3. Den borger, der bor i et botilbudslignende tilbud, har lejeforhold efter den almene lejelov og bor i boligen på grund af nedsat fysisk eller psykisk funktionsevne eller særlige sociale problemer. De botilbudslignende tilbud adskiller sig desuden fra udgående tilbud efter servicelovens § 85 ved, at der er knyttet et serviceareal til boligen med fast personale, der overvejende leverer socialpædagogisk støtte. Begrebet omfatter ikke friplejeboliger. Vejledende lovhjemmel: Socialtilsynsloven § 4, stk. 1, nr. 3.",
+        "definition": "Et botilbudslignende tilbud er et tilbud, der ligner botilbud efter servicelovens Â§ 107 eller Â§ 108, men som er etableret efter anden lovgivning og opfylder betingelserne i socialtilsynsloven Â§ 4, stk. 3. Den borger, der bor i et botilbudslignende tilbud, har lejeforhold efter den almene lejelov og bor i boligen pÃ¥ grund af nedsat fysisk eller psykisk funktionsevne eller sÃ¦rlige sociale problemer. De botilbudslignende tilbud adskiller sig desuden fra udgÃ¥ende tilbud efter servicelovens Â§ 85 ved, at der er knyttet et serviceareal til boligen med fast personale, der overvejende leverer socialpÃ¦dagogisk stÃ¸tte. Begrebet omfatter ikke friplejeboliger. Vejledende lovhjemmel: Socialtilsynsloven Â§ 4, stk. 1, nr. 3.",
         "concept": [ {
           "code": "a7cbf55b-6906-4b2a-872e-c48b4d728837",
-          "display": "Almen ældre- og handicapvenlig bolig",
-          "definition": "En almen ældre- og handicapvenlig bolig er et botilbudslignende tilbud, der er oprettet som almennyttig bolig, og som retter sig mod ældre borgere og borgere med fysisk eller psykisk funktionsnedsættelse. I lovgivningen og vejledninger omtales de som \"almene ældreboliger\", men de kan rette sig både mod ældre borgere og mod borgere med nedsat fysisk eller psykisk funktionsevne. Lovhjemmel: Almenboligloven § 105"
+          "display": "Almen Ã¦ldre- og handicapvenlig bolig",
+          "definition": "En almen Ã¦ldre- og handicapvenlig bolig er et botilbudslignende tilbud, der er oprettet som almennyttig bolig, og som retter sig mod Ã¦ldre borgere og borgere med fysisk eller psykisk funktionsnedsÃ¦ttelse. I lovgivningen og vejledninger omtales de som \"almene Ã¦ldreboliger\", men de kan rette sig bÃ¥de mod Ã¦ldre borgere og mod borgere med nedsat fysisk eller psykisk funktionsevne. Lovhjemmel: Almenboligloven Â§ 105"
         } ]
       }, {
         "code": "2ecfcfe5-10ed-4934-a744-f18ce30b1619",
@@ -248,86 +248,86 @@
         "concept": [ {
           "code": "25de7444-3919-4dab-b844-8cec6c15f30e",
           "display": "Midlertidigt botilbud til voksne",
-          "definition": "Et midlertidigt botilbud til voksne er et botilbud til voksne, der retter sig mod borgere, som har midlertidig behov for støtte og hjælp, og som på sigt forventeligt kan få disse behov dækket på anden vis. Lovhjemmel: Serviceloven § 107"
+          "definition": "Et midlertidigt botilbud til voksne er et botilbud til voksne, der retter sig mod borgere, som har midlertidig behov for stÃ¸tte og hjÃ¦lp, og som pÃ¥ sigt forventeligt kan fÃ¥ disse behov dÃ¦kket pÃ¥ anden vis. Lovhjemmel: Serviceloven Â§ 107"
         }, {
           "code": "96c97f55-a11b-47f8-aa52-6fdae4e804c2",
-          "display": "Længerevarende botilbud til voksne",
-          "definition": "Et længerevarende botilbud til voksne er et botilbud til voksne, der retter sig imod borgere, som har længerevarende behov for omfattende støtte og ophold, og som ikke kan få dækket disse behov på anden vis. Lovhjemmel: Serviceloven § 108",
+          "display": "LÃ¦ngerevarende botilbud til voksne",
+          "definition": "Et lÃ¦ngerevarende botilbud til voksne er et botilbud til voksne, der retter sig imod borgere, som har lÃ¦ngerevarende behov for omfattende stÃ¸tte og ophold, og som ikke kan fÃ¥ dÃ¦kket disse behov pÃ¥ anden vis. Lovhjemmel: Serviceloven Â§ 108",
           "concept": [ {
             "code": "070016aa-e164-4813-aca5-b75acab89d63",
-            "display": "Sikret længerevarende botilbud til voksne",
-            "definition": "Et sikret botilbud er et længerevarende botilbud til voksne, som har længerevarende behov for omfattende støtte og ophold, og som ikke kan få dækket disse behov på anden vis. Et sikret botilbud omfatter mindst én afdeling eller lejlighed, som er godkendt til at have yderdøre og vinduer aflåst, og det modtager borgere i henhold til dom eller retskendelse. Lovhjemmel: Serviceloven § 108, stk. 7, nr. 1-3"
+            "display": "Sikret lÃ¦ngerevarende botilbud til voksne",
+            "definition": "Et sikret botilbud er et lÃ¦ngerevarende botilbud til voksne, som har lÃ¦ngerevarende behov for omfattende stÃ¸tte og ophold, og som ikke kan fÃ¥ dÃ¦kket disse behov pÃ¥ anden vis. Et sikret botilbud omfatter mindst Ã©n afdeling eller lejlighed, som er godkendt til at have yderdÃ¸re og vinduer aflÃ¥st, og det modtager borgere i henhold til dom eller retskendelse. Lovhjemmel: Serviceloven Â§ 108, stk. 7, nr. 1-3"
           }, {
             "code": "498fe92c-d7f7-41cd-9404-5b38fe113be0",
-            "display": "Almindeligt længerevarende botilbud til voksne",
-            "definition": "Et almindeligt længerevarende botilbud til voksne er et ikke-sikret, længerevarende botilbud til voksne, der retter sig mod borgere, som har længerevarende behov for omfattende støtte og ophold, og som ikke kan få dækket disse behov på anden vis. Lovhjemmel: Servicelovens § 108 stk. 1"
+            "display": "Almindeligt lÃ¦ngerevarende botilbud til voksne",
+            "definition": "Et almindeligt lÃ¦ngerevarende botilbud til voksne er et ikke-sikret, lÃ¦ngerevarende botilbud til voksne, der retter sig mod borgere, som har lÃ¦ngerevarende behov for omfattende stÃ¸tte og ophold, og som ikke kan fÃ¥ dÃ¦kket disse behov pÃ¥ anden vis. Lovhjemmel: Servicelovens Â§ 108 stk. 1"
           } ]
         } ]
       } ]
     }, {
       "code": "cda90d67-f65a-4a34-b8d8-168ee9ff0949",
-      "display": "Målgruppe",
-      "definition": "En målgruppe er en gruppe, hvis medlemmer en indsats er rettet imod.",
+      "display": "MÃ¥lgruppe",
+      "definition": "En mÃ¥lgruppe er en gruppe, hvis medlemmer en indsats er rettet imod.",
       "concept": [ {
         "code": "0919515d-9975-4743-a16f-edb45374b0da",
         "display": "Socialt problem",
-        "definition": "Et socialt problem er en tilstand, som er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Ligesom det gør sig gældende for funktionsevnenedsættelse er også karakteren og rækkevidden af et socialt problem relativ til både personen selv og det omkringliggende samfund (dvs. personlige og omgivelsesmæssige faktorer). Socialt problem udgør sammen med nedsat fysisk og psykisk funktionsevne de tre overordnede målgrupper, som kan modtage ydelser efter Serviceloven.",
+        "definition": "Et socialt problem er en tilstand, som er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Ligesom det gÃ¸r sig gÃ¦ldende for funktionsevnenedsÃ¦ttelse er ogsÃ¥ karakteren og rÃ¦kkevidden af et socialt problem relativ til bÃ¥de personen selv og det omkringliggende samfund (dvs. personlige og omgivelsesmÃ¦ssige faktorer). Socialt problem udgÃ¸r sammen med nedsat fysisk og psykisk funktionsevne de tre overordnede mÃ¥lgrupper, som kan modtage ydelser efter Serviceloven.",
         "concept": [ {
           "code": "122f3f8e-84a0-476f-b9c5-0e40b1dcf113",
           "display": "Prostitution",
-          "definition": "Prostitution er en handling, hvor mindst to handlende personer på markedsmæssige betingelser henholdsvis køber og sælger en prostitutionsydelse mod betaling. Prostitution som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Den tankemæssige forestilling om fænomenet prostitution er værdineutral. Inden for Servicelovens område er prostitution benævnt som type af socialt problem, men hvorvidt prostitution udgør et problem for den enkelte må afgøres på individniveau. Begrebet omfatter ikke forhold, der falder under de strafferetlige regler, fx køb af seksuelle ydelser, der sælges af unge under 18 år, eller det fænomen, at personer tvinges af andre til at sælge seksuelle ydelser."
+          "definition": "Prostitution er en handling, hvor mindst to handlende personer pÃ¥ markedsmÃ¦ssige betingelser henholdsvis kÃ¸ber og sÃ¦lger en prostitutionsydelse mod betaling. Prostitution som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Den tankemÃ¦ssige forestilling om fÃ¦nomenet prostitution er vÃ¦rdineutral. Inden for Servicelovens omrÃ¥de er prostitution benÃ¦vnt som type af socialt problem, men hvorvidt prostitution udgÃ¸r et problem for den enkelte mÃ¥ afgÃ¸res pÃ¥ individniveau. Begrebet omfatter ikke forhold, der falder under de strafferetlige regler, fx kÃ¸b af seksuelle ydelser, der sÃ¦lges af unge under 18 Ã¥r, eller det fÃ¦nomen, at personer tvinges af andre til at sÃ¦lge seksuelle ydelser."
         }, {
           "code": "16075f99-3694-4878-a48d-b2f4b515cb76",
           "display": "Social isolation",
-          "definition": "Social isolation er en tilstand, hvor en person føler sig afsondret fra omverdenen."
+          "definition": "Social isolation er en tilstand, hvor en person fÃ¸ler sig afsondret fra omverdenen."
         }, {
           "code": "293bf940-c075-4e3d-b5ef-6e331202e556",
-          "display": "Hjemløshed",
-          "definition": "Hjemløshed er tilstand, hvor en person ikke har en bolig. Hjemløshed som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Begrebet dækker både husvilde, dvs. personer, der ikke har en bolig, og funktionelt hjemløse, dvs. personer, der har en bolig, men af den ene eller anden grund ikke kan opholde sig i den."
+          "display": "HjemlÃ¸shed",
+          "definition": "HjemlÃ¸shed er tilstand, hvor en person ikke har en bolig. HjemlÃ¸shed som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Begrebet dÃ¦kker bÃ¥de husvilde, dvs. personer, der ikke har en bolig, og funktionelt hjemlÃ¸se, dvs. personer, der har en bolig, men af den ene eller anden grund ikke kan opholde sig i den."
         }, {
           "code": "3b166cb0-df17-4002-a4c4-69e9a943645c",
-          "display": "Indadreagerende adfærd",
-          "definition": "Indadreagerende er en adfærd, hvor en person er præget af en lukket og indadrettet opførsel. Indadreagerende adfærd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
+          "display": "Indadreagerende adfÃ¦rd",
+          "definition": "Indadreagerende er en adfÃ¦rd, hvor en person er prÃ¦get af en lukket og indadrettet opfÃ¸rsel. Indadreagerende adfÃ¦rd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
         }, {
           "code": "3e3f5ebf-82c1-401b-ab5e-e6138a31da3a",
-          "display": "Selvskadende adfærd",
-          "definition": "Selvskadende adfærd er adfærd, hvor en person intentionelt påfører eller kan påføre sig selv fysisk eller psykisk skade. Selvskadende adfærd som socialt problem, er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
+          "display": "Selvskadende adfÃ¦rd",
+          "definition": "Selvskadende adfÃ¦rd er adfÃ¦rd, hvor en person intentionelt pÃ¥fÃ¸rer eller kan pÃ¥fÃ¸re sig selv fysisk eller psykisk skade. Selvskadende adfÃ¦rd som socialt problem, er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
         }, {
           "code": "5e95db73-4d16-4084-93a3-595c0650b160",
-          "display": "Selvmordstanker eller -forsøg",
-          "definition": "Selvmordstanker eller -forsøg er en tilstand, hvor en person har tanker om at tage sit eget liv eller har forsøgt at begå selvmord."
+          "display": "Selvmordstanker eller -forsÃ¸g",
+          "definition": "Selvmordstanker eller -forsÃ¸g er en tilstand, hvor en person har tanker om at tage sit eget liv eller har forsÃ¸gt at begÃ¥ selvmord."
         }, {
           "code": "66fac925-3488-43b3-8e50-4510d3821b37",
           "display": "Andet socialt problem",
-          "definition": "socialt problem, der ikke er omfattet af en af de øvrige kategorier under socialt problem"
+          "definition": "socialt problem, der ikke er omfattet af en af de Ã¸vrige kategorier under socialt problem"
         }, {
           "code": "6fd0f315-2297-4d66-b638-3f867a0900e0",
-          "display": "Seksuelt krænkende adfærd",
-          "definition": "Seksuelt krænkende adfærd, er adfærd, hvor en person udsætter andre for grænseoverskridende seksuelle handlinger eller seksuelt overgreb. Seksuelt krænkende adfærd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
+          "display": "Seksuelt krÃ¦nkende adfÃ¦rd",
+          "definition": "Seksuelt krÃ¦nkende adfÃ¦rd, er adfÃ¦rd, hvor en person udsÃ¦tter andre for grÃ¦nseoverskridende seksuelle handlinger eller seksuelt overgreb. Seksuelt krÃ¦nkende adfÃ¦rd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
         }, {
           "code": "e1b59a4a-9cc2-4113-a5f1-84af588b02a2",
-          "display": "Udadreagerende adfærd",
-          "definition": "Udadreagerende adfærd er adfærd, der opleves aggressiv eller voldsom af omgivelserne. Udadreagerende adfærd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
+          "display": "Udadreagerende adfÃ¦rd",
+          "definition": "Udadreagerende adfÃ¦rd er adfÃ¦rd, der opleves aggressiv eller voldsom af omgivelserne. Udadreagerende adfÃ¦rd som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret."
         }, {
           "code": "f1f4d709-19d2-48cc-8942-231bf912323d",
           "display": "Omsorgssvigt",
-          "definition": "Omsorgssvigt er en tilstand, hvor en person, der er afhængig af andre personer, ikke får den omsorg og hjælp, som denne har brug for. Omsorgssvigt som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Omsorgssvigt kan omfatte fysisk omsorgssvigt, fx utilstrækkelig ernæring, beklædning og hygiejne og psykisk omsorgssvigt, fx manglende følelsesmæssig eller intellektuel stimulation eller der kan skelnes mellem passivt omsorgssvigt, fx manglende imødekommelse af basale behov og aktivt omsorgssvigt, fx direkte skade."
+          "definition": "Omsorgssvigt er en tilstand, hvor en person, der er afhÃ¦ngig af andre personer, ikke fÃ¥r den omsorg og hjÃ¦lp, som denne har brug for. Omsorgssvigt som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Omsorgssvigt kan omfatte fysisk omsorgssvigt, fx utilstrÃ¦kkelig ernÃ¦ring, beklÃ¦dning og hygiejne og psykisk omsorgssvigt, fx manglende fÃ¸lelsesmÃ¦ssig eller intellektuel stimulation eller der kan skelnes mellem passivt omsorgssvigt, fx manglende imÃ¸dekommelse af basale behov og aktivt omsorgssvigt, fx direkte skade."
         }, {
           "code": "5c6bc9a0-a955-4168-9692-cdcd691ff866",
           "display": "Overgreb",
-          "definition": "Overgreb er en handling, hvor en person eller dennes rettigheder krænkes af en stærkere part. Overgreb som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Overgreb dækker bredt og er delvist overlappende med begrebet magtmisbrug, idet der er tale om en uretmæssig brug af en ikke-ligeværdig relation. Den ene persons stærkere position kan fx bero på alder, fysik, organisatoriske forhold, tradition m.v. Ligeledes begrænser krænkelsen af en person eller dennes rettigheder sig ikke til lovbrud, men kan fx også være latterliggørelse, manglende honorering af aftaler, tilbageholdelse af midler mv.",
+          "definition": "Overgreb er en handling, hvor en person eller dennes rettigheder krÃ¦nkes af en stÃ¦rkere part. Overgreb som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Overgreb dÃ¦kker bredt og er delvist overlappende med begrebet magtmisbrug, idet der er tale om en uretmÃ¦ssig brug af en ikke-ligevÃ¦rdig relation. Den ene persons stÃ¦rkere position kan fx bero pÃ¥ alder, fysik, organisatoriske forhold, tradition m.v. Ligeledes begrÃ¦nser krÃ¦nkelsen af en person eller dennes rettigheder sig ikke til lovbrud, men kan fx ogsÃ¥ vÃ¦re latterliggÃ¸relse, manglende honorering af aftaler, tilbageholdelse af midler mv.",
           "concept": [ {
             "code": "3412d671-22bf-456c-b963-c4e05c2725a0",
             "display": "Voldeligt overgreb",
-            "definition": "Voldeligt overgreb er, når en person eller dennes rettigheder krænkes af en stærkere part, og hvor personen krænkes med fysisk eller psykisk vold. For at brugen af fysisk eller psykisk magt kan betegnes som vold, skal der være tale om en bevidst intention om at såre eller beskadige. For børn og unge omfatter voldeligt overgreb også at være vidne til fysisk eller psykisk vold i de nære relationer."
+            "definition": "Voldeligt overgreb er, nÃ¥r en person eller dennes rettigheder krÃ¦nkes af en stÃ¦rkere part, og hvor personen krÃ¦nkes med fysisk eller psykisk vold. For at brugen af fysisk eller psykisk magt kan betegnes som vold, skal der vÃ¦re tale om en bevidst intention om at sÃ¥re eller beskadige. For bÃ¸rn og unge omfatter voldeligt overgreb ogsÃ¥ at vÃ¦re vidne til fysisk eller psykisk vold i de nÃ¦re relationer."
           }, {
             "code": "905caa77-2b98-48ce-b0e1-35dc4c1cc4bd",
             "display": "Andet overgreb",
-            "definition": "overgreb, der ikke er omfattet af en af de øvrige kategorier under overgreb"
+            "definition": "overgreb, der ikke er omfattet af en af de Ã¸vrige kategorier under overgreb"
           }, {
             "code": "c47fd846-f1e0-4786-89a4-88d00e7a86c0",
             "display": "Seksuelt overgreb",
-            "definition": "Seksuelt overgreb er, når en person eller dennes rettigheder krænkes af en stærkere part, og hvor personen udsættes for en seksuel krænkelse."
+            "definition": "Seksuelt overgreb er, nÃ¥r en person eller dennes rettigheder krÃ¦nkes af en stÃ¦rkere part, og hvor personen udsÃ¦ttes for en seksuel krÃ¦nkelse."
           } ]
         }, {
           "code": "be53dafc-1fc2-4b9f-8ab3-9d468ff03e6e",
@@ -336,133 +336,133 @@
           "concept": [ {
             "code": "6a038911-d866-4910-90ae-72ca55c641ea",
             "display": "Ikke-personfarlig kriminalitet",
-            "definition": "Ikke-personfarlig kriminalitet er en handling, der er strafbar, men som ikke påfører eller risikerer at påføre en person fysisk eller psykisk skade."
+            "definition": "Ikke-personfarlig kriminalitet er en handling, der er strafbar, men som ikke pÃ¥fÃ¸rer eller risikerer at pÃ¥fÃ¸re en person fysisk eller psykisk skade."
           }, {
             "code": "df42d472-06f6-4c5f-9dcf-64aa6cc20925",
             "display": "Personfarlig kriminalitet",
-            "definition": "Personfarlig kriminalitet er en handling, der er strafbar og som påfører eller risikerer at påføre en person fysisk eller psykisk skade."
+            "definition": "Personfarlig kriminalitet er en handling, der er strafbar og som pÃ¥fÃ¸rer eller risikerer at pÃ¥fÃ¸re en person fysisk eller psykisk skade."
           } ]
         }, {
           "code": "e2ecc751-21b9-4aab-a20f-2f3dd9701c97",
           "display": "Misbrug",
-          "definition": "Misbrug er en adfærd, der er kendetegnet ved et brugsmønster af rusmiddel eller lægemiddel, som medfører fysisk, psykisk eller social skade. Som socialt problem er misbrug kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhængighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhører også gruppen, men er ikke medtaget i denne sammenhæng). En fysisk afhængighed er ikke det samme som et misbrug. Man kan godt være afhængig af et middel uden at være misbruger, fx kan en person være afhængig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forårsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret på de lovgivningsmæssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper.",
+          "definition": "Misbrug er en adfÃ¦rd, der er kendetegnet ved et brugsmÃ¸nster af rusmiddel eller lÃ¦gemiddel, som medfÃ¸rer fysisk, psykisk eller social skade. Som socialt problem er misbrug kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhÃ¦ngighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhÃ¸rer ogsÃ¥ gruppen, men er ikke medtaget i denne sammenhÃ¦ng). En fysisk afhÃ¦ngighed er ikke det samme som et misbrug. Man kan godt vÃ¦re afhÃ¦ngig af et middel uden at vÃ¦re misbruger, fx kan en person vÃ¦re afhÃ¦ngig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forÃ¥rsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret pÃ¥ de lovgivningsmÃ¦ssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper.",
           "concept": [ {
             "code": "0e25a2ec-4f04-4d14-a5ad-a6519a7d1d5f",
             "display": "Stofmisbrug",
-            "definition": "Stofmisbrug er misbrug, hvor rusmidlet ikke er alkohol. Misbrug er en adfærd, der der kendetegnet ved et brugsmønster af rusmiddel eller lægemiddel, som medfører fysisk, psykisk eller social skade. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhængighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhører også gruppen, men er ikke medtaget i denne sammenhæng). En fysisk afhængighed er ikke det samme som et misbrug. Man kan godt være afhængig af et middel uden at være misbruger, fx kan en person være afhængig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forårsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret på de lovgivningsmæssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper."
+            "definition": "Stofmisbrug er misbrug, hvor rusmidlet ikke er alkohol. Misbrug er en adfÃ¦rd, der der kendetegnet ved et brugsmÃ¸nster af rusmiddel eller lÃ¦gemiddel, som medfÃ¸rer fysisk, psykisk eller social skade. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhÃ¦ngighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhÃ¸rer ogsÃ¥ gruppen, men er ikke medtaget i denne sammenhÃ¦ng). En fysisk afhÃ¦ngighed er ikke det samme som et misbrug. Man kan godt vÃ¦re afhÃ¦ngig af et middel uden at vÃ¦re misbruger, fx kan en person vÃ¦re afhÃ¦ngig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forÃ¥rsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret pÃ¥ de lovgivningsmÃ¦ssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper."
           }, {
             "code": "ab4413f0-fa81-41c0-ad8c-21782c12a0fa",
             "display": "Alkoholmisbrug",
-            "definition": "Alkoholmisbrug er misbrug, hvor rusmidlet er alkohol. Misbrug er en adfærd, der er kendetegnet ved et brugsmønster af rusmiddel eller lægemiddel, som medfører fysisk, psykisk eller social skade. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhængighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhører også gruppen, men er ikke medtaget i denne sammenhæng). En fysisk afhængighed er ikke det samme som et misbrug. Man kan godt være afhængig af et middel uden at være misbruger, fx kan en person være afhængig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forårsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret på de lovgivningsmæssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper."
+            "definition": "Alkoholmisbrug er misbrug, hvor rusmidlet er alkohol. Misbrug er en adfÃ¦rd, der er kendetegnet ved et brugsmÃ¸nster af rusmiddel eller lÃ¦gemiddel, som medfÃ¸rer fysisk, psykisk eller social skade. Skaden ved misbrug er ofte en kombination af fysisk, psykisk og social skade. Misbrug er kendetegnet ved, at en person indtager rusmidler, som ved gentagen anvendelse kan fremkalde fysisk og/eller psykisk afhÃ¦ngighed. Rusmidler omfatter opioider, benzodiazepiner, centralstimulantia, hallucinogener, cannabis og alkohol. (Nikotin, kaffe og te tilhÃ¸rer ogsÃ¥ gruppen, men er ikke medtaget i denne sammenhÃ¦ng). En fysisk afhÃ¦ngighed er ikke det samme som et misbrug. Man kan godt vÃ¦re afhÃ¦ngig af et middel uden at vÃ¦re misbruger, fx kan en person vÃ¦re afhÃ¦ngig af livsvigtig medicin uden dermed at have et misbrug. Mange brugere af psykoaktive stoffer tager mere end en type af stoffer. Undergrupper af misbrug er klassificeret efter det stof, som har forÃ¥rsaget eller bidraget mest til den foreliggende problemstilling. Opdelingen i alkoholmisbrug og stofmisbrug er yderligere baseret pÃ¥ de lovgivningsmÃ¦ssige og organisatoriske rammer for behandlingen samt forskellige klientgrupper."
           } ]
         } ]
       }, {
         "code": "f3ec0ccd-2b0c-4a60-85fc-3cdd0ca73cef",
-        "display": "Funktionsnedsættelse",
-        "definition": "En funktionsnedsættelse er en funktionsevnenedsættelse, der vedrører kroppens anatomi eller kroppens funktion, herunder også mentale funktioner. Funktionsnedsættelse relaterer sig til kropslige begrænsninger, både begrænsninger i kroppens anatomi og begrænsninger i kroppens funktioner. Til sidstnævnte hører også begrænsninger i mentale funktioner.",
+        "display": "FunktionsnedsÃ¦ttelse",
+        "definition": "En funktionsnedsÃ¦ttelse er en funktionsevnenedsÃ¦ttelse, der vedrÃ¸rer kroppens anatomi eller kroppens funktion, herunder ogsÃ¥ mentale funktioner. FunktionsnedsÃ¦ttelse relaterer sig til kropslige begrÃ¦nsninger, bÃ¥de begrÃ¦nsninger i kroppens anatomi og begrÃ¦nsninger i kroppens funktioner. Til sidstnÃ¦vnte hÃ¸rer ogsÃ¥ begrÃ¦nsninger i mentale funktioner.",
         "concept": [ {
           "code": "1f23325e-c9c9-455b-bfe7-b4dcd1bb63e5",
-          "display": "Sjældent forekommende funktionsnedsættelse",
-          "definition": "En sjældent forekommende funktionsnedsættelse er en funktionsnedsættelse i kroppens anatomi eller kroppens funktion, herunder også mentale funktioner, som er sjældent forekommende. For at en funktionsnedsættelse kan karakteriseres som sjælden, må den have en forekomst på mindre end ca. 1.000 diagnosticerede tilfælde i Danmark. Begrebet rummer syndromer, der medfører udtalt fysisk og/eller psykisk funktionsnedsættelse, og som typisk er medfødte og arvelige."
+          "display": "SjÃ¦ldent forekommende funktionsnedsÃ¦ttelse",
+          "definition": "En sjÃ¦ldent forekommende funktionsnedsÃ¦ttelse er en funktionsnedsÃ¦ttelse i kroppens anatomi eller kroppens funktion, herunder ogsÃ¥ mentale funktioner, som er sjÃ¦ldent forekommende. For at en funktionsnedsÃ¦ttelse kan karakteriseres som sjÃ¦lden, mÃ¥ den have en forekomst pÃ¥ mindre end ca. 1.000 diagnosticerede tilfÃ¦lde i Danmark. Begrebet rummer syndromer, der medfÃ¸rer udtalt fysisk og/eller psykisk funktionsnedsÃ¦ttelse, og som typisk er medfÃ¸dte og arvelige."
         }, {
           "code": "f1c7ee41-21b4-4dba-9424-c874bf72b5e7",
-          "display": "Multipel funktionsnedsættelse",
-          "definition": "En multipel funktionsnedsættelse er en funktionsnedsættelse i kroppens anatomi eller kroppens funktion, herunder også mentale funktioner, som er kendetegnet ved et manglende talesprog. Multipel funktionsnedsættelse er mere end blot en flerhed af problemstillinger. Det er kendetegnende for personer med multiple funktionsnedsættelser, at de ikke har et talesprog, og at de lever med mobilitetsnedsættelse og eventuelt syns- og hørenedsættelse og øvrige sansefunktionsnedsættelser i forskellige kombinationer samt en dårlig helbredstilstand, der bl.a. kommer til udtryk i store spise- og trivselsvanskeligheder, kropsspændinger, kramper og smerter. Gruppen har store medfødte eller tidligt erhvervede neurologiske og kortikale skader og har mellem 2 og 10 diagnoser, med et gennemsnit på 5. De hyppigste diagnoser er cerebral parese og muskelsygdom, mental retardering, synshandicap, medfødte misdannelser og epilepsi."
+          "display": "Multipel funktionsnedsÃ¦ttelse",
+          "definition": "En multipel funktionsnedsÃ¦ttelse er en funktionsnedsÃ¦ttelse i kroppens anatomi eller kroppens funktion, herunder ogsÃ¥ mentale funktioner, som er kendetegnet ved et manglende talesprog. Multipel funktionsnedsÃ¦ttelse er mere end blot en flerhed af problemstillinger. Det er kendetegnende for personer med multiple funktionsnedsÃ¦ttelser, at de ikke har et talesprog, og at de lever med mobilitetsnedsÃ¦ttelse og eventuelt syns- og hÃ¸renedsÃ¦ttelse og Ã¸vrige sansefunktionsnedsÃ¦ttelser i forskellige kombinationer samt en dÃ¥rlig helbredstilstand, der bl.a. kommer til udtryk i store spise- og trivselsvanskeligheder, kropsspÃ¦ndinger, kramper og smerter. Gruppen har store medfÃ¸dte eller tidligt erhvervede neurologiske og kortikale skader og har mellem 2 og 10 diagnoser, med et gennemsnit pÃ¥ 5. De hyppigste diagnoser er cerebral parese og muskelsygdom, mental retardering, synshandicap, medfÃ¸dte misdannelser og epilepsi."
         }, {
           "code": "112cc0ba-9953-476c-a971-2671697d7639",
-          "display": "Fysisk funktionsnedsættelse",
-          "definition": "En fysisk funktionsnedsættelse er en funktionsnedsættelse i kroppens anatomi eller kroppens funktioner, eksklusiv de mentale funktioner. Fysisk funktionsnedsættelse svarer til Servicelovens 'nedsat fysisk funktionsevne' og udgør sammen med nedsat psykisk funktionsevne og socialt problem de tre overordnede målgrupper, som kan modtage ydelser efter Serviceloven.",
+          "display": "Fysisk funktionsnedsÃ¦ttelse",
+          "definition": "En fysisk funktionsnedsÃ¦ttelse er en funktionsnedsÃ¦ttelse i kroppens anatomi eller kroppens funktioner, eksklusiv de mentale funktioner. Fysisk funktionsnedsÃ¦ttelse svarer til Servicelovens 'nedsat fysisk funktionsevne' og udgÃ¸r sammen med nedsat psykisk funktionsevne og socialt problem de tre overordnede mÃ¥lgrupper, som kan modtage ydelser efter Serviceloven.",
           "concept": [ {
             "code": "5cb8997c-eb10-477f-b653-b2a5ff11ce7d",
-            "display": "Kommunikationsnedsættelse",
-            "definition": "En kommunikationsnedsættelse er en begrænsning i en persons evne til at frembringe meddelelser som resultat af en funktionsnedsættelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. Begrænsning dækker hele spektret fra let nedsat til fuldstændig ophævet funktion. Kommunikationsnedsættelse omfatter ikke manglende evne til at forstå meddelelser, der ofte vil være del af en psykisk funktionsnedsættelse."
+            "display": "KommunikationsnedsÃ¦ttelse",
+            "definition": "En kommunikationsnedsÃ¦ttelse er en begrÃ¦nsning i en persons evne til at frembringe meddelelser som resultat af en funktionsnedsÃ¦ttelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. BegrÃ¦nsning dÃ¦kker hele spektret fra let nedsat til fuldstÃ¦ndig ophÃ¦vet funktion. KommunikationsnedsÃ¦ttelse omfatter ikke manglende evne til at forstÃ¥ meddelelser, der ofte vil vÃ¦re del af en psykisk funktionsnedsÃ¦ttelse."
           }, {
             "code": "615310e8-f702-4455-910b-9d6d8aa684fb",
-            "display": "Synsnedsættelse",
-            "definition": "En synsnedsættelse er en begrænsning i en persons evne til at se som resultat af en funktionsnedsættelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner Evnen til at se omfatter fx synsskarphed, synsfelt eller synskvalitet. Begrænsning dækker hele spektret fra betydeligt nedsat til fuldstændig ophævet funktion. Synsnedsættelse udgør kun en funktionsevnenedsættelse for så vidt som nedsættelsen rækker ud over det, der almindeligvis kan korrigeres for."
+            "display": "SynsnedsÃ¦ttelse",
+            "definition": "En synsnedsÃ¦ttelse er en begrÃ¦nsning i en persons evne til at se som resultat af en funktionsnedsÃ¦ttelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner Evnen til at se omfatter fx synsskarphed, synsfelt eller synskvalitet. BegrÃ¦nsning dÃ¦kker hele spektret fra betydeligt nedsat til fuldstÃ¦ndig ophÃ¦vet funktion. SynsnedsÃ¦ttelse udgÃ¸r kun en funktionsevnenedsÃ¦ttelse for sÃ¥ vidt som nedsÃ¦ttelsen rÃ¦kker ud over det, der almindeligvis kan korrigeres for."
           }, {
             "code": "6e155207-db12-419a-8d9c-d67756533056",
-            "display": "Mobilitetsnedsættelse",
-            "definition": "En mobilitetsnedsættelse er en begrænsning i en persons mulighed for at bevæge sig som resultat af en funktionsnedsættelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. Begrænsning dækker hele spektret fra let nedsat til fuldstændig ophævet funktion."
+            "display": "MobilitetsnedsÃ¦ttelse",
+            "definition": "En mobilitetsnedsÃ¦ttelse er en begrÃ¦nsning i en persons mulighed for at bevÃ¦ge sig som resultat af en funktionsnedsÃ¦ttelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. BegrÃ¦nsning dÃ¦kker hele spektret fra let nedsat til fuldstÃ¦ndig ophÃ¦vet funktion."
           }, {
             "code": "7ef8be83-90d1-4375-b1cb-24710bea21c7",
-            "display": "Hørenedsættelse",
-            "definition": "En hørenedsættelse er en begrænsning i en persons opfattelse af lyd som resultat af en funktionsnedsættelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. Begrænsning dækker hele spektret fra betydeligt nedsat til fuldstændig ophævet funktion. Hørenedsættelse udgør kun en funktionsevnenedsættelse for så vidt som nedsættelsen rækker ud over det, der almindeligvis kan korrigeres for."
+            "display": "HÃ¸renedsÃ¦ttelse",
+            "definition": "En hÃ¸renedsÃ¦ttelse er en begrÃ¦nsning i en persons opfattelse af lyd som resultat af en funktionsnedsÃ¦ttelse i kroppens anatomi eller funktioner, eksklusiv de mentale funktioner. BegrÃ¦nsning dÃ¦kker hele spektret fra betydeligt nedsat til fuldstÃ¦ndig ophÃ¦vet funktion. HÃ¸renedsÃ¦ttelse udgÃ¸r kun en funktionsevnenedsÃ¦ttelse for sÃ¥ vidt som nedsÃ¦ttelsen rÃ¦kker ud over det, der almindeligvis kan korrigeres for."
           }, {
             "code": "da298aec-cd7d-436c-9927-d88d00066881",
-            "display": "Anden fysisk funktionsnedsættelse",
-            "definition": "fysisk funktionsnedsættelse, der ikke er omfattet af en af de øvrige kategorier under fysisk funktionsnedsættelse"
+            "display": "Anden fysisk funktionsnedsÃ¦ttelse",
+            "definition": "fysisk funktionsnedsÃ¦ttelse, der ikke er omfattet af en af de Ã¸vrige kategorier under fysisk funktionsnedsÃ¦ttelse"
           }, {
             "code": "04a2ecdd-cdc6-4000-91d3-4e21958126ec",
-            "display": "Døvblindhed",
-            "definition": "Døvblindhed er en fysisk funktionsnedsættelse, der består af en kombineret syns- og hørenedsættelse i alvorlig grad.",
+            "display": "DÃ¸vblindhed",
+            "definition": "DÃ¸vblindhed er en fysisk funktionsnedsÃ¦ttelse, der bestÃ¥r af en kombineret syns- og hÃ¸renedsÃ¦ttelse i alvorlig grad.",
             "concept": [ {
               "code": "0d66b364-958e-48cf-a18b-744fab284194",
-              "display": "Erhvervet døvblindhed",
-              "definition": "Erhvervet døvblindhed er en fysisk funktionsnedsættelse, der består af en kombineret syns- og hørenedsættelse i alvorlig grad, som er opstået efter et sprog er udviklet."
+              "display": "Erhvervet dÃ¸vblindhed",
+              "definition": "Erhvervet dÃ¸vblindhed er en fysisk funktionsnedsÃ¦ttelse, der bestÃ¥r af en kombineret syns- og hÃ¸renedsÃ¦ttelse i alvorlig grad, som er opstÃ¥et efter et sprog er udviklet."
             }, {
               "code": "ab7b7d7b-b7bb-4b8c-99d9-5c98a302b771",
-              "display": "Medfødt døvblindhed",
-              "definition": "Medfødt døvblindhed er en fysisk funktionsnedsættelse, der består af en kombineret syns- og hørenedsættelse i alvorlig grad, som er opstået inden et sprog er udviklet."
+              "display": "MedfÃ¸dt dÃ¸vblindhed",
+              "definition": "MedfÃ¸dt dÃ¸vblindhed er en fysisk funktionsnedsÃ¦ttelse, der bestÃ¥r af en kombineret syns- og hÃ¸renedsÃ¦ttelse i alvorlig grad, som er opstÃ¥et inden et sprog er udviklet."
             } ]
           } ]
         }, {
           "code": "9ed67228-b934-4677-9f7e-ebb0d80de44b",
-          "display": "Psykisk funktionsnedsættelse",
-          "definition": "En psykisk funktionsnedsættelse er en funktionsnedsættelse i de mentale funktioner. Psykisk funktionsnedsættelse svarer til Servicelovens 'nedsat psykisk funktionsevne' og udgør sammen med nedsat fysisk funktionsevne og socialt problem de tre overordnede målgrupper, som kan modtage ydelser efter Serviceloven.",
+          "display": "Psykisk funktionsnedsÃ¦ttelse",
+          "definition": "En psykisk funktionsnedsÃ¦ttelse er en funktionsnedsÃ¦ttelse i de mentale funktioner. Psykisk funktionsnedsÃ¦ttelse svarer til Servicelovens 'nedsat psykisk funktionsevne' og udgÃ¸r sammen med nedsat fysisk funktionsevne og socialt problem de tre overordnede mÃ¥lgrupper, som kan modtage ydelser efter Serviceloven.",
           "concept": [ {
             "code": "a78fb31e-b30a-4815-af85-932859fd06b9",
             "display": "Psykiske vanskeligheder",
-            "definition": "Psykiske vanskeligheder er en psykisk funktionsnedsættelse, der er kendetegnet ved forstyrrelser i adfærd og tanke-, følelses-, stemnings- og fantasilivet.",
+            "definition": "Psykiske vanskeligheder er en psykisk funktionsnedsÃ¦ttelse, der er kendetegnet ved forstyrrelser i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet.",
             "concept": [ {
               "code": "192b7d79-415c-4f4f-9223-607938ecbe97",
               "display": "Spiseforstyrrelse",
-              "definition": "Spiseforstyrrelse er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved et afvigende spisemønster. Som eksempel på spiseforstyrrelser kan nævnes anoreksi, bulimi og tvangsspisning."
+              "definition": "Spiseforstyrrelse er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved et afvigende spisemÃ¸nster. Som eksempel pÃ¥ spiseforstyrrelser kan nÃ¦vnes anoreksi, bulimi og tvangsspisning."
             }, {
               "code": "303deb9b-84f0-49d2-ab7a-f8b98eed40a2",
               "display": "Angst",
-              "definition": "Angst er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved en følelse af frygt, anspændthed og uro, uden at det er muligt at identificere en umiddelbar årsag."
+              "definition": "Angst er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved en fÃ¸lelse af frygt, anspÃ¦ndthed og uro, uden at det er muligt at identificere en umiddelbar Ã¥rsag."
             }, {
               "code": "6aac5ae6-ef06-4866-9c66-16d51ebbc83b",
               "display": "Personlighedsforstyrrelse",
-              "definition": "Personlighedsforstyrrelse er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved en forstyrrelse i evnen til at forholde sig til andre mennesker. Begrebet dækker over borderline, psykopati og karakterafvigelser."
+              "definition": "Personlighedsforstyrrelse er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved en forstyrrelse i evnen til at forholde sig til andre mennesker. Begrebet dÃ¦kker over borderline, psykopati og karakterafvigelser."
             }, {
               "code": "851b2a9d-cde2-4d5d-8f33-d03789022cbb",
               "display": "Anden psykisk vanskelighed",
-              "definition": "psykiske vanskeligheder, der ikke er omfattet af en af de øvrige kategorier under psykiske vanskeligheder"
+              "definition": "psykiske vanskeligheder, der ikke er omfattet af en af de Ã¸vrige kategorier under psykiske vanskeligheder"
             }, {
               "code": "afaa7e31-2b5d-4a49-9008-56aa8df8dc13",
               "display": "Stressbelastning",
-              "definition": "Stressbelastning er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, hvor en person gennem længere tid befinder sig i en tilstand af konstant forhøjet fysisk og psykisk beredskab. Begrebet dækker et bredt spektrum af belastende tilstande gående fra konstant anspændthed, magtesløshed, uoverskuelighed eller vanskelighed ved at fortsætte i den forhåndenværende situation, eller nedsat evne til at gennemføre dagligdags gøremål, til posttraumatisk belastningsreaktion på baggrund af traumatiske begivenheder af exceptionelt truende eller katastrofal natur."
+              "definition": "Stressbelastning er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, hvor en person gennem lÃ¦ngere tid befinder sig i en tilstand af konstant forhÃ¸jet fysisk og psykisk beredskab. Begrebet dÃ¦kker et bredt spektrum af belastende tilstande gÃ¥ende fra konstant anspÃ¦ndthed, magteslÃ¸shed, uoverskuelighed eller vanskelighed ved at fortsÃ¦tte i den forhÃ¥ndenvÃ¦rende situation, eller nedsat evne til at gennemfÃ¸re dagligdags gÃ¸remÃ¥l, til posttraumatisk belastningsreaktion pÃ¥ baggrund af traumatiske begivenheder af exceptionelt truende eller katastrofal natur."
             }, {
               "code": "d42d8f41-2d07-4391-a687-bad51172d0c9",
               "display": "Tilknytningsforstyrrelse",
-              "definition": "Tilknytningsforstyrrelse er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved, at en person i en tidlig alder har oplevet omsorgssvigt og nu har svært ved at danne følelsesmæssige relationer til andre mennesker."
+              "definition": "Tilknytningsforstyrrelse er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved, at en person i en tidlig alder har oplevet omsorgssvigt og nu har svÃ¦rt ved at danne fÃ¸lelsesmÃ¦ssige relationer til andre mennesker."
             }, {
               "code": "ee5b52bd-b839-4e69-ad04-c8b33eabfbde",
               "display": "Depression",
-              "definition": "Depression er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved en markant, vedvarende følelse af tristhed, håbløshed og handlingslammelse."
+              "definition": "Depression er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved en markant, vedvarende fÃ¸lelse af tristhed, hÃ¥blÃ¸shed og handlingslammelse."
             }, {
               "code": "f2ccc0c0-2a0a-49c9-9d6a-741a7cd220a3",
               "display": "Forandret virkelighedsopfattelse",
-              "definition": "Forandret virkelighedsopfattelse er en forstyrrelse i adfærd og tanke-, følelses-, stemnings- og fantasilivet, der er kendetegnet ved en virkelighedsopfattelse, der udgør en væsentlig afvigelse fra accepterede statistiske normer. Begrebet dækker over skizoide/psykotiske tilstande."
+              "definition": "Forandret virkelighedsopfattelse er en forstyrrelse i adfÃ¦rd og tanke-, fÃ¸lelses-, stemnings- og fantasilivet, der er kendetegnet ved en virkelighedsopfattelse, der udgÃ¸r en vÃ¦sentlig afvigelse fra accepterede statistiske normer. Begrebet dÃ¦kker over skizoide/psykotiske tilstande."
             } ]
           }, {
             "code": "01da9924-f4b4-4265-8594-0e892fa60676",
             "display": "Intellektuel/kognitiv forstyrrelse",
-            "definition": "Intellektuel/kognitiv forstyrrelse er en psykisk funktionsnedsættelse, der er kendetegnet ved forstyrrelser i overordnede mentale funktioner.",
+            "definition": "Intellektuel/kognitiv forstyrrelse er en psykisk funktionsnedsÃ¦ttelse, der er kendetegnet ved forstyrrelser i overordnede mentale funktioner.",
             "concept": [ {
               "code": "17ce646b-4469-4a73-82a9-9628436f6c70",
               "display": "Anden intellektuel/kognitiv forstyrrelse",
-              "definition": "Intellektuel/kognitiv forstyrrelse, der ikke er omfattet af en af de øvrige kategorier under intellektuel/kognitiv forstyrrelse"
+              "definition": "Intellektuel/kognitiv forstyrrelse, der ikke er omfattet af en af de Ã¸vrige kategorier under intellektuel/kognitiv forstyrrelse"
             }, {
               "code": "7b48f1a0-579b-4976-ae7c-4074b5981449",
               "display": "Demens",
-              "definition": "Demens er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved en fremadskridende nedsættelse af en persons intellektuelle og kognitive færdigheder, heriblandt hukommelsesfunktionen. Som eksempel på demens kan nævnes Alzheimers sygdom og vaskulær demens."
+              "definition": "Demens er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved en fremadskridende nedsÃ¦ttelse af en persons intellektuelle og kognitive fÃ¦rdigheder, heriblandt hukommelsesfunktionen. Som eksempel pÃ¥ demens kan nÃ¦vnes Alzheimers sygdom og vaskulÃ¦r demens."
             }, {
               "code": "97c355cc-84e3-46d0-ac1b-00bc627d089f",
-              "display": "Udviklingshæmning",
-              "definition": "Udviklingshæmning er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved en forsinket eller manglende udvikling inden for bestemte områder af psyken eller mere generel mental retardering. Begrebet omfatter også Down's syndrom."
+              "display": "UdviklingshÃ¦mning",
+              "definition": "UdviklingshÃ¦mning er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved en forsinket eller manglende udvikling inden for bestemte omrÃ¥der af psyken eller mere generel mental retardering. Begrebet omfatter ogsÃ¥ Down's syndrom."
             }, {
               "code": "34449052-1150-4900-9d69-c56eb9b26793",
               "display": "Udviklingsforstyrrelse",
@@ -470,40 +470,40 @@
               "concept": [ {
                 "code": "5cfc9530-a193-4f66-9981-3b980ee9ea7b",
                 "display": "Anden udviklingsforstyrrelse",
-                "definition": "udviklingsforstyrrelse, der ikke er omfattet af en af de øvrige kategorier under udviklingsforstyrrelse"
+                "definition": "udviklingsforstyrrelse, der ikke er omfattet af en af de Ã¸vrige kategorier under udviklingsforstyrrelse"
               }, {
                 "code": "71dfe6d1-ebc1-4414-8527-edf8e605c356",
                 "display": "Udviklingsforstyrrelse af tale og sprog",
-                "definition": "Udviklingsforstyrrelse af tale og sprog er en udviklingsforstyrrelse, hvor normale mønstre for sprogerhvervelse er påvirkede fra de tidligste udviklingstrin. Som eksempel på udviklingsforstyrrelser af tale og sprog kan nævnes specifik sprogartikulationsforstyrrelse (dysartri), sprogudtryksforstyrrelse (ekspressiv dysfasi) og sprogopfattelsesforstyrrelse (impressiv dysfasi)."
+                "definition": "Udviklingsforstyrrelse af tale og sprog er en udviklingsforstyrrelse, hvor normale mÃ¸nstre for sprogerhvervelse er pÃ¥virkede fra de tidligste udviklingstrin. Som eksempel pÃ¥ udviklingsforstyrrelser af tale og sprog kan nÃ¦vnes specifik sprogartikulationsforstyrrelse (dysartri), sprogudtryksforstyrrelse (ekspressiv dysfasi) og sprogopfattelsesforstyrrelse (impressiv dysfasi)."
               }, {
                 "code": "93d52b11-faa7-4ff7-b552-11a84cce8bf1",
-                "display": "Udviklingsforstyrrelse af skolefærdigheder",
-                "definition": "Udviklingsforstyrrelse af skolefærdigheder er en udviklingsforstyrrelse, hvor normale mønstre for udviklingen af intellektuelle skolefærdigheder er tilbagestående fra de tidligste udviklingstrin. Som eksempel på udviklingsforstyrrelse af skolefærdigheder kan nævnes specifik læseforstyrrelse (dysleksi), specifik staveforstyrrelse og specifik regnevanskelighed (dyskalkuli)."
+                "display": "Udviklingsforstyrrelse af skolefÃ¦rdigheder",
+                "definition": "Udviklingsforstyrrelse af skolefÃ¦rdigheder er en udviklingsforstyrrelse, hvor normale mÃ¸nstre for udviklingen af intellektuelle skolefÃ¦rdigheder er tilbagestÃ¥ende fra de tidligste udviklingstrin. Som eksempel pÃ¥ udviklingsforstyrrelse af skolefÃ¦rdigheder kan nÃ¦vnes specifik lÃ¦seforstyrrelse (dysleksi), specifik staveforstyrrelse og specifik regnevanskelighed (dyskalkuli)."
               }, {
                 "code": "9b3fd322-a75a-4ed8-9b74-425fa1e01c95",
                 "display": "Autismespektrum",
-                "definition": "Autismespektrum er en dysfunktion eller nedsat funktion i hjernen, der er kendetegnet ved en mangelfuld udvikling af sociale og kommunikative færdigheder samt repetitiv og stereotyp adfærd."
+                "definition": "Autismespektrum er en dysfunktion eller nedsat funktion i hjernen, der er kendetegnet ved en mangelfuld udvikling af sociale og kommunikative fÃ¦rdigheder samt repetitiv og stereotyp adfÃ¦rd."
               }, {
                 "code": "cc6a58cf-d3d2-4e5f-b7fe-98b009647eac",
-                "display": "Opmærksomhedsforstyrrelse",
-                "definition": "En opmærksomhedsforstyrrelse er en dysfunktion eller nedsat funktion i hjernen, der er kendetegnet ved betydelige opmærksomheds- og koncentrationsproblemer. Begrebet omfatter ADHD og ADD."
+                "display": "OpmÃ¦rksomhedsforstyrrelse",
+                "definition": "En opmÃ¦rksomhedsforstyrrelse er en dysfunktion eller nedsat funktion i hjernen, der er kendetegnet ved betydelige opmÃ¦rksomheds- og koncentrationsproblemer. Begrebet omfatter ADHD og ADD."
               }, {
                 "code": "e6a269f5-944a-4ff8-b4d8-6dc2134d9167",
-                "display": "Udviklingsforstyrrelse af sansemotoriske færdigheder",
-                "definition": "Udviklingsforstyrrelse af sansemotoriske færdigheder er en udviklingsforstyrrelse, der er karakteriseret ved alvorlige forstyrrelser i udviklingen af motorisk koordination. Som eksempel på udviklingsforstyrrelse af motoriske færdigheder kan nævnes fumler-tumlersyndromet, udviklingsmæssig koordinationsforstyrrelse og udviklingsmæssig dyspraksi."
+                "display": "Udviklingsforstyrrelse af sansemotoriske fÃ¦rdigheder",
+                "definition": "Udviklingsforstyrrelse af sansemotoriske fÃ¦rdigheder er en udviklingsforstyrrelse, der er karakteriseret ved alvorlige forstyrrelser i udviklingen af motorisk koordination. Som eksempel pÃ¥ udviklingsforstyrrelse af motoriske fÃ¦rdigheder kan nÃ¦vnes fumler-tumlersyndromet, udviklingsmÃ¦ssig koordinationsforstyrrelse og udviklingsmÃ¦ssig dyspraksi."
               } ]
             }, {
               "code": "59254ffb-8efb-4023-84f8-73e5bcba0bc7",
               "display": "Hjerneskade",
-              "definition": "Hjerneskade er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved misdannet eller ødelagt hjernevæv.",
+              "definition": "Hjerneskade er en forstyrrelse i overordnede mentale funktioner, der er kendetegnet ved misdannet eller Ã¸delagt hjernevÃ¦v.",
               "concept": [ {
                 "code": "1097d07f-1dba-4cc2-ae3a-399a501c2eb6",
-                "display": "Medfødt hjerneskade",
-                "definition": "En medfødt hjerneskade er misdannet eller ødelagt hjernevæv, som er opstået før eller under fødslen."
+                "display": "MedfÃ¸dt hjerneskade",
+                "definition": "En medfÃ¸dt hjerneskade er misdannet eller Ã¸delagt hjernevÃ¦v, som er opstÃ¥et fÃ¸r eller under fÃ¸dslen."
               }, {
                 "code": "d26f97e8-99ed-46a9-94db-93340f77a950",
                 "display": "Erhvervet hjerneskade",
-                "definition": "En erhvervet hjerneskade er misdannet eller ødelagt hjernevæv, som er kommet til efter fødslen."
+                "definition": "En erhvervet hjerneskade er misdannet eller Ã¸delagt hjernevÃ¦v, som er kommet til efter fÃ¸dslen."
               } ]
             } ]
           } ]
@@ -512,49 +512,49 @@
     } ]
   }, {
     "code": "7ac451dc-773b-4877-baaf-1e6b1d5c8e28",
-    "display": "Støttebehovsniveau",
-    "definition": "Støttebehov er omfanget af en persons behov for udefrakommende støtte vurderet på baggrund af personens funktionsevne inden for forskellige livsområder. Omfanget vurderes ud fra, hvor ofte og hvor megen støtte personen skal have for at kunne overskue og udføre de aktiviteter, der er relevante for personen. Støttebehovet siger ikke noget om, hvilken specifik indsats personen har brug for, men det siger noget om omfanget af indsatsen, fordi den skal modsvare behovets omfang.",
+    "display": "StÃ¸ttebehovsniveau",
+    "definition": "StÃ¸ttebehov er omfanget af en persons behov for udefrakommende stÃ¸tte vurderet pÃ¥ baggrund af personens funktionsevne inden for forskellige livsomrÃ¥der. Omfanget vurderes ud fra, hvor ofte og hvor megen stÃ¸tte personen skal have for at kunne overskue og udfÃ¸re de aktiviteter, der er relevante for personen. StÃ¸ttebehovet siger ikke noget om, hvilken specifik indsats personen har brug for, men det siger noget om omfanget af indsatsen, fordi den skal modsvare behovets omfang.",
     "concept": [ {
       "code": "2254dac8-8aa3-4334-8502-9720194f49ad",
       "display": "Ikke vurderet",
       "definition": "Ikke vurderet"
     }, {
       "code": "401a397b-b3aa-4ca3-8b23-bd8f99dd3f76",
-      "display": "Moderat støttebehov",
-      "definition": "Moderat støttebehov"
+      "display": "Moderat stÃ¸ttebehov",
+      "definition": "Moderat stÃ¸ttebehov"
     }, {
       "code": "ae9f388a-91c3-46cf-af55-f81952f2977c",
-      "display": "Intet støttebehov",
-      "definition": "Intet støttebehov"
+      "display": "Intet stÃ¸ttebehov",
+      "definition": "Intet stÃ¸ttebehov"
     }, {
       "code": "b99a0790-4d70-4152-b149-3fe58b745583",
-      "display": "Højt støttebehov",
-      "definition": "Højt støttebehov"
+      "display": "HÃ¸jt stÃ¸ttebehov",
+      "definition": "HÃ¸jt stÃ¸ttebehov"
     }, {
       "code": "dd628e73-d6c9-4837-a2b8-aa62d73bd6ae",
-      "display": "Let støttebehov",
-      "definition": "Let støttebehov"
+      "display": "Let stÃ¸ttebehov",
+      "definition": "Let stÃ¸ttebehov"
     }, {
       "code": "e99763d6-6c43-4969-ad52-2b1a7055f9dc",
-      "display": "Fuldstændigt støttebehov",
-      "definition": "Fuldstændigt støttebehov"
+      "display": "FuldstÃ¦ndigt stÃ¸ttebehov",
+      "definition": "FuldstÃ¦ndigt stÃ¸ttebehov"
     } ]
   }, {
     "code": "90479ffa-bf46-4b3a-a172-91f2798e2a43",
-    "display": "Status på indsats",
-    "definition": "Status på indsats",
+    "display": "Status pÃ¥ indsats",
+    "definition": "Status pÃ¥ indsats",
     "concept": [ {
       "code": "1e971d84-10a4-4ef8-a8b3-0daa4c7d088a",
-      "display": "Træf afgørelse om fortsættelse af indsats",
-      "definition": "Træf afgørelse om fortsættelse af indsats"
+      "display": "TrÃ¦f afgÃ¸relse om fortsÃ¦ttelse af indsats",
+      "definition": "TrÃ¦f afgÃ¸relse om fortsÃ¦ttelse af indsats"
     }, {
       "code": "b4c01aa8-82fd-44e4-83ff-ca19ec02c779",
-      "display": "Træf afgørelse om afslutning af indsats og visiter til ny",
-      "definition": "Træf afgørelse om afslutning af indsats og visiter til ny"
+      "display": "TrÃ¦f afgÃ¸relse om afslutning af indsats og visiter til ny",
+      "definition": "TrÃ¦f afgÃ¸relse om afslutning af indsats og visiter til ny"
     }, {
       "code": "d7d03656-4c87-4e67-9146-aa5990460f16",
-      "display": "Træf afgørelse om afslutning af indsats",
-      "definition": "Træf afgørelse om afslutning af indsats"
+      "display": "TrÃ¦f afgÃ¸relse om afslutning af indsats",
+      "definition": "TrÃ¦f afgÃ¸relse om afslutning af indsats"
     } ]
   }, {
     "code": "b3ddc7d7-f6c1-4d47-8280-456992cbe0a6",
@@ -567,92 +567,92 @@
       "concept": [ {
         "code": "25c5c614-305f-46cd-9891-55d564fc30cf",
         "display": "Mentale funktioner",
-        "definition": "Mentale funktioner er hjernens funktioner - både overordnede mentale funktioner som bevidsthed, energi og handlekraft og specifikke mentale funktioner som hukommelse, sprog og regning.",
+        "definition": "Mentale funktioner er hjernens funktioner - bÃ¥de overordnede mentale funktioner som bevidsthed, energi og handlekraft og specifikke mentale funktioner som hukommelse, sprog og regning.",
         "concept": [ {
           "code": "17c35058-eb88-4a7a-8727-74cd12be42c7",
-          "display": "Opmærksomhed og koncentrationsevne",
-          "definition": "Opmærksomhed og koncentrationsevne er en mental funktion, der er bestemmende for fokusering på eksterne stimuli eller indre oplevelser så længe som nødvendigt. Begrebet omfatter fx en persons evne til at fastholde opmærksomhed, skift i opmærksomhed, opdeling af opmærksomhed, hvor der fokuseres på to eller flere stimuli på samme tid, samt deltagende opmærksomhed, hvor to eller flere personer fokuserer på det samme."
+          "display": "OpmÃ¦rksomhed og koncentrationsevne",
+          "definition": "OpmÃ¦rksomhed og koncentrationsevne er en mental funktion, der er bestemmende for fokusering pÃ¥ eksterne stimuli eller indre oplevelser sÃ¥ lÃ¦nge som nÃ¸dvendigt. Begrebet omfatter fx en persons evne til at fastholde opmÃ¦rksomhed, skift i opmÃ¦rksomhed, opdeling af opmÃ¦rksomhed, hvor der fokuseres pÃ¥ to eller flere stimuli pÃ¥ samme tid, samt deltagende opmÃ¦rksomhed, hvor to eller flere personer fokuserer pÃ¥ det samme."
         }, {
           "code": "3591c972-5b15-4bbd-86c7-91622cda56e8",
           "display": "Virkelighedsopfattelse",
-          "definition": "Virkelighedsopfattelse er den mentale funktion, der er bestemmende for genkendelse og fortolkning af sanseindtryk. Virkelighedsopfattelse adskiller sig fra de fysiske funktioner vedrørende sanserne ved at have fokus på, hvordan en person genkender og fortolker sanseindtrykkene og ikke, hvorvidt de sanses eller ej. Begrebet omfatter fx hallucinationer og vrangforestillinger."
+          "definition": "Virkelighedsopfattelse er den mentale funktion, der er bestemmende for genkendelse og fortolkning af sanseindtryk. Virkelighedsopfattelse adskiller sig fra de fysiske funktioner vedrÃ¸rende sanserne ved at have fokus pÃ¥, hvordan en person genkender og fortolker sanseindtrykkene og ikke, hvorvidt de sanses eller ej. Begrebet omfatter fx hallucinationer og vrangforestillinger."
         }, {
           "code": "4934e45a-0f93-4c23-a767-2b681378700b",
           "display": "Bevidsthedstilstand",
-          "definition": "Bevidsthedstilstand er en mental funktion, der er bestemmende for vågenhed. Eksempler på bevidsthedstilstand kan være, at en person er vågen i perioder, men i andre perioder er i en vegetativ tilstand. Relevante aspekter af bevidsthedstilstand er fx hyppigheden eller varigheden af vågenhed, hvorvidt personen er i koma eller trance eller taber bevidstheden. Begrebet omfatter ikke, hvorvidt en person handler bevidst eller intentionelt og skal heller ikke forveksles med begrebet 'virkelighedsopfattelse' eller 'indsigt i egen situation'."
+          "definition": "Bevidsthedstilstand er en mental funktion, der er bestemmende for vÃ¥genhed. Eksempler pÃ¥ bevidsthedstilstand kan vÃ¦re, at en person er vÃ¥gen i perioder, men i andre perioder er i en vegetativ tilstand. Relevante aspekter af bevidsthedstilstand er fx hyppigheden eller varigheden af vÃ¥genhed, hvorvidt personen er i koma eller trance eller taber bevidstheden. Begrebet omfatter ikke, hvorvidt en person handler bevidst eller intentionelt og skal heller ikke forveksles med begrebet 'virkelighedsopfattelse' eller 'indsigt i egen situation'."
         }, {
           "code": "52e0b8dd-f5fa-4e1a-b66e-f5e4a41bd313",
           "display": "Psykosociale funktioner",
-          "definition": "De psykosociale funktioner er en mental funktion, som udvikles gennem livet, og som er nødvendig for at danne, indgå i og fastholde relationer med andre mennesker. De psykosociale funktioner danner dermed baggrund for en persons sociale og mellemmenneskelige færdigheder. De omfatter fx evnen til at aflæse andres følelser eller sociale normer. De omfatter også psykologiske funktioner, som er en forudsætning for at indgå i relationer, fx selvværd og identitetsdannelse."
+          "definition": "De psykosociale funktioner er en mental funktion, som udvikles gennem livet, og som er nÃ¸dvendig for at danne, indgÃ¥ i og fastholde relationer med andre mennesker. De psykosociale funktioner danner dermed baggrund for en persons sociale og mellemmenneskelige fÃ¦rdigheder. De omfatter fx evnen til at aflÃ¦se andres fÃ¸lelser eller sociale normer. De omfatter ogsÃ¥ psykologiske funktioner, som er en forudsÃ¦tning for at indgÃ¥ i relationer, fx selvvÃ¦rd og identitetsdannelse."
         }, {
           "code": "61452fe5-cea2-4d92-b2f1-406e9a5d31cb",
           "display": "Hukommelse",
-          "definition": "Hukommelse er en mental funktion, der er bestemmende for registrering, lagring og genkaldelse af information efter behov. Hukommelse er fx korttidshukommelse og langtidshukommelse, herunder genkaldelse af information, der er gemt i langtidshukommelsen og bringes frem i bevidstheden. Eksempler på hukommelse kan være evnen til at huske aftaler, steder og personer, ligesom der kan skelnes mellem fx auditiv, visuel, taktil eller følelsesmæssig hukommelse."
+          "definition": "Hukommelse er en mental funktion, der er bestemmende for registrering, lagring og genkaldelse af information efter behov. Hukommelse er fx korttidshukommelse og langtidshukommelse, herunder genkaldelse af information, der er gemt i langtidshukommelsen og bringes frem i bevidstheden. Eksempler pÃ¥ hukommelse kan vÃ¦re evnen til at huske aftaler, steder og personer, ligesom der kan skelnes mellem fx auditiv, visuel, taktil eller fÃ¸lelsesmÃ¦ssig hukommelse."
         }, {
           "code": "6279a3dc-7085-4157-809c-f96922242b1b",
           "display": "Indsigt i egen situation",
-          "definition": "Indsigt i egen situation er en mental funktion, der vedrører bevidsthed om og forståelse af en selv og egen adfærd. Indsigt i egen situation er fx en persons indsigt i en eventuel funktionsnedsættelse eller socialt problem og konsekvenserne heraf."
+          "definition": "Indsigt i egen situation er en mental funktion, der vedrÃ¸rer bevidsthed om og forstÃ¥else af en selv og egen adfÃ¦rd. Indsigt i egen situation er fx en persons indsigt i en eventuel funktionsnedsÃ¦ttelse eller socialt problem og konsekvenserne heraf."
         }, {
           "code": "8028b034-cad2-42df-b51c-aaba9c0bba61",
-          "display": "Igangsætning og motivation",
-          "definition": "Igangsætning og motivation er en mental funktion, som får en person til at opnå tilfredsstillelse af specifikke behov og overordnede mål på en vedholdende måde. Igangsætning og motivation er fx en persons energiniveau, motivation, appetit og trang samt impulskontrol. Begrebet omfatter dermed en persons evne til at omsætte en tanke eller følelse i handling, hvor man tager initiativ til at igangsætte en aktivitet og afslutte den. Det at opnå eller bevare håb som vigtig motivationsfaktor er også omfattet af begrebet."
+          "display": "IgangsÃ¦tning og motivation",
+          "definition": "IgangsÃ¦tning og motivation er en mental funktion, som fÃ¥r en person til at opnÃ¥ tilfredsstillelse af specifikke behov og overordnede mÃ¥l pÃ¥ en vedholdende mÃ¥de. IgangsÃ¦tning og motivation er fx en persons energiniveau, motivation, appetit og trang samt impulskontrol. Begrebet omfatter dermed en persons evne til at omsÃ¦tte en tanke eller fÃ¸lelse i handling, hvor man tager initiativ til at igangsÃ¦tte en aktivitet og afslutte den. Det at opnÃ¥ eller bevare hÃ¥b som vigtig motivationsfaktor er ogsÃ¥ omfattet af begrebet."
         }, {
           "code": "9c2173e6-6465-44d3-af16-7c44059193b2",
-          "display": "Organisering og planlægning",
-          "definition": "Organisering og planlægning er en mental funktion, der vedrører helhedsdannelse, systematisering og udvikling af metode til fremgangsmåde eller handling."
+          "display": "Organisering og planlÃ¦gning",
+          "definition": "Organisering og planlÃ¦gning er en mental funktion, der vedrÃ¸rer helhedsdannelse, systematisering og udvikling af metode til fremgangsmÃ¥de eller handling."
         }, {
           "code": "b93216fa-3843-4a7e-85bc-e3ef35a1967f",
-          "display": "Problemløsning",
-          "definition": "Problemløsning er en mental funktion, der er bestemmende for identifikation, analyse og integrering af uoverensstemmende eller modstridende informationer til en løsning. Problemløsning er dermed en persons evne til at løse problemer, herunder at identificere, at der er et problem, analysere det og fremkomme med en løsning."
+          "display": "ProblemlÃ¸sning",
+          "definition": "ProblemlÃ¸sning er en mental funktion, der er bestemmende for identifikation, analyse og integrering af uoverensstemmende eller modstridende informationer til en lÃ¸sning. ProblemlÃ¸sning er dermed en persons evne til at lÃ¸se problemer, herunder at identificere, at der er et problem, analysere det og fremkomme med en lÃ¸sning."
         }, {
           "code": "dccaa419-0bcd-4056-a11a-2e385e23edc6",
-          "display": "Følelser og adfærd",
-          "definition": "Følelser og adfærd er en mental funktion, der er forbundet med følelser og en persons tilbøjelighed til at reagere på bestemte måder i forskellige situationer. Følelser og adfærd er fx, hvorvidt en person har følelser, der er afstemt eller passer til den situation, personen er i, og kan regulere sine følelser. Begrebet vedrører også personens følelsesmæssige spændvidde. Følelser kan komme til udtryk gennem adfærd. Eksempler på adfærd er ind- og udadreagerende adfærd, seksuelt krænkende adfærd, selvskadende adfærd eller selvmordsforsøg."
+          "display": "FÃ¸lelser og adfÃ¦rd",
+          "definition": "FÃ¸lelser og adfÃ¦rd er en mental funktion, der er forbundet med fÃ¸lelser og en persons tilbÃ¸jelighed til at reagere pÃ¥ bestemte mÃ¥der i forskellige situationer. FÃ¸lelser og adfÃ¦rd er fx, hvorvidt en person har fÃ¸lelser, der er afstemt eller passer til den situation, personen er i, og kan regulere sine fÃ¸lelser. Begrebet vedrÃ¸rer ogsÃ¥ personens fÃ¸lelsesmÃ¦ssige spÃ¦ndvidde. FÃ¸lelser kan komme til udtryk gennem adfÃ¦rd. Eksempler pÃ¥ adfÃ¦rd er ind- og udadreagerende adfÃ¦rd, seksuelt krÃ¦nkende adfÃ¦rd, selvskadende adfÃ¦rd eller selvmordsforsÃ¸g."
         }, {
           "code": "ef4271c4-f942-4194-a2b0-e9a7045eab22",
           "display": "Intellektuelle funktioner",
-          "definition": "Den intellektuelle funktion er en overordnet mental funktion, som kræves til forståelse og integrering af forskellige mentale funktioner og deres udvikling over et livsløb. Begrebet har betydning i forhold til fx indlæringsevne og intellektuel formåen, herunder en persons skolefærdigheder. Begrebet omfatter ikke de eksekutive funktioner, så som organisering og planlægning, problemløsning og indsigt i egen situation."
+          "definition": "Den intellektuelle funktion er en overordnet mental funktion, som krÃ¦ves til forstÃ¥else og integrering af forskellige mentale funktioner og deres udvikling over et livslÃ¸b. Begrebet har betydning i forhold til fx indlÃ¦ringsevne og intellektuel formÃ¥en, herunder en persons skolefÃ¦rdigheder. Begrebet omfatter ikke de eksekutive funktioner, sÃ¥ som organisering og planlÃ¦gning, problemlÃ¸sning og indsigt i egen situation."
         }, {
           "code": "f7c0ef6c-18ba-4d38-9df5-4c891f154a08",
           "display": "Orienteringsevne",
-          "definition": "Orienteringsevne en en mental funktion, der er bestemmende for kendskab til og konstatering af relationerne til en selv, til andre, til tid, sted og andre omgivelser. Orienteringsevne er fx en persons evne til at orientere sig i tid og sted, rum og retning og forstå egen identitet og identiteten af personer i personens umiddelbare nærhed."
+          "definition": "Orienteringsevne en en mental funktion, der er bestemmende for kendskab til og konstatering af relationerne til en selv, til andre, til tid, sted og andre omgivelser. Orienteringsevne er fx en persons evne til at orientere sig i tid og sted, rum og retning og forstÃ¥ egen identitet og identiteten af personer i personens umiddelbare nÃ¦rhed."
         } ]
       }, {
         "code": "4fb78b88-d3af-4cfb-84d7-f06daf423317",
         "display": "Sundhedsforhold",
-        "definition": "Sundhedsforhold er forhold, der påvirker en persons sundhed.",
+        "definition": "Sundhedsforhold er forhold, der pÃ¥virker en persons sundhed.",
         "concept": [ {
           "code": "081ab1be-7dc1-41fa-803c-12a146eb0b74",
-          "display": "Sundhedsfaglig behandling og træning",
-          "definition": "Sundhedsfaglig behandling og træning er forhold vedrørende behandling og træning, som er bevilget efter sundhedsloven. Begrebet omfatter tidligere og nuværende behandling og træning, der er bevilget efter sundhedsloven, herunder medicinsk behandling. Begrebet omfatter ikke bevillinger efter serviceloven eller alternativ, uautoriseret behandling."
+          "display": "Sundhedsfaglig behandling og trÃ¦ning",
+          "definition": "Sundhedsfaglig behandling og trÃ¦ning er forhold vedrÃ¸rende behandling og trÃ¦ning, som er bevilget efter sundhedsloven. Begrebet omfatter tidligere og nuvÃ¦rende behandling og trÃ¦ning, der er bevilget efter sundhedsloven, herunder medicinsk behandling. Begrebet omfatter ikke bevillinger efter serviceloven eller alternativ, uautoriseret behandling."
         }, {
           "code": "0b650369-258a-4d01-a811-42b306c2f89d",
           "display": "Motion",
-          "definition": "Motion er en handling, hvor en person udfører regelmæssige, fysiske aktiviteter med henblik på at bevare et godt helbred og holde kroppen i form."
+          "definition": "Motion er en handling, hvor en person udfÃ¸rer regelmÃ¦ssige, fysiske aktiviteter med henblik pÃ¥ at bevare et godt helbred og holde kroppen i form."
         }, {
           "code": "69dbfad7-859a-4596-8737-8054f6b4948f",
           "display": "Fysisk helbred",
           "definition": "Fysisk helbred er en egenskab hos et individ mht. sygdom og sundhed. Helbred handler om, hvorvidt en person er fysisk rask eller syg, fx om man er udsat for hyppige infektioner, har allergier eller en kronisk sygdom."
         }, {
           "code": "83376fdb-f55d-4dd9-944e-b49631a9836f",
-          "display": "Søvn",
-          "definition": "Søvn er en tilstand, hvis kvalitet afgøres af søvnmængden og forhold omkring indsovning og gennemsovning, og hvorvidt der er tale om en naturlig søvn med optimal fysisk og psykisk hvile og afslapning."
+          "display": "SÃ¸vn",
+          "definition": "SÃ¸vn er en tilstand, hvis kvalitet afgÃ¸res af sÃ¸vnmÃ¦ngden og forhold omkring indsovning og gennemsovning, og hvorvidt der er tale om en naturlig sÃ¸vn med optimal fysisk og psykisk hvile og afslapning."
         }, {
           "code": "c67aed23-d4f3-4ae6-8886-156c99048e5b",
           "display": "Kost",
-          "definition": "Kost er en persons indtagelse af fødemidler og deres sammensætning. Et relevant aspekt af kost er også, hvorvidt en person spiser og drikker tilstrækkeligt eller for lidt eller for meget."
+          "definition": "Kost er en persons indtagelse af fÃ¸demidler og deres sammensÃ¦tning. Et relevant aspekt af kost er ogsÃ¥, hvorvidt en person spiser og drikker tilstrÃ¦kkeligt eller for lidt eller for meget."
         }, {
           "code": "c8f4475a-8de3-4920-ad0c-eea78c49a68d",
           "display": "Rusmidler",
-          "definition": "En persons situation vedrørende rusmidler er den samlede mængde af forhold, der har at gøre med en persons brug af rusmidler. Et eksempel på en situation vedrørende rusmidler kan være en bekymrende hyppig brug af rusmidler eller selvmedicinering med hash. Eksempler på problematikker vedrørende rusmidler kan være alkohol- og stofmisbrug eller misbrug af lægemidler. Et eksempel på ressourcer vedrørende rusmidler kan være et gennemført behandlingsforløb."
+          "definition": "En persons situation vedrÃ¸rende rusmidler er den samlede mÃ¦ngde af forhold, der har at gÃ¸re med en persons brug af rusmidler. Et eksempel pÃ¥ en situation vedrÃ¸rende rusmidler kan vÃ¦re en bekymrende hyppig brug af rusmidler eller selvmedicinering med hash. Eksempler pÃ¥ problematikker vedrÃ¸rende rusmidler kan vÃ¦re alkohol- og stofmisbrug eller misbrug af lÃ¦gemidler. Et eksempel pÃ¥ ressourcer vedrÃ¸rende rusmidler kan vÃ¦re et gennemfÃ¸rt behandlingsforlÃ¸b."
         }, {
           "code": "e6f82424-da5a-41d1-bd1a-5796aa79d5f2",
-          "display": "Døgnrytme",
-          "definition": "Døgnrytme er den struktur, som en person inddeler døgnets forskellige aktiviteter i. Døgnrytmen opstår fx ved at spise, arbejde og sove på mere eller mindre fastlagte tidspunkter."
+          "display": "DÃ¸gnrytme",
+          "definition": "DÃ¸gnrytme er den struktur, som en person inddeler dÃ¸gnets forskellige aktiviteter i. DÃ¸gnrytmen opstÃ¥r fx ved at spise, arbejde og sove pÃ¥ mere eller mindre fastlagte tidspunkter."
         }, {
           "code": "f5b8e809-7689-4952-838c-a069c99408b3",
           "display": "Tobak",
-          "definition": "Tobak omfatter både cigaretter, pibe, vandpibe, e-cigaretter, snus mv."
+          "definition": "Tobak omfatter bÃ¥de cigaretter, pibe, vandpibe, e-cigaretter, snus mv."
         } ]
       }, {
         "code": "a134c31d-d316-46d4-935e-e500874dbbe1",
@@ -661,44 +661,44 @@
         "concept": [ {
           "code": "1a6585e7-25a6-4518-9384-8f6290f879cc",
           "display": "Stemme og tale",
-          "definition": "Stemme og tale er en fysisk funktion, der vedrører frembringelse af lyd og tale."
+          "definition": "Stemme og tale er en fysisk funktion, der vedrÃ¸rer frembringelse af lyd og tale."
         }, {
           "code": "3b4bcb40-f761-46a5-bc5f-b30ac37c88ed",
-          "display": "Bevægelse",
-          "definition": "Bevægelse er en fysisk funktion, der vedrører bevægelse af kroppen. Bevægelse spænder bredt fra en persons reflekser, ufrivillige og viljesbestemte bevægelser til gang, løb eller andre bevægelser, som inddrager hele kroppen."
+          "display": "BevÃ¦gelse",
+          "definition": "BevÃ¦gelse er en fysisk funktion, der vedrÃ¸rer bevÃ¦gelse af kroppen. BevÃ¦gelse spÃ¦nder bredt fra en persons reflekser, ufrivillige og viljesbestemte bevÃ¦gelser til gang, lÃ¸b eller andre bevÃ¦gelser, som inddrager hele kroppen."
         }, {
           "code": "9959e779-e8ee-47e8-989b-bbff4aae2883",
           "display": "Syn",
-          "definition": "Syn er en fysisk funktion, der vedrører opfattelse af lys og af form, størrelse og farve af visuelle stimuli."
+          "definition": "Syn er en fysisk funktion, der vedrÃ¸rer opfattelse af lys og af form, stÃ¸rrelse og farve af visuelle stimuli."
         }, {
           "code": "b37419b3-c5f2-43e9-9e9d-4037b06b3fa5",
           "display": "Smerte og sansefunktioner",
-          "definition": "Smerte og sansefunktioner er en fysisk funktion, der vedrører opfattelsen af sanseindtryk samt ubehagelige fornemmelser som tegn på potentiel eller aktuel skade eller tilstand på dele af kroppen. Sanseindtryk omfatter fx berøringssans, temperatursans, lugt- og smagssans samt opfattelsen af kropsdeles position i forhold til hinanden. Smerter omfatter også fantomsmerter."
+          "definition": "Smerte og sansefunktioner er en fysisk funktion, der vedrÃ¸rer opfattelsen af sanseindtryk samt ubehagelige fornemmelser som tegn pÃ¥ potentiel eller aktuel skade eller tilstand pÃ¥ dele af kroppen. Sanseindtryk omfatter fx berÃ¸ringssans, temperatursans, lugt- og smagssans samt opfattelsen af kropsdeles position i forhold til hinanden. Smerter omfatter ogsÃ¥ fantomsmerter."
         }, {
           "code": "eb3599bc-c0bb-4281-8a1c-bf6eab8ffde3",
-          "display": "Hørelse",
-          "definition": "Hørelse er en fysisk funktion, der vedrører opfattelse af lyde og skelnen af lokalisation, tone, styrke og kvalitet af lyde."
+          "display": "HÃ¸relse",
+          "definition": "HÃ¸relse er en fysisk funktion, der vedrÃ¸rer opfattelse af lyde og skelnen af lokalisation, tone, styrke og kvalitet af lyde."
         } ]
       }, {
         "code": "e1836145-0c20-4e20-971e-d62dfe4ea1a0",
         "display": "Sociale forhold",
-        "definition": "Sociale forhold er tilstande, vilkår, hændelser eller andre personlige faktorer, som relaterer til en persons baggrund og historie, er af social karakter og har betydning for en persons funktionsevne. Sociale forhold kan enten beskytte mod eller føre til, at et socialt problem opstår.",
+        "definition": "Sociale forhold er tilstande, vilkÃ¥r, hÃ¦ndelser eller andre personlige faktorer, som relaterer til en persons baggrund og historie, er af social karakter og har betydning for en persons funktionsevne. Sociale forhold kan enten beskytte mod eller fÃ¸re til, at et socialt problem opstÃ¥r.",
         "concept": [ {
           "code": "08aa68ce-acd6-4e03-b6b5-091811324345",
-          "display": "Økonomisk situation",
-          "definition": "En persons økonomiske situation er den samlede mængde af forhold, der bestemmer, hvordan en person er stillet finansielt. Et eksempel på økonomisk situation kan være, at man er på kontanthjælp eller har fast indtægt, lever af opsparing, har mistet sin indtægt eller låner penge af sit netværk. Problematikker omkring den økonomiske situation kan fx omfatte utilstrækkelige økonomiske ressourcer eller gæld. Ressourcer i forhold til den økonomiske situation kan fx være, at man er trygt stillet økonomisk."
+          "display": "Ã˜konomisk situation",
+          "definition": "En persons Ã¸konomiske situation er den samlede mÃ¦ngde af forhold, der bestemmer, hvordan en person er stillet finansielt. Et eksempel pÃ¥ Ã¸konomisk situation kan vÃ¦re, at man er pÃ¥ kontanthjÃ¦lp eller har fast indtÃ¦gt, lever af opsparing, har mistet sin indtÃ¦gt eller lÃ¥ner penge af sit netvÃ¦rk. Problematikker omkring den Ã¸konomiske situation kan fx omfatte utilstrÃ¦kkelige Ã¸konomiske ressourcer eller gÃ¦ld. Ressourcer i forhold til den Ã¸konomiske situation kan fx vÃ¦re, at man er trygt stillet Ã¸konomisk."
         }, {
           "code": "35c56275-0093-4901-9fd8-d06fdb5cb8f3",
           "display": "Boligsituation",
-          "definition": "En persons boligsituation er den samlede mængde af forhold, der bestemmer, hvordan en person er stillet med hensyn til bolig. Et eksempel på boligsituation kan fx være, at man bor til leje eller er opsagt, bor ude eller hjemme, mangler egen bolig og pt. bor hos personer i netværket osv. Problematikker i forhold til boligsituationen kan være uhensigtsmæssig indretning i forhold til beboerens behov, uhensigtsmæssig brug af boligen eller hjemløshed, hvor en person ikke har eller ikke kan opholde sig i egen bolig. Ressourcer i forhold til boligsituationen kan være, at ens bolig er indrettet hensigtsmæssigt i forhold til ens funktionsnedsættelse, eller at man kan blive boende i sin bolig, selvom en funktionsnedsættelse eller et socialt problem har betydet ændringer i ens indtægtsforhold."
+          "definition": "En persons boligsituation er den samlede mÃ¦ngde af forhold, der bestemmer, hvordan en person er stillet med hensyn til bolig. Et eksempel pÃ¥ boligsituation kan fx vÃ¦re, at man bor til leje eller er opsagt, bor ude eller hjemme, mangler egen bolig og pt. bor hos personer i netvÃ¦rket osv. Problematikker i forhold til boligsituationen kan vÃ¦re uhensigtsmÃ¦ssig indretning i forhold til beboerens behov, uhensigtsmÃ¦ssig brug af boligen eller hjemlÃ¸shed, hvor en person ikke har eller ikke kan opholde sig i egen bolig. Ressourcer i forhold til boligsituationen kan vÃ¦re, at ens bolig er indrettet hensigtsmÃ¦ssigt i forhold til ens funktionsnedsÃ¦ttelse, eller at man kan blive boende i sin bolig, selvom en funktionsnedsÃ¦ttelse eller et socialt problem har betydet Ã¦ndringer i ens indtÃ¦gtsforhold."
         }, {
           "code": "52efa2e9-e0dc-41eb-8c01-9865e2fdebae",
           "display": "Interesser",
-          "definition": "Interesser er de aktiviteter eller objekter, som en person beskæftiger sig indgående med og er optaget af. Interesser kan spænde over alle tænkelige forhold. Eksempler på problematikker vedrørende interesser kan være, at interessen tager overhånd og bliver for tidskrævende eller på anden vis er uhensigtsmæssig. Eksempler på ressourcer vedrørende interesser kan være, at interessen virker afstressende eller motiverende eller på anden vis bidrager positivt til livskvaliteten."
+          "definition": "Interesser er de aktiviteter eller objekter, som en person beskÃ¦ftiger sig indgÃ¥ende med og er optaget af. Interesser kan spÃ¦nde over alle tÃ¦nkelige forhold. Eksempler pÃ¥ problematikker vedrÃ¸rende interesser kan vÃ¦re, at interessen tager overhÃ¥nd og bliver for tidskrÃ¦vende eller pÃ¥ anden vis er uhensigtsmÃ¦ssig. Eksempler pÃ¥ ressourcer vedrÃ¸rende interesser kan vÃ¦re, at interessen virker afstressende eller motiverende eller pÃ¥ anden vis bidrager positivt til livskvaliteten."
         }, {
           "code": "7a8f247b-baf8-4552-95bb-acf8ef004b74",
           "display": "Familiesituation",
-          "definition": "En persons familiesituation er den samlede mængde af forhold, der bestemmer, hvordan en person er stillet med hensyn til familie. Et eksempel på familiesituation kan være, at man er gift eller samlevende, lever alene eller sammen med andre eller har børn. Problematikker vedrørende familiesituation kan fx være skilsmisse, uønsket social isolation, ufrivillig barnløshed eller en syg partner. Ressourcer vedrørende familiesituation kan være, at ens familiesituation er i overensstemmelse med ens egne ønsker og behov."
+          "definition": "En persons familiesituation er den samlede mÃ¦ngde af forhold, der bestemmer, hvordan en person er stillet med hensyn til familie. Et eksempel pÃ¥ familiesituation kan vÃ¦re, at man er gift eller samlevende, lever alene eller sammen med andre eller har bÃ¸rn. Problematikker vedrÃ¸rende familiesituation kan fx vÃ¦re skilsmisse, uÃ¸nsket social isolation, ufrivillig barnlÃ¸shed eller en syg partner. Ressourcer vedrÃ¸rende familiesituation kan vÃ¦re, at ens familiesituation er i overensstemmelse med ens egne Ã¸nsker og behov."
         }, {
           "code": "83cf43f1-6d71-477c-8583-2e28755b41d3",
           "display": "Kriminalitet",
@@ -706,15 +706,15 @@
         }, {
           "code": "d493a97d-6036-423d-87ff-c2a086e9d664",
           "display": "Traumatiske oplevelser",
-          "definition": "Traumatiske oplevelser er konkrete oplevelser, der har belastende følger for en person. Eksempler på traumatiske oplevelser er omsorgssvigt, ulykker og overgreb."
+          "definition": "Traumatiske oplevelser er konkrete oplevelser, der har belastende fÃ¸lger for en person. Eksempler pÃ¥ traumatiske oplevelser er omsorgssvigt, ulykker og overgreb."
         }, {
           "code": "e993d8c3-b7d7-4d72-9be2-937e5ba38b5a",
           "display": "Prostitution",
-          "definition": "Prostitution er en handling, hvor mindst to handlende personer på markedsmæssige betingelser henholdsvis køber og sælger en prostitutionsydelse mod betaling. Prostitution som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Den tankemæssige forestilling om fænomenet prostitution er værdineutral. Inden for Servicelovens område er prostitution benævnt som type af socialt problem, men hvorvidt prostitution udgør et problem for den enkelte må afgøres på individniveau. Begrebet omfatter ikke forhold, der falder under de strafferetlige regler, fx køb af seksuelle ydelser, der sælges af unge under 18 år, eller det fænomen, at personer tvinges af andre til at sælge seksuelle ydelser."
+          "definition": "Prostitution er en handling, hvor mindst to handlende personer pÃ¥ markedsmÃ¦ssige betingelser henholdsvis kÃ¸ber og sÃ¦lger en prostitutionsydelse mod betaling. Prostitution som socialt problem er kendetegnet ved, at en person er, eller er i fare for at blive, marginaliseret. Den tankemÃ¦ssige forestilling om fÃ¦nomenet prostitution er vÃ¦rdineutral. Inden for Servicelovens omrÃ¥de er prostitution benÃ¦vnt som type af socialt problem, men hvorvidt prostitution udgÃ¸r et problem for den enkelte mÃ¥ afgÃ¸res pÃ¥ individniveau. Begrebet omfatter ikke forhold, der falder under de strafferetlige regler, fx kÃ¸b af seksuelle ydelser, der sÃ¦lges af unge under 18 Ã¥r, eller det fÃ¦nomen, at personer tvinges af andre til at sÃ¦lge seksuelle ydelser."
         }, {
           "code": "f695cec7-2b39-4c7e-8731-da8558a4fb3f",
           "display": "Uddannelse og job",
-          "definition": "En persons uddannelses og job er den samlede mængde af forhold, der bestemmer, hvordan en person er stillet med hensyn til uddannelsesniveau og arbejde. Arbejde dækker bredt, fx både ordinært arbejde, frivilligt arbejde eller beskæftigelsestilbud. Et eksempel på uddannelses- og jobsituation kan være en gennemført ungdomsuddannelse, igangværende enkeltfagskurser, ledighed, fast arbejde eller frivilligt arbejde. Problematikker i relation til uddannelse og job kan være ledighed eller højt fravær fra studierne. Ressourcer i relation til uddannelse og job kan fx være, at man har en uddannelse eller gode erfaringer med job og beskæftigelse."
+          "definition": "En persons uddannelses og job er den samlede mÃ¦ngde af forhold, der bestemmer, hvordan en person er stillet med hensyn til uddannelsesniveau og arbejde. Arbejde dÃ¦kker bredt, fx bÃ¥de ordinÃ¦rt arbejde, frivilligt arbejde eller beskÃ¦ftigelsestilbud. Et eksempel pÃ¥ uddannelses- og jobsituation kan vÃ¦re en gennemfÃ¸rt ungdomsuddannelse, igangvÃ¦rende enkeltfagskurser, ledighed, fast arbejde eller frivilligt arbejde. Problematikker i relation til uddannelse og job kan vÃ¦re ledighed eller hÃ¸jt fravÃ¦r fra studierne. Ressourcer i relation til uddannelse og job kan fx vÃ¦re, at man har en uddannelse eller gode erfaringer med job og beskÃ¦ftigelse."
         } ]
       } ]
     }, {
@@ -724,156 +724,156 @@
       "concept": [ {
         "code": "3856b434-f72e-42a5-b9d1-0cc93f48434b",
         "display": "Relationer",
-        "definition": "Relationer vedrører en persons relationer til og interaktion med andre mennesker. Relationer til andre dækker både over evnen til at indgå og bevare relationer til andre mennesker, såvel som deltagelse i organiseret socialt liv uden for familien, i lokalsamfundet i det sociale liv og som medborger.",
+        "definition": "Relationer vedrÃ¸rer en persons relationer til og interaktion med andre mennesker. Relationer til andre dÃ¦kker bÃ¥de over evnen til at indgÃ¥ og bevare relationer til andre mennesker, sÃ¥vel som deltagelse i organiseret socialt liv uden for familien, i lokalsamfundet i det sociale liv og som medborger.",
         "concept": [ {
           "code": "3f9da5ac-9686-4eeb-b517-b46e17fcb1d7",
-          "display": "Indgå i samspil og kontakt",
-          "definition": "At indgå i samspil og kontakt er en aktivitet, som består i at indgå i enkle eller komplekse relationer med mennesker på en måde, der er kontekstuelt og socialt passende. Begrebet har fokus på evnen til at indgå i relationer. Det vil fx sige at kunne vise hensyn og respekt, når det er passende eller reagere på andres følelser og indgå i samspil med andre mennesker (fremmede, venner, slægtninge, familiemedlemmer og kærester) fx ved at kunne give og modtage kritik, reagere på sociale signaler, anvende passende fysisk kontakt i sammenhængen, styre følelser og impulser, styre verbale og fysiske aggressioner og handle i overensstemmelse med sociale regler og konventioner."
+          "display": "IndgÃ¥ i samspil og kontakt",
+          "definition": "At indgÃ¥ i samspil og kontakt er en aktivitet, som bestÃ¥r i at indgÃ¥ i enkle eller komplekse relationer med mennesker pÃ¥ en mÃ¥de, der er kontekstuelt og socialt passende. Begrebet har fokus pÃ¥ evnen til at indgÃ¥ i relationer. Det vil fx sige at kunne vise hensyn og respekt, nÃ¥r det er passende eller reagere pÃ¥ andres fÃ¸lelser og indgÃ¥ i samspil med andre mennesker (fremmede, venner, slÃ¦gtninge, familiemedlemmer og kÃ¦rester) fx ved at kunne give og modtage kritik, reagere pÃ¥ sociale signaler, anvende passende fysisk kontakt i sammenhÃ¦ngen, styre fÃ¸lelser og impulser, styre verbale og fysiske aggressioner og handle i overensstemmelse med sociale regler og konventioner."
         }, {
           "code": "4c082610-b122-4019-96f2-1061e287445e",
-          "display": "Varetage relationer til netværk",
-          "definition": "At varetage relationer til netværk er en handling, der består i at skabe og opretholde et netværk. Relationerne til de enkelte personer i netværket kan både være af formel og uformel karakter, fx relationer til professionelle fagpersoner og relationer til venner, naboer, bekendte og ligesindede."
+          "display": "Varetage relationer til netvÃ¦rk",
+          "definition": "At varetage relationer til netvÃ¦rk er en handling, der bestÃ¥r i at skabe og opretholde et netvÃ¦rk. Relationerne til de enkelte personer i netvÃ¦rket kan bÃ¥de vÃ¦re af formel og uformel karakter, fx relationer til professionelle fagpersoner og relationer til venner, naboer, bekendte og ligesindede."
         }, {
           "code": "dcc6bb77-45af-4625-9c4d-7d7878307220",
-          "display": "Deltage i sociale fællesskaber og fritidsaktiviteter",
-          "definition": "At deltage i sociale fællesskaber er en handling, der består i at deltage i organiseret socialt liv uden for familien, i lokalsamfundet, i det sociale liv og som medborger. Begrebet har fokus på en persons evne til og mulighed for at deltage i fællesskaber og frivilligt arbejde, herunder fx rekreative aktiviteter og fritidsaktiviteter, religiøse eller åndelige fællesskaber samt politisk liv."
+          "display": "Deltage i sociale fÃ¦llesskaber og fritidsaktiviteter",
+          "definition": "At deltage i sociale fÃ¦llesskaber er en handling, der bestÃ¥r i at deltage i organiseret socialt liv uden for familien, i lokalsamfundet, i det sociale liv og som medborger. Begrebet har fokus pÃ¥ en persons evne til og mulighed for at deltage i fÃ¦llesskaber og frivilligt arbejde, herunder fx rekreative aktiviteter og fritidsaktiviteter, religiÃ¸se eller Ã¥ndelige fÃ¦llesskaber samt politisk liv."
         } ]
       }, {
         "code": "c2b186f9-9c10-478e-8345-2d2c37ab4c46",
         "display": "Kommunikation",
-        "definition": "Kommunikation er en proces, der består af en overførsel eller udveksling af information. Begrebet rummer almindelige og særlige forhold i kommunikation med sprog, tegn og symboler, inklusive modtagelse og fremstilling af meddelelser, føre en samtale og anvende kommunikationshjælpemidler og -teknikker.",
+        "definition": "Kommunikation er en proces, der bestÃ¥r af en overfÃ¸rsel eller udveksling af information. Begrebet rummer almindelige og sÃ¦rlige forhold i kommunikation med sprog, tegn og symboler, inklusive modtagelse og fremstilling af meddelelser, fÃ¸re en samtale og anvende kommunikationshjÃ¦lpemidler og -teknikker.",
         "concept": [ {
           "code": "2ba29098-a527-43d5-b858-4c5353669f42",
           "display": "Fremstille meddelelser",
-          "definition": "At fremstille meddelelser er en aktivitet, der består i at fremsætte meddelelser med bogstavelige og underforståede betydninger mundtligt eller ved at anvende fagter, tegn, tegninger eller formaliseret tegnsprog eller skrift. Med formidling af meddelelser menes fx at gøre rede for kendsgerninger eller fortælle en historie, udtrykke uenighed eller forklare kendsgerninger eller komplekse tanker, samt at kunne meddele sig ved hjælp af kropssprog, almindelige tegn, symboler og billeder."
+          "definition": "At fremstille meddelelser er en aktivitet, der bestÃ¥r i at fremsÃ¦tte meddelelser med bogstavelige og underforstÃ¥ede betydninger mundtligt eller ved at anvende fagter, tegn, tegninger eller formaliseret tegnsprog eller skrift. Med formidling af meddelelser menes fx at gÃ¸re rede for kendsgerninger eller fortÃ¦lle en historie, udtrykke uenighed eller forklare kendsgerninger eller komplekse tanker, samt at kunne meddele sig ved hjÃ¦lp af kropssprog, almindelige tegn, symboler og billeder."
         }, {
           "code": "986898d0-e2e5-4afa-9cb3-ee7aecaa0143",
           "display": "Samtale",
-          "definition": "Samtale er en aktivitet, der består i at indlede, opretholde og afslutte udveksling af tanker og ideer frembragt enten i talesprog, tegnsprog eller med andre sprog mellem en eller flere personer."
+          "definition": "Samtale er en aktivitet, der bestÃ¥r i at indlede, opretholde og afslutte udveksling af tanker og ideer frembragt enten i talesprog, tegnsprog eller med andre sprog mellem en eller flere personer."
         }, {
           "code": "9bbbffef-c404-4ea3-a927-cd22d8027e6d",
-          "display": "Forstå meddelelser",
-          "definition": "At forstå meddelelser er en aktivitet, der består i at forstå bogstavelige og underforståede meninger i talesprog eller i meddelelser, som formidles med fagter, symboler og tegninger i formaliseret tegnsprog eller på skrift. Med forstå menes fx at skelne om en udtalelse udtrykker en kendsgerning eller er et billedligt udtryk, samt at kunne forstå betydningen af kropssprog, almindelige tegn, symboler og billeder."
+          "display": "ForstÃ¥ meddelelser",
+          "definition": "At forstÃ¥ meddelelser er en aktivitet, der bestÃ¥r i at forstÃ¥ bogstavelige og underforstÃ¥ede meninger i talesprog eller i meddelelser, som formidles med fagter, symboler og tegninger i formaliseret tegnsprog eller pÃ¥ skrift. Med forstÃ¥ menes fx at skelne om en udtalelse udtrykker en kendsgerning eller er et billedligt udtryk, samt at kunne forstÃ¥ betydningen af kropssprog, almindelige tegn, symboler og billeder."
         }, {
           "code": "a80e8f96-18ba-4ee4-9496-d3ce882c2f85",
           "display": "Anvende kommunikationsudstyr- og teknikker",
-          "definition": "At anvende kommunikationsudstyr og -teknikker er en aktivitet, der består i at anvende udstyr og teknikker med kommunikationsformål. Kommunikationsudstyr omfatter også kommunikationshjælpemidler. Eksempler på udstyr er fx telefon, sms og computer, et eksempel på teknik er Braille og mundaflæsning."
+          "definition": "At anvende kommunikationsudstyr og -teknikker er en aktivitet, der bestÃ¥r i at anvende udstyr og teknikker med kommunikationsformÃ¥l. Kommunikationsudstyr omfatter ogsÃ¥ kommunikationshjÃ¦lpemidler. Eksempler pÃ¥ udstyr er fx telefon, sms og computer, et eksempel pÃ¥ teknik er Braille og mundaflÃ¦sning."
         } ]
       }, {
         "code": "d1495b2c-1452-4e49-8dbe-8193af5d8823",
         "display": "Mobilitet",
-        "definition": "Mobilitet er en aktivitet, der vedrører bevægelse og færden. Det kan fx være ændring eller opretholdelse af kropsstilling eller -placering eller bevægelse fra ét sted til et andet, flytning og håndtering af genstande, færden ved gang, løb eller klatring og ved anvendelse af forskellige transportmidler.",
+        "definition": "Mobilitet er en aktivitet, der vedrÃ¸rer bevÃ¦gelse og fÃ¦rden. Det kan fx vÃ¦re Ã¦ndring eller opretholdelse af kropsstilling eller -placering eller bevÃ¦gelse fra Ã©t sted til et andet, flytning og hÃ¥ndtering af genstande, fÃ¦rden ved gang, lÃ¸b eller klatring og ved anvendelse af forskellige transportmidler.",
         "concept": [ {
           "code": "320c9aa6-630e-4695-bba2-29ea808fad24",
-          "display": "Bære, flytte og håndtere genstande",
-          "definition": "At bære, flytte og håndtere genstande er en aktivitet, der består i at løfte en genstand op og flytte noget fra ét sted til et andet ved hjælp af hænder, arme eller ben."
+          "display": "BÃ¦re, flytte og hÃ¥ndtere genstande",
+          "definition": "At bÃ¦re, flytte og hÃ¥ndtere genstande er en aktivitet, der bestÃ¥r i at lÃ¸fte en genstand op og flytte noget fra Ã©t sted til et andet ved hjÃ¦lp af hÃ¦nder, arme eller ben."
         }, {
           "code": "4977ce08-df4d-4c09-8e03-c2a563862e68",
-          "display": "Gå og bevæge sig",
-          "definition": "At gå og bevæge sig er en aktivitet, der består i at bevæge sig fra et sted til et andet i forskellige omgivelser. Begrebet rummer også færden med brug af udstyr, fx kørestol eller gangstativ."
+          "display": "GÃ¥ og bevÃ¦ge sig",
+          "definition": "At gÃ¥ og bevÃ¦ge sig er en aktivitet, der bestÃ¥r i at bevÃ¦ge sig fra et sted til et andet i forskellige omgivelser. Begrebet rummer ogsÃ¥ fÃ¦rden med brug af udstyr, fx kÃ¸restol eller gangstativ."
         }, {
           "code": "759ddc8e-57c0-4aa6-8d32-14d8eb51c5dd",
-          "display": "Ændre og opretholde kropsstilling",
-          "definition": "At ændre og opretholde kropsstilling er en aktivitet, der består i at skifte kropsstilling eller holde kroppen i samme stilling efter behov. Begrebet rummer også at flytte sig fra et sted til et andet og skifte eller bevare kropsstilling undervejs."
+          "display": "Ã†ndre og opretholde kropsstilling",
+          "definition": "At Ã¦ndre og opretholde kropsstilling er en aktivitet, der bestÃ¥r i at skifte kropsstilling eller holde kroppen i samme stilling efter behov. Begrebet rummer ogsÃ¥ at flytte sig fra et sted til et andet og skifte eller bevare kropsstilling undervejs."
         }, {
           "code": "eff3385d-01fa-4c9c-9850-52e179243f21",
-          "display": "Færdes med transportmidler",
-          "definition": "At færdes med transportmidler en en aktivitet, der består i at bruge transportmidler som passager eller chauffør til at komme omkring."
+          "display": "FÃ¦rdes med transportmidler",
+          "definition": "At fÃ¦rdes med transportmidler en en aktivitet, der bestÃ¥r i at bruge transportmidler som passager eller chauffÃ¸r til at komme omkring."
         } ]
       }, {
         "code": "da3f488f-1742-4d00-b247-a7d47500b36b",
         "display": "Egenomsorg",
-        "definition": "Egenomsorg er en aktivitet, der vedrører praktiske og hygiejnemæssige handlinger i relation til personen selv. Handlingerne kan fx være vaske og tørre sig, pleje af kroppen og kropsdele, påklædning, spise og drikke og tage vare på egen sundhed.",
+        "definition": "Egenomsorg er en aktivitet, der vedrÃ¸rer praktiske og hygiejnemÃ¦ssige handlinger i relation til personen selv. Handlingerne kan fx vÃ¦re vaske og tÃ¸rre sig, pleje af kroppen og kropsdele, pÃ¥klÃ¦dning, spise og drikke og tage vare pÃ¥ egen sundhed.",
         "concept": [ {
           "code": "14615a09-bd94-4602-b43a-f6d3d3f9801d",
           "display": "Drikke",
-          "definition": "At drikke er en aktivitet, der består i at holde fast om en drik, tage drikken op til munden og drikke på en kulturelt accepteret måde. Begrebet rummer også at blande, omrøre og skænke drikke op, åbne flasker og dåser og bruge sugerør."
+          "definition": "At drikke er en aktivitet, der bestÃ¥r i at holde fast om en drik, tage drikken op til munden og drikke pÃ¥ en kulturelt accepteret mÃ¥de. Begrebet rummer ogsÃ¥ at blande, omrÃ¸re og skÃ¦nke drikke op, Ã¥bne flasker og dÃ¥ser og bruge sugerÃ¸r."
         }, {
           "code": "28fbf17e-bca3-45e1-be35-553e3d91f1b7",
           "display": "Varetage sin seksualitet",
-          "definition": "At varetage sin seksualitet handler om, hvorvidt en persons funktionsnedsættelse eller sociale problemer giver begrænsninger i forhold til at udleve ens seksualitet."
+          "definition": "At varetage sin seksualitet handler om, hvorvidt en persons funktionsnedsÃ¦ttelse eller sociale problemer giver begrÃ¦nsninger i forhold til at udleve ens seksualitet."
         }, {
           "code": "347aa085-4fe2-411f-ac56-5693d164adc3",
-          "display": "Klæde sig af og på",
-          "definition": "At klæde sig af og på er en aktivitet, der består i at tage tøj og sko af og på i rækkefølge og i overensstemmelse med den sociale sammenhæng og de klimatiske forhold."
+          "display": "KlÃ¦de sig af og pÃ¥",
+          "definition": "At klÃ¦de sig af og pÃ¥ er en aktivitet, der bestÃ¥r i at tage tÃ¸j og sko af og pÃ¥ i rÃ¦kkefÃ¸lge og i overensstemmelse med den sociale sammenhÃ¦ng og de klimatiske forhold."
         }, {
           "code": "3a748135-98a8-416a-808d-bff88a8e40ee",
           "display": "Dyrke interesse",
-          "definition": "At dyrke en interesse er en handling, der består i at bruge tid og energi på en bestemt aktivitet eller ting, som man er optaget af. Det kan fx være at samle på bestemte ting, spille computerspil eller lave håndarbejde."
+          "definition": "At dyrke en interesse er en handling, der bestÃ¥r i at bruge tid og energi pÃ¥ en bestemt aktivitet eller ting, som man er optaget af. Det kan fx vÃ¦re at samle pÃ¥ bestemte ting, spille computerspil eller lave hÃ¥ndarbejde."
         }, {
           "code": "464a2ab6-a7df-4b3a-b74d-7873f4cfe668",
           "display": "Spise",
-          "definition": "At spise er en aktivitet af sammensat karakter i forbindelse med indtagelse af føde, som er serveret for en, herunder at få maden op til munden og spise på en kulturelt accepteret måde. Begrebet rummer også at skære eller bryde maden i stykker, åbne flasker og dåser, anvende spiseredskaber, deltage i måltider og i festligheder."
+          "definition": "At spise er en aktivitet af sammensat karakter i forbindelse med indtagelse af fÃ¸de, som er serveret for en, herunder at fÃ¥ maden op til munden og spise pÃ¥ en kulturelt accepteret mÃ¥de. Begrebet rummer ogsÃ¥ at skÃ¦re eller bryde maden i stykker, Ã¥bne flasker og dÃ¥ser, anvende spiseredskaber, deltage i mÃ¥ltider og i festligheder."
         }, {
           "code": "4a58417e-9a75-43f2-9763-66505050159f",
           "display": "Varetage egen sundhed",
-          "definition": "At varetage egen sundhed er en handling, der består i at sikre sit velvære, helbred og fysiske og psykiske velbefindende. Varetagelse af egen sundhed omfatter fx at tage vare på sig selv ved at være opmærksom på, at man har brug for og skal gøre det, der er nødvendigt til varetagelse af egen sundhed, både ved at reagere på risikofaktorer og forebygge sygdom ved fx at opsøge professionel hjælp, følge medicinsk behandling og lægelige og andre råd om sundhed, undgå risikofaktorer som fysiske skader, smitsomme sygdomme, misbrug og seksuelt overførbare sygdomme."
+          "definition": "At varetage egen sundhed er en handling, der bestÃ¥r i at sikre sit velvÃ¦re, helbred og fysiske og psykiske velbefindende. Varetagelse af egen sundhed omfatter fx at tage vare pÃ¥ sig selv ved at vÃ¦re opmÃ¦rksom pÃ¥, at man har brug for og skal gÃ¸re det, der er nÃ¸dvendigt til varetagelse af egen sundhed, bÃ¥de ved at reagere pÃ¥ risikofaktorer og forebygge sygdom ved fx at opsÃ¸ge professionel hjÃ¦lp, fÃ¸lge medicinsk behandling og lÃ¦gelige og andre rÃ¥d om sundhed, undgÃ¥ risikofaktorer som fysiske skader, smitsomme sygdomme, misbrug og seksuelt overfÃ¸rbare sygdomme."
         }, {
           "code": "885400cc-dd71-479e-8993-3fc48fdd6710",
           "display": "Vaske sig",
-          "definition": "At vaske sig er en aktivitet, der der består i at vaske og tørre sig på kroppen og kropsdele med anvendelse af vand og passende rensemidler. Eksempler på vask er bad, brusebad, vaske hænder og fødder, ansigt og hår og tørre sig med håndklæde."
+          "definition": "At vaske sig er en aktivitet, der der bestÃ¥r i at vaske og tÃ¸rre sig pÃ¥ kroppen og kropsdele med anvendelse af vand og passende rensemidler. Eksempler pÃ¥ vask er bad, brusebad, vaske hÃ¦nder og fÃ¸dder, ansigt og hÃ¥r og tÃ¸rre sig med hÃ¥ndklÃ¦de."
         }, {
           "code": "94fb3ea0-92cf-43b1-929b-c95e6fb739a1",
-          "display": "Gå på toilettet",
-          "definition": "At gå på toilettet er en aktivitet, der består i at planlægge og udføre toiletbesøg til udskillelse af affaldsprodukter og efterfølgende rengøring."
+          "display": "GÃ¥ pÃ¥ toilettet",
+          "definition": "At gÃ¥ pÃ¥ toilettet er en aktivitet, der bestÃ¥r i at planlÃ¦gge og udfÃ¸re toiletbesÃ¸g til udskillelse af affaldsprodukter og efterfÃ¸lgende rengÃ¸ring."
         }, {
           "code": "b3939f0b-43d9-4e8c-bb2e-50ff8bb7ed03",
           "display": "Pleje sin krop",
-          "definition": "At pleje sin krop er en aktivitet, der består i at pleje de dele af kroppen, som behøver anden pleje end vask og tørring. Begrebet rummer fx pleje af hud, ansigt, tænder, hår, negle og kønsdele."
+          "definition": "At pleje sin krop er en aktivitet, der bestÃ¥r i at pleje de dele af kroppen, som behÃ¸ver anden pleje end vask og tÃ¸rring. Begrebet rummer fx pleje af hud, ansigt, tÃ¦nder, hÃ¥r, negle og kÃ¸nsdele."
         } ]
       }, {
         "code": "dfbe6ff6-223b-436a-b864-8ba29bda41e2",
         "display": "Samfundsliv",
-        "definition": "Samfundsliv er forhold, der vedrører de opgaver og handlinger, som er nødvendige for at varetage uddannelse, beskæftigelse og økonomi.",
+        "definition": "Samfundsliv er forhold, der vedrÃ¸rer de opgaver og handlinger, som er nÃ¸dvendige for at varetage uddannelse, beskÃ¦ftigelse og Ã¸konomi.",
         "concept": [ {
           "code": "685e8517-2f5c-4ef8-a7c4-fa2d008fdd9d",
-          "display": "Varetage beskæftigelse",
-          "definition": "Varetage beskæftigelse er en handling, der består i at deltage i alle aspekter af et arbejde, erhverv eller anden for for beskæftigelse som ansat på fuldtid eller deltid eller som selvstændig. Eksempler på aspekter er at søge et arbejde og få det, udføre de nødvendige opgaver i jobbet, møde på arbejde til tiden, lede andre arbejdere eller selv blive ledet samt at udføre de nødvendige opgaver alene eller i gruppe."
+          "display": "Varetage beskÃ¦ftigelse",
+          "definition": "Varetage beskÃ¦ftigelse er en handling, der bestÃ¥r i at deltage i alle aspekter af et arbejde, erhverv eller anden for for beskÃ¦ftigelse som ansat pÃ¥ fuldtid eller deltid eller som selvstÃ¦ndig. Eksempler pÃ¥ aspekter er at sÃ¸ge et arbejde og fÃ¥ det, udfÃ¸re de nÃ¸dvendige opgaver i jobbet, mÃ¸de pÃ¥ arbejde til tiden, lede andre arbejdere eller selv blive ledet samt at udfÃ¸re de nÃ¸dvendige opgaver alene eller i gruppe."
         }, {
           "code": "70443014-3faf-402d-abcf-396bfad32eb9",
-          "display": "Varetage økonomi",
-          "definition": "At varetage økonomi er en handling, der består i at varetage opgaver i relation til ens økonomi. Begrebet omfatter varetagelse af basale økonomiske transaktioner som fx at betale for varer eller have overblik over faste udgifter, spare op eller benytte netbank."
+          "display": "Varetage Ã¸konomi",
+          "definition": "At varetage Ã¸konomi er en handling, der bestÃ¥r i at varetage opgaver i relation til ens Ã¸konomi. Begrebet omfatter varetagelse af basale Ã¸konomiske transaktioner som fx at betale for varer eller have overblik over faste udgifter, spare op eller benytte netbank."
         }, {
           "code": "8888edfa-642b-4329-9fe3-a9b180e6d3f4",
           "display": "Varetage uddannelse",
-          "definition": "Varetage uddannelse er et struktureret kompetencegivende undervisningsforløb, der kvalificerer modtageren til fortsat uddannelse eller til at udøve et bestemt erhverv eller udføre en bestemt opgave. Begrebet rummer skolegang, erhvervsuddannelse og videregående uddannelse."
+          "definition": "Varetage uddannelse er et struktureret kompetencegivende undervisningsforlÃ¸b, der kvalificerer modtageren til fortsat uddannelse eller til at udÃ¸ve et bestemt erhverv eller udfÃ¸re en bestemt opgave. Begrebet rummer skolegang, erhvervsuddannelse og videregÃ¥ende uddannelse."
         }, {
           "code": "8bef71de-55b5-47fe-b438-18ac769106b3",
-          "display": "Håndtere post",
-          "definition": "At håndtere post er en handling, der omfatter at tjekke, om der er fysisk eller digital post og at reagere på modtaget post og følge op herpå."
+          "display": "HÃ¥ndtere post",
+          "definition": "At hÃ¥ndtere post er en handling, der omfatter at tjekke, om der er fysisk eller digital post og at reagere pÃ¥ modtaget post og fÃ¸lge op herpÃ¥."
         }, {
           "code": "fd4b8dd3-5c4b-4257-8c13-ea045617d2f6",
           "display": "Varetage bolig",
-          "definition": "At varetage bolig er en handling, der består i at leje eller købe, møblere, indrette og fastholde et hus, en lejlighed eller anden bolig. Fastholdelse af bolig kan eksempelvis være at efterleve en eventuel husorden eller deltage i fællesopgaver. At varetage bolig inkluderer også at flytte ud af en bolig igen."
+          "definition": "At varetage bolig er en handling, der bestÃ¥r i at leje eller kÃ¸be, mÃ¸blere, indrette og fastholde et hus, en lejlighed eller anden bolig. Fastholdelse af bolig kan eksempelvis vÃ¦re at efterleve en eventuel husorden eller deltage i fÃ¦llesopgaver. At varetage bolig inkluderer ogsÃ¥ at flytte ud af en bolig igen."
         } ]
       }, {
         "code": "eef71492-65f5-4297-aa95-3c3a6866ddef",
         "display": "Praktiske opgaver",
-        "definition": "Opgaver i hjemmet er en aktivitet, der vedrører huslige og andre dagligdags handlinger og opgaver i relation til husførelse.",
+        "definition": "Opgaver i hjemmet er en aktivitet, der vedrÃ¸rer huslige og andre dagligdags handlinger og opgaver i relation til husfÃ¸relse.",
         "concept": [ {
           "code": "01770afa-cd17-41fe-a966-b8895e4d55d8",
-          "display": "Købe ind",
-          "definition": "Indkøb er en handling, der består i at købe varer og serviceydelser, som er nødvendige i dagligdagen. Begrebet inkluderer også at instruere og vejlede en anden person i at foretage indkøbene, som fx at vælge madvarer, drikke, rengøringsmidler, husholdningsartikler i en forretning, på et marked eller på nettet; sammenligne kvalitet og pris af varerne, forhandle og betale for de valgte varer eller ydelser og transportere varerne."
+          "display": "KÃ¸be ind",
+          "definition": "IndkÃ¸b er en handling, der bestÃ¥r i at kÃ¸be varer og serviceydelser, som er nÃ¸dvendige i dagligdagen. Begrebet inkluderer ogsÃ¥ at instruere og vejlede en anden person i at foretage indkÃ¸bene, som fx at vÃ¦lge madvarer, drikke, rengÃ¸ringsmidler, husholdningsartikler i en forretning, pÃ¥ et marked eller pÃ¥ nettet; sammenligne kvalitet og pris af varerne, forhandle og betale for de valgte varer eller ydelser og transportere varerne."
         }, {
           "code": "4a51d7a7-61e7-48fa-a1d5-9d26337c6c38",
           "display": "Passe ejendele",
-          "definition": "Udførsel af praktiske opgaver er en handling, der består i at vedligeholde og reparere personlige ejendele. Handlingen omfatter fx vedligehold og reparation af beklædning, bolig, indbo, køretøjer og hjælpemidler som fx ved at male og tapetsere, reparere møbler og installationer, sikre at køretøjer virker, passe og fodre kæledyr og husdyr samt vande planter."
+          "definition": "UdfÃ¸rsel af praktiske opgaver er en handling, der bestÃ¥r i at vedligeholde og reparere personlige ejendele. Handlingen omfatter fx vedligehold og reparation af beklÃ¦dning, bolig, indbo, kÃ¸retÃ¸jer og hjÃ¦lpemidler som fx ved at male og tapetsere, reparere mÃ¸bler og installationer, sikre at kÃ¸retÃ¸jer virker, passe og fodre kÃ¦ledyr og husdyr samt vande planter."
         }, {
           "code": "58ef570c-1c1e-47be-8bfd-26ed99825762",
-          "display": "Udvise hjælp og omsorg for andre",
-          "definition": "At udvise hjælp og omsorg for andre er en handling, der består i at hjælpe medlemmer i husstanden og andre. Begrebet rummer også at hjælpe andre med indlæring, kommunikation, egenomsorg, færden inde og ude samt at være opmærksom på andres velbefindende. Et eksempel på at hjælpe og drage omsorg for andre er varetagelse af forældrerollen."
+          "display": "Udvise hjÃ¦lp og omsorg for andre",
+          "definition": "At udvise hjÃ¦lp og omsorg for andre er en handling, der bestÃ¥r i at hjÃ¦lpe medlemmer i husstanden og andre. Begrebet rummer ogsÃ¥ at hjÃ¦lpe andre med indlÃ¦ring, kommunikation, egenomsorg, fÃ¦rden inde og ude samt at vÃ¦re opmÃ¦rksom pÃ¥ andres velbefindende. Et eksempel pÃ¥ at hjÃ¦lpe og drage omsorg for andre er varetagelse af forÃ¦ldrerollen."
         }, {
           "code": "8f32c948-41c4-49d7-8913-cdeede2e7fe1",
-          "display": "Gøre rent",
-          "definition": "At gøre rent er en handling, der består i at holde ens nære fysiske omgivelser rene og hygiejniske. Rengøring kan fx ske ved at støvsuge, vaske gulv og støve af og omfatter typisk oprydning."
+          "display": "GÃ¸re rent",
+          "definition": "At gÃ¸re rent er en handling, der bestÃ¥r i at holde ens nÃ¦re fysiske omgivelser rene og hygiejniske. RengÃ¸ring kan fx ske ved at stÃ¸vsuge, vaske gulv og stÃ¸ve af og omfatter typisk oprydning."
         }, {
           "code": "b947f321-7cdb-4b33-9653-f3ff800572b0",
           "display": "Lave mad",
-          "definition": "At lave mad er en handling, der består i at planlægge, tilberede og servere enkle eller sammensatte måltider. Handlingen kan fx bestå i at sammensætte et måltid, udvælge appetitlig mad og drikke, fremskaffe ingredienser til tilberedning af måltider; forberede mad og drikke til tilberedning, lave varm og kold mad og drikke samt at servere maden til sig selv eller andre."
+          "definition": "At lave mad er en handling, der bestÃ¥r i at planlÃ¦gge, tilberede og servere enkle eller sammensatte mÃ¥ltider. Handlingen kan fx bestÃ¥ i at sammensÃ¦tte et mÃ¥ltid, udvÃ¦lge appetitlig mad og drikke, fremskaffe ingredienser til tilberedning af mÃ¥ltider; forberede mad og drikke til tilberedning, lave varm og kold mad og drikke samt at servere maden til sig selv eller andre."
         }, {
           "code": "bd67597b-e80f-427f-8cf9-79d01eff91fc",
-          "display": "Vaske tøj",
-          "definition": "At vaske tøj er en handling, der består i at holde ens tøj rent ved at vaske det, når det trænger. At vaske tøj omfatter fx at sortere vasketøj, sætte en vask over, tørre tøj og lægge det rene tøj sammen og på plads."
+          "display": "Vaske tÃ¸j",
+          "definition": "At vaske tÃ¸j er en handling, der bestÃ¥r i at holde ens tÃ¸j rent ved at vaske det, nÃ¥r det trÃ¦nger. At vaske tÃ¸j omfatter fx at sortere vasketÃ¸j, sÃ¦tte en vask over, tÃ¸rre tÃ¸j og lÃ¦gge det rene tÃ¸j sammen og pÃ¥ plads."
         } ]
       } ]
     }, {
@@ -883,38 +883,38 @@
       "concept": [ {
         "code": "7445fb2b-0009-43d9-b49b-1b9782f2fcd9",
         "display": "Omgivelser",
-        "definition": "Omgivelser er en kontekstuel faktor, der omfatter de fysiske, sociale og holdningsmæssige omgivelser, som en person bor og lever i. Omgivelsesfaktorer omfatter hele den omgivende verden, som danner rammen for en persons tilværelse, og som kan hæmme eller fremme personens funktionsevne. Omgivelsesfaktorer omfatter de fysiske omgivelser, de menneskeskabte omgivelser, de kulturelle omgivelser, som fx roller, holdninger og værdier samt sociale omgivelser, som fx politiske forhold, forordninger og formelle regler. På det personlige niveau kan omgivelsesfaktorer fx være hjem, arbejdsplads og skole og den personlige kontakt med fx familie, bekendte, kollegaer og fremmede. På det samfundsmæssige niveau kan omgivelsesfaktorer fx være sociale strukturer som organisationer og offentlige institutioner, tjenester, ydelser, fællesskabsaktiviteter, love og regler samt holdninger og ideologier.",
+        "definition": "Omgivelser er en kontekstuel faktor, der omfatter de fysiske, sociale og holdningsmÃ¦ssige omgivelser, som en person bor og lever i. Omgivelsesfaktorer omfatter hele den omgivende verden, som danner rammen for en persons tilvÃ¦relse, og som kan hÃ¦mme eller fremme personens funktionsevne. Omgivelsesfaktorer omfatter de fysiske omgivelser, de menneskeskabte omgivelser, de kulturelle omgivelser, som fx roller, holdninger og vÃ¦rdier samt sociale omgivelser, som fx politiske forhold, forordninger og formelle regler. PÃ¥ det personlige niveau kan omgivelsesfaktorer fx vÃ¦re hjem, arbejdsplads og skole og den personlige kontakt med fx familie, bekendte, kollegaer og fremmede. PÃ¥ det samfundsmÃ¦ssige niveau kan omgivelsesfaktorer fx vÃ¦re sociale strukturer som organisationer og offentlige institutioner, tjenester, ydelser, fÃ¦llesskabsaktiviteter, love og regler samt holdninger og ideologier.",
         "concept": [ {
           "code": "22eef871-6650-426f-8b79-8d40a6c62808",
           "display": "Holdninger i omgivelserne",
-          "definition": "Holdninger i omgivelserne er ideologier, værdier, normer, faktuelle og religiøse overbevisninger i en persons omgivelser, der afføder vaner, praksisser og andre synlige konsekvenser, som kan påvirke den enkeltes adfærd og sociale liv på alle planer. En persons omgivelser er fx familie, slægtninge, venner, bekendte, omsorgsgivere, personlige hjælpere, fremmede, sundhedspersonale, andre professionelle, samfundet og sociale normer, konventioner og ideologier."
+          "definition": "Holdninger i omgivelserne er ideologier, vÃ¦rdier, normer, faktuelle og religiÃ¸se overbevisninger i en persons omgivelser, der affÃ¸der vaner, praksisser og andre synlige konsekvenser, som kan pÃ¥virke den enkeltes adfÃ¦rd og sociale liv pÃ¥ alle planer. En persons omgivelser er fx familie, slÃ¦gtninge, venner, bekendte, omsorgsgivere, personlige hjÃ¦lpere, fremmede, sundhedspersonale, andre professionelle, samfundet og sociale normer, konventioner og ideologier."
         }, {
           "code": "83342ff3-5f2e-4914-b045-e98357685866",
-          "display": "Boligområde",
-          "definition": "Et boligområde er en ramme, der udgør en persons nærmiljø, herunder art og betydning af socialgrupper, bebyggelse og infrastruktur i samme geografiske område."
+          "display": "BoligomrÃ¥de",
+          "definition": "Et boligomrÃ¥de er en ramme, der udgÃ¸r en persons nÃ¦rmiljÃ¸, herunder art og betydning af socialgrupper, bebyggelse og infrastruktur i samme geografiske omrÃ¥de."
         }, {
           "code": "df194a84-6e4b-4f14-a194-d8d9d9a1fcad",
-          "display": "Personer i netværk",
-          "definition": "Netværk er en eller flere personer, der giver praktisk eller følelsesmæssig støtte, omsorg, beskyttelse, hjælp og kontakt til andre mennesker. Begrebet har fokus på de personer, der udgør et netværk. Begrebet har fokus på de personer, der udgør et netværk. Et netværk kan være privat, professionelt eller bestå af frivilligt organiserede personer. Et professionelt netværk kan fx bestå af skolelærere, sagsbehandlere, personlige hjælpere, sundhedspersonale og andre professionelle. Et privat netværk er familie, slægtninge, venner eller bekendtskaber. Et netværk bestående af frivilligt organiserede personer kan fx udgøres af fodboldtrænere eller spejderlederer. Støtte mv. gives i hjemmet, på arbejdspladsen, i skolen, under leg eller i andre forhold i en persons daglige aktivitet. Et velfungerende netværk er en ressource for en person, hvor i mod et netværk også kan være uhensigtsmæssigt og dermed påvirke en person i negativ retning."
+          "display": "Personer i netvÃ¦rk",
+          "definition": "NetvÃ¦rk er en eller flere personer, der giver praktisk eller fÃ¸lelsesmÃ¦ssig stÃ¸tte, omsorg, beskyttelse, hjÃ¦lp og kontakt til andre mennesker. Begrebet har fokus pÃ¥ de personer, der udgÃ¸r et netvÃ¦rk. Begrebet har fokus pÃ¥ de personer, der udgÃ¸r et netvÃ¦rk. Et netvÃ¦rk kan vÃ¦re privat, professionelt eller bestÃ¥ af frivilligt organiserede personer. Et professionelt netvÃ¦rk kan fx bestÃ¥ af skolelÃ¦rere, sagsbehandlere, personlige hjÃ¦lpere, sundhedspersonale og andre professionelle. Et privat netvÃ¦rk er familie, slÃ¦gtninge, venner eller bekendtskaber. Et netvÃ¦rk bestÃ¥ende af frivilligt organiserede personer kan fx udgÃ¸res af fodboldtrÃ¦nere eller spejderlederer. StÃ¸tte mv. gives i hjemmet, pÃ¥ arbejdspladsen, i skolen, under leg eller i andre forhold i en persons daglige aktivitet. Et velfungerende netvÃ¦rk er en ressource for en person, hvor i mod et netvÃ¦rk ogsÃ¥ kan vÃ¦re uhensigtsmÃ¦ssigt og dermed pÃ¥virke en person i negativ retning."
         } ]
       } ]
     } ]
   }, {
     "code": "b5257b2d-0fbf-4d00-bf38-d298c8568116",
-    "display": "Måltype",
-    "definition": "Måltype er en type af mål, der præciserer forventningen til den bevægelse, der er frem mod den ønskede tilstand, som målet er udtryk for. Måltypen bestemmes ud fra en vurdering af en persons mulighed for at udvikle, fastholde eller begrænse tab af funktionsevne. Måltypen siger ikke noget om, hvilket specifikt funktionsevneniveau personen vurderes at opnå. Måltype kan fx anvendes i forventningsafstemning mellem borger, myndighed og udfører i forbindelse med koordinering af den sociale indsats.",
+    "display": "MÃ¥ltype",
+    "definition": "MÃ¥ltype er en type af mÃ¥l, der prÃ¦ciserer forventningen til den bevÃ¦gelse, der er frem mod den Ã¸nskede tilstand, som mÃ¥let er udtryk for. MÃ¥ltypen bestemmes ud fra en vurdering af en persons mulighed for at udvikle, fastholde eller begrÃ¦nse tab af funktionsevne. MÃ¥ltypen siger ikke noget om, hvilket specifikt funktionsevneniveau personen vurderes at opnÃ¥. MÃ¥ltype kan fx anvendes i forventningsafstemning mellem borger, myndighed og udfÃ¸rer i forbindelse med koordinering af den sociale indsats.",
     "concept": [ {
       "code": "10752a63-00b4-4958-b7f4-9f3a18f74266",
       "display": "Fastholde funktionsevne",
-      "definition": "Fastholde funktionsevne er en måltype, der er udtryk for en forventning om, at borgeren støttes i at fastholde sin funktionsevne i relation til målet. Fastholde funktionsevne i relation til målet indebærer, at borgeren fortsat kan udføre de samme aktiviteter og med samme hyppighed som hidtil."
+      "definition": "Fastholde funktionsevne er en mÃ¥ltype, der er udtryk for en forventning om, at borgeren stÃ¸ttes i at fastholde sin funktionsevne i relation til mÃ¥let. Fastholde funktionsevne i relation til mÃ¥let indebÃ¦rer, at borgeren fortsat kan udfÃ¸re de samme aktiviteter og med samme hyppighed som hidtil."
     }, {
       "code": "d41c8072-52f8-42b5-9375-ddbea454d27f",
       "display": "Udvikle funktionsevne",
-      "definition": "Udvikle funktionsevne er en måltype, der er udtryk for en forventning om, at borgeren støttes i at udvikle sin funktionsevne i relation til målet. Udvikle funktionsevne i relation til målet indebærer, at borgeren opnår at kunne udføre flere aktiviteter oftere end hidtil."
+      "definition": "Udvikle funktionsevne er en mÃ¥ltype, der er udtryk for en forventning om, at borgeren stÃ¸ttes i at udvikle sin funktionsevne i relation til mÃ¥let. Udvikle funktionsevne i relation til mÃ¥let indebÃ¦rer, at borgeren opnÃ¥r at kunne udfÃ¸re flere aktiviteter oftere end hidtil."
     }, {
       "code": "e47c22bd-d88d-48ab-882b-419923e1f44e",
-      "display": "Begrænse tab af funktionsevne",
-      "definition": "Begrænse tab af funktionsevne er en måltype, der er udtryk for en forventning om, at der vil være et tab af funktionsevne i relation til målet, men at borgeren støttes i at begrænse sit tab af funktionsevne i relation til målet mest muligt. Begrænse tab af funktionsevne i relation til målet indebærer, at borgeren i mindst mulig grad mister evnen til at udføre aktiviteter i samme omfang og med samme hyppighed som hidtil."
+      "display": "BegrÃ¦nse tab af funktionsevne",
+      "definition": "BegrÃ¦nse tab af funktionsevne er en mÃ¥ltype, der er udtryk for en forventning om, at der vil vÃ¦re et tab af funktionsevne i relation til mÃ¥let, men at borgeren stÃ¸ttes i at begrÃ¦nse sit tab af funktionsevne i relation til mÃ¥let mest muligt. BegrÃ¦nse tab af funktionsevne i relation til mÃ¥let indebÃ¦rer, at borgeren i mindst mulig grad mister evnen til at udfÃ¸re aktiviteter i samme omfang og med samme hyppighed som hidtil."
     } ]
   }, {
     "code": "e89d317c-4657-4970-b614-ada2ed220595",
@@ -934,16 +934,16 @@
       "definition": "Let nedsat funktionsevne"
     }, {
       "code": "832ae90b-23b5-4063-80aa-0b81bdce680e",
-      "display": "Fuldstændig nedsat funktionsevne",
-      "definition": "Fuldstændig nedsat funktionsevne"
+      "display": "FuldstÃ¦ndig nedsat funktionsevne",
+      "definition": "FuldstÃ¦ndig nedsat funktionsevne"
     }, {
       "code": "b508ff66-6326-4862-a6d7-7bbf184c9823",
       "display": "Ingen nedsat funktionsevne",
       "definition": "Ingen nedsat funktionsevne"
     }, {
       "code": "cae545f5-2813-4d79-98fc-0a7d770af3cd",
-      "display": "Svært nedsat funktionsevne",
-      "definition": "Svært nedsat funktionsevne"
+      "display": "SvÃ¦rt nedsat funktionsevne",
+      "definition": "SvÃ¦rt nedsat funktionsevne"
     } ]
   } ]
 }

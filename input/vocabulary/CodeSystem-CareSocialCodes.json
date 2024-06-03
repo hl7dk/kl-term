@@ -17,16 +17,16 @@
     "definition": "evaluering",
     "concept": [ {
       "code": "effe55c7-572c-4a99-8fb4-2a9dda2f6572",
-      "display": "FFB støttebehovsvurdering",
-      "definition": "Angiver, hvor stort et behov borgeren har for hjælp og støtte."
+      "display": "FFB stÃ¸ttebehovsvurdering",
+      "definition": "Angiver, hvor stort et behov borgeren har for hjÃ¦lp og stÃ¸tte."
     }, {
       "code": "053a301d-1bb8-4cc4-b781-87825ecf0ef8",
       "display": "FFB vurdering af borgers situation",
       "definition": "Vurdering der sammenholder oplysninger fra udredning mhp en samlet faglig analyse og konklusion."
     }, {
       "code": "3f7a8ca0-afca-4b0d-8773-a99b5f2f8aaf",
-      "display": "VUM Borgerens perspektiv på indsatsen",
-      "definition": "VUM Borgerens perspektiv på indsatsen"
+      "display": "VUM Borgerens perspektiv pÃ¥ indsatsen",
+      "definition": "VUM Borgerens perspektiv pÃ¥ indsatsen"
     }, {
       "code": "f52887de-023f-4193-b6b0-4b0a37b1cffc",
       "display": "VUM Borgerens ressourcer i forhold til indsatsen",
@@ -34,7 +34,7 @@
     }, {
       "code": "54c4ffea-7caf-4edc-8aa9-ef6e0be26c4c",
       "display": "FSIII helhedsvurdering",
-      "definition": "Sagsvurdering, der sammenholder resultaterne af en myndighedsudredning og den øvrige sagsoplysning med henblik på at træffe en afgørelse"
+      "definition": "Sagsvurdering, der sammenholder resultaterne af en myndighedsudredning og den Ã¸vrige sagsoplysning med henblik pÃ¥ at trÃ¦ffe en afgÃ¸relse"
     } ]
   }, {
     "code": "7b41185e-eeb4-437d-8120-5d51bbd27a79",
@@ -47,7 +47,7 @@
     }, {
       "code": "ad865929-7363-4b2d-a271-01993181fbaf",
       "display": "Kommunal pleje og omsorg",
-      "definition": "Der anmodes om kommunal pleje og omsorg fx hjemmepleje til ældre borger."
+      "definition": "Der anmodes om kommunal pleje og omsorg fx hjemmepleje til Ã¦ldre borger."
     }, {
       "code": "490ab7be-ddb1-4a54-baf1-009fe6e8a83b",
       "display": "Kommunal sygepleje",
@@ -55,15 +55,15 @@
     }, {
       "code": "a71921ea-fe83-441d-933b-cc21d0b3c8c3",
       "display": "Kommunal Sundhedsfremme og forebyggelse",
-      "definition": "Der anmodes om kommunal sundhedsfremme og forebyggelse efter SUL §119."
+      "definition": "Der anmodes om kommunal sundhedsfremme og forebyggelse efter SUL Â§119."
     }, {
       "code": "7fc66c15-0cb3-4c89-9e18-f3a01e6a6592",
-      "display": "Kommunal genoptræning efter sygehusophold",
-      "definition": "Der anmodes om kommunal genoptræning efter sygehusophold efter SUL §140."
+      "display": "Kommunal genoptrÃ¦ning efter sygehusophold",
+      "definition": "Der anmodes om kommunal genoptrÃ¦ning efter sygehusophold efter SUL Â§140."
     }, {
       "code": "d267ac44-8d7f-43e9-8535-ab3da350649f",
-      "display": "Kommunalt hjælpemiddelområde",
-      "definition": "Der anmodes om hjælpemidler og lignende, der ligger indenfor det kommunale hjælpemiddelområde dvs § 112, § 113, § 114, § 116 i Serviceloven."
+      "display": "Kommunalt hjÃ¦lpemiddelomrÃ¥de",
+      "definition": "Der anmodes om hjÃ¦lpemidler og lignende, der ligger indenfor det kommunale hjÃ¦lpemiddelomrÃ¥de dvs Â§ 112, Â§ 113, Â§ 114, Â§ 116 i Serviceloven."
     } ]
   }, {
     "code": "b5731132-f6b9-4a47-995d-681d2b755d4f",
@@ -79,32 +79,32 @@
       "definition": "Sagsbehandler er kilde til oplysning eller vurdering"
     }, {
       "code": "329774f9-7700-47cf-9c00-63765d9e8078",
-      "display": "Medarbejder og pårørende alene",
-      "definition": "En medarbejder og pårørende er sammen, men uden input fra borger, kilde til oplysning eller vurdering. Fx PUF spørgeskema i sundhedsplejen."
+      "display": "Medarbejder og pÃ¥rÃ¸rende alene",
+      "definition": "En medarbejder og pÃ¥rÃ¸rende er sammen, men uden input fra borger, kilde til oplysning eller vurdering. Fx PUF spÃ¸rgeskema i sundhedsplejen."
     }, {
       "code": "8fe80acb-2c2a-4f10-b2b8-ddb77d2f69dc",
       "display": "Medarbejder alene",
       "definition": "Medarbejderen er alene kilde til oplysning eller vurdering. Fx AIMS skema i sundhedsplejen."
     }, {
       "code": "12428e48-7df8-441f-9a89-d92bb7874066",
-      "display": "Borger støttet af medarbejder",
-      "definition": "Borger fik hjælp af en medarbejder til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
+      "display": "Borger stÃ¸ttet af medarbejder",
+      "definition": "Borger fik hjÃ¦lp af en medarbejder til at komme med oplysninger eller vurderinger. Fx Ã¦ldre borger der fÃ¥r hjÃ¦lp til at udfylde WHO5 spÃ¸rgeskema."
     }, {
       "code": "b66dc78a-a673-43fc-8ac0-1e859ba626e0",
-      "display": "Borger støttet af pårørende",
-      "definition": "Borger fik hjælp af en pårørende til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
+      "display": "Borger stÃ¸ttet af pÃ¥rÃ¸rende",
+      "definition": "Borger fik hjÃ¦lp af en pÃ¥rÃ¸rende til at komme med oplysninger eller vurderinger. Fx Ã¦ldre borger der fÃ¥r hjÃ¦lp til at udfylde WHO5 spÃ¸rgeskema."
     }, {
       "code": "166d2437-4e47-4a52-bd94-cdbe91086ca6",
-      "display": "Pårørende alene",
-      "definition": "Pårørende er alene, uden input fra borger, kilde til oplysninger eller vuderderinger. Fx WHO 5 spørgeskema for svækket ældre borger udfyldt af datter."
+      "display": "PÃ¥rÃ¸rende alene",
+      "definition": "PÃ¥rÃ¸rende er alene, uden input fra borger, kilde til oplysninger eller vuderderinger. Fx WHO 5 spÃ¸rgeskema for svÃ¦kket Ã¦ldre borger udfyldt af datter."
     }, {
       "code": "63338442-7b2e-405b-acc0-142361ef19f1",
       "display": "Andre",
-      "definition": "Andre end borger og sagsbehandler er kilde til oplysning eller vurdering. Fx læge, pårørende og udfører. Denne definition af andre, bruges kun på voksensocialområdet.",
+      "definition": "Andre end borger og sagsbehandler er kilde til oplysning eller vurdering. Fx lÃ¦ge, pÃ¥rÃ¸rende og udfÃ¸rer. Denne definition af andre, bruges kun pÃ¥ voksensocialomrÃ¥det.",
       "concept": [ {
         "code": "f00a6844-1005-401d-965d-1c5859df7beb",
-        "display": "Udfører",
-        "definition": "Udfører er kilde til oplysning eller vurdering"
+        "display": "UdfÃ¸rer",
+        "definition": "UdfÃ¸rer er kilde til oplysning eller vurdering"
       } ]
     } ]
   }, {
@@ -117,24 +117,24 @@
       "definition": "observation foretaget ved kontakt"
     }, {
       "code": "9f03dfbb-7a97-45a5-94db-d4c3501714a9",
-      "display": "opfølgning",
-      "definition": "opfølgning foretaget ved kontakt"
+      "display": "opfÃ¸lgning",
+      "definition": "opfÃ¸lgning foretaget ved kontakt"
     }, {
       "code": "829ac647-c7fc-4964-836b-f708d886e0e3",
       "display": "oplysning",
       "definition": "oplysning er foretaget ved kontakt"
     }, {
       "code": "15775b0a-7ec6-469e-9d3c-a81fbc9a1b45",
-      "display": "udførelse af akutindsats",
-      "definition": "Akutindsats, bevilget af læge eller akutteam, udført ved kontakt"
+      "display": "udfÃ¸relse af akutindsats",
+      "definition": "Akutindsats, bevilget af lÃ¦ge eller akutteam, udfÃ¸rt ved kontakt"
     }, {
       "code": "c03b426a-4348-407f-b343-f4baa9759c72",
-      "display": "udførelse af ikke-bevilget indsats",
-      "definition": "Indsats, der ikke i forvejen var bevilget, udført ved kontakt"
+      "display": "udfÃ¸relse af ikke-bevilget indsats",
+      "definition": "Indsats, der ikke i forvejen var bevilget, udfÃ¸rt ved kontakt"
     }, {
       "code": "784275f1-6822-4a88-b361-d958007d5253",
-      "display": "udførelse af planlagt indsats",
-      "definition": "Planlagt indsats udført ved kontakt"
+      "display": "udfÃ¸relse af planlagt indsats",
+      "definition": "Planlagt indsats udfÃ¸rt ved kontakt"
     }, {
       "code": "9269c9a2-8220-447b-a127-811275b41062",
       "display": "vurdering/bevilling",
@@ -142,45 +142,45 @@
     } ]
   }, {
     "code": "3762dd32-4123-43a8-815d-ec40d3697652",
-    "display": "indforståelse ifm henvendelse",
-    "definition": "indforståelse ifm henvendelse",
+    "display": "indforstÃ¥else ifm henvendelse",
+    "definition": "indforstÃ¥else ifm henvendelse",
     "concept": [ {
       "code": "54aeeba6-6aa2-4165-a5a8-bbd6f2f3b1eb",
-      "display": "ikke indforstået",
-      "definition": "Borger ikke indforstået med henvendelse"
+      "display": "ikke indforstÃ¥et",
+      "definition": "Borger ikke indforstÃ¥et med henvendelse"
     }, {
       "code": "e67035da-9179-466b-99ad-ea86835d38c9",
-      "display": "indforstået",
-      "definition": "Borger indforstået med henvendelse"
+      "display": "indforstÃ¥et",
+      "definition": "Borger indforstÃ¥et med henvendelse"
     } ]
   }, {
     "code": "253bbdc0-c4ca-4e77-9d3e-3a9e51281636",
-    "display": "Mål/formål",
-    "definition": "Mål/formål",
+    "display": "MÃ¥l/formÃ¥l",
+    "definition": "MÃ¥l/formÃ¥l",
     "concept": [ {
       "code": "416fe27d-3ccf-4390-8742-8b52a9d8dc78",
-      "display": "FFB borgers mål og ønsker",
-      "definition": "Borgers mål og ønsker som specificeret af FFB. Det er overordnet og er som udtrykt af borger"
+      "display": "FFB borgers mÃ¥l og Ã¸nsker",
+      "definition": "Borgers mÃ¥l og Ã¸nsker som specificeret af FFB. Det er overordnet og er som udtrykt af borger"
     }, {
       "code": "6746d4af-145a-4bfd-a672-05c0cf11b53b",
-      "display": "FFB delmål",
-      "definition": "Delmål i FFB, ligger under indsatsmål, og er som udtrykt af udfører"
+      "display": "FFB delmÃ¥l",
+      "definition": "DelmÃ¥l i FFB, ligger under indsatsmÃ¥l, og er som udtrykt af udfÃ¸rer"
     }, {
       "code": "0bb3daef-538d-45dc-b444-abdbcb63f6bc",
-      "display": "FFB indsatsmål",
-      "definition": "Indsatsmål i FFB - er de konkrete faglige mål der arbejdes med, og som er knyttet til tilstande og opfølgninger"
+      "display": "FFB indsatsmÃ¥l",
+      "definition": "IndsatsmÃ¥l i FFB - er de konkrete faglige mÃ¥l der arbejdes med, og som er knyttet til tilstande og opfÃ¸lgninger"
     }, {
       "code": "ca552020-6ed1-4cdc-b0d4-32697f1f27ad",
-      "display": "FSIII tilstandsmål",
-      "definition": "Tilstandsmål som defineret af FSIII - ofte i form af en forventet tilstand"
+      "display": "FSIII tilstandsmÃ¥l",
+      "definition": "TilstandsmÃ¥l som defineret af FSIII - ofte i form af en forventet tilstand"
     }, {
       "code": "424827b1-23aa-4848-962b-56ee47def560",
-      "display": "Indsatsformål",
-      "definition": "Det overordnede formål med hele indsatsen (Defineret af FFB men bruges også for FSIII)"
+      "display": "IndsatsformÃ¥l",
+      "definition": "Det overordnede formÃ¥l med hele indsatsen (Defineret af FFB men bruges ogsÃ¥ for FSIII)"
     }, {
       "code": "ffb9886b-d04e-46b1-9165-a400f91f822b",
-      "display": "Borgers ønsker og mål",
-      "definition": "Borgers ønsker og mål"
+      "display": "Borgers Ã¸nsker og mÃ¥l",
+      "definition": "Borgers Ã¸nsker og mÃ¥l"
     } ]
   }, {
     "code": "940f37e6-8a3d-483b-adac-be8af3268a5b",
@@ -188,80 +188,80 @@
     "definition": "oplysningsaktivitet",
     "concept": [ {
       "code": "95e787e0-5490-437d-ae4c-f3736644242f",
-      "display": "afklarende samtale §119, FSIII",
-      "definition": "udførelse af afklarende samtale vedr. sundhedsfremme og forebyggelse jævnfør FSIII"
+      "display": "afklarende samtale Â§119, FSIII",
+      "definition": "udfÃ¸relse af afklarende samtale vedr. sundhedsfremme og forebyggelse jÃ¦vnfÃ¸r FSIII"
     }, {
       "code": "e5a73b0e-a5d2-430e-931f-6156306ab00f",
       "display": "funktionsevnevurdering hjemmepleje, FSIII",
-      "definition": "udførelse af funktionsevnevurdering i hjemmeplejen jævnfør FSIII"
+      "definition": "udfÃ¸relse af funktionsevnevurdering i hjemmeplejen jÃ¦vnfÃ¸r FSIII"
     }, {
       "code": "f8ebd11a-04f3-4aa0-9786-406e8896c84d",
       "display": "socialfaglig udredning, VUM/FFB",
-      "definition": "udførelse af socialfaglig udredning som specificeret af VUM og FFB"
+      "definition": "udfÃ¸relse af socialfaglig udredning som specificeret af VUM og FFB"
     }, {
       "code": "47fd1468-89da-4803-9d7a-ecc039a30d92",
       "display": "sygeplejefaglig udredning, FSIII",
-      "definition": "udførelse af sygeplejefaglig udredning jævnfør FSIII"
+      "definition": "udfÃ¸relse af sygeplejefaglig udredning jÃ¦vnfÃ¸r FSIII"
     }, {
       "code": "0f0f223c-abe3-4720-aab8-c257679a0a4e",
       "display": "terapeutfaglig udredning, FSIII",
-      "definition": "udførelse af terapeutfaglig udredning jævnfør FSIII"
+      "definition": "udfÃ¸relse af terapeutfaglig udredning jÃ¦vnfÃ¸r FSIII"
     }, {
       "code": "e70c66c0-a939-493b-8ea8-5b7e7b48ba1a",
       "display": "generelle oplysninger, FSIII",
-      "definition": "indhentning af generelle oplysninger jævnfør FSIII"
+      "definition": "indhentning af generelle oplysninger jÃ¦vnfÃ¸r FSIII"
     } ]
   }, {
     "code": "10deb210-e7e1-4d56-9531-b9ff2102126e",
-    "display": "Planlagt indsatsforløb",
-    "definition": "Planlagt indsatsforløb",
+    "display": "Planlagt indsatsforlÃ¸b",
+    "definition": "Planlagt indsatsforlÃ¸b",
     "concept": [ {
       "code": "e459386d-1474-4c31-89c5-c8bc7a25e3d4",
       "display": "Social indsats",
-      "definition": "Det planlagte indsatsforløb er en social indsats, som defineret af FFB, med tilhørende ydelser, målgruppe og tilbud"
+      "definition": "Det planlagte indsatsforlÃ¸b er en social indsats, som defineret af FFB, med tilhÃ¸rende ydelser, mÃ¥lgruppe og tilbud"
     }, {
       "code": "4fd6c23a-6ff3-4251-ac37-3ca095027b5b",
       "display": "Kommunal Sundhedsfremme og forebyggelse",
-      "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119.",
+      "definition": "Det planlagte indsatsforlÃ¸b vedrÃ¸rer sundhedsfremme og forebyggelse efter Â§119.",
       "concept": [ {
         "code": "5c160c02-e858-4c1f-925a-71ed64844749",
-        "display": "Interventionsforløb efter §119",
-        "definition": "Et planlagt §119 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §119 kunne et interventionsforløb fx være et KOL-træningshold der indeholder indsatserne fysisk træning og funktionstræning."
+        "display": "InterventionsforlÃ¸b efter Â§119",
+        "definition": "Et planlagt Â§119 indsatsforlÃ¸b, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der sÃ¸ger at forbedre borgers tilstand. For Â§119 kunne et interventionsforlÃ¸b fx vÃ¦re et KOL-trÃ¦ningshold der indeholder indsatserne fysisk trÃ¦ning og funktionstrÃ¦ning."
       }, {
         "code": "9791e55a-656f-47eb-8fd5-c4a06b0a4662",
-        "display": "Opfølgningsforløb efter §119",
-        "definition": "Planlagt indsatsforløb der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+        "display": "OpfÃ¸lgningsforlÃ¸b efter Â§119",
+        "definition": "Planlagt indsatsforlÃ¸b der bestÃ¥r af opfÃ¸lgningsindsatser. Anvendes hvis der i forvejen planlÃ¦gges opfÃ¸lgning ved flere forskellige lejligheder fx efter 2,4 og 6 mÃ¥neder."
       } ]
     }, {
       "code": "ddd2f670-5ec7-4f9c-9a2c-aee25cb133bf",
-      "display": "Kommunal genoptræning efter sygehusophold",
-      "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140.",
+      "display": "Kommunal genoptrÃ¦ning efter sygehusophold",
+      "definition": "Det planlagte indsatsforlÃ¸b er genoptrÃ¦ning efter sundhedslovens Â§140.",
       "concept": [ {
         "code": "f15b2663-94d9-4d0c-a5de-d8bd8e1e4ebb",
-        "display": "Interventionsforløb efter §140",
-        "definition": "Et planlagt §140 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §140 kunne et interventionsforløb fx være et Knæ-genoptræningshold der indeholder indsatserne fysisk træning, funktionstræning og vejledning og undervisning."
+        "display": "InterventionsforlÃ¸b efter Â§140",
+        "definition": "Et planlagt Â§140 indsatsforlÃ¸b, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der sÃ¸ger at forbedre borgers tilstand. For Â§140 kunne et interventionsforlÃ¸b fx vÃ¦re et KnÃ¦-genoptrÃ¦ningshold der indeholder indsatserne fysisk trÃ¦ning, funktionstrÃ¦ning og vejledning og undervisning."
       }, {
         "code": "4863001e-14c7-4be8-a2da-e4f21a4b6ac4",
-        "display": "Opfølgningsforløb efter §140",
-        "definition": "Planlagt indsatsforløb efter §140 der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+        "display": "OpfÃ¸lgningsforlÃ¸b efter Â§140",
+        "definition": "Planlagt indsatsforlÃ¸b efter Â§140 der bestÃ¥r af opfÃ¸lgningsindsatser. Anvendes hvis der i forvejen planlÃ¦gges opfÃ¸lgning ved flere forskellige lejligheder fx efter 2,4 og 6 mÃ¥neder."
       } ]
     } ]
   }, {
     "code": "2c059407-fed5-4852-92d8-6bb5ad63d7bb",
-    "display": "Begrundelse for indsatsophør",
-    "definition": "Begrundelse for, at kommunale indsatser ophører",
+    "display": "Begrundelse for indsatsophÃ¸r",
+    "definition": "Begrundelse for, at kommunale indsatser ophÃ¸rer",
     "concept": [ {
       "code": "82e99421-31da-4915-96ed-168ccfa1d20c",
-      "display": "Hændelse medfører ophør",
-      "definition": "Hændelse, som ikke er et aktivt fravalg eller en behovsvurdering medfører ophør. Det kan fx være en længere hospitalsindlæggelse, eller at borger flytter."
+      "display": "HÃ¦ndelse medfÃ¸rer ophÃ¸r",
+      "definition": "HÃ¦ndelse, som ikke er et aktivt fravalg eller en behovsvurdering medfÃ¸rer ophÃ¸r. Det kan fx vÃ¦re en lÃ¦ngere hospitalsindlÃ¦ggelse, eller at borger flytter."
     }, {
       "code": "4bbf6d6a-a1c6-41c2-b8c1-7352b7378adf",
       "display": "Ikke yderligere behov (borger-vurderet)",
-      "definition": "Borger vurderer, at han/hun ikke har yderligere behov og afslutter derfor før tid"
+      "definition": "Borger vurderer, at han/hun ikke har yderligere behov og afslutter derfor fÃ¸r tid"
     }, {
       "code": "a63b6aa6-7d56-4e67-a5b3-d73f6d262af5",
       "display": "Ikke yderligere behov (fagperson-vurderet)",
-      "definition": "Fagperson vurderer, at borger ikke har yderligere behov og afslutter derfor før tid"
+      "definition": "Fagperson vurderer, at borger ikke har yderligere behov og afslutter derfor fÃ¸r tid"
     }, {
       "code": "3a5a72b7-addf-4857-b80c-04e4246e3072",
       "display": "Aktivt fravalg",
@@ -273,14 +273,14 @@
       }, {
         "code": "8371b769-4bfb-4ac8-b130-d91c54784a56",
         "display": "Aktivt fravalg pga. logistik ifm. transport",
-        "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den logistiske udfordring det er mht. transport, at nå frem til det sted indsatsen tilbydes"
+        "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den logistiske udfordring det er mht. transport, at nÃ¥ frem til det sted indsatsen tilbydes"
       }, {
         "code": "a3f2bd01-078b-486e-81be-797d192ad7bd",
-        "display": "Aktivt fravalg pga. anden træning",
-        "definition": "Borger har behov, men har foretaget et aktivt fravalg fordi han/hun er påbegyndt træning i andet regi fx fitnesscenter"
+        "display": "Aktivt fravalg pga. anden trÃ¦ning",
+        "definition": "Borger har behov, men har foretaget et aktivt fravalg fordi han/hun er pÃ¥begyndt trÃ¦ning i andet regi fx fitnesscenter"
       }, {
         "code": "f8436c2e-af1c-44fe-939d-473b518dd01d",
-        "display": "Aktivt fravalg pga. økonomi ifm. transport",
+        "display": "Aktivt fravalg pga. Ã¸konomi ifm. transport",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den omkostning der er forbundet med transport til det sted indsatsen tilbydes"
       } ]
     } ]
@@ -304,24 +304,24 @@
     "concept": [ {
       "code": "1b55a4b0-1156-4f58-b2df-b5c6014d9048",
       "display": "Telefonisk",
-      "definition": "Kontakten er foregået per telefon."
+      "definition": "Kontakten er foregÃ¥et per telefon."
     }, {
       "code": "124be95d-6924-4609-9d2a-e7c73ae3ab3d",
-      "display": "Skærmbesøg",
-      "definition": "Kontakten er foregået via skærm med mulighed for tændt kamera, så parterne har haft mulighed for at interagere ansigt til ansigt, og fremvise ting."
+      "display": "SkÃ¦rmbesÃ¸g",
+      "definition": "Kontakten er foregÃ¥et via skÃ¦rm med mulighed for tÃ¦ndt kamera, sÃ¥ parterne har haft mulighed for at interagere ansigt til ansigt, og fremvise ting."
     } ]
   }, {
     "code": "11266a8f-5795-42ab-88ec-4fe5c6c28e80",
-    "display": "Målfokus",
-    "definition": "Målfokus",
+    "display": "MÃ¥lfokus",
+    "definition": "MÃ¥lfokus",
     "concept": [ {
       "code": "66959f77-6e2a-4574-8423-3ff097f8b9fa",
       "display": "funktionsevneniveau",
-      "definition": "målet udtrykkes i form af et funktionsevneniveau, som kan være et FFB funktionsevneniveau eller FSIII tilstandsniveau"
+      "definition": "mÃ¥let udtrykkes i form af et funktionsevneniveau, som kan vÃ¦re et FFB funktionsevneniveau eller FSIII tilstandsniveau"
     }, {
       "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
-      "display": "måltype",
-      "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
+      "display": "mÃ¥ltype",
+      "definition": "mÃ¥let udtrykkes i form af en mÃ¥ltype, mÃ¥ltypen er den forventede Ã¦ndring i tilstanden givet indsatsen"
     } ]
   } ]
 }

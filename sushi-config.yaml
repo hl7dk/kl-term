@@ -16,7 +16,7 @@ publisher:
   url: http://kl.dk
 parameters:
   special-url: [urn:oid:1.2.208.176.2.21, urn:oid:1.2.208.176.2.22, urn:oid:1.2.208.176.2.1]
-#path-expansion-params: Parameters-expParam.json
+path-expansion-params: Parameters-expParam.json
 #expansion-parameter: [displayLanguage=da]
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
 # │  To use a provided input/includes/menu.xml file, delete the "menu" property below.             │
