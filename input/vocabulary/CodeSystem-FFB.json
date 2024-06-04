@@ -6,7 +6,7 @@
     "system": "urn:oid",
     "value": "urn:oid:1.2.208.176.2.22"
   } ],
-  "version": "20230517",
+  "version": "20240530",
   "name": "FFB",
   "title": "FFB",
   "status": "active",
@@ -17,33 +17,33 @@
   "content": "complete",
   "concept": [ {
     "code": "67b4ac73-dedf-4337-ad56-476b0a55ab03",
-    "display": "Social indsats [Servicelov]",
-    "definition": "Indsats, der består af en eller flere ydelser, som leveres til en eller flere borgere af et eller flere tilbud, og som skal forebygge eller tilgodese behov, som følger af en nedsat funktionsevne, og som gives med henblik på at fremme den enkeltes mulighed for at klare sig selv eller at lette den daglige tilværelse eller forbedre livskvaliteten.",
+    "display": "Social indsats",
+    "definition": "En social indsats, er en indsats, der består af en eller flere ydelser, som leveres til en eller flere borgere af et eller flere tilbud. En social indsats skal forebygge eller tilgodese behov, som følger af en nedsat funktionsevne. Indsatsen gives med henblik på at fremme den enkeltes mulighed for at klare sig selv eller at lette den daglige tilværelse eller forbedre livskvaliteten. I generelle vendinger er det tale om en social indsats, når 'nogen' leverer 'noget' til 'en modtager' med det beskrevne formål. Mere konkret vil en social indsats bestå af en eller flere specifikke ydelser, som typisk leveres til én borger af ét tilbud. Det kan fx være når et ambulant behandlingstilbud til voksne leverer misbrugsbehandling til en stofmisbruger eller når et socialpædagogisk opholdssted leverer socialpædagogisk behandling til et barn. Der vil typisk være en eller flere bestemte faglige tilgange til leveringen af den sociale indsats, der kan leveres efter en eller flere metoder. En social indsats vil almindeligvis...",
     "concept": [ {
       "code": "af7624f8-affd-4a7e-8754-b1b1dd9d8def",
       "display": "Ydelse",
-      "definition": "Tjeneste, genstand eller beløb, der gives eller modtages",
+      "definition": "En ydelse er en tjeneste, genstand eller et beløb, der gives eller modtages. En ydelse på socialområdet kan i visse tilfælde også bestå af en sanktion, som fx forældrepålæg.",
       "concept": [ {
         "code": "72a2a2d4-5a83-4093-ba1c-7f759c132801",
         "display": "Afklaring",
-        "definition": "Ydelse, der har til formål at afdække en persons situation",
+        "definition": "Afklaring er en ydelse, der har til formål at afdække en borgers situation.",
         "concept": [ {
           "code": "35b593cf-724f-4058-9f31-fe1b3e8df124",
           "display": "Pædagogisk udredning",
-          "definition": "Udredning, hvor en leverandør afdækker en persons funktionsevne i relation til daglige aktiviteter"
+          "definition": "Pædagogisk udredning er en aktivitet, hvor en leverandør afdækker en borgers funktionsevne i relation til daglige aktiviteter. Et centralt aspekt i afdækningen af funktionsevnen er borgerens mestringsevne, som har betydning for, hvordan man begriber, håndterer og handler i forskellige situationer. Visitationsparagraf: Serviceloven § 85."
         } ]
       }, {
         "code": "a1eaa022-9e5c-493c-83d3-7cc40b9df9e9",
         "display": "Ophold",
-        "definition": "Ydelse, der har til formål at huse en person.",
+        "definition": "Ophold er en ydelse, der har til formål at huse en borger. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask.",
         "concept": [ {
           "code": "5af56051-8413-4115-aaa2-83a0767e1137",
           "display": "Længerevarende ophold",
-          "definition": "Ophold, der er tilkendt for en ikke-midlertidig periode."
+          "definition": "Længerevarende ophold er en ydelse, der har til formål at huse en borger, og som er tilkendt for en ikke-midlertidig periode. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf: Serviceloven § 108, Almenboligloven § 54, Friplejeboligloven, Ældreboligloven m.fl."
         }, {
           "code": "80aa8ea7-4ad8-405f-876a-4c0f89fde06a",
           "display": "Midlertidigt ophold",
-          "definition": "Ophold, der er tilkendt midlertidigt."
+          "definition": "Midlertidigt ophold er en ydelse, der har til formål at huse en borger, og som tilkendes midlertidigt. Ophold leveres typisk af en type af botilbud. Ophold er i langt de fleste tilfælde én ud af flere ydelser, der leveres til borgeren af tilbuddet. Derfor betragtes ophold stort set altid som et tillæg til disse andre ydelser. Det primære fokus for den sociale indsats er ofte disse andre ydelser, der leveres i forbindelse med opholdet. Der kan være egenbetaling for borgerens ophold. Det kan fx omfatte betaling for husleje, el, varme, vand, kost og vask. Vejledende visitationsparagraf på Børn- og ungeområdet: Serviceloven §§ 52, 58, 66. Vejledende visitationsparagraf på Voksen-området: Serviceloven §§ 107, 109, 110."
         }, {
           "code": "a81a3fa9-6601-4d1e-a11e-f7444dfd3828",
           "display": "Akut ophold",
@@ -52,128 +52,128 @@
       }, {
         "code": "a2256d86-1cf8-4da5-be49-1f49f4335ecb",
         "display": "Aktivitet og samvær",
-        "definition": "Ydelse, der gennem udviklende eller vedligeholdende aktiviteter har til formål at fremme socialt samvær eller tilbyde et miljøskift.",
+        "definition": "Aktivitet- og samvær er en ydelse, der gennem udviklende eller vedligeholdende aktiviteter har til formål at fremme socialt samvær eller at tilbyde et miljøskift. I aktivitet og samvær kan der også indgå individuel vejledning, støtte, omsorg og hjælp til at deltage i aktiviteterne. Lovhjemmel: Serviceloven § 104.",
         "concept": [ {
           "code": "299af83f-586c-4c17-8af6-c8c47a847d6d",
           "display": "Sansestimulerende aktivitet",
-          "definition": "Aktivitet og samvær, hvor en person får stimuleret sine sanser med henblik på evnen til at kunne sortere, organisere og bearbejde sanseindtryk."
+          "definition": "Sansestimulerende aktiviteter er aktivitet og samvær, hvor en borger får stimuleret sine sanser med henblik på evnen til at kunne sortere, organisere og bearbejde sanseindtryk. Sansestimulerende aktiviteter kan fx være massage, gyngeture, kuglebad og -dyne, sansehave og brug af musik-, lyd- og lysstimuli. Visitationsparagraf: Serviceloven § 104."
         }, {
           "code": "2c1944be-fe87-4c42-b08e-9cc075c9ef18",
           "display": "Oplevelsesaktivitet",
-          "definition": "Aktivitet og samvær, hvor en person har individuelle oplevelser eller oplevelser sammen med andre personer."
+          "definition": "Oplevelsesaktiviteter er aktivitet og samvær, hvor en borger har individuelle oplevelser eller oplevelser sammen med andre borgere eller personale. Oplevelser kan fx være natur- og kulturoplevelser. Visitationsparagraf: Serviceloven § 104."
         }, {
           "code": "66e23d66-1c5f-4070-bed1-8827cc863dcd",
           "display": "Fysisk aktivitet",
-          "definition": "Aktivitet og samvær, der gennem fysiske bevægelser giver en person mulighed for at bruge sin krop."
+          "definition": "Fysiske aktiviteter er aktivitet og samvær, der gennem fysiske bevægelser giver en borger mulighed for at bruge sin krop. Det omfatter fx idræts- og motionsaktiviteter og forskellige former for bevægelse, hvor samværet kan være i centrum. Visitationsparagraf: Serviceloven § 104."
         }, {
           "code": "7e419926-bb04-4829-99c9-95ea20403c2c",
           "display": "Social aktivitet",
-          "definition": "Aktivitet og samvær, som ved at få en person ind i et fællesskab med andre forebygger eller bryder med social isolation og vedligeholder de sociale relationer."
+          "definition": "Social aktivitet er aktivitet og samvær, som ved at få en borger ind i et fællesskab med andre, forebygger eller bryder med social isolation og vedligeholder de sociale relationer. Social aktivitet kan fx være at spise, spille spil eller høre musik sammen med andre. Visitationsparagraf: Serviceloven § 104."
         }, {
           "code": "be5d5058-ef06-42a9-b894-51e44513e717",
           "display": "Kreativ aktivitet",
-          "definition": "Aktivitet og samvær, hvor en person kan udfolde sig kreativt."
+          "definition": "Kreative aktiviteter er aktivitet og samvær, hvor en borger kan udfolde sig kreativt. Aktiviteterne kan foretages alene eller sammen med andre borgere eller personale. Kreative aktiviteter kan fx være madlavning; musik, sang og drama; håndarbejde; maleri eller værkstedsaktiviteter. Visitationsparagraf: Serviceloven § 104."
         }, {
           "code": "f25674bf-3162-45c3-bde4-6d542bf9629b",
           "display": "Kompetenceudviklende aktivitet",
-          "definition": "Aktivitet og samvær, hvor en person eller gruppe af personer undervises i bestemte færdigheder eller kompetencer."
+          "definition": "Kompetenceudviklende aktiviteter er aktivitet og samvær, hvor en borger eller gruppe af borgere undervises i bestemte færdigheder eller kompetencer. Kompetenceudviklende aktiviteter kan således både sigte på at opnå helt konkrete færdigheder fx i forhold til brug af IT og mobiltelefon eller på at lave mad, eller på mere brede kompetenceløft, der sigter mod evnen til at varetage egen sundhed og livsførelse. Visitationsparagraf: Serviceloven § 104."
         } ]
       }, {
         "code": "d8505298-6ea5-4ca8-923d-6e4451cc9a48",
         "display": "Beskyttet beskæftigelse",
-        "definition": "Ydelse, der gennem arbejdslignende, lønnede aktiviteter har til formål at afdække, oparbejde, udvikle eller bevare en persons arbejdsevne og beskæftigelsesrelevante kompetencer.",
+        "definition": "Beskyttet beskæftigelse er en ydelse, der gennem arbejdslignende, lønnede aktiviteter har til formål at afdække, oparbejde, udvikle eller bevare en borgers arbejdsevne og beskæftigelsesrelevante kompetencer. I beskyttet beskæftigelse kan der også indgå individuel vejledning, støtte og hjælp til at deltage i aktiviteterne. Beskyttet beskæftigelse er rettet mod borgere, der ikke kan opnå eller fastholde beskæftigelse på normale vilkår på arbejdsmarkedet, og som ikke kan få indsatser efter anden lovgivning. Lovhjemmel: Serviceloven § 103.",
         "concept": [ {
           "code": "55b77d7c-afce-4269-9232-7731ab1ef4fc",
           "display": "Service",
-          "definition": "Beskyttet beskæftigelse, der er centreret omkring udførelse af servicerende, understøttende arbejdsfunktioner."
+          "definition": "Service og tjenesteydelser er beskyttet beskæftigelse, der er centreret omkring udførelse af servicerende, understøttende arbejdsfunktioner. I en service og tjenesteydelse vil der ofte indgå kontakt med andre, hvorfor der typisk vil være fokus på at træne dette. Eksempler på service og tjenesteydelser er kantine- og cafédrift, pedel- og rengøringsopgaver samt kontor- og piccolineopgaver, butik- og kundebetjening og vedligeholdelse af grønne områder. Visitationsparagraf: Serviceloven § 103."
         }, {
           "code": "c429b7a9-5085-472b-b118-a21ca90f769f",
           "display": "Praktikforløb",
-          "definition": "Beskyttet beskæftigelse, der har til formål, at en person kan afprøve ressourcer og kompetencer i forhold til et specifikt arbejdsområde eller en given arbejdsplads i en afgrænset periode."
+          "definition": "Praktikforløb er beskyttet beskæftigelse, der har til formål, at en borger kan afprøve ressourcer og kompetencer i forhold til et specifikt arbejdsområde eller en given arbejdsplads i en afgrænset periode. Praktikforløb kan også foregå i en ekstern virksomhed, fx en dagligvareforretning eller en produktionsvirksomhed. Visitationsparagraf: Serviceloven § 103."
         }, {
           "code": "fb3d8722-90e0-4a80-ba65-490617ffeb0f",
           "display": "Produktion og værksted",
-          "definition": "Beskyttet beskæftigelse, der er centreret omkring udførelse af enkle, afgrænsede arbejdsopgaver som led i en samlet produktion af konkrete produkter."
+          "definition": "Produktion og værksted er beskyttet beskæftigelse, der er centreret omkring udførelse af enkle, afgrænsede arbejdsopgaver som led i en samlet produktion af konkrete produkter. De konkrete arbejdsopgaver kan fx være fremstilling af produkter, herunder fx kunsthåndværk, optændingsbrænde, grøntsager, produktion af avis og medier. Opgaverne kan eksempelvis omfatte montering, sortering, optælling og pakning og kontrol af produkter. Visitationsparagraf: Serviceloven § 103."
         } ]
       }, {
         "code": "1f0ff82b-3243-422f-9651-1d00fd2dcd61",
         "display": "Socialpædagogisk støtte",
-        "definition": "Ydelse, der gennem motivation, vejledning og støtte har til formål at udvikle eller fastholde en persons funktionsevne og muligheder for selvstændighed og selvbestemmelse i forhold til personens situation.",
+        "definition": "Socialpædagogisk støtte er en ydelse, der gennem motivation, vejledning og støtte har til formål at udvikle eller fastholde en borgers funktionsevne og muligheder for selvstændighed og selvbestemmelse i forhold til borgerens situation. Socialpædagogisk støtte retter sig blandt andet mod udvikling og vedligeholdelse af færdigheder i forbindelse med almindelig daglig livsførelse, herunder at skabe struktur i hverdagen og understøtte deltagelse i samfundets almene fællesskaber, eksempelvis uddannelse, beskæftigelse og foreningsliv. Socialpædagogisk støtte kan også ydes med det formål at begrænse tabet af funktionsevne og at yde kompensation, omsorg og pleje. Lovhjemmel: Serviceloven § 85.",
         "concept": [ {
           "code": "309b778e-52ed-448a-91ae-0650a6cd8b1b",
           "display": "Støtte til samfundsdeltagelse",
-          "definition": "Socialpædagogisk støtte, der retter sig mod aktiviteter, der er en forudsætning for at kunne deltage i samfundslivet.",
+          "definition": "Støtte til samfundsdeltagelse er socialpædagogisk støtte, der retter sig mod aktiviteter, der er en forudsætning for at kunne deltage i samfundslivet. Visitationsparagraf: Serviceloven § 85.",
           "concept": [ {
             "code": "0886a1b6-4a3a-47e5-9c97-066270529e4f",
             "display": "Støtte til transport",
-            "definition": "Støtte til samfundsdeltagelse, der retter sig mod en persons mulighed for selvstændigt at færdes uden for hjemmet."
+            "definition": "Socialpædagogisk støtte til transport er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgers mulighed for selvstændigt at færdes uden for hjemmet. Støtte til transport omfatter eksempelvis træning i at anvende offentlige transportmidler, fx at tage med bussen til og fra arbejde og uddannelse, behandling og lægebesøg eller aktiviteter af social karakter. Støtte til transport er ikke ledsagelse, men er rettet mod personens evne til at færdes selvstændigt. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "1a2daf63-0510-4bf3-8578-662d4300c965",
             "display": "Støtte til uddannelse",
-            "definition": "Støtte til samfundsdeltagelse, der retter sig mod en persons muligheder for at varetage en uddannelse."
+            "definition": "Socialpædagogisk støtte til uddannelse er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgersmuligheder for at varetage en uddannelse. Støtte til uddannelse kan fx være at afdække ønsker og muligheder i forbindelse med uddannelse, etablering af hensigtsmæssige rutiner og struktur i forhold til at varetage en uddannelse samt at fastholde motivation og engagement. Herved adskiller støtte til uddannelse sig fra specialpædagogisk støtte under uddannelse efter Lov om specialpædagogisk støtte. Støtte til uddannelse er helt eller delvist sammenfaldende med mentorstøtte efter Lov om aktiv beskæftigelsesindsats § 31.b Med uddannelse menes både ordinær uddannelse såvel som uddannelse på særlige vilkår. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "cb1169ee-8969-46d3-813d-f0dd555bd838",
             "display": "Støtte til beskæftigelse",
-            "definition": "Støtte til samfundsdeltagelse, der retter sig mod en persons muligheder for at varetage et arbejde."
+            "definition": "Socialpædagogisk støtte til beskæftigelse er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod en borgers muligheder for at varetage et arbejde. Støtte til beskæftigelse kan fx være etablering af hensigtsmæssige rutiner og struktur i forhold til at varetage et arbejde samt at fastholde motivation og engagement. Støtte til beskæftigelse er helt eller delvist sammenfaldende med mentorstøtte efter Lov om aktiv beskæftigelsesindsats § 31.b. Med beskæftigelse menes både ordinær beskæftigelse og beskæftigelse på særlige vilkår. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "e2631dec-fd8b-420e-94db-53fd80e82766",
             "display": "Støtte til kontakt til offentlige og private instanser",
-            "definition": "Støtte til samfundsdeltagelse, der retter sig mod gennemførsel af besøg hos og kontakt til offentlige og private instanser med et specifikt formål."
+            "definition": "Socialpædagogisk støtte til kontakt til offentlige og private instanser er motivation, vejledning og støtte til samfundsdeltagelse, der retter sig mod gennemførsel af besøg hos og kontakt til offentlige og private instanser med et specifikt formål. Støtte til kontakt til offentlige og private instanser kan fx være rettet mod at henvende sig hos banken, foreninger, organisationer og offentlige myndigheder. Det kan også være støtte til at gennemføre besøg fx hos lægen eller tandlægen. Visitationsparagraf: Serviceloven § 85."
           } ]
         }, {
           "code": "329782cf-a740-4eb7-aa7e-aaaa9a53c99e",
           "display": "Støtte til sundhed",
-          "definition": "Socialpædagogisk støtte, der retter sig mod et eller flere aspekter af sundhed og indeholder et element af sundhedsfremme.",
+          "definition": "Støtte til sundhed er socialpædagogisk støtte, der retter sig mod et eller flere aspekter af sundhed og indeholder et element af sundhedsfremme. Sundhed omfatter både fysisk og mental trivsel. Visitationsparagraf: Serviceloven § 85.",
           "concept": [ {
             "code": "3c1639d0-e486-43c6-8add-448b8aff4b8f",
             "display": "Støtte til sund levevis",
-            "definition": "Støtte til sundhed, der retter sig mod livsstilsbetingede forhold."
+            "definition": "Socialpædagogisk støtte til sund levevis er motivation, vejledning og støtte til sundhed, der retter sig mod livsstilsbetingede forhold. Støtte til sund levevis kan fx være at dyrke motion, etablere en sund døgnrytme, stoppe med at ryge eller motivere borgeren til at spise sundt og hensigtsmæssigt, herunder støtte til måltider. Vejledende visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "72272d03-1774-4a14-b598-5f19b5eac83f",
             "display": "Støtte til personlig hygiejne",
-            "definition": "Støtte til sundhed, der retter sig mod hygiejnemæssige opgaver i relation til personen selv."
+            "definition": "Socialpædagogisk støtte til personlig hygiejne er motivation, vejledning og støtte til sundhed, der retter sig mod hygiejnemæssige opgaver i relation til borgeren selv. Støtte til personlig hygiejne kan fx være rettet mod etablering af struktur og rutiner i forbindelse med af- og påklædning og bad. Herved adskiller støtte til personlig hygiejne sig fra personlig hjælp efter serviceloven § 83. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "ad7755d2-11bf-468d-958b-2f0c8d9c3742",
             "display": "Støtte til psykisk trivsel",
-            "definition": "Støtte til sundhed, der retter sig mod en persons psykiske velbefindende."
+            "definition": "Socialpædagogisk støtte til psykisk trivsel er motivation, vejledning og støtte til sundhed, der retter sig mod en borgers psykiske velbefindende. Støtte til psykisk trivsel kan fx være rettet mod en borgers følelsesregulering og handlemønstre, indsigt i og forståelse af egen situation, opbygning af positivt selvværd og identitet. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "bd5fea9a-16ed-4e63-b6a1-8e83caaf9b0b",
             "display": "Støtte til seksualitet",
-            "definition": "Støtte til sundhed, der retter sig mod den måde, som en persons seksualitet kommer til udtryk på."
+            "definition": "Socialpædagogisk støtte til seksualitet er motivation, vejledning og støtte til sundhed, der retter sig mod den måde, som en borgers seksualitet kommer til udtryk på. Støtte til seksualitet kan fx være støtte til at udtrykke sin seksualitet hensigtsmæssigt eller sætte grænser. Det kan også være støtte til at opsøge specialiseret rådgivning og vejledning i forhold til seksualitet og funktionsnedsættelser. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "e7c8b42e-b882-4629-8e03-65e44b1aa3e3",
             "display": "Støtte til behandling",
-            "definition": "Støtte til sundhed, der retter sig mod en persons behandling."
+            "definition": "Socialpædagogisk støtte til behandling er motivation, vejledning og støtte til sundhed, der retter sig mod en borgers behandling. Støtte til behandling kan fx være rettet mod, at borgeren fastholder beslutningen om at påbegynde behandling eller opretholder igangværende behandling, herunder fx misbrugsbehandling, psykologisk behandling og medicinsk behandling, Herved adskiller støtte til behandling sig fra ydelser efter Sundhedsloven § 138. Visitationsparagraf: Serviceloven § 85."
           } ]
         }, {
           "code": "4ff4a2d4-4cde-4a22-bb37-ecfbd3fd9650",
           "display": "Støtte til relationer og fællesskaber",
-          "definition": "Socialpædagogisk støtte, der retter sig mod relationer og fællesskaber, hvor samspillet med andre er et centralt element.",
+          "definition": "Støtte til relationer og fællesskaber er socialpædagogisk støtte, der retter sig mod relationer og fællesskaber, hvor samspillet med andre er et centralt element. Visitationsparagraf: Serviceloven § 85.",
           "concept": [ {
             "code": "05cd5e81-1a3a-4bdd-901b-7ec96c12d990",
             "display": "Støtte til sociale relationer",
-            "definition": "Støtte til relationer og fællesskaber, der retter sig mod at udvikle, indgå i og bevare relationer til andre mennesker."
+            "definition": "Socialpædagogisk støtte til sociale relationer er motivation, vejledning og støtte til relationer og fællesskaber, der retter sig mod at udvikle, indgå i og bevare relationer til andre mennesker. Støtte til sociale relationer kan både være rettet mod en borgers relationer til enkeltpersoner eller på, hvordan en borger indgår i et større fællesskab. Støtte til sociale relationer kan både være hjælp til at håndtere de følelsesmæssige og sociale aspekter ved samværet, fx at håndtere følelser og problemstillinger i sociale sammenhænge, at skabe og fastholde netværk og at holde kontakt med venner og familie eller deltage i og gennemføre aktiviteter sammen med andre. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "ea47a198-7e24-472d-ba5d-132b8b744710",
             "display": "Støtte til varetagelse af forældrerollen",
-            "definition": "Støtte til relationer og fællesskaber, der retter sig mod strukturering og håndtering af opgaver, som er en almindelig del af forældreansvaret, og hvor samværet mellem barn og forælder er centralt."
+            "definition": "Socialpædagogisk støtte til varetagelse af forældrerollen er motivation, vejledning og støtte til relationer og fællesskaber, der retter sig mod strukturering og håndtering af opgaver, som er en almindelig del af forældreansvaret, og hvor samværet mellem barn og forælder er centralt. Støtten tildeles på baggrund af borgerens nedsatte funktionsevne i forhold til at gennemføre de opgaver, der indgår i varetagelse af forældrerollen og ikke grundet manglende forældreevne. Herved adskiller støtte til varetagelse af forældrerollen sig fra foranstaltninger efter Serviceloven § 52, hvor fokus er på barnets trivsel. Visitationsparagraf: Serviceloven § 85."
           } ]
         }, {
           "code": "a63f7092-63d9-4cb5-ace5-655b552fdacc",
           "display": "Støtte til praktiske opgaver",
-          "definition": "Socialpædagogisk støtte, der retter sig imod almindelige praktiske opgaver.",
+          "definition": "Støtte til praktiske opgaver er socialpædagogisk støtte, der retter sig imod almindelige praktiske opgaver. Støtte til praktiske opgaver består af motivation, vejledning og støtte til udførelsen af de praktiske opgaver, herunder udvikling og vedligeholdelse af kompetencer til at strukturere, planlægge og udføre de konkrete aktiviteter. Herved adskiller støtte til praktiske opgaver sig fra praktisk hjælp efter § 83. Visitationsparagraf: Serviceloven § 85.",
           "concept": [ {
             "code": "638f44df-6bf2-47f8-9935-b8fdc83e5bf5",
             "display": "Støtte til daglige opgaver i hjemmet",
-            "definition": "Støtte til praktiske opgaver, der har hverdagskarakter og retter sig mod en persons hjem."
+            "definition": "Socialpædagogisk støtte til daglige opgaver i hjemmet er motivation, vejledning og støtte til praktiske opgaver, der har hverdagskarakter og retter sig mod borgerens hjem. Støtte til daglige opgaver i hjemmet kan eksempelvis være støtte til oprydning, tøjvask, rengøring eller indkøb og madlavning. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "c56634ca-6847-4c50-b5c1-c528c1ffc1d8",
             "display": "Støtte til etablering i bolig",
-            "definition": "Støtte til praktiske opgaver, der retter sig mod anskaffelse af og etablering i bolig."
+            "definition": "Socialpædagogisk støtte til etablering i bolig er motivation, vejledning og støtte til praktiske opgaver, der retter sig mod anskaffelse af og etablering i borgerens bolig. Et eksempel på støtte til etablering i bolig er at søge efter en bolig eller at guide og motivere i forbindelse med ind- og udflytning fx i forbindelse med planlægning, strukturering og gennemførsel af praktiske opgaver og indretning af boligen til borgerens behov. Visitationsparagraf: Serviceloven § 85."
           }, {
             "code": "d473dea2-4f6d-4f36-a8f0-260f0213f50a",
             "display": "Støtte til administration",
-            "definition": "Støtte til praktiske opgaver af administrativ eller økonomisk karakter."
+            "definition": "Socialpædagogisk støtte til administration er motivation, vejledning og støtte til praktiske opgaver af administrativ eller økonomisk karakter. Støtte til administration kan fx være rettet mod borgerens håndtering og forståelse af post, herunder digital post og selvbetjeningsløsninger, personlig økonomi, herunder budget, opsparing og regninger, samt opdatering og anvendelse af software eller apps, herunder digitaliserede hjælpemidler. Visitationsparagraf: Serviceloven § 85."
           } ]
         } ]
       }, {
@@ -559,7 +559,7 @@
   }, {
     "code": "b3ddc7d7-f6c1-4d47-8280-456992cbe0a6",
     "display": "FFB tilstande",
-    "definition": "FFB tilstande\n\nMapset: 58000024148 (FFB tilstande mappet til SNOMED)\nMapset: 338000019145 (OmrHierarkiFFB)\nMapset: 68000024145 (TilstandsrelationerFFB)",
+    "definition": "FFB tilstande",
     "concept": [ {
       "code": "740934cd-002b-4b96-b92e-b3562eed9448",
       "display": "Funktioner og forhold",

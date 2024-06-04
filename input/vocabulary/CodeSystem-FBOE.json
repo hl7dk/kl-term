@@ -2,7 +2,7 @@
   "resourceType": "CodeSystem",
   "id": "FBOE",
   "url": "http://fhir.kl.dk/term/CodeSystem/FBOE",
-  "version": "20230517",
+  "version": "20240530",
   "name": "FBOE",
   "title": "FBOE",
   "status": "active",
@@ -12,94 +12,856 @@
   "hierarchyMeaning": "is-a",
   "content": "complete",
   "concept": [ {
-    "code": "7c8eceee-3591-497f-b78d-0d56eb046f35",
-    "display": "Sundhedsplejefaglig indikator",
-    "definition": "Indikator brugt i sundhedsplejen, for på overordnede områder at evaluere barnets sundhed og trivsel.",
+    "code": "2034ac33-2cc1-4904-a804-2bd89caa2523",
+    "display": "Børnetilstande",
+    "definition": "Børnetilstande",
     "concept": [ {
-      "code": "bf5d7844-6175-41e1-a117-e5d60e755477",
-      "display": "Indikator ifm. forebyggelsesindsats for småbørn",
-      "definition": "Indikator anvendet ifm. sundhedsplejens forebyggelsesindsats for småbørn",
+      "code": "cbef5017-0a14-4d07-acdc-9d8ea148843d",
+      "display": "Udfordring relateret til sygeplejefaglige problemområder",
+      "definition": "Udfordring relateret til sygeplejefaglige problemområder",
       "concept": [ {
-        "code": "2c39af9f-8e45-4c88-962f-e7a9e2cd31b6",
-        "display": "Forælders psykiske tilstand",
-        "definition": "Observation af psykisk tilstand når man er blevet forælder ifm. forebyggelsesindsats for småbørn"
+        "code": "03b4d589-3ff5-437e-ba83-f212579d9707",
+        "display": "Viden- og udviklingsudfordring",
+        "definition": "Viden- og udviklingsudfordring"
       }, {
-        "code": "e88ddd81-4aa5-4c84-89fb-52de961a7c17",
-        "display": "Signaler, reaktioner, kommunikation",
-        "definition": "Observation af signaler, reaktioner, kommunikation ifm. forebyggelsesindsats for småbørn"
+        "code": "0ace6cd4-4d4a-44c9-8eab-8d45bd29000a",
+        "display": "Udfordring med seksualitet, køn og/eller kropsopfattelse",
+        "definition": "Udfordring med seksualitet, køn og/eller kropsopfattelse"
       }, {
-        "code": "0701a892-2e6b-4b76-a041-97ceda78f973",
-        "display": "Motorik",
-        "definition": "Observation af motorik ifm. forebyggelsesindsats for småbørn"
+        "code": "0e7c61be-403e-495b-90ec-348fd0647e66",
+        "display": "Andet ernæringsproblem",
+        "definition": "Andet ernæringsproblem"
       }, {
-        "code": "bfc7062e-d529-4516-a698-fc87b339033a",
-        "display": "Søvn, døgnrytme",
-        "definition": "Observation af søvn, døgnrytme ifm. forebyggelsesindsats for småbørn"
+        "code": "28a77e7c-c718-4187-9f46-84f50664a967",
+        "display": "Udfordring med smerte og/eller sanser",
+        "definition": "Udfordring med smerte og/eller sanser"
       }, {
-        "code": "bee30064-8436-4762-83ed-e47d65f23fc6",
-        "display": "Samvær, kontakt, forældre-barn relation",
-        "definition": "Observation af samvær, kontakt, forældre-barn relation ifm. forebyggelsesindsats for småbørn"
+        "code": "3bdc1cf9-dae1-40b1-9a82-b39ef72a433f",
+        "display": "Cirkulationsproblem",
+        "definition": "Cirkulationsproblem"
+      }, {
+        "code": "45144c31-9818-4dc8-9b63-4bf997a49961",
+        "display": "Misdannelse",
+        "definition": "Misdannelse"
+      }, {
+        "code": "54f8263c-c4ac-494c-b276-90073c1f1a33",
+        "display": "Respirationsproblem",
+        "definition": "Respirationsproblem"
+      }, {
+        "code": "aabcb5b7-1523-4de9-9505-d685246beb04",
+        "display": "Problem med hud og/eller slimhinder",
+        "definition": "Problem med hud og/eller slimhinder"
+      }, {
+        "code": "bdeb1505-7e6c-491a-bc7b-9869a69e8b30",
+        "display": "Udfordring med funktionsniveau",
+        "definition": "Udfordring med funktionsniveau"
+      }, {
+        "code": "dc822827-a548-4e90-8bd6-90f231b89cb5",
+        "display": "Udfordring med udskillelser",
+        "definition": "Udfordring med udskillelser"
+      }, {
+        "code": "f4971268-d17b-41ec-a1d7-526ce0d08bec",
+        "display": "Anden psykosocial udfordring",
+        "definition": "Anden psykosocial udfordring"
       } ]
+    }, {
+      "code": "0bd43934-bd2e-4fd7-bf26-a98b653a1104",
+      "display": "Udfordring konstateret ifm. anamnese og observation",
+      "definition": "Udfordring konstateret ifm. anamnese og observation",
+      "concept": [ {
+        "code": "351b2b05-6ade-40df-89e0-f59753704230",
+        "display": "Sårbarhed ved forælder",
+        "definition": "Sårbarhed ved forælder",
+        "concept": [ {
+          "code": "15fc2e8e-b27b-4957-be98-954c1bc318a3",
+          "display": "Konflikt med den anden forælder",
+          "definition": "Småbørn: Konflikt med den anden forælder kan fx være voldsomme skænderier eller uenigheder."
+        }, {
+          "code": "577d33d5-2eff-47ba-b5d0-c4438b8f49c0",
+          "display": "Dårlig fødselsoplevelse med dette barn",
+          "definition": "Småbørn: Dårlig fødselsoplevelse med dette barn. Fx traumatisk eller voldsom fødsel."
+        }, {
+          "code": "7acf5936-6640-44a7-af6d-b20c7607dcfe",
+          "display": "Traumatiske oplevelser",
+          "definition": "Småbørn: Forælder har haft voldsomme oplevelser omfattende omsorgssvigt, ulykker, vold og overgreb. Fx har været udsat for partnervold, tortur eller incest, har tidligere fået anbragt et barn, eller har haft traumatiserende oplevelser ifm. det at være flygtning."
+        }, {
+          "code": "87fbc4e5-717a-4395-aa8f-c2c0c0bca763",
+          "display": "Tab i familien",
+          "definition": "Småbørn: Er i situationen påvirket af tidligere at have mistet nærtstående familiemedlem, eller anden person, hvor relationen havde særligt stor betydning."
+        }, {
+          "code": "b4032c0c-6e9a-4431-8ce4-97ba4f4574b3",
+          "display": "Misbrug",
+          "definition": "Småbørn: Misbrug hos forælder kan fx være af alkohol, medicin eller stoffer, der nedsætter forælders omsorgsevne."
+        }, {
+          "code": "d126c096-30f0-49c0-8d15-7a50c888d50b",
+          "display": "Sygdom eller handicap",
+          "definition": "Småbørn: Fysisk eller psykisk sygdom, som ikke er en efterfødselsreaktion."
+        }, {
+          "code": "d1cd9a33-3800-4901-ab7b-b630ee1be46e",
+          "display": "Tidligere dårlig fødselsoplevelse",
+          "definition": "Småbørn: Tidligere dårlig fødselsoplevelse. Fx spædbarnsdød eller traumatisk eller voldsom fødsel."
+        }, {
+          "code": "de666a03-1211-4d75-b416-8c8785a40a4b",
+          "display": "Problem med økonomi",
+          "definition": "Småbørn: Familien har vanskeligheder ved at finde penge til fx udstyr, tøj til barnet, mad eller husleje."
+        } ]
+      }, {
+        "code": "3c11e7e5-888e-42b8-bd22-9ee5c20c2156",
+        "display": "Abnorm vægt/højde",
+        "definition": "Abnorm vægt/højde",
+        "concept": [ {
+          "code": "03093611-8e3e-4d9b-9f65-6c9670c3fc91",
+          "display": "Vigende højdevækst",
+          "definition": "Vigende højdevækst"
+        }, {
+          "code": "37ef9400-2229-4cea-877c-8d653c9ec5ca",
+          "display": "Vigende hovedomfang",
+          "definition": "Vigende hovedomfang"
+        }, {
+          "code": "3c8735c2-f599-44ea-840d-a0d09db4ce2b",
+          "display": "Vigende vægt",
+          "definition": "Vigende vægt"
+        }, {
+          "code": "8bb204b0-9d83-4562-bcde-aea7aee78e34",
+          "display": "Overvægt",
+          "definition": "Overvægt"
+        }, {
+          "code": "ab33e243-34cd-4768-aca6-54a15fe3922b",
+          "display": "Forøget højdevækst",
+          "definition": "Forøget højdevækst"
+        } ]
+      }, {
+        "code": "3e3ed0b8-5315-43db-afd6-648f9597b49b",
+        "display": "Udfordring i spiseadfærd",
+        "definition": "Udfordring i spiseadfærd",
+        "concept": [ {
+          "code": "02788248-f5cf-4d87-99c7-d89fba446255",
+          "display": "Selektivt madvalg",
+          "definition": "Skolebørn: Barnet har et selektivt madvalg og afviser derfor mange fødevarer"
+        }, {
+          "code": "07abb1dd-4853-4c3c-8fab-ebe89c10dbc8",
+          "display": "Springer måltider over",
+          "definition": "Skolebørn: Barnet springer måltider over. Fx barnet spiser ikke morgenmad eller frokost eller barnet oplever ikke at have tid til at spise på skolen."
+        }, {
+          "code": "37862a2d-393d-4302-98bf-399d475cdb21",
+          "display": "Begrænser energiindtag",
+          "definition": "Skolebørn: Barnet har tendens til at spise mindre end kroppen har brug for, eller kaster maden op med vilje."
+        }, {
+          "code": "4813e65d-4d24-4c82-8f17-ce9f084bb970",
+          "display": "Udfordring med amning",
+          "definition": "Småbørn: Forældrene har svært ved at få amningen til at fungere. Udfordring med amning kan have mange årsager fra uhensigtsmæssig lejring af barnet, dårlig sutteteknik, smerte ved mor, fysiologiske forhold hos mor eller barn og/eller sociale/psykologiske forhold."
+        }, {
+          "code": "626b7b4b-eb0f-4561-a5d5-f9ac8119f4af",
+          "display": "Spiser sjældent sammen med andre",
+          "definition": "Skolebørn: Barnet spiser sjældent sammen med andre, og/eller har ikke en fællesskabsorienteret måltidkultur. Fx familien spiser på forskellige tidspunkter, eller fokus er på noget andet mens der spises fx skærme."
+        }, {
+          "code": "8036b9f6-e00d-4956-8704-61ba08287735",
+          "display": "Overspisning",
+          "definition": "Småbørn: Barnet viser ikke tydelige tegn på mæthed, og spiser altid når der tilbydes mad.\n\nSkolebørn: Barnet har tendens til at overspise."
+        }, {
+          "code": "89ab2b34-bdb4-4c0a-95f5-d7cd5e0f94cc",
+          "display": "Spiser overdrevet sundt",
+          "definition": "Skolebørn: Barnet har tendens til at have et overdrevet fokus på sund spisning."
+        }, {
+          "code": "9b0e6538-a24f-47be-9c06-2988cfaef63a",
+          "display": "Småt og/eller selektivt spisende eller vægrer sig ved at spise",
+          "definition": "Småbørn: Barnet spiser ikke spontant tilstrækkeligt. Barnet viser fx ikke tydelige tegn på sult og/eller vægrer sig ved at spise, selv om det er længe siden, at det sidst har spist. Barnet kan også værge sig ved at spise varieret kost og kun indtage nogle få selektivt foretrukne typer af mad."
+        }, {
+          "code": "b887a387-c630-43a0-96a3-2b5c7c84e043",
+          "display": "Gylper meget/kaster meget op",
+          "definition": "Småbørn: Barnet har reflux ud over det, der er alderssvarende, uden i øvrigt at være syg. Kan udvise tegn på at refluxen påvirker sundheden fx med synkebesvær, kolikagtige smerter, blod i afføring og vejrtrækningsproblemer."
+        } ]
+      }, {
+        "code": "60d3e0e4-bfe4-46e3-bbd9-a387559f6ae3",
+        "display": "Udfordring med kommunikation og sprog",
+        "definition": "Udfordring med kommunikation og sprog",
+        "concept": [ {
+          "code": "355959ff-6122-4e23-9b69-835f739dd42d",
+          "display": "Udfordring med sprogligt udtryk",
+          "definition": "Småbørn: Udfordringer med sprogligt udtryk. Fx barnet udtrykker sig ikke alderssvarende med mimik/gestus, peger, pludrer i lydkæder."
+        }, {
+          "code": "37bfe2f5-bdd2-42b0-a1c9-4787860ce624",
+          "display": "Udfordring med gensidig kommunikation",
+          "definition": "Småbørn: Udfordringer i gensidigheden i kommunikationen. Fx problemer med at anvende gestik, smil, pludren som indledning og svar på kontakt til forældrene og/eller sundhedsplejersken."
+        }, {
+          "code": "54c87d2b-b4b2-40eb-89e7-46cca2be757e",
+          "display": "Udfordring med stammen",
+          "definition": "Skolebørn: Barnet har problemer med stammen. Fx gentagelse af de første ord i sætningen, stopper op midt i en sætning og starter forfra eller tøver og leder efter ordene."
+        }, {
+          "code": "5e83b4b4-8bd0-442b-8e34-77c435105aed",
+          "display": "Udfordring med opmærksomhed",
+          "definition": "Småbørn: Udfordringer med at fastholde sin opmærksomhed. Fx udfordringer med at se på noget eller lytte mindst 1 minut."
+        }, {
+          "code": "8821649f-0f50-4dfa-87e3-8ac2d17d01d5",
+          "display": "Udfordring med fælles opmærksomhed",
+          "definition": "Småbørn: Udfordringer med fælles opmærksomhed. Fx barnet har problemer med at følge det forældrene peger på. Barnet har problemer med at holde fælles fokus."
+        }, {
+          "code": "b44d5315-41dc-4d02-a16a-3dbe1c31df0f",
+          "display": "Udfordring med sproganvendelse",
+          "definition": "Skolebørn: Barnet har problemer med at forstå, producere eller bruge det talte sprog. Fx fortæller usammenhængende om et emne eller svarer ikke relevant eller nuanceret på et spørgsmål. Barnet kan blive ked af det eller vred, når det ikke kan formulere sig."
+        }, {
+          "code": "df3e0246-892e-4d5e-af1d-1d1443196f20",
+          "display": "Udfordring med sprogforståelse",
+          "definition": "Småbørn: Udfordringer med sprogforståelse. Fx barnet reagerer ikke alderssvarende på kropssprog eller enkelte ord."
+        }, {
+          "code": "f3446cc5-9054-41e5-954d-c8c7a724f0c0",
+          "display": "Udfordring med udtale",
+          "definition": "Skolebørn: Barnet har problemer med udtale. Fx sproglyde barnet udtaler forkert, lyde barnet bytter om på eller lyde barnet undlader at sige."
+        }, {
+          "code": "fbc23626-556f-4eeb-b494-0a5af1dd2dd6",
+          "display": "Udfordring med at målrette opmærksomhed",
+          "definition": "Skolebørn: Barnet har problemer med at målrette eller opretholde opmærksomheden i en samtale."
+        } ]
+      }, {
+        "code": "72ff26d2-1a43-437c-9c2d-d29d2c41a9c4",
+        "display": "Udfordringer med nedsat evne til social kontakt",
+        "definition": "Udfordringer med nedsat evne til social kontakt",
+        "concept": [ {
+          "code": "0ec86d42-83b9-4d2d-b56a-f6d352b58ccf",
+          "display": "Følelsesmæssigt nedtonet",
+          "definition": "Småbørn: Barnet er nedtonet eller har manglende mimik. Barnet fremtræder trist og uden glæde."
+        }, {
+          "code": "15a16fbc-32f1-4eac-b18c-55ebe1887a57",
+          "display": "Konstant argumenterende",
+          "definition": "Skolebørn: Barnet er konstant argumenterende og stiller fx modspørgsmål."
+        }, {
+          "code": "1e2fc60e-a56f-4523-8d45-df51b0c611bf",
+          "display": "Urolig/ukoncentreret",
+          "definition": "Skolebørn: Barnet er urolig og ukoncentreret og målretter ikke opmærksomheden mod sundhedsplejersken. Fx sidder uroligt og bevæger arme og ben eller skal pille ved noget er omkringfarende og/eller har tanker, der springer i alle retninger og kan ikke fokusere."
+        }, {
+          "code": "1ff97bed-f371-4db6-8556-7ec7bfec2274",
+          "display": "Trist",
+          "definition": "Skolebørn: Barnet virker trist, nedtrykt eller modløs."
+        }, {
+          "code": "3c18d87b-af46-4305-9040-320d90b2f343",
+          "display": "Nedsat aktivitetsniveau",
+          "definition": "Småbørn: Barnet er nedtonet i sin fysiske aktivitet. Barnet er passivt og tager ikke initiativ til leg."
+        }, {
+          "code": "3f30980a-7bf3-401e-ada8-a3818c352c29",
+          "display": "Ukritisk i kontakt",
+          "definition": "Småbørn: Barnet har ikke alderssvarende tilbageholdenhed overfor fremmede fx i kropskontakt.\n\nSkolebørn: Barnet viser i kontakten med sundhedsplejersken ikke alderssvarende tilbageholdenhed overfor fremmede. Fx kan barnet opleves kontaktsøgende."
+        }, {
+          "code": "5eaa4b16-11de-44fa-88ed-639e2bb1dd11",
+          "display": "Genert/stille",
+          "definition": "Skolebørn: Barnet er så tilbageholdende, at det påvirker barnets udfoldelsesmuligheder fysisk, psykisk eller socialt."
+        }, {
+          "code": "a59cd6a9-b147-47ba-bd87-a9e3eaf7449f",
+          "display": "Afvisende",
+          "definition": "Skolebørn: Barnet er afvisende og virker fx reserveret og holder følelsesmæssigt afstand. Fx svarer afvigende eller overfladisk på personlige spørgsmål, eller har afvisende kropssprog ved forsøg på omsorg. Afvisende adfærd bør ikke forveksles med stille/genert adfærd."
+        }, {
+          "code": "b5f8c711-8aa3-4a6d-8570-6e9312e86b09",
+          "display": "Engagerer sig ikke i kontakt",
+          "definition": "Småbørn: Barnet er ikke kontaktsøgende overfor fremmede på en måde der tilsvarer dets alder."
+        }, {
+          "code": "b8611ea4-7235-4990-9ada-4dccd86448b7",
+          "display": "Svært ved at modtage instruktioner",
+          "definition": "Skolebørn: Barnet har svært ved at modtage instruktioner og/eller reagerer ikke, når det får en besked. Fx skal have gentaget detaljeret besked om eller demonstreret hvordan man hinker, for at forstå instruktionen, og selv forsøge at gøre det."
+        }, {
+          "code": "be8a4c9c-7898-4263-b853-c5d7347e8cec",
+          "display": "Manglende vokalisering",
+          "definition": "Småbørn: Barnet ses uden pludren, grin og hvin. Barnet opleves meget stille eller med skrigelyde."
+        }, {
+          "code": "bfd18100-d007-4465-95ce-5bf2ac8bc091",
+          "display": "Afvigende øjenkontakt",
+          "definition": "Småbørn: Barnet er ikke aldersvarende i fastholdelse af øjenkontakt. Barnet vægrer og/eller forholder sig passivt ved forsøg på øjenkontakt.\n\nSkolebørn: Barnet har udfordringer ved at holde øjenkontakten eller undgår direkte øjenkontakt."
+        }, {
+          "code": "e818645e-47a7-4125-a579-a68f556b7344",
+          "display": "Græder meget",
+          "definition": "Småbørn: Barnet græder mere end det er almindeligt for alderen og er svært at trøste. Barnet har svært ved at falde til ro."
+        } ]
+      }, {
+        "code": "c45555ec-95a4-40dc-9189-0876b22b7ae9",
+        "display": "Udfordring i forælders psykiske tilstand",
+        "definition": "Udfordring i forælders psykiske tilstand",
+        "concept": [ {
+          "code": "1050e706-b685-4310-9194-89c6d8903865",
+          "display": "Nedsat energi/øget træthed",
+          "definition": "Småbørn: Udpræget træthed og udmattelse. Fx en følelse af at alt kræver overvindelse. Kan være svært at måle pga. den almindelige træthed forbundet med at være blevet forælder. Registreres derfor kun hvis træthed og udmattelse når et niveau ud over det sædvanlige."
+        }, {
+          "code": "7820eaa8-72e0-4f4b-8da7-ddcd74f50c3a",
+          "display": "Overbekymret/angst",
+          "definition": "Småbørn: Angst eller overbekymring hos forælder."
+        }, {
+          "code": "b2fcb139-2e61-480e-96f5-5a7cea82be4c",
+          "display": "Nedsat lyst/interesse",
+          "definition": "Småbørn: Lysten til at gøre det man plejer at holde af falder. Forælderen har mistet interessen for andre mennesker og aktiviteter og har svært ved at glædes over det, der normalt giver glæde. Viser fx manglende initiativ til daglige gøremål."
+        }, {
+          "code": "db926a42-517f-4cb0-94f7-0eebd74ce163",
+          "display": "Tanker om selvskade/selvmord",
+          "definition": "Småbørn: Tanker om selvskade/selvmord er et af ledsagesymptomerne til depression, men i modsætning til de øvrige skal tanker om selvskade eller selvmord altid ledsages af en indsats, typisk henvisning til læge/psykiatri/psykiatrisk skadestue."
+        }, {
+          "code": "dc7cdfb3-d33b-41cc-bb18-2be3592fe323",
+          "display": "Depressive ledsagesymptomer",
+          "definition": "Småbørn: Mindst to ledsagesymptomer er til stede. Dvs. nedsat selvtillid eller selvfølelse, selvbebrejdelse eller skyldfølelse, tanker om død og selvmord, tænke- eller koncentrationsbesvær, agitation eller hæmninger, søvnforstyrrelser, appetit- eller vægtændringer."
+        }, {
+          "code": "fc3d65d1-1509-47ef-8845-60adea5d7a65",
+          "display": "Nedtrykthed",
+          "definition": "Småbørn: Nedtonet stemningsleje. Forælderen er trist, negativ, præget af tomhedsfølelse og/eller håbløshed. Kan være grådlabil eller har følelsen af uro."
+        } ]
+      }, {
+        "code": "d58e0e65-1510-4bfc-a057-3bbe6221b1b7",
+        "display": "Problemer med søvn",
+        "definition": "Problemer med søvn",
+        "concept": [ {
+          "code": "03c93c46-86ad-4102-a7d5-2c7b3ad0f616",
+          "display": "Føler sig ikke udhvilet",
+          "definition": "Skolebørn: Barnet føler sig ikke tilstrækkeligt frisk og veludhvilet."
+        }, {
+          "code": "39dedc66-fe8a-45bb-ad05-e1dee689428a",
+          "display": "Usammenhængende søvn",
+          "definition": "Småbørn: Barnet har ikke sammenhængende lure og/eller nattesøvn på en måde der svarer til dets alder.\n\nSkolebørn: Barnet har ikke sammenhængende nattesøvn på en måde der svarer til dets alder."
+        }, {
+          "code": "a6808e88-8740-48a2-b67e-0ae6daf7aee2",
+          "display": "Ustabil døgnrytme",
+          "definition": "Småbørn: Barnet er ikke alderssvarende i rytmen for, hvornår det sover, og hvornår det er vågen.\n\nSkolebørn: Barnet er ikke alderssvarende i rytmen for, hvornår det sover, og hvornår det er vågen."
+        }, {
+          "code": "c684526e-a922-4bba-936e-3741b51ae1a4",
+          "display": "Lang indsovning",
+          "definition": "Småbørn: Der går mere end en time inden barnet falder i søvn.\n\nSkolebørn: Der går mere end en time inden barnet falder i søvn."
+        }, {
+          "code": "fcb3733c-e438-4d67-bf02-bb3071e0ba79",
+          "display": "Sover for lidt",
+          "definition": "Småbørn: Barnets søvnmængde svarer ikke til barnets behov for søvn.\n\nSkolebørn: Barnets søvnmængde svarer ikke til barnets behov for søvn."
+        } ]
+      }, {
+        "code": "e36420a4-53d0-47f1-b6fe-b5c236d3e4ce",
+        "display": "Bekymrende adfærd",
+        "definition": "Bekymrende adfærd",
+        "concept": [ {
+          "code": "1b3ec341-1441-44c1-88a9-795e47d307dd",
+          "display": "Udøver mobning",
+          "definition": "Skolebørn: Barnet udøver mobning fx isolation, bagtalelse, verbal nedværdigelse eller fysiske eller psykiske trusler og/eller vold."
+        }, {
+          "code": "47e6ea42-c32d-4fd7-ad0f-fdc66c8ba1f9",
+          "display": "Risikoadfærd, andre rusmidler",
+          "definition": "Skolebørn: Barnet har prøvet andre rusmidler end alkohol fx lattergas, hash eller andre former for euforiserende stoffer."
+        }, {
+          "code": "56eca506-efe1-456b-a29d-86a392a02679",
+          "display": "Besvær med at kontrollere adfærd",
+          "definition": "Skolebørn: Barnet har svært ved at styre egen adfærd. Fx vanskeligheder i forhold til følelser, koncentration, opførsel, selvregulering."
+        }, {
+          "code": "68d1e73a-7866-4cf9-b911-ba2b46e4ebda",
+          "display": "Digital risikoadfærd",
+          "definition": "Skolebørn: Barnet har et højt skærmforbrug af TV, telefon, tablets eller computer. Barnet er ukritisk i sin tilgang til hvad det ser og søger på/efter. Fx skærmtid mange timer hver dag, bruger sociale medier eller spiller voldelige computerspil uforholdsmæssigt meget ift. alder."
+        }, {
+          "code": "9028ce3b-678c-483e-8e1a-336dde907767",
+          "display": "Risikoadfærd, alkohol",
+          "definition": "Skolebørn: Barnet har et problematisk alkoholforbrug fx har været fuld som 13-årig eller yngre, drikker i hverdagen eller drikker regelmæssigt, flere gange om måneden."
+        }, {
+          "code": "bbbcdccd-8410-4cfb-bfba-32fb54cec9ed",
+          "display": "Selvskadende adfærd",
+          "definition": "Skolebørn: Barnet påfører sig intentionelt psykisk eller fysisk skade."
+        }, {
+          "code": "e252608e-b6b6-49f7-84a0-03685d3b5f74",
+          "display": "Seksuel risikoadfærd",
+          "definition": "Skolebørn: Barnet har en seksuel adfærd, som øger dets sårbarhed eller skader andre. Fx har svært ved at sige fra, har svært ved at forstå grænser. Det kan også være manglende brug af beskyttelse eller tidlig seksuel debut."
+        } ]
+      }, {
+        "code": "e4279057-8349-499e-8ae3-6271aac55c2b",
+        "display": "Udfordring i forældre-barn-relation",
+        "definition": "Udfordring i forældre-barn-relation",
+        "concept": [ {
+          "code": "00a9f897-f784-4164-966c-eba94171ec82",
+          "display": "Uforudsigelighed",
+          "definition": "Småbørn: Forældrenes forhold til barnet bærer præg af uforudsigelighed. Dette kan både give sig til udtryk i manglende rutiner i løbet af døgnet og i forældrenes manglende evne til at skabe struktur og genkendelighed i forhold til fx søvn, mad, kontakt, aktivitet og omsorg. Det kan også give sig udtryk i at barnet fx nogle gange trøstes med det samme og andre gange får lov at græde."
+        }, {
+          "code": "51bc227a-3455-474d-bf42-fc7a7875513c",
+          "display": "Følelsesmæssige behov opfyldes ikke",
+          "definition": "Småbørn: Barnets følelsesmæssige behov opfyldes ikke tilstrækkeligt. Fx trøstes, holdes eller kontaktes barnet ikke tilstrækkeligt eller barnets behov for pauser mødes ikke (overstimulation).\n\nSkolebørn: Barnets følelsesmæssige behov opfyldes ikke af forældrene fx indgår de ikke i kontakt med barnet i tilstrækkeligt omfang, trøster det ikke tilstrækkeligt og støtter ikke barnet tilstrækkeligt i følelser som vrede, skam, glæde, stolthed, nysgerrighed, frygt eller ængstelse."
+        }, {
+          "code": "53db2598-28be-4d04-8b3a-0005581f1fda",
+          "display": "Forældreudfordring ved særlige behov",
+          "definition": "Småbørn: Forældrene mangler viden og/eller overskud til at reagere på barnets særlige behov. Det, der registreres her, er altså IKKE, at barnet har særlige behov. Det registreres, hvis barnets særlige behov er en medvirkende forklaring på, at barnets behov ikke mødes. Det kan fx være et præmaturt barn, der spiser meget ofte og er meget grædende, og hvor forældrenes manglende overskud, viden og forståelse kan føre til momenter med manglende omsorg.\n\nSkolebørn: Barnet har særlige behov, og forældrene mangler viden og/eller overskud. Det der registreres her, er altså IKKE, at barnet har særlige behov. Det registreres hvis barnets særlige behov er en medvirkende forklaring på, at barnets behov ikke mødes."
+        }, {
+          "code": "a038c064-b57d-4a62-9333-c9456817595d",
+          "display": "Fysiske behov opfyldes ikke",
+          "definition": "Småbørn: Barnets fysiske behov opfyldes ikke tilstrækkeligt. Fx kan der være udfordringer med hygiejnisk pleje af barnet, passende ernæring, påklædning i forhold til omgivelser, tilpas fysisk stimulation, indeklima m.m.\n\nSkolebørn: Barnets fysiske behov opfyldes ikke tilstrækkeligt fx kan der være udfordringer med soignering og fysiske fornødenheder."
+        }, {
+          "code": "a701d676-dfe5-49fc-862c-92befd64739a",
+          "display": "Konflikter i forældre-barn samspil",
+          "definition": "Skolebørn: Samspil mellem barnet og forældre er præget af konflikter fx mange skænderier."
+        }, {
+          "code": "d3fc57b7-3a5d-4f69-bcb0-bdb8363650eb",
+          "display": "Udfordring i forældre-barn samspil",
+          "definition": "Småbørn: Barnet viser utryg tilknytning. Fx foretrækker ikke forældre, eller er ikke interesseret i kontakt med dem. Opleves meget ked af det og urolig eller passivt, tilbagetrukket og/eller uden mimik i samspillet med forældre"
+        }, {
+          "code": "fc4b6e6d-a055-49bf-adab-474e0a810675",
+          "display": "Aktiviteter ikke afpasset",
+          "definition": "Småbørn: Aktiviteter afpasses ikke efter barnets behov. Fx for få, for mange eller for forskellige aktiviteter i løbet af dagene. Kan også være manglende hensyn i forhold til barnets tilstand og aktivitet."
+        } ]
+      }, {
+        "code": "f28f3aac-d161-4235-b225-4c90becc3ce5",
+        "display": "Mistrivsel",
+        "definition": "Mistrivsel",
+        "concept": [ {
+          "code": "178e96b1-35a4-412c-9525-0b0112fd6984",
+          "display": "Bekymrede tanker",
+          "definition": "Skolebørn: Barnet er bekymret, ængstelig eller angst. Fx bange for sociale situationer, for bestemte ting og situationer eller stærk angst som kommer i anfald. Det kan også være vedvarende ængstelighed og bekymring som præger hele hverdagen."
+        }, {
+          "code": "19b79e85-8259-4aba-a0a9-3f492fd6aa04",
+          "display": "Mangler venskaber",
+          "definition": "Skolebørn: Barnet har det ikke godt med jævnaldrende, eller savner at have det godt med jævnaldrende. Fx følelse af ikke at have venner, ofte i konflikt med andre eller sporadisk kontakt med jævnaldrende i skole eller fritid."
+        }, {
+          "code": "2e1f0a6c-7554-4eb4-bbdf-837c25af2607",
+          "display": "Anden mistrivsel",
+          "definition": "Skolebørn: Barnet er berørt af psykisk sårbarhed, som ikke er omfattet af ovenstående kategorier, hvor barnets mentale trivsel og velbefindende påvirkes negativt. Fx tvangstanker, følelse af mindreværd, særligt sensitiv eller udsat for seksuelt pres."
+        }, {
+          "code": "3c39b305-16e4-4d0a-98b8-305b76f8e22b",
+          "display": "Mangler nære relationer",
+          "definition": "Skolebørn: Barnet oplever at mangle nogen at tale med om svære ting. Nære relationer kan både findes blandt familie og venner, voksne og børn."
+        }, {
+          "code": "49aedea9-cbe2-492b-a268-de7f2673a438",
+          "display": "Fysiske symptomer på mistrivsel",
+          "definition": "Skolebørn: Barnet har fysiske symptomer på mistrivsel fx ondt i maven, hovedpine, hjertebanken, virker rastløs, har manglende appetit eller er energiforladt. Dårlig søvn kan også være et tegn, men dokumenteres i denne sammenhæng under søvn, hvis det er eneste symptom."
+        }, {
+          "code": "772f3089-9742-4b3e-8d12-662a66bebfef",
+          "display": "Udsat for mobning",
+          "definition": "Skolebørn: Barnet er udsat for mobning fx bagtalelse, verbal nedværdigelse eller fysiske eller psykiske trusler og/eller vold."
+        }, {
+          "code": "a7ccd6bb-0718-473e-84c6-37d97e8402a5",
+          "display": "Depressive tanker",
+          "definition": "Skolebørn: Barnet har depressive tanker karateristeret ved nedtrykthed, nedsat interesse eller nedsat energi. Fx børn der oplever at have brug for at trække sig. Lægge sig under dynen, og ønske at sove sig fra det hele. Kan føre til øget skolefravær og trækken sig fra det sociale liv med venner, kammerater, fritidsaktiviteter og familie."
+        }, {
+          "code": "ae2192f1-cade-4d71-9321-fa79b6356a09",
+          "display": "Stressfølelse",
+          "definition": "Skolebørn: Barnet føler sig presset af egne og/eller andres forventninger til de ting, som det skal nå eller præstere. Fx lektier, fremtid, sociale medier og/eller fritidsaktiviteter. Følelsen af stress, som der undersøges her, bør ikke forveksles med diagnosen stress."
+        }, {
+          "code": "b9293b2f-881d-4822-9877-bcbdaef298ca",
+          "display": "Tanker om selvskade",
+          "definition": "Skolebørn: Barnet har tanker om at skade sig selv, om døden og/eller om at tage sit eget liv."
+        }, {
+          "code": "e774a9f9-d6dd-4b55-95ce-5e3f6df17695",
+          "display": "Bekymrende kropsopfattelse",
+          "definition": "Skolebørn: Barnet har en bekymrende kropsopfattelse fx restriktive eller negative tanker om vægt og udseende."
+        } ]
+      }, {
+        "code": "f9bd933c-3b9d-4015-a4de-dc04cbcf2f00",
+        "display": "Inkontinens",
+        "definition": "Inkontinens",
+        "concept": [ {
+          "code": "54f42eb5-18f9-4e82-98e0-1c83988189b9",
+          "display": "Naturininkontinens",
+          "definition": "Skolebørn: Når et barn på over 5 år har mindst én våd nat hver 14. dag"
+        }, {
+          "code": "9642daa3-7ec8-41a8-b5a0-111123de4193",
+          "display": "Afføringsinkontinens",
+          "definition": "Skolebørn: Når et barn er fyldt 4 år og har uheld med afføring på et hvilket som helst tidspunkt."
+        }, {
+          "code": "b79078ce-c5b1-44ad-ad55-7e01b6edc3c5",
+          "display": "Dagurininkontinens",
+          "definition": "Skolebørn: Når et barn over 5 år har tisseuheld mindst én gang hver 14. dag i dagtimer."
+        } ]
+      }, {
+        "code": "fb0eac61-28dc-4d60-91c4-6da0e07c276d",
+        "display": "Egenvurderet uglad",
+        "definition": "Egenvurderet uglad",
+        "concept": [ {
+          "code": "10edfc52-3632-453b-8db1-af6691049885",
+          "display": "For det meste ikke glad",
+          "definition": "Barnet vurderer selv for det meste ikke at være glad."
+        }, {
+          "code": "2c945a43-a07b-4b26-b4cc-205ba15a1251",
+          "display": "For det meste midt imellem",
+          "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad."
+        }, {
+          "code": "2e026475-a2ec-45e3-92d8-f0bed307cceb",
+          "display": "For det meste midt imellem i skolen",
+          "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad i skolen."
+        }, {
+          "code": "822dffb2-3b29-4f86-9784-757954d6a047",
+          "display": "For det meste ikke glad i skolen",
+          "definition": "Barnet vurderer selv for det meste ikke at være glad i skolen."
+        } ]
+      } ]
+    }, {
+      "code": "ef8113b6-f6b2-45f0-8804-930fb2f3ae52",
+      "display": "Indikatortilstand",
+      "definition": "Indikatortilstand",
+      "concept": [ {
+        "code": "12654b4f-7db5-4245-b622-9e558d446dba",
+        "display": "Tilstand vedr. forælders psykiske tilstand",
+        "definition": "Tilstand vedr. forælders psykiske tilstand",
+        "concept": [ {
+          "code": "b8220216-e185-451b-8d2a-67cdf73c42c3",
+          "display": "Let psykisk reaktion",
+          "definition": "Småbørn: Forælder har få, ikke-kritiske tegn på psykisk reaktion i forbindelse med forældreskab. Fx kan lettere søvnforstyrrelser og træthed i en periode give dårligt humør, uden at der samlet er tegn på psykisk reaktion. Tegnene kræver opmærksomhed, men ikke indsats."
+        }, {
+          "code": "f86c2526-3b04-454c-a99e-d350f699dc94",
+          "display": "Psykisk reaktion",
+          "definition": "Småbørn: Forælder har psykisk reaktion i forbindelse med forældreskab, mest typisk depressions- eller angstsymptomer, men der kan også være tale om andre symptombilleder. Kræver en indsats."
+        } ]
+      }, {
+        "code": "22fdc548-7456-47ac-9dc0-504285000b9c",
+        "display": "Tilstand vedr. kost",
+        "definition": "Tilstand vedr. kost",
+        "concept": [ {
+          "code": "019e3a2d-775c-4660-8183-75206b47048f",
+          "display": "Problem med kost",
+          "definition": "Skolebørn: Der er problemer med barnets kost. Fx barnet er meget småtspisende, overspisende eller får meget ensidig kost. Fx ikke frugt/grønt, mælk og for meget sukker og fedt."
+        }, {
+          "code": "abecea75-32cd-4388-80fd-319a30701bf6",
+          "display": "Enkelte udfordringer med kost",
+          "definition": "Skolebørn: Der er enkelte udfordringer med barnets kost. Fx for meget sukker og fedt, får sjældent fisk, eller barnet drikker ikke mælk."
+        } ]
+      }, {
+        "code": "2f1e8de1-090d-4eea-8726-1a1224f03d23",
+        "display": "Tilstand vedr. social kontakt",
+        "definition": "Tilstand vedr. social kontakt",
+        "concept": [ {
+          "code": "18938eb0-3f40-48c5-9971-7255aa86336a",
+          "display": "Få tegn på udfordringer i social kontakt",
+          "definition": "Småbørn: Barnet indgår i kontakt og deltager i samspil, men har få tegn på udfordringer. Fx viser barnet i mindre grad interesse for kontakt, har uro, gråd, flygtig øjenkontakt, virker mindre tilpas og/eller er mindre aktiv i samspillet.\n\nSkolebørn: Barnet indgår i samspil. Der er dog få ikke-kritiske tegn på udfordringer, der kræver opmærksomhed fx urolig, ukoncentreret eller genert."
+        }, {
+          "code": "e1c1674c-9384-4d95-999f-763f3868f444",
+          "display": "Udfordring i social kontakt",
+          "definition": "Småbørn: Barnet fastholder ikke øjenkontakten. Det indgår ikke i kontakt og deltager ikke aktivt i samspil. Barnet viser f.eks. ikke interesse for kontakt, har udtalt gråd/uro, er passivt og/eller har nedtonet mimik.\n\nSkolebørn: Barnet har problemer med at indgå i kontakt og samspil, der kræver en indsats. Barnet udviser fx utryghed eller er ukritisk i kontakten. Barnet udviser manglende initiativ, glæde og begejstring."
+        } ]
+      }, {
+        "code": "48348674-243c-4eb5-9d23-73cb0c2b781a",
+        "display": "Tilstand vedr. fysisk aktivitet",
+        "definition": "Tilstand vedr. fysisk aktivitet",
+        "concept": [ {
+          "code": "2ef19cdf-f6e6-4b2c-aaef-f466e33cf261",
+          "display": "Overdreven motion",
+          "definition": "Skolebørn: Barnet dyrker overdreven motion, hvor motionen eller træningen bliver tvangspræget."
+        }, {
+          "code": "2effe989-0cc3-4dce-ad93-9f6503b91eaa",
+          "display": "Moderat fysisk aktiv",
+          "definition": "Skolebørn: Barnet bevæger sig ikke en time dagligt. Barnet bevæger sig dog én time eller mere flere gange på en uge."
+        }, {
+          "code": "38f72570-630f-40c6-8a60-cf2e1bddc8eb",
+          "display": "Meget stillesiddende aktivitet",
+          "definition": "Skolebørn: Barnet har ofte stillesiddende adfærd og bevæger sig ikke én time dagligt. Undgår og vægrer sig ved fysisk aktivitet."
+        } ]
+      }, {
+        "code": "4dde96de-2c3c-4973-adcc-3258765fcdac",
+        "display": "Tilstand vedr. syn",
+        "definition": "Tilstand vedr. syn",
+        "concept": [ {
+          "code": "0896610c-1322-44f2-836c-774de52fc3f1",
+          "display": "Potentielt problem med syn",
+          "definition": "Skolebørn: Screening viser potentielt problem med syn. Barnets syn skal undersøges nærmere."
+        }, {
+          "code": "e489119b-de75-47cc-a53b-6ba90ed2c7e8",
+          "display": "Allerede kendt synsproblematik",
+          "definition": "Skolebørn: Barnet har en allerede kendt synsproblematik, som er identificeret ved tidligere undersøgelse(r) af barnets syn. Tidligere undersøgelser behøver ikke nødvendigvis at være foretaget af sundhedsplejen."
+        } ]
+      }, {
+        "code": "70e08e9c-d210-490e-a019-b3f2477983f5",
+        "display": "Tilstand vedr. netværk",
+        "definition": "Tilstand vedr. netværk",
+        "concept": [ {
+          "code": "983ff338-2e77-413d-b157-66d0141a4a96",
+          "display": "Sparsomt netværk",
+          "definition": "Småbørn: Familien har et sparsomt netværk eller føler sig på anden måde isolerede med deres barn."
+        } ]
+      }, {
+        "code": "94e357fc-d28d-45b3-a89e-b9accdb50c34",
+        "display": "Tilstand vedr. nikotin",
+        "definition": "Tilstand vedr. nikotin",
+        "concept": [ {
+          "code": "5bc59698-bdf9-48db-ab97-20c43d7ff4f1",
+          "display": "Udsat for tobaksrøg",
+          "definition": "Småbørn: Barnet er udsat for tobaksrøg. Ved udsættelse for tobaksrøg menes i denne sammenhæng, at der ryges i den bolig, hvor barnet opholder sig. Udsættelse for tobaksrøg kommer fx fra cigaretter eller pibe. Omfatter ikke damp fra e-cigaretter og lignende. Rygning i bolig, er rygning i rum, hvor barnet opholder sig, også selvom barnet ikke er der lige når der ryges. Dette gælder også selvom der ryges ud af vinduet, eller med tændt emhætte. \n\nSkolebørn: Barnet er udsat for tobaksrøg. Ved udsættelse for tobaksrøg menes i denne sammenhæng, at der ryges i den bolig, hvor barnet opholder sig. Udsættelse for tobaksrøg kommer fx fra cigaretter eller pibe. Omfatter ikke damp fra e-cigaretter og lignende. Rygning i bolig, er rygning i rum, hvor barnet opholder sig, også selvom barnet ikke er der lige når der ryges. Dette gælder også selvom der ryges ud af vinduet, eller med tændt emhætte."
+        }, {
+          "code": "cfe9150e-380e-4ce3-a120-2e2b227c8b9f",
+          "display": "Bruger nikotin",
+          "definition": "Skolebørn: Barnet bruger nikotinholdige produkter fx cigaretter, snus, e-cigaretter, vandpibe, nikotinposer, Puff Bars. Med brug menes at barnet har prøvet mere end to gange."
+        }, {
+          "code": "fd145ea6-b7de-466c-9053-8b4a0be960ac",
+          "display": "Har prøvet nikotin",
+          "definition": "Skolebørn: Barnet har prøvet nikotinholdige produkter højst et par gange fx cigaretter, snus, e-cigaretter, vandpibe, nikotinposer, Puff Bars."
+        } ]
+      }, {
+        "code": "9943e883-44d1-492c-a5d8-d8ce164a7240",
+        "display": "Tilstand vedr. forælders sårbarhed",
+        "definition": "Tilstand vedr. forælders sårbarhed",
+        "concept": [ {
+          "code": "2461e246-b75c-46bb-b6ad-c68d529ace7e",
+          "display": "Sårbarhed",
+          "definition": "Småbørn: Forælder har en eller flere sociale risikofaktorer og/eller helbredsproblemer, som har betydning for forældreskabet."
+        }, {
+          "code": "546e7bef-7a22-451e-971a-326fcd78a843",
+          "display": "Potentiel sårbarhed",
+          "definition": "Småbørn: Forælder har en eller flere sociale risikofaktorer og/eller helbredsproblemer som dog aktuelt ikke udgør risiko for forældreskabet."
+        } ]
+      }, {
+        "code": "9b57564c-2d5a-4205-a88c-4c0731efa60b",
+        "display": "Tilstand vedr. søvn",
+        "definition": "Tilstand vedr. søvn",
+        "concept": [ {
+          "code": "c25b5cda-3f6b-4ef7-998d-c22c58c6dd18",
+          "display": "Udfordring med søvn",
+          "definition": "Småbørn: Barnet har udfordringer med søvn og/eller døgnrytme. Der er tegn på udfordringer med søvnmængde og/eller søvnkvalitet på en måde som har negativ indflydelse på barnets kontakt, spisning og/eller trivsel. Fx barnet vender om på dag og nat, barnet sover alt for lidt eller vågner mange gange og har svært ved at falde i søvn.\n\nSkolebørn: Barnet har udfordringer med søvn og/eller døgnrytme. Der er tegn på udfordringer med søvnmængde og/eller søvnkvalitet på en måde som har negativ indflydelse på barnets læring/aktivitet, spisning og/eller trivsel. Fx barnet vender om på dag og nat, barnet sover alt for lidt eller vågner mange gange og har svært ved at falde i søvn."
+        }, {
+          "code": "d13ad530-d8f6-4933-be18-bb77e2334f9f",
+          "display": "Let forstyrret søvn",
+          "definition": "Småbørn: Barnets søvn og døgnrytme svarer grundlæggende til barnets behov for søvn. Der er dog enkelte tegn på udfordringer med søvnmængde og/eller kvalitet. Fx sover lidt mindre end det har behov for, udfordringer med indsovning eller at barnet vågner om natten og har svært ved at sove igen.\n\nSkolebørn: Barnets søvn og døgnrytme svarer grundlæggende til barnets behov for søvn. Der er dog enkelte tegn på udfordringer med søvnmængde og/eller kvalitet. Fx sover lidt for lidt, udfordringer med indsovning eller at barnet vågner om natten og har svært ved at sove igen."
+        } ]
+      }, {
+        "code": "9ea9b44b-e708-476a-8c41-8314d9b09c5d",
+        "display": "Tilstand vedr. hørelse",
+        "definition": "Tilstand vedr. hørelse",
+        "concept": [ {
+          "code": "4d4b20b6-0159-4014-ac1c-46a7a860b204",
+          "display": "Allerede kendt høreproblematik",
+          "definition": "Skolebørn: Barnet har en allerede kendt høreproblematik, som er identificeret ved tidligere undersøgelse(r) af barnets hørelse. Tidligere undersøgelser behøver ikke nødvendigvis at være foretaget af sundhedsplejen."
+        }, {
+          "code": "c4c79311-ba80-4890-9008-c2f62ab00eda",
+          "display": "Potentielt problem med hørelse",
+          "definition": "Skolebørn: Screening viser potentielt problem med hørelse. Barnets hørelse skal undersøges nærmere."
+        } ]
+      }, {
+        "code": "a12574d2-c180-4f76-9e77-c917b2823bfa",
+        "display": "Tilstand vedr. kommunikation",
+        "definition": "Tilstand vedr. kommunikation",
+        "concept": [ {
+          "code": "851ad2f2-a805-4d81-a1d8-15c3b09f5949",
+          "display": "Få tegn på udfordret kommunikation",
+          "definition": "Småbørn: Grundlæggende kommunikerer barnet som forventet i forhold til alder. Der er dog få tegn på udfordringer. Det kan fx være at barnet ikke reagerer på ord eller kropssprog.\n\nSkolebørn: Barnet kommunikerer grundlæggende som forventet i forhold til alder. Der er dog få tegn på udfordringer. Fx små udfordringer med sproglyde, eller forkortet opmærksomhedsspænd."
+        }, {
+          "code": "d9f00ad4-4305-4bd0-aedf-2e51bef602e2",
+          "display": "Udfordring med kommunikation",
+          "definition": "Småbørn: Barnet har udfordringer med at kommunikere alderssvarende og udviser tegn på forsinket tale- og sprogudvikling.\n\nSkolebørn: Barnet har udfordringer med at kommunikere alderssvarende. Fx udfordringer med udtale, stammen, sproganvendelse eller med at målrette opmærksomhed."
+        } ]
+      }, {
+        "code": "c24e84cf-f119-4a4e-bb26-1858140620f8",
+        "display": "Tilstand vedr. motorik",
+        "definition": "Tilstand vedr. motorik",
+        "concept": [ {
+          "code": "936a0163-08eb-4fdb-bf0c-bcf5bc7cb3f6",
+          "display": "Få tegn på udfordret motorik",
+          "definition": "Småbørn: Barnet viser enkelte tegn på forsinket motorisk udvikling i forhold til alder.\n\nSkolebørn: Barnet viser enkelte tegn på motoriske problemer eller forsinket motorisk udvikling. Viser sig typisk ved usikker mestring af almindelige motoriske færdigheder, eller én til to ukritiske problemer i en screening. Registreres kun, hvis udfordringerne kræver opmærksomhed, men ikke indsats."
+        }, {
+          "code": "aeade013-b14a-4ad3-80da-66742782411e",
+          "display": "Udfordring med motorik",
+          "definition": "Småbørn: Barnet har problemer med motorik. Der kan fx være tale om en forsinket motorisk udvikling i forhold til barnets alder.\n\nSkolebørn: Barnet har problemer med motorik eller forsinket motorisk udvikling i forhold til barnets alder. Viser sig typisk ved dårlig mestring af almindelige motoriske færdigheder eller ved mere end to bemærkninger i motoriske screeninger. Registreres kun, hvis udfordringerne er af en karakter, der kræver indsats eller overlevering til anden faggruppe."
+        } ]
+      }, {
+        "code": "e64c378a-edca-4366-854e-b3dfb89bbc31",
+        "display": "Tilstand vedr. forældre-barn relation",
+        "definition": "Tilstand vedr. forældre-barn relation",
+        "concept": [ {
+          "code": "274791a5-094d-4e6a-831e-e712d3d66aeb",
+          "display": "Let påvirket forældre-barn-relation",
+          "definition": "Småbørn: Barnets fysiske og psykiske omsorgsbehov opfyldes, men er påvirket, da forældrene ikke i tilstrækkelig grad tolker og/eller reagerer afstemt i forhold til barnets behov og signaler."
+        }, {
+          "code": "80aa0dab-aa41-45b1-a2cc-16d7e3733fdd",
+          "display": "Udfordring i forældre-barn-relation",
+          "definition": "Småbørn: Barnets fysiske eller psykiske omsorgsbehov opfyldes ikke. Forældrene reagerer ikke afstemt i forhold til barnets behov og signaler. Barnet viser tegn på utryg tilknytning til forældrene."
+        } ]
+      } ]
+    } ]
+  }, {
+    "code": "6d41809a-54e5-4ce6-955f-357b20d063d1",
+    "display": "Kontakt",
+    "definition": "Type af kontakte der foretages i sundhedsplejen.",
+    "concept": [ {
+      "code": "4b039ba1-4005-42e6-b672-09b81ad7578a",
+      "display": "Behovskontakt med småbørnssundhedsplejen",
+      "definition": "Sundhedsplejens kontakter i barnets første 5 leveår efter behov."
+    }, {
+      "code": "606c6585-444b-4ecd-885c-2ee59dc33f32",
+      "display": "Behovskontakt med skolesundhedsplejen",
+      "definition": "Sundhedsplejens kontakter ifm. barnets skolegang efter behov."
+    }, {
+      "code": "9f3d853c-88d3-47e9-92a1-c7bbe0f9b4eb",
+      "display": "Kontakt i almindelige forløb for skolebørn",
+      "definition": "Kontakter i almindelige forløb for skolebørn  som beskrevet i vejledning for forebyggende sundhedsydelser for børn og unge.",
+      "concept": [ {
+        "code": "0ddb3661-51da-471f-94d7-2a50b81f5fc6",
+        "display": "1. klasses undersøgelse",
+        "definition": "1. klasses undersøgelse foretaget af skolesundhedsplejen."
+      }, {
+        "code": "17f5f9fa-3e1c-42fe-9ef3-178bc7900f67",
+        "display": "Almindelig forebyggende skolebørnskontakt",
+        "definition": "Kontakt, der ikke er beskrevet i vejledning om forebyggende sundhedsydelser til børn og unge, men som stadig er del af den almindelige forebyggende småbørnsindsats."
+      }, {
+        "code": "c06ed6f1-be9d-460e-a45e-34821bcbd533",
+        "display": "Indskolingsundersøgelse",
+        "definition": "Indskolingsundersøgelse foretaget af skolesundhedsplejen."
+      }, {
+        "code": "d01bcb90-2b29-44f4-834c-191d6dd4a08a",
+        "display": "Undersøgelse i mellemtrin, med måling",
+        "definition": "Undersøgelse i mellemtrin foretaget af skolesundhedsplejen, hvor der måles højde og vægt."
+      }, {
+        "code": "dd766967-4d02-4c17-8ed3-021852785fdf",
+        "display": "Udskolingsundersøgelse",
+        "definition": "Udskolingsundersøgelse foretaget af skolesundhedsplejen."
+      } ]
+    }, {
+      "code": "6c2a4f15-d775-47f3-9868-b26fbff9ff8b",
+      "display": "Kontakt i almindelige forløb for småbørn",
+      "definition": "Kontakt i almindelige forløb for småbørn, som beskrevet i vejledning om forebyggende sundhedsydelser til børn og unge.",
+      "concept": [ {
+        "code": "3f3e6489-31bd-44cf-9920-3c632868feb7",
+        "display": "Besøg hos det 8-11 måneder gamle barn",
+        "definition": "Besøg hos det 8-11 måneder gamle barn foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "51f30d1c-d60e-4e3e-ac22-ec9712ea962d",
+        "display": "Besøg hos det ca. 2 måneder gamle barn",
+        "definition": "Besøg hos det ca. 2 måneder gamle barn foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "563c4174-f451-4c87-8db8-8d5472ca7ff6",
+        "display": "Andet besøg inden første måned",
+        "definition": "Andet besøg i barnets første måned foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "58ff370b-a775-4bec-b24a-91604e0a5fe7",
+        "display": "Besøg hos det 4-6 måneder gamle barn",
+        "definition": "Besøg hos det 4-6 måneder gamle barn foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "7d35a193-e808-4e77-b361-6c0d114d021f",
+        "display": "Barselsbesøg",
+        "definition": "Barselsbesøg foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "b4bf6058-502a-4d64-bb8e-369661f43b47",
+        "display": "Etableringsbesøg",
+        "definition": "Etableringsbesøg foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "d3c00541-f1d3-4c43-b5fc-16e8914ca1df",
+        "display": "Graviditetsbesøg",
+        "definition": "Graviditetsbesøg foretaget af småbørnssundhedsplejen."
+      }, {
+        "code": "b30f139c-fac5-416e-b84a-a3429f0222c2",
+        "display": "Almindelig forebyggende småbørnskontakt",
+        "definition": "Kontakt, der ikke er beskrevet i vejledning om forebyggende sundhedsydelser til børn og unge, men som stadig er del af den almindelige forebyggende småbørnsindsats.",
+        "concept": [ {
+          "code": "644dd6c1-5c80-4412-ae59-f6e0767cead5",
+          "display": "Kontakt med sundhedsplejen i åben konsultation",
+          "definition": "Kontakt med sundhedsplejen i åben konsultation"
+        }, {
+          "code": "a08d3cf6-58ef-4631-8893-3fa44bd67363",
+          "display": "Kontakt med sundhedsplejen ifm. gruppeaktivitet",
+          "definition": "Kontakt med sundhedsplejen ifm. gruppeaktivitet fx mødre-, fædre- eller forældregrupper, åbent hus og undervisning."
+        } ]
+      } ]
+    } ]
+  }, {
+    "code": "7110c91c-2be6-4beb-be73-c58cfc147a83",
+    "display": "Observationsresultat",
+    "definition": "Resultat af observation foretaget af sundhedsplejen",
+    "concept": [ {
+      "code": "0d512b22-80e6-4bed-9b79-4b13dc22eafb",
+      "display": "Resultat, egenvurderet trivsel",
+      "definition": "Resultat af børns egenvurderede trivsel i regi af skolesundhedsplejen"
+    }, {
+      "code": "700d6a6d-43b7-4a4a-ac06-9c74253d0112",
+      "display": "Indikator resultat",
+      "definition": "Resultat af vurdering af én af de sundhedsplejefaglige indikatorer",
+      "concept": [ {
+        "code": "1b64f768-5133-4633-85a4-2b97fcaa1f7a",
+        "display": "Intet at bemærke",
+        "definition": "Der er intet at bemærke"
+      }, {
+        "code": "96e3eda6-3eb7-4fbb-9850-fc6dfafadb4a",
+        "display": "Problem/bemærkning",
+        "definition": "Der er konstateret et problem, og lavet en bemærkning"
+      } ]
+    } ]
+  }, {
+    "code": "7c8eceee-3591-497f-b78d-0d56eb046f35",
+    "display": "Børneobservationer",
+    "definition": "Observationskoder, for områder der er relavnte. for at vurdere barnets sundhed og trivsel.",
+    "concept": [ {
+      "code": "01fddd46-ed7c-423d-b191-ffdd977dd61e",
+      "display": "Syn",
+      "definition": "Skolebørn: Resultat af screening af barnets evne til at se."
+    }, {
+      "code": "28972d4b-fea3-42ec-b2a5-e2a26f79b14d",
+      "display": "Passiv rygning",
+      "definition": "Småbørn: Udsættelse for tobaksrøg, fx fra cigaretter eller pibe. Omfatter ikke damp fra e-cigaretter og lignende.\n\nSkolebørn: Udsættelse for tobaksrøg, fx fra cigaretter eller pibe. Omfatter ikke damp fra e-cigaretter og lignende."
+    }, {
+      "code": "2c39af9f-8e45-4c88-962f-e7a9e2cd31b6",
+      "display": "Forælders psykiske tilstand",
+      "definition": "Småbørn: Sundhedsplejerskens vurdering af den øjeblikkelige psykiske og emotionelle tilstand ifm. at få et barn. Fx nedtrykthed, modløshed, irritabilitet, ængstelse eller overbekymrethed."
+    }, {
+      "code": "58997614-ba43-4534-90bd-10c7e76802f4",
+      "display": "Forælders sårbarhed",
+      "definition": "Småbørn: Sundhedsplejerskens vurdering af forældrenes sociale eller helbredsmæssige udfordringer. Fx traumatiske oplevelser, fattigdom, misbrug, eller sygdom."
+    }, {
+      "code": "653c2b0b-bb64-4906-888b-aea6fef3c3f8",
+      "display": "Kommunikation",
+      "definition": "Småbørn: Barnets frembringelse og udveksling af lyd, og tale eller kropssprog med andre. Fx alderssvarende reaktion på ord og kropssprog samt pludren.\n\nSkolebørn: Barnets frembringelse og udveksling af lyd, og tale eller kropssprog med andre. Fx aldersvarende sproganvendelse og evne til at fastholde opmærksomhed."
+    }, {
+      "code": "68605f88-49fb-44b9-b327-86947af6aa93",
+      "display": "Social kontakt",
+      "definition": "Småbørn: Sundhedsplejerskens vurdering af barnets evne til at interagere med andre. Fx øjenkontakt, kontaktsmil, respons på stimulation og selektivitet ved at foretrække omsorgspersoner. \n\nSkolebørn: Sundhedsplejerskens vurdering af barnets evne til at interagere med andre. Fx evnen til at aflæse andres følelser, vise hensyn og respekt eller reagere på andres følelser."
+    }, {
+      "code": "73f981f8-455a-4158-b435-7c6d83ab84da",
+      "display": "Søvn",
+      "definition": "Småbørn: Omfatter mængden og kvaliteten af søvn samt forhold omkring indsovning og gennemsovning, og hvorvidt der er tale om en naturlig søvn med optimal fysisk og psykisk hvile og afslapning.\n\nSkolebørn: Omfatter mængden og kvaliteten af søvn samt forhold omkring indsovning og gennemsovning, og hvorvidt der er tale om en naturlig søvn med optimal fysisk og psykisk hvile og afslapning."
+    }, {
+      "code": "763c6f21-5467-4713-82fb-716c9d0a1fdf",
+      "display": "Forældre-barn-relation",
+      "definition": "Småbørn: Sundhedsplejerskens vurdering af om barnets behov opfyldes i relationen til en eller begge forældre. Fx barnets behov for mad, søvn, nærvær samt forudsigelighed i responsen på barnets signaler."
+    }, {
+      "code": "76891f7b-cf49-4cb2-88d6-728a509eb75d",
+      "display": "Brug af nikotin",
+      "definition": "Skolebørn: Barnets forbrug af nikotinholdige produkter, fx cigaretter, snus og e-cigaretter, vandpibe eller puff-bars."
+    }, {
+      "code": "7e7fab2f-278a-4b14-9bc9-efc36fffcba5",
+      "display": "Netværk",
+      "definition": "Forældrenes oplevelse af at have støtte fra venner, familie eller relationer omkring sig."
+    }, {
+      "code": "a22c4b53-b622-4394-ba13-910a7b0d7b0d",
+      "display": "Hørelse",
+      "definition": "Skolebørn: Resultat af screening af barnets opfattelse af lyde."
+    }, {
+      "code": "b331fe02-a781-4abd-b6db-9331d6a69b15",
+      "display": "Fysisk aktivitet",
+      "definition": "Skolebørn: Barnets fysiske aktivitetsniveau. Fx ved leg, fritidsaktiviteter, gåture og aktiv transport til og fra skole."
+    }, {
+      "code": "e04f2ca1-888a-4671-a97a-371b525cd2a3",
+      "display": "Motorik",
+      "definition": "Småbørn: Barnets evne til at koordinere bevægelser mod et givent mål eller mestre en given opgave.\n\nSkolebørn: Barnets evne til at koordinere bevægelser mod et givent mål eller mestre en given opgave."
+    }, {
+      "code": "e61e4dab-54bb-4bf4-9b76-8d991cf4de08",
+      "display": "Ernæring",
+      "definition": "Småbørn: Barnets indtagelse af føde. Fx om barnet ammes, får flaske eller overgangskost.\n\nSkolebørn: Barnets indtagelse af føde fx indtagelse af fødemidler og kostens sammensætning."
     }, {
       "code": "08a7b81a-3633-41ce-9e27-941ce3b4276b",
       "display": "Indikator ifm. indskolingsundersøgelse",
       "definition": "Indikator anvendt af skolesundhedsplejen ifm. indskolingsundersøgelse",
       "concept": [ {
-        "code": "58464451-5fbb-4607-871d-1e01212c38d7",
-        "display": "Sundhedsplejerskens observationer og kontakt",
-        "definition": "Observation vedr. sundhedsplejerskens observationer og kontakt med barnet ifm. indskolingsundersøgelse"
-      }, {
-        "code": "c61e0e57-b1fd-4e4a-9eb9-5086b14b7504",
-        "display": "Evne til at hoppe",
-        "definition": "Observation af evne til at hoppe ifm. indskolingsundersøgelse"
-      }, {
-        "code": "c05a5706-c0df-4a66-a6a1-a01e948d9326",
-        "display": "Evne til at stå på højre ben",
-        "definition": "Observation af evne til at stå på højre ben ifm. indskolingsundersøgelse"
-      }, {
         "code": "0e24a41d-6bb6-4c84-89e1-5635cd4ea481",
         "display": "Evne til at kaste bold med højre hånd",
         "definition": "Observation af evne til at kaste bold med højre hånd ifm. indskolingsundersøgelse"
-      }, {
-        "code": "5f4a21bb-6314-477a-a0fe-7924ff83954a",
-        "display": "Sprog",
-        "definition": "Observation af sprog ifm. indskolingsundersøgelse"
-      }, {
-        "code": "dfa9a5e4-c542-4491-8a4b-1dee0bab8b17",
-        "display": "Evne til at holde om en blyant",
-        "definition": "Observation af evne til at holde om en blyant ifm. indskolingsundersøgelse"
       }, {
         "code": "1c4b0adf-cd19-42af-ba43-80c28fcbc7e3",
         "display": "Evne til at stå på venstre ben",
         "definition": "Observation af evne til at stå på venstre ben ifm. indskolingsundersøgelse"
       }, {
-        "code": "51a91eca-5a66-4e1a-bbf7-be4ccf12810f",
-        "display": "Relation, kontakt, omsorg",
-        "definition": "Observation vedr. forældre-barn relation, kontakt, omsorg ifm. indskolingsundersøgelse"
-      }, {
         "code": "2a8ebbc5-a4f0-485c-850f-1e95db492a6f",
         "display": "Evne til at gå",
         "definition": "Observation af evne til at gå ifm. indskolingsundersøgelse"
       }, {
-        "code": "d240cad7-04ca-4f36-9dd7-86fb1987856a",
-        "display": "Mad og måltider",
-        "definition": "Observation vedr. mad og måltider ifm. indskolingsundersøgelse"
+        "code": "51a91eca-5a66-4e1a-bbf7-be4ccf12810f",
+        "display": "Relation, kontakt, omsorg",
+        "definition": "Observation vedr. forældre-barn relation, kontakt, omsorg ifm. indskolingsundersøgelse"
       }, {
         "code": "550cad89-6036-453f-9536-d1adb4eae879",
         "display": "Evne til at løbe gadedrengeløb",
         "definition": "Observation af evne til at løbe gadedrengeløb ifm. indskolingsundersøgelse"
       }, {
-        "code": "877a3705-ddd4-4e54-a6eb-f94a95276f99",
-        "display": "Høretest",
-        "definition": "Observation vedr. høretest ifm. indskolingsundersøgelse"
+        "code": "5697e7df-3009-44d2-a495-ca8e4da167fb",
+        "display": "Evne til at holde balance",
+        "definition": "Observation af evne til at holde balance ifm. indskolingsundersøgelse"
+      }, {
+        "code": "58464451-5fbb-4607-871d-1e01212c38d7",
+        "display": "Sundhedsplejerskens observationer og kontakt",
+        "definition": "Observation vedr. sundhedsplejerskens observationer og kontakt med barnet ifm. indskolingsundersøgelse"
+      }, {
+        "code": "5f4a21bb-6314-477a-a0fe-7924ff83954a",
+        "display": "Sprog",
+        "definition": "Observation af sprog ifm. indskolingsundersøgelse"
       }, {
         "code": "7dbe4d6a-a486-4d8a-bd85-d8803ecb9688",
         "display": "Synstest",
         "definition": "Observation vedr. synstest ifm indskolingsundersøgelse"
       }, {
-        "code": "f8d7fba7-acc4-4481-bb8d-4b3112f411a9",
-        "display": "Fysisk aktivitet",
-        "definition": "Observation vedr. fysisk aktivitet ifm. indskolingsundersøgelse"
+        "code": "877a3705-ddd4-4e54-a6eb-f94a95276f99",
+        "display": "Høretest",
+        "definition": "Observation vedr. høretest ifm. indskolingsundersøgelse"
       }, {
         "code": "998d1b1e-b165-43c9-861f-0b620f753df3",
         "display": "Evne til at kaste bold med venstre hånd",
@@ -109,9 +871,25 @@
         "display": "Evne til at gribe bold",
         "definition": "Observation af evne til at gribe bold ifm. indskolingsundersøgelse"
       }, {
-        "code": "5697e7df-3009-44d2-a495-ca8e4da167fb",
-        "display": "Evne til at holde balance",
-        "definition": "Observation af evne til at holde balance ifm. indskolingsundersøgelse"
+        "code": "c05a5706-c0df-4a66-a6a1-a01e948d9326",
+        "display": "Evne til at stå på højre ben",
+        "definition": "Observation af evne til at stå på højre ben ifm. indskolingsundersøgelse"
+      }, {
+        "code": "c61e0e57-b1fd-4e4a-9eb9-5086b14b7504",
+        "display": "Evne til at hoppe",
+        "definition": "Observation af evne til at hoppe ifm. indskolingsundersøgelse"
+      }, {
+        "code": "d240cad7-04ca-4f36-9dd7-86fb1987856a",
+        "display": "Mad og måltider",
+        "definition": "Observation vedr. mad og måltider ifm. indskolingsundersøgelse"
+      }, {
+        "code": "dfa9a5e4-c542-4491-8a4b-1dee0bab8b17",
+        "display": "Evne til at holde om en blyant",
+        "definition": "Observation af evne til at holde om en blyant ifm. indskolingsundersøgelse"
+      }, {
+        "code": "f8d7fba7-acc4-4481-bb8d-4b3112f411a9",
+        "display": "Fysisk aktivitet",
+        "definition": "Observation vedr. fysisk aktivitet ifm. indskolingsundersøgelse"
       } ]
     }, {
       "code": "2ba8931c-0c02-4928-a876-a30ee92adc20",
@@ -122,180 +900,345 @@
         "display": "Spisning, kost og motion",
         "definition": "Observation vedr. spisning, kost og motion ifm. udskolingsundersøgelse"
       }, {
-        "code": "933d7ded-0c10-48e0-9645-b84b7c8946c7",
-        "display": "Trivsel",
-        "definition": "Observation vedr. trivsel ifm. udskolingsundersøgelse"
+        "code": "20a41422-1ea1-483e-8070-7ffd79c493c0",
+        "display": "Søvn/træthed",
+        "definition": "Observation vedr. søvn/træthed ifm. udskolingsundersøgelse"
       }, {
         "code": "5a517611-64d6-4ebd-af33-f2b30d0ad874",
         "display": "Mental sundhed",
         "definition": "Observation vedr. mental sundhed ifm. udskolingsundersøgelse"
       }, {
-        "code": "d59a5f7f-805c-44a6-9ab7-a4e7a1d9bd1e",
-        "display": "Andre rusmidler",
-        "definition": "Observation vedr. andre rusmidler ifm. udskolingsundersøgelse"
-      }, {
-        "code": "ae0bc3c6-7084-4e62-8e83-427f14a09646",
-        "display": "Seksuel adfærd",
-        "definition": "Observation vedr. seksuel adfærd ifm. udskolingsundersøgelse"
+        "code": "6be08133-feca-4d2f-a45d-cb36d141011e",
+        "display": "Høretest",
+        "definition": "Observation vedr. høretest ifm. udskolingsundersøgelse"
       }, {
         "code": "9069b5aa-d62c-48f9-a0d9-d17ecd12920a",
         "display": "Syntest",
         "definition": "Observation vedr. syntest ifm. udskolingsundersøgelse"
       }, {
-        "code": "20a41422-1ea1-483e-8070-7ffd79c493c0",
-        "display": "Søvn/træthed",
-        "definition": "Observation vedr. søvn/træthed ifm. udskolingsundersøgelse"
+        "code": "933d7ded-0c10-48e0-9645-b84b7c8946c7",
+        "display": "Trivsel",
+        "definition": "Observation vedr. trivsel ifm. udskolingsundersøgelse"
       }, {
-        "code": "6be08133-feca-4d2f-a45d-cb36d141011e",
-        "display": "Høretest",
-        "definition": "Observation vedr. høretest ifm. udskolingsundersøgelse"
-      }, {
-        "code": "da541ade-cbc9-4377-bff7-5ec153c93a89",
-        "display": "Fysisk trivsel",
-        "definition": "Observation vedr. fysisk trivsel ifm. udskolingsundersøgelse"
+        "code": "ae0bc3c6-7084-4e62-8e83-427f14a09646",
+        "display": "Seksuel adfærd",
+        "definition": "Observation vedr. seksuel adfærd ifm. udskolingsundersøgelse"
       }, {
         "code": "aeded840-d8da-408e-bb6d-d2d8560a6b79",
         "display": "Alkohol",
         "definition": "Observation vedr. alkohol ifm. udskolingsundersøgelse"
+      }, {
+        "code": "d59a5f7f-805c-44a6-9ab7-a4e7a1d9bd1e",
+        "display": "Andre rusmidler",
+        "definition": "Observation vedr. andre rusmidler ifm. udskolingsundersøgelse"
+      }, {
+        "code": "da541ade-cbc9-4377-bff7-5ec153c93a89",
+        "display": "Fysisk trivsel",
+        "definition": "Observation vedr. fysisk trivsel ifm. udskolingsundersøgelse"
+      } ]
+    }, {
+      "code": "bf5d7844-6175-41e1-a117-e5d60e755477",
+      "display": "Indikator ifm. forebyggelsesindsats for småbørn",
+      "definition": "Indikator anvendet ifm. sundhedsplejens forebyggelsesindsats for småbørn",
+      "concept": [ {
+        "code": "0701a892-2e6b-4b76-a041-97ceda78f973",
+        "display": "Motorik",
+        "definition": "Observation af motorik ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "bee30064-8436-4762-83ed-e47d65f23fc6",
+        "display": "Samvær, kontakt, forældre-barn relation",
+        "definition": "Observation af samvær, kontakt, forældre-barn relation ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "bfc7062e-d529-4516-a698-fc87b339033a",
+        "display": "Søvn, døgnrytme",
+        "definition": "Observation af søvn, døgnrytme ifm. forebyggelsesindsats for småbørn"
+      }, {
+        "code": "e88ddd81-4aa5-4c84-89fb-52de961a7c17",
+        "display": "Signaler, reaktioner, kommunikation",
+        "definition": "Observation af signaler, reaktioner, kommunikation ifm. forebyggelsesindsats for småbørn"
       } ]
     } ]
   }, {
-    "code": "6d41809a-54e5-4ce6-955f-357b20d063d1",
-    "display": "Kontakttype",
-    "definition": "Type af kontakte der foretages i sundhedsplejen.",
+    "code": "9062645d-f991-4448-b13c-720131b334eb",
+    "display": "Fund for spædbørns ernæring",
+    "definition": "Fund for spædbørns ernæring",
     "concept": [ {
-      "code": "4b039ba1-4005-42e6-b672-09b81ad7578a",
-      "display": "Behovsbesøg af småbørnssundhedsplejen",
-      "definition": "Sundhedsplejens hjemmebesøg i barnets første 5 leveår efter behov"
+      "code": "0a993974-e314-4f76-8c80-c3770fdefe37",
+      "display": "Ammes primært",
+      "definition": "Småbørn: Barnets ernæres primært med modermælk ved bryst eller i sutteflaske og får supplering med modermælkserstatning/overgangskost. Hermed menes, at det skønnes, at over halvdelen af barnets energiindtag kommer fra modermælken."
     }, {
-      "code": "606c6585-444b-4ecd-885c-2ee59dc33f32",
-      "display": "Behovsbaseret kontakt med skolesundhedsplejersken",
-      "definition": "Behovsbaseret kontakt med skolesundhedsplejersken"
+      "code": "3edc905c-2830-442a-98cc-463cc3701dd1",
+      "display": "Ammes som supplement til anden kost",
+      "definition": "Småbørn: Barnet ernæres primært med modermælkserstatning/overgangskost og ammes supplerende. Hermed menes, at det skønnes, at modermælk udgør under halvdelen af barnets energiindtag."
     }, {
-      "code": "17f5f9fa-3e1c-42fe-9ef3-178bc7900f67",
-      "display": "Anden kontakt med skolesundhedsplejersken",
-      "definition": "Anden kontakt med skolesundhedsplejersken ifm. den almindelige forebyggende skolebørnsindsats."
+      "code": "5101d1ac-b96f-4dd9-a42e-e3f765f747e1",
+      "display": "Udelukkende familiens mad",
+      "definition": "Småbørn: Barnet spiser stort set den mad resten af familien spiser. Får ikke modermælk eller modermælkserstatning."
     }, {
-      "code": "6c2a4f15-d775-47f3-9868-b26fbff9ff8b",
-      "display": "Forebyggelseskontakt i småbørnssundhedsplejen",
-      "definition": "Forebyggelseskontakt i småbørnssundhedsplejen, som beskrevet i vejledning om forebyggende sundhedsydelser til børn og unge",
-      "concept": [ {
-        "code": "3f3e6489-31bd-44cf-9920-3c632868feb7",
-        "display": "Besøg ved det 8-11 måneder gamle barn",
-        "definition": "Besøg ved det 8-11 måneder gamle barn foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "58ff370b-a775-4bec-b24a-91604e0a5fe7",
-        "display": "Besøg ved det 4-6 måneder gamle barn",
-        "definition": "Besøg ved det 4-6 måneder gamle barn foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "51f30d1c-d60e-4e3e-ac22-ec9712ea962d",
-        "display": "Besøg ved det ca. 2 måneder gamle barn",
-        "definition": "Besøg ved det ca. 2 måneder gamle barn foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "b4bf6058-502a-4d64-bb8e-369661f43b47",
-        "display": "Etableringsbesøg",
-        "definition": "Etableringsbesøg foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "d3c00541-f1d3-4c43-b5fc-16e8914ca1df",
-        "display": "Graviditetsbesøg",
-        "definition": "Graviditetsbesøg foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "7d35a193-e808-4e77-b361-6c0d114d021f",
-        "display": "Barselsbesøg",
-        "definition": "Barselsbesøg foretaget af småbørnssundhedsplejen"
-      }, {
-        "code": "563c4174-f451-4c87-8db8-8d5472ca7ff6",
-        "display": "Andet besøg i barnets første levemåned",
-        "definition": "Andet besøg i barnets første levemåned foretaget af småbørnssundhedsplejen"
-      } ]
+      "code": "77a008dd-21cc-452f-a1ee-ac8d025b7817",
+      "display": "Fuldamning, inklusiv modermælk på flaske",
+      "definition": "Småbørn: Barnet ernæres fuldt med modermælk enten ved amning eller med udmalket modermælk i sutteflaske. Der må højst gives et måltid modermælkserstatning på flaske per uge."
     }, {
-      "code": "b30f139c-fac5-416e-b84a-a3429f0222c2",
-      "display": "Anden kontakt med småbørnssundhedsplejen",
-      "definition": "Anden kontakt med småbørnssundhedsplejen ifm den almindelige forebyggende småbørnsindsats",
-      "concept": [ {
-        "code": "644dd6c1-5c80-4412-ae59-f6e0767cead5",
-        "display": "Kontakt med sundhedsplejen i åben konsultation",
-        "definition": "Kontakt med sundhedsplejen i åben konsultation"
-      }, {
-        "code": "a08d3cf6-58ef-4631-8893-3fa44bd67363",
-        "display": "Kontakt med sundhedsplejen ifm. gruppeaktivitet",
-        "definition": "Kontakt med sundhedsplejen ifm. gruppeaktivitet fx mødre-, fædre- eller forældregrupper, åbent hus og undervisning."
-      } ]
-    }, {
-      "code": "9f3d853c-88d3-47e9-92a1-c7bbe0f9b4eb",
-      "display": "Forebyggelseskontakt i skolesundhedsplejen",
-      "definition": "Forebyggelseskontakt i skolesundhedsplejen som beskrevet i vejledning for forebyggende sundhedsydelser for børn og unge.",
-      "concept": [ {
-        "code": "c06ed6f1-be9d-460e-a45e-34821bcbd533",
-        "display": "Indskolingsundersøgelse",
-        "definition": "Indskolingsundersøgelse foretaget af skolesundhedsplejen."
-      }, {
-        "code": "0ddb3661-51da-471f-94d7-2a50b81f5fc6",
-        "display": "1. klasses undersøgelse",
-        "definition": "1. klasses undersøgelse foretaget af skolesundhedsplejen."
-      }, {
-        "code": "d01bcb90-2b29-44f4-834c-191d6dd4a08a",
-        "display": "Undersøgelse i mellemtrin, med måling",
-        "definition": "Undersøgelse i mellemtrin foretaget af skolesundhedsplejen, hvor måling indberettes til National børnedatabase."
-      }, {
-        "code": "dd766967-4d02-4c17-8ed3-021852785fdf",
-        "display": "Udskolingsundersøgelse",
-        "definition": "Udskolingsundersøgelse foretaget af skolesundhedsplejen."
-      } ]
+      "code": "dfab6d07-b1b6-4210-ac8a-b8a0d095c8ab",
+      "display": "Modermælkserstatning og/eller overgangskost",
+      "definition": "Småbørn: Barnet ernæres med modermælkserstatning og/eller overgangskost som fx grød og mos og/eller familiens mad. Barnet får ingen modermælk."
     } ]
   }, {
-    "code": "7110c91c-2be6-4beb-be73-c58cfc147a83",
-    "display": "Observationsresultat",
-    "definition": "Resultat af observation foretaget af sundhedsplejen",
+    "code": "9fffaadc-dd7a-4047-95ba-408a753d41ad",
+    "display": "Normale børnefund",
+    "definition": "Resultat af observation, hvor det der observeres ligger indenfor normalen. Der er ikke udfordringer med barnets sundhed og trivsel.",
     "concept": [ {
-      "code": "0d512b22-80e6-4bed-9b79-4b13dc22eafb",
-      "display": "Resultat, egenvurderet trivsel",
-      "definition": "Resultat af børns egenvurderede trivsel i regi af skolesundhedsplejen",
+      "code": "008b1890-4be5-463a-b618-0ab3d89515d0",
+      "display": "Alderssvarende social kontakt",
+      "definition": "Småbørn: Barnet viser interesse for kontakt og deltager aktivt i samspil. Barnet giver udtryk for sine behov, fx sult, trøst, glæde. Reagerer relevant på stimuli, som fx øjenkontakt, mimik og brug af stemme. Barnet virker rolig og veltilpas. Barnet kan trøstes og falder til ro, når behov bliver opfyldt.\n\nSkolebørn: Barnet indgår i en god stabil kontakt og deltager aktivt i samspil. Barnet er glad og virker veltilpas."
+    }, {
+      "code": "042d522d-0abe-46eb-a958-6e235b5d5408",
+      "display": "Kommunikerer alderssvarende",
+      "definition": "Småbørn: Barnet kommunikerer som forventet i forhold til alder. Det 0-3 måneder gamle barn smiler og reagerer på ord og kropssprog. Det 4-6 måneder gamle barn begynder at pludre varieret og leger med lyde. Det 8-11 måneder gamle barn pludrer i stavelser og begynder at anvende enkelte ord og reagerer på fx eget navn og udtrykker sig ved at pege og gestikulere.\n\nSkolebørn: Barnet kommunikerer som forventet i forhold til alder. Fx holder barnet opmærksomhed på udvekslingen, og kan give og forstå beskeder."
+    }, {
+      "code": "05086dad-8718-4a6c-b096-54c7101d0b2c",
+      "display": "Fysisk aktiv",
+      "definition": "Skolebørn: Barnet bevæger sig dagligt én time eller mere. Fx aktiviteter såsom cykling, løb, hop, spring og kast. For de ældre børn kan aktiviteter, som styrker de store muskelgrupper også være en del af den daglige fysiske aktivitet."
+    }, {
+      "code": "0e5db980-8c6e-4034-abab-054e0eb40935",
+      "display": "Forventelig psykisk reaktion",
+      "definition": "Småbørn: Forælder har ingen eller mild psykisk reaktion indenfor normalen i forbindelse med forældreskab."
+    }, {
+      "code": "57dd67d7-175a-4541-87ff-db1381c4e1d9",
+      "display": "Ingen sårbarhed",
+      "definition": "Småbørn: Forælder har ingen sårbarhed. Med dette menes at forælderens sociale forhold og helbred, ikke udgør en risiko for varetagelse af forældreskabet."
+    }, {
+      "code": "5dc857f6-1220-4762-a718-31a6101b5d61",
+      "display": "For det meste glad i skolen",
+      "definition": "Skolebørn: Barnet vurderer selv for det meste at være glad i skolen. Barnet markerer selv smiley der er grøn og smiler."
+    }, {
+      "code": "6bea1014-8e30-40e7-9274-2b02376c0b1b",
+      "display": "For det meste glad",
+      "definition": "Skolebørn: Barnet vurderer selv for det meste at være glad. Barnet markerer selv smiley der er grøn og smiler."
+    }, {
+      "code": "78dcf013-8ae9-4541-b175-100cde77a9f0",
+      "display": "Almindeligt kostindtag",
+      "definition": "Skolebørn: Barnet spiser mad i tilstrækkelig mængde, og med passende sammensætning."
+    }, {
+      "code": "7a107df6-8fb8-4744-8413-be10b4c5c1d9",
+      "display": "Velfungerende forældre-barn-relation",
+      "definition": "Småbørn: Barnets fysiske og psykiske omsorgsbehov opfyldes. Fx får barnet mad, søvn og nærvær. Barnet viser tegn på tryg tilknytning til mindst én forælder."
+    }, {
+      "code": "9628db65-7460-4ecc-bbb1-48c0ac4b3f02",
+      "display": "Normal hørelse",
+      "definition": "Skolebørn: Screening viser intet problem med hørelse."
+    }, {
+      "code": "9b4b5194-cf7f-4274-a691-734c24adb0b7",
+      "display": "For det meste meget glad i skolen",
+      "definition": "Skolebørn: Barnet vurderer selv for det meste at være meget glad i skolen. Barnet markerer selv smiley der er grøn og smiler meget."
+    }, {
+      "code": "a7a53cfd-c7bb-4573-a4ae-2eb18e3dda1f",
+      "display": "Ikke prøvet nikotin",
+      "definition": "Skolebørn: Barnet har aldrig prøvet nikotinholdige produkter fx cigaretter, snus, e-cigaretter, vandpibe, nikotinposer, Puff Bars."
+    }, {
+      "code": "b07eec60-941d-484d-8c2a-aeaa2ba798bf",
+      "display": "Søvn med normale variationer",
+      "definition": "Småbørn: Barnets søvn og døgnrytme dækker barnets behov for søvn og hvile. Det er tilstrækkeligt for at barnet har energi i de vågne timer til at indgå i kontakt, spise tilstrækkeligt og være fysisk aktivt i passende grad.\n\nSkolebørn: Barnets søvn og døgnrytme dækker barnets behov for søvn og hvile. Det er tilstrækkeligt for at barnet har energi i de vågne timer til at indgå i kontakt og relationer, spise tilstrækkeligt og være fysisk aktivt i passende grad samt at aktivt indgå i læring og aktiviteter i skolen."
+    }, {
+      "code": "b54723cf-3114-4119-b1cb-28107a283a99",
+      "display": "Ikke udsat for tobaksrøg",
+      "definition": "Småbørn: Barnet er ikke udsat for tobaksrøg i hjemmet.\n\nSkolebørn: Barnet er ikke udsat for tobaksrøg i hjemmet."
+    }, {
+      "code": "bdcb835d-6ef6-4c4f-9fdf-94c3ebd17182",
+      "display": "Normalt syn",
+      "definition": "Skolebørn: Screening viser intet problem med syn."
+    }, {
+      "code": "be128c20-851d-4217-b8df-744d8af39cac",
+      "display": "For det meste meget glad",
+      "definition": "Skolebørn: Barnet vurderer selv for det meste at være meget glad. Barnet markerer selv smiley der er grøn og smiler meget."
+    }, {
+      "code": "d5b876e1-a86c-4768-b46d-cd795eaa89e4",
+      "display": "Alderssvarende motorik",
+      "definition": "Småbørn: Barnet har de forventelige motoriske færdigheder i forhold til alder.\n\nSkolebørn: Barnet er passende udviklet motorisk i forhold til sin alder, og i forhold til de motoriske aktiviteter som barnet har øvelse i. Der kan altså godt vurderes alderssvarende motorik selv om barnet fx ikke kan løbe gadedrengeløb, hvis alt andet er fint. Særligt hvis barnet ikke har prøvet det før."
+    }, {
+      "code": "fbd9a8a5-0ed6-4e1a-9841-066ade34b071",
+      "display": "Godt netværk",
+      "definition": "Småbørn: Familien har et godt netværk og oplever at få hjælp og støtte med til omsorgen for barnet. Fx aflastning ved sygdom."
+    } ]
+  }, {
+    "code": "ec8111c5-70c9-4c1e-9528-82630247160f",
+    "display": "Behovsindsatser",
+    "definition": "Behovsindsatser",
+    "concept": [ {
+      "code": "b062a901-1364-4ed6-8d40-f4f14cfc737a",
+      "display": "Samarbejdsindsatser",
+      "definition": "Samarbejdsindsatser",
       "concept": [ {
-        "code": "10edfc52-3632-453b-8db1-af6691049885",
-        "display": "For det meste ikke glad",
-        "definition": "Barnet vurderer selv for det meste ikke at være glad"
+        "code": "02c1e91e-475f-4b56-9731-755087329982",
+        "display": "Koordinering ved overgange",
+        "definition": "Indsatsen omfatter en overlevering af oplysninger og vejledning ifm. barnets overgange fx når det starter i dagtilbud, og overgang fra børnehave til skole. Indsatsen kan omfatte almindelige aktiviteter som fx overleveringsskema og korte telefonsamtaler, men kan også omfatte overleverings- og netværksmøder. Indhentelse af samtykke er omfattet."
       }, {
-        "code": "2e026475-a2ec-45e3-92d8-f0bed307cceb",
-        "display": "For det meste midt imellem i skolen",
-        "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad i skolen"
+        "code": "04cc94e7-1d89-4070-8bda-55f65637ab68",
+        "display": "Sparring med anden faggruppe",
+        "definition": "Indsatsen omfatter, at sundhedsplejen forudsat at der er indhentet samtykke, sparrer med en anden faggruppe, om en konkret families/barns behov og muligheder. Dette kan både være nødvendigt for at hjælpe familie/barn videre, med den rette henvisning, eller for selv at kunne målrette hjælpen til familien/barnet. Kontakten behøver ikke være initieret af sundhedsplejen. Sparring kan være med andre sundhedsprofessionelle, men indsatsen omfatter også sparring med andre fx barnets lærere i skolen."
       }, {
-        "code": "5dc857f6-1220-4762-a718-31a6101b5d61",
-        "display": "For det meste glad i skolen",
-        "definition": "Barnet vurderer selv for det meste at være glad i skolen"
+        "code": "11bae71b-89f5-4903-ab59-c516e638b44a",
+        "display": "Underretning til kommunale socialområde",
+        "definition": "Indsatsen omfatter at lave en underretning til det kommunale socialområde på en familie. Indsatsen omfatter indsamling og overlevering af oplysninger og sundhedsplejens opfølgning."
       }, {
-        "code": "822dffb2-3b29-4f86-9784-757954d6a047",
-        "display": "For det meste ikke glad i skolen",
-        "definition": "Barnet vurderer selv for det meste ikke at være glad i skolen"
+        "code": "68c3cf91-6f42-484a-922f-e75569f2991a",
+        "display": "Henvisning til regionalt tilbud",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af et regionalt tilbud i forbindelse med en eller flere problemstillinger, og tage kontakt samt indhente samtykke og overlevere oplysninger. Indsatsen er kun mulig i de kommuner, der har aftale med regionen om, at sundhedsplejen må henvise direkte til bestemte funktioner fx børneafdeling eller overvægtsklinikker. Indsatsen omfatter sundhedsplejens opfølgning."
       }, {
-        "code": "9b4b5194-cf7f-4274-a691-734c24adb0b7",
-        "display": "For det meste meget glad i skolen",
-        "definition": "Barnet vurderer selv for det meste at være meget glad i skolen"
+        "code": "7416c8d9-970c-4131-9314-b0b1d92e8253",
+        "display": "Anbefaling af kontakt til andet kommunalt område",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af kommunale tilbud, og bede dem om at tage kontakt selv. Kommunale områder kunne være specialgruppe, vægttabstilbud, skole, kommunal logopæd, PPR, ergo-/fysioterapi eller diætistteam."
       }, {
-        "code": "be128c20-851d-4217-b8df-744d8af39cac",
-        "display": "For det meste meget glad",
-        "definition": "Barnet vurderer selv for det meste at være meget glad"
+        "code": "90089a0d-10a6-4cd7-8733-3a6d8b784932",
+        "display": "Overlevering til andet kommunalt område",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af kommunale tilbud, indhente samtykke, og overlevere oplysninger eller koordinere. Kommunale områder kunne være specialgruppe, vægttabstilbud, skole, kommunal logopæd, PPR, ergo-/fysioterapi eller diætistteam. Indsatsen omfatter sundhedsplejens opfølgning. Indsatsen gives når sundhedsplejen afslutter sin egen opsporing, og eventuelle behovsindsats, for at andre skal tage over. Hvis der er en mere løs gensidig orientering, anvendes indsatsen sparring med anden faggruppe. Hvis der er tale om en fælles indsats med socialområdet eller PPR registreres en helhedsindsats."
       }, {
-        "code": "2c945a43-a07b-4b26-b4cc-205ba15a1251",
-        "display": "For det meste midt imellem",
-        "definition": "Barnet vurderer selv for det meste at være midt imellem glad og ikke glad"
+        "code": "b23adb79-91a1-4644-9b2c-6ed3d41a1388",
+        "display": "Anbefalet kontakt til regionalt tilbud",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af et regionalt tilbud i forbindelse med en eller flere problemstillinger, og anbefale dem at tage kontakt."
       }, {
-        "code": "6bea1014-8e30-40e7-9274-2b02376c0b1b",
-        "display": "For det meste glad",
-        "definition": "Barnet vurderer selv for det meste at være glad"
+        "code": "b708c983-0bb8-4303-a442-9af4c8b950bb",
+        "display": "Anbefaling af kontakt til praktiserende læge",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af egen læge eller privatpraktiserende speciallæge, og anbefale dem at tage kontakt."
+      }, {
+        "code": "d2a33ec9-5f61-4cf5-b4d1-c99df83e4c9b",
+        "display": "Henvisning til praktiserende læge",
+        "definition": "Indsatsen omfatter at opdage, at familien kunne have gavn af egen læge eller privatpraktiserende speciallæge ifm. en eller flere problemstillinger, indhente samtykke, og overlevere oplysninger. Indsatsen omfatter sundhedsplejens opfølgning."
       } ]
     }, {
-      "code": "700d6a6d-43b7-4a4a-ac06-9c74253d0112",
-      "display": "Indikator resultat",
-      "definition": "Resultat af vurdering af én af de sundhedsplejefaglige indikatorer",
+      "code": "67adc79a-a09f-4166-9d4a-f7fce64dfe85",
+      "display": "Behovsindsatser skolebørn",
+      "definition": "Behovsindsatser skolebørn",
       "concept": [ {
-        "code": "96e3eda6-3eb7-4fbb-9850-fc6dfafadb4a",
-        "display": "Problem/bemærkning",
-        "definition": "Der er konstateret et problem, og lavet en bemærkning"
+        "code": "3cd144c0-7b1e-4ca3-9f21-28f9c8918a74",
+        "display": "Familie- og trivselsindsatser",
+        "definition": "Familie- og trivselsindsatser",
+        "concept": [ {
+          "code": "260a3000-9af0-4cc5-ae3a-cc90683772a5",
+          "display": "Opsporing og vejledning ved trivselsproblem",
+          "definition": "Indsatsen gives til børn og hvis relevant deres familier, hvis barnet mistrives. Sundhedsplejen opsporer, rådgiver og motiverer fx til et styrket forældre-barn samspil, til at barnet kortlægger handlemuligheder og ser fornyet på egne ressourcer, til at styrke mental sundhed, og til at gøre dagligdagen overskuelig for barnet. Indsatsen omfatter en løbende vurdering af behovet for at inddrage andre fagligheder."
+        }, {
+          "code": "550971e9-9581-4a3b-aa2f-da1520ad0e1c",
+          "display": "Helhedsindsats ved trivselsproblem",
+          "definition": "Indsatsen gives til familier, der er bevilliget sociale indsatser/ydelser eller støtte gennem PPR fra kommunen, hvor sundhedsplejersken, som en blandt flere fagpersoner, er med til at styrke barnets trivsel. Indsatsen kan både omfatte direkte kontakt med barn og forældre, men også netværksmøder og andet tværfagligt samarbejde."
+        }, {
+          "code": "c3100c9e-636e-4249-bc9a-b70644c04972",
+          "display": "Tryghedsindsats",
+          "definition": "Indsatsen gives til forælder, hvis sundhedsplejen ser behov for at opspore problematikker, der ikke relaterer sig til en kendt problematik ved barnet. Det kan fx være, hvis man i samtale med barnet får kendskab til et tab i familien og har brug for at vurdere, om der er en påvirkning hos barnet. Tryghedsindsats kan også gives, hvis en forælder henvender sig med en bekymring, som udløser en behovskontakt fx bekymringer om barnets vækst eller vægt. Tryghedsindsats udløser typisk kun én efterfølgende kontakt. Kontakten bruges blandt andet på at vurdere, om problematikken ligger indenfor sundhedsplejens formål. Gør den det, registreres efterfølgende aktivitet mere specifikt vha. en af de øvrige behovsindsatser."
+        }, {
+          "code": "d877b771-0729-4e35-8ce0-1cc5972fdffb",
+          "display": "Forældreuddannelse i kontakt og samspil",
+          "definition": "Indsatsen gives til forældre, der vurderes at kunne have gavn af at styrke relationen til deres barn. Indsatsen omfatter et planlagt uddannelsesforløb i grupper eller individuelt, der styrker forældrenes viden og giver nye handlemuligheder i kontakten med deres barn."
+        } ]
       }, {
-        "code": "1b64f768-5133-4633-85a4-2b97fcaa1f7a",
-        "display": "Intet at bemærke",
-        "definition": "Der er intet at bemærke"
+        "code": "52d1d013-4fdd-49b1-bba0-b7c00458852c",
+        "display": "Sundhedsindsatser",
+        "definition": "Sundhedsindsatser",
+        "concept": [ {
+          "code": "3acaa88c-4227-415c-82e5-66d8699d23f8",
+          "display": "Opsporing og vejledning ved vigende vægt/vækst",
+          "definition": "Indsatsen gives til børn der falder uhensigtsmæssig på deres vægt eller vækstkurver. Indsatsen omfatter vurdering af, om der også bør henvises til læge."
+        }, {
+          "code": "4f247b6f-e937-42b8-a82b-be1a12405ad0",
+          "display": "Opsporing af potentiel syns- eller hørenedsættelse",
+          "definition": "Indsatsen gives til børn, hvor resultatet af tidligere syns- og hørescreeninger har været af en sådan karakter, at barnet bør måles igen før næste rutinemæssige undersøgelse. Det kan fx være at barnet har fået et dårligt resultat i høretest, men har været forkølet, hvorfor man vælger at måle igen, før der evt. viderehenvises."
+        }, {
+          "code": "79691b19-c141-4979-a95c-5dc719ad1fd7",
+          "display": "Øvrig vejledning om sundhed og sundhedsadfærd",
+          "definition": "Indsatsen gives til børn, og hvis relevant deres familier, hvor barnet har en skadelig sundhedsadfærd eller problemer med deres sundhed, som ikke er omfattet af andre indsatser. Skadelig sundhedsadfærd er fx brug af nikotin/alkohol/stoffer, søvnadfærd, seksuel adfærd, skærmvaner, for lidt/for meget motion, og begyndende tegn på uhensigtsmæssige spisemønstre/spiseforstyrrelser, som der vejledes om i sundhedspleje-regi. Indsatsen omfatter at vejlede og motivere til adfærdsændringer relateret til sundhedsadfærd. Indsatsen omfatter vurdering af, om andre faggrupper bør inddrages."
+        }, {
+          "code": "b45c3d0e-7d19-4c75-bdf1-fe838b439b86",
+          "display": "Opsporing og vejledning ved overvægt",
+          "definition": "Indsatsen gives til børn og hvis relevant deres familier, hvor der er behov for at opspore og vejlede vedr. overvægt. Indsatsen omfatter at følge med i barnets vægt og/eller vejlede vedr. overvægt og ernæring. Hvis indsatsen foretages i andet regi end sundhedsplejen, registreres der i stedet en henvisning."
+        }, {
+          "code": "b7efe8ff-a502-4f06-9a97-a30b28b1d878",
+          "display": "Opsporing og vejledning ved uventet højdeøgning/tidlig pubertet",
+          "definition": "Indsatsen gives til børn der stiger uhensigtsmæssig på deres vækstkurver, eller som udviser tegn på tidlig pubertet. Indsatsen omfatter vurdering af, om der også bør henvises til læge."
+        }, {
+          "code": "bc2fc09c-594b-40f5-bfd4-b4da0307fb64",
+          "display": "Vejledning ved udskillelsesproblematik",
+          "definition": "Indsatsen gives til børn, med afførings- eller vandladningsproblemer fx inkontinensproblematikker. Indsatsen omfatter vurdering af, om der også bør henvises til læge."
+        } ]
+      } ]
+    }, {
+      "code": "7620766c-6d3d-487b-9896-bfcf7f883f0f",
+      "display": "Behovsindsatser småbørn",
+      "definition": "Behovsindsatser småbørn",
+      "concept": [ {
+        "code": "5a45df21-d80c-4b41-9e5a-4896a519c6c6",
+        "display": "Indsats til forælder",
+        "definition": "Indsats til forælder",
+        "concept": [ {
+          "code": "09a24a80-1669-4984-850c-de1f66ad86f8",
+          "display": "Forældregruppe, hvor forælder har et særligt behov",
+          "definition": "Indsatsen gives til forældre der har et særlig behov fx adoptivforældre, forældre af anden etnisk herkomst, og unge mødre. Indsatsen omfatter at mødes i grupper med andre forældre, med samme udfordringer, så man kan lære af og støtte hinanden."
+        }, {
+          "code": "8af7f611-2bae-4ba5-923a-d748501d1ad3",
+          "display": "Støtte ved psykisk reaktion eller sårbarhed",
+          "definition": "Indsatsen gives til forælder med en psykisk reaktion på det at blive forælder eller en anden sårbarhed fx tidligere dårlig fødselsoplevelse, sørgende, omsorgssvigtede som børn eller kendt psykisk sygdom. Indsatsen omfatter at støtte forælderen i deres forældrerolle. Indsatsen omfatter ikke at vurdere og støtte op om barnets behov. Disse indsatser gives separat."
+        }, {
+          "code": "cf5d4171-eb86-4bca-afe6-5ded5b1107ee",
+          "display": "Støtte ved psykisk reaktion eller sårbarhed som del af helhedsindsats",
+          "definition": "Indsatsen gives til forælder, der er bevilliget sociale indsatser fra kommunen og/eller tilknyttet i psykiatrien, men hvor sundhedsplejen som en blandt flere fagpersoner er med til at støtte op om en forælder med psykisk reaktion/sårbarhed. Indsatsen omfatter primært at støtte forælderen i deres forældrerolle, men kan også omfatte netværksmøder og andet tværprofessionelt samarbejde. Indsatsen erstatter ofte en eksisterende støtte-indsats. Denne indsats må registreres i stedet, når der er sociale indsatser visiteret til familien eller et psykiatrisk forløb i gang, som sundhedsplejen er orienteret om af familie eller fagpersoner, også selvom der ikke er etableret et egentligt samarbejde mellem fagpersonerne endnu. Indsatsen omfatter ikke at vurdere og støtte op om barnets behov. Er der grund til at give familieindsatser, gives disse separat."
+        }, {
+          "code": "d7985f9a-b714-4bbd-a116-75f7a55504ba",
+          "display": "Tryghedsindsats",
+          "definition": "Indsatsen gives til forælder, hvis sundhedsplejen ser behov for at opspore problematikker, der ikke umiddelbart har med barnet at gøre. Det kan fx være at besøge en familie med højt konfliktniveau, eller nyligt tab for at vurdere påvirkningen på barnet. Tryghedsindsats kan også gives hvis en forælder henvender sig med en bekymring som udløser et behovsbesøg fx usikkerhed om hvorvidt barnet tager på. Tryghedsindsats udløser typisk kun én efterfølgende kontakt. Kontakten bruges blandt andet på at vurdere om problematikken ligger indenfor sundhedsplejens formål. Gør den det, registreres efterfølgende aktivitet vha. en af de øvrige behovsindsatser."
+        }, {
+          "code": "e535fc78-ce61-4f97-b717-5901d5330ca9",
+          "display": "Forældregruppe, hvor forælder har psykisk reaktion",
+          "definition": "Indsatsen gives til forældre med psykisk reaktion på det at blive forælder fx tegn på fødselsdepression (perinatal depression) eller meget højt bekymringsniveau. Indsatsen omfatter at mødes i grupper med andre forældre, med samme udfordringer, så man kan lære af og støtte hinanden."
+        } ]
+      }, {
+        "code": "6cbf8b19-5aff-4f6f-a7dc-9a411197bcff",
+        "display": "Familieindsatser",
+        "definition": "Familieindsatser",
+        "concept": [ {
+          "code": "14ddb640-c2ce-4e79-9269-6302f72f02aa",
+          "display": "Forældreuddannelse, hvor barnet har særlige behov",
+          "definition": "Indsatsen gives til forældre, der gennem et planlagt uddannelsesforløb i grupper eller individuelt/par, styrker deres viden og får nye handlemuligheder i forhold til de særlige udfordringer, som deres barn lever med."
+        }, {
+          "code": "4c53b10a-6384-413a-b131-b94354337541",
+          "display": "Forældregruppe, hvor barnet har særlige behov",
+          "definition": "Indsatsen gives til forældre til børn med særlige behov. Indsatsen omfatter at mødes i grupper med andre forældre, med samme udfordringer, så man kan lære af og støtte hinanden."
+        }, {
+          "code": "69b3ad8c-f228-405c-b556-b2ea78e196ee",
+          "display": "Forældreuddannelse i kontakt og samspil",
+          "definition": "Indsatsen gives til forældre, der gennem et planlagt uddannelsesforløb i grupper eller individuelt/par, styrker deres viden og får nye handlemuligheder i kontakten med deres barn. Forældreuddannelse kunne fx være COS-P."
+        }, {
+          "code": "7f6488a9-f01c-4776-973c-846fdca75acc",
+          "display": "Helhedsindsats med fokus på kontakt og samspil",
+          "definition": "Indsatsen gives til familier, der er bevilliget sociale indsatser/ydelser fra kommunen, og hvor sundhedsplejen, som en blandt flere fagpersoner styrker samspil og kontakt i småbørnsfamilien. Indsatsen omfatter vejledning vedr. kontakt og samspil, men omfatter også netværksmøder og andet tværfagligt samarbejde. Indsatsen kan også omfatte anden sundhedsplejefaglig støtte fx vejledning i relation til dagligdagens struktur og barnets fysiske sundhed. Indsatsen erstatter ofte indsatsen ”Vejledning i kontakt, samspil og barnets behov” (som altså ikke gives sideløbende). Der skiftes fra vejledning til helhedsindsats, når der er sociale indsatser visiteret til familien, som sundhedsplejen er orienteret om af familie eller fagpersoner, også selvom der ikke er etableret et egentligt samarbejde mellem fagpersonerne endnu. Henvisninger, og støtteforanstaltninger målrettet forældrene i forbindelse med psykisk reaktion/sårbarhed registreres separat."
+        }, {
+          "code": "ab058b70-6557-4844-957b-a16d71ea46f3",
+          "display": "Vejledning til forældre, hvor barnet har særlige behov",
+          "definition": "Indsatsen gives til familier, hvor barnet har særlige behov fx præmature og børn med funktionsnedsættelser. Det kan også være mistanke om eller diagnosticerede udviklingsforstyrrelser. Desuden kan det være børn med almindelige problematikker som meget gråd, ondt i maven eller dårlig søvn, uden at der er tegn på sygdom eller trivselsproblematikker. Indsatsen omfatter vejledning og motivation, samt en løbende vurdering af behovet for at inddrage andre fagligheder."
+        }, {
+          "code": "b3de92ea-ac5e-4f87-809e-a9e40b59cc34",
+          "display": "Vejledning i kontakt, samspil og barnets behov",
+          "definition": "Indsatsen gives til familier, som har brug for støtte til at opbygge et godt samspil med barnet eller møde barnets behov. Sundhedsplejen rådgiver og vejleder om muligheder for at styrke kontakt/samspil og/eller om dagligdagen med et spædbarn inklusiv forudsigelighed og fysiske behov. Indsatsen kan omfatte at sundhedsplejen viser ved egen kontakt med barnet, hvordan man kan styrke kontakt/samspil, samt at sundhedsplejen støtter forældrene i samspilssituationer. Sundhedsplejen motiverer gennem sit ressourcesyn til forbedringer. Indsatsen omfatter vurdering af tilstrækkelighed."
+        } ]
+      }, {
+        "code": "76a96391-7b5a-4d29-8471-9b7d238cb9df",
+        "display": "Indsatser vedr. fysisk sundhed",
+        "definition": "Indsatser vedr. fysisk sundhed",
+        "concept": [ {
+          "code": "1abd67eb-498a-4033-aebd-8285c1bf6ecb",
+          "display": "Opsporing og vejledning ved overvægt",
+          "definition": "Indsatsen gives til børn, der har stigende vægtkurve, ud over det normale. Indsatsen omfatter fx ekstra-målinger, vejledning om gode spiserutiner, og energibehov. Indsatsen omfatter vurdering af, om der også bør henvises til læge."
+        }, {
+          "code": "2d9d7a6b-0d8c-4202-9434-876a1a6833b8",
+          "display": "Øvrig vejledning om fysisk sundhed",
+          "definition": "Indsatsen gives til barn og forældre til at afhjælpe problematikker relateret til udskillelser, overgangskost, sundheds-/risikoadfærd i familien, barnets døgnrytme, og barnets motorik."
+        }, {
+          "code": "712ef286-161c-4b9d-b2b9-b43e3f432646",
+          "display": "Ammeindsats",
+          "definition": "Indsatsen gives til forældre, der har behov for støtte til at amme fx pga. øget forbrug af MME indenfor barnets første levemåneder, vigende vægt ved barnet, utryghed eller ubehag ved amningen eller observeret uhensigtsmæssig amme-teknik. Indsatsen omfatter opsporing, vejledning og motivation."
+        }, {
+          "code": "8e557f2c-43a6-4b5a-bfac-2cd78bad4c25",
+          "display": "Opsporing og vejledning ved vigende vægt/vækst",
+          "definition": "Indsatsen gives til børn, der har vigende vægt eller længdekurver. Indsatsen omfatter fx ekstra-målinger, vejledning om gode spiserutiner, energibehov og vejledning om hvordan forældrene kan holde øje med udskillelser. Indsatsen omfatter vurdering af, om der også bør henvises til læge."
+        } ]
       } ]
     } ]
   } ]

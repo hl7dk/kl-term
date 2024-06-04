@@ -2,12 +2,12 @@
   "resourceType": "CodeSystem",
   "id": "CareSocialCodes",
   "url": "http://fhir.kl.dk/term/CodeSystem/CareSocialCodes",
-  "version": "20230622",
+  "version": "20240530",
   "name": "CareSocialCodes",
   "title": "CareSocialCodes",
   "status": "active",
   "experimental": false,
-  "description": "Administrative/technical codes in Local Govenment Denmark (KL), associated with KLCommonCareSocial",
+  "description": "Administrative/technical codes in Local Govenment Denmark (KL), associated with common use cases across areas or kl-core",
   "caseSensitive": true,
   "hierarchyMeaning": "is-a",
   "content": "complete",
@@ -24,10 +24,6 @@
       "display": "FFB vurdering af borgers situation",
       "definition": "Vurdering der sammenholder oplysninger fra udredning mhp en samlet faglig analyse og konklusion."
     }, {
-      "code": "54c4ffea-7caf-4edc-8aa9-ef6e0be26c4c",
-      "display": "FSIII helhedsvurdering",
-      "definition": "Sagsvurdering, der sammenholder resultaterne af en myndighedsudredning og den øvrige sagsoplysning med henblik på at træffe en afgørelse"
-    }, {
       "code": "3f7a8ca0-afca-4b0d-8773-a99b5f2f8aaf",
       "display": "VUM Borgerens perspektiv på indsatsen",
       "definition": "VUM Borgerens perspektiv på indsatsen"
@@ -35,31 +31,39 @@
       "code": "f52887de-023f-4193-b6b0-4b0a37b1cffc",
       "display": "VUM Borgerens ressourcer i forhold til indsatsen",
       "definition": "VUM Borgerens ressourcer i forhold til indsatsen"
+    }, {
+      "code": "54c4ffea-7caf-4edc-8aa9-ef6e0be26c4c",
+      "display": "FSIII helhedsvurdering",
+      "definition": "Sagsvurdering, der sammenholder resultaterne af en myndighedsudredning og den øvrige sagsoplysning med henblik på at træffe en afgørelse"
     } ]
   }, {
     "code": "7b41185e-eeb4-437d-8120-5d51bbd27a79",
     "display": "Indsats/ydelses-anmodning",
     "definition": "Indsats/ydelses-anmodning",
     "concept": [ {
-      "code": "ad865929-7363-4b2d-a271-01993181fbaf",
-      "display": "Hjemmepleje",
-      "definition": "Der anmodes om hjemmepleje"
-    }, {
-      "code": "490ab7be-ddb1-4a54-baf1-009fe6e8a83b",
-      "display": "Hjemmesygepleje",
-      "definition": "Der anmodes om sygepleje"
-    }, {
       "code": "4a297733-4d66-4726-a933-590d55cf91e0",
       "display": "Social indsats",
       "definition": "Der anmodes om en social indsats"
     }, {
+      "code": "ad865929-7363-4b2d-a271-01993181fbaf",
+      "display": "Kommunal pleje og omsorg",
+      "definition": "Der anmodes om kommunal pleje og omsorg fx hjemmepleje til ældre borger."
+    }, {
+      "code": "490ab7be-ddb1-4a54-baf1-009fe6e8a83b",
+      "display": "Kommunal sygepleje",
+      "definition": "Der anmodes om kommunal sygepleje."
+    }, {
       "code": "a71921ea-fe83-441d-933b-cc21d0b3c8c3",
-      "display": "Sundhedsfremme og forebyggelse",
-      "definition": "Der anmodes om sundhedsfremme og forebyggelse"
+      "display": "Kommunal Sundhedsfremme og forebyggelse",
+      "definition": "Der anmodes om kommunal sundhedsfremme og forebyggelse efter SUL §119."
     }, {
       "code": "7fc66c15-0cb3-4c89-9e18-f3a01e6a6592",
-      "display": "Træning",
-      "definition": "Der anmodes om træning"
+      "display": "Kommunal genoptræning efter sygehusophold",
+      "definition": "Der anmodes om kommunal genoptræning efter sygehusophold efter SUL §140."
+    }, {
+      "code": "d267ac44-8d7f-43e9-8535-ab3da350649f",
+      "display": "Kommunalt hjælpemiddelområde",
+      "definition": "Der anmodes om hjælpemidler og lignende, der ligger indenfor det kommunale hjælpemiddelområde dvs § 112, § 113, § 114, § 116 i Serviceloven."
     } ]
   }, {
     "code": "b5731132-f6b9-4a47-995d-681d2b755d4f",
@@ -74,9 +78,29 @@
       "display": "Sagsbehandler",
       "definition": "Sagsbehandler er kilde til oplysning eller vurdering"
     }, {
+      "code": "329774f9-7700-47cf-9c00-63765d9e8078",
+      "display": "Medarbejder og pårørende alene",
+      "definition": "En medarbejder og pårørende er sammen, men uden input fra borger, kilde til oplysning eller vurdering. Fx PUF spørgeskema i sundhedsplejen."
+    }, {
+      "code": "8fe80acb-2c2a-4f10-b2b8-ddb77d2f69dc",
+      "display": "Medarbejder alene",
+      "definition": "Medarbejderen er alene kilde til oplysning eller vurdering. Fx AIMS skema i sundhedsplejen."
+    }, {
+      "code": "12428e48-7df8-441f-9a89-d92bb7874066",
+      "display": "Borger støttet af medarbejder",
+      "definition": "Borger fik hjælp af en medarbejder til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
+    }, {
+      "code": "b66dc78a-a673-43fc-8ac0-1e859ba626e0",
+      "display": "Borger støttet af pårørende",
+      "definition": "Borger fik hjælp af en pårørende til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
+    }, {
+      "code": "166d2437-4e47-4a52-bd94-cdbe91086ca6",
+      "display": "Pårørende alene",
+      "definition": "Pårørende er alene, uden input fra borger, kilde til oplysninger eller vuderderinger. Fx WHO 5 spørgeskema for svækket ældre borger udfyldt af datter."
+    }, {
       "code": "63338442-7b2e-405b-acc0-142361ef19f1",
       "display": "Andre",
-      "definition": "Andre end borger og sagsbehandler er kilde til oplysning eller vurdering. Fx læge, pårørende og udfører",
+      "definition": "Andre end borger og sagsbehandler er kilde til oplysning eller vurdering. Fx læge, pårørende og udfører. Denne definition af andre, bruges kun på voksensocialområdet.",
       "concept": [ {
         "code": "f00a6844-1005-401d-965d-1c5859df7beb",
         "display": "Udfører",
@@ -146,10 +170,6 @@
       "display": "FFB indsatsmål",
       "definition": "Indsatsmål i FFB - er de konkrete faglige mål der arbejdes med, og som er knyttet til tilstande og opfølgninger"
     }, {
-      "code": "ffb9886b-d04e-46b1-9165-a400f91f822b",
-      "display": "FSIII borgers ønsker og mål",
-      "definition": "FSIII borgers ønsker og mål"
-    }, {
       "code": "ca552020-6ed1-4cdc-b0d4-32697f1f27ad",
       "display": "FSIII tilstandsmål",
       "definition": "Tilstandsmål som defineret af FSIII - ofte i form af en forventet tilstand"
@@ -157,19 +177,10 @@
       "code": "424827b1-23aa-4848-962b-56ee47def560",
       "display": "Indsatsformål",
       "definition": "Det overordnede formål med hele indsatsen (Defineret af FFB men bruges også for FSIII)"
-    } ]
-  }, {
-    "code": "11266a8f-5795-42ab-88ec-4fe5c6c28e80",
-    "display": "målfokus",
-    "definition": "målfokus",
-    "concept": [ {
-      "code": "66959f77-6e2a-4574-8423-3ff097f8b9fa",
-      "display": "funktionsevneniveau",
-      "definition": "målet udtrykkes i form af et funktionsevneniveau, som kan være et FFB funktionsevneniveau eller FSIII tilstandsniveau"
     }, {
-      "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
-      "display": "måltype",
-      "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
+      "code": "ffb9886b-d04e-46b1-9165-a400f91f822b",
+      "display": "Borgers ønsker og mål",
+      "definition": "Borgers ønsker og mål"
     } ]
   }, {
     "code": "940f37e6-8a3d-483b-adac-be8af3268a5b",
@@ -184,10 +195,6 @@
       "display": "funktionsevnevurdering hjemmepleje, FSIII",
       "definition": "udførelse af funktionsevnevurdering i hjemmeplejen jævnfør FSIII"
     }, {
-      "code": "e70c66c0-a939-493b-8ea8-5b7e7b48ba1a",
-      "display": "generelle oplysninger, FSIII",
-      "definition": "indhentning af generelle oplysninger jævnfør FSIII"
-    }, {
       "code": "f8ebd11a-04f3-4aa0-9786-406e8896c84d",
       "display": "socialfaglig udredning, VUM/FFB",
       "definition": "udførelse af socialfaglig udredning som specificeret af VUM og FFB"
@@ -199,6 +206,10 @@
       "code": "0f0f223c-abe3-4720-aab8-c257679a0a4e",
       "display": "terapeutfaglig udredning, FSIII",
       "definition": "udførelse af terapeutfaglig udredning jævnfør FSIII"
+    }, {
+      "code": "e70c66c0-a939-493b-8ea8-5b7e7b48ba1a",
+      "display": "generelle oplysninger, FSIII",
+      "definition": "indhentning af generelle oplysninger jævnfør FSIII"
     } ]
   }, {
     "code": "10deb210-e7e1-4d56-9531-b9ff2102126e",
@@ -210,8 +221,8 @@
       "definition": "Det planlagte indsatsforløb er en social indsats, som defineret af FFB, med tilhørende ydelser, målgruppe og tilbud"
     }, {
       "code": "4fd6c23a-6ff3-4251-ac37-3ca095027b5b",
-      "display": "Sundhedsfremme og forebyggelse §119",
-      "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119",
+      "display": "Kommunal Sundhedsfremme og forebyggelse",
+      "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119.",
       "concept": [ {
         "code": "5c160c02-e858-4c1f-925a-71ed64844749",
         "display": "Interventionsforløb efter §119",
@@ -223,8 +234,8 @@
       } ]
     }, {
       "code": "ddd2f670-5ec7-4f9c-9a2c-aee25cb133bf",
-      "display": "Genoptræning efter §140",
-      "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140",
+      "display": "Kommunal genoptræning efter sygehusophold",
+      "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140.",
       "concept": [ {
         "code": "f15b2663-94d9-4d0c-a5de-d8bd8e1e4ebb",
         "display": "Interventionsforløb efter §140",
@@ -285,6 +296,32 @@
       "code": "8d12d74c-17da-47a7-a4fe-e69dbaec0a8c",
       "display": "Individuel indsats",
       "definition": "Indsats leveres individuelt"
+    } ]
+  }, {
+    "code": "bf469e95-f9e3-45c7-bf15-ab7e8a85236f",
+    "display": "Kontaktklasse",
+    "definition": "Type af kontakt. Beskriver leveringsmetode.",
+    "concept": [ {
+      "code": "1b55a4b0-1156-4f58-b2df-b5c6014d9048",
+      "display": "Telefonisk",
+      "definition": "Kontakten er foregået per telefon."
+    }, {
+      "code": "124be95d-6924-4609-9d2a-e7c73ae3ab3d",
+      "display": "Skærmbesøg",
+      "definition": "Kontakten er foregået via skærm med mulighed for tændt kamera, så parterne har haft mulighed for at interagere ansigt til ansigt, og fremvise ting."
+    } ]
+  }, {
+    "code": "11266a8f-5795-42ab-88ec-4fe5c6c28e80",
+    "display": "Målfokus",
+    "definition": "Målfokus",
+    "concept": [ {
+      "code": "66959f77-6e2a-4574-8423-3ff097f8b9fa",
+      "display": "funktionsevneniveau",
+      "definition": "målet udtrykkes i form af et funktionsevneniveau, som kan være et FFB funktionsevneniveau eller FSIII tilstandsniveau"
+    }, {
+      "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
+      "display": "måltype",
+      "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
     } ]
   } ]
 }
