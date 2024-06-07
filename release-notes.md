@@ -1,7 +1,7 @@
-Version 2.0.0 of KLs terminology IG.
+Version 2.1.0 of KLs terminology IG.
 
-The CodeSystems FSIII, FFB, FBOE and CareSocialCodes have been migrated from FK-klassifikation (EksternTest) May 30th 2024. 
-FBOE is released in its second version. It is consistent with the municipality standard, FBU in version 1.2.0. The change is significant with almost all the old concepts being removed and new concepts added.
-FSIII has been updated with all the changes related to the simplification (forenklingen). All the details of the simplification are not be reported here, due to the extend of it, but documentation can be found here: https://www.kl.dk/sundhed-og-aeldre/data-dokumentation-og-digitalisering/faelles-sprog-iii/forenkling-af-faelles-sprog-iii. Notice that no concepts have been removed from the code system yet. This is done to support a transfer-phase, where both new and old concepts can be used for reporting. Retiering concepts will be removed in a comming version of kl-term expected to launch October 2025. Notice that FSIII classic uses its legacy codes as well as uuids e.g. For Personlig hygiejne both H1.1 and 17312894-b23f-43d9-9723-b725ac25d872 are accepted.
-FFB has only experienced minor corrections in descriptions.
-CareSocialCodes have been updated with several new values for who is the source of some information (kilde). Most of them originally come from FFInst, but the codes will be maintained here from now on. Municipality codes for encounter class i.e. the way an encounter is delivered has been added af well. Note that only two codes are added, because codes native for HL7 FHIR is utilized for other options. A few displays have been changed to be consistent with new naming conventions for municipality areas.
+The CodeSystems FSIII, FFB, FBOE and CareSocialCodes have been migrated from FK-klassifikation (EksternTest) May 30th (FFB, FBOE),  June 3rd 2024 (FSIII) and June 7th (CareSocialCodes). 
+FBOE is released in its second version, and unchanged from 2.0.0
+FSIII is changed in 2.1.0. The simplification means that a few FSIII concepts that are valid both before and after the simplification have a change in their display-term. The old term is added as a designation in 2.1.0 (2.0.0 only had the new term). In 2.1.0 a few errors in descriptions, have also been corrected between 2.0.0 and 2.1.0
+FFB has no changes.
+CareSocialCodes has been updated with one new code "Borger har ikke henvendt sig eller er udeblevet".
