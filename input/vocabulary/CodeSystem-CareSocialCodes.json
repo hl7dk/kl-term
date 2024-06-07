@@ -263,6 +263,10 @@
       "display": "Ikke yderligere behov (fagperson-vurderet)",
       "definition": "Fagperson vurderer, at borger ikke har yderligere behov og afslutter derfor før tid"
     }, {
+      "code": "ef491570-7884-4acd-bcf7-43d6b2c64762",
+      "display": "Borger har ikke henvendt sig eller er udeblevet",
+      "definition": "Borger har ikke henvendt sig eller er udeblevet"
+    }, {
       "code": "3a5a72b7-addf-4857-b80c-04e4246e3072",
       "display": "Aktivt fravalg",
       "definition": "Borger har behov, men har foretaget et aktivt fravalg",
@@ -322,6 +326,56 @@
       "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
       "display": "måltype",
       "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
+    } ]
+  }, {
+    "code": "bb233864-6d4c-4ab4-a4a3-567e61b3dfb0",
+    "display": "Begrundelse for manglende aktivitet",
+    "definition": "Begrundelse for manglende aktivitet",
+    "concept": [ {
+      "code": "f64b8f5e-8ced-4a8b-ab73-8994fb524915",
+      "display": "Anden kommmune",
+      "definition": "Overgivet til anden kommune, på borgers anmodning"
+    }, {
+      "code": "a8632e22-bf0c-4f5a-92a7-70977ba104d5",
+      "display": "Udskudt",
+      "definition": "Udskudt opstart påkrævet fordi det er specificeret sådan i den anmodning kommunen har modtaget. Fx kan udskudt opstart af træning fordi sår skal ophele være beskrives i en genoptræningsplan (GGOP)."
+    }, {
+      "code": "3796fa11-305f-47d6-b164-45b05489afb2",
+      "display": "Frit valg",
+      "definition": "Borger er overgået til frit valg af service. Fx frit valg af privat genoptræning som borger har ret til, hvis kommunen ikke kan levere inden 7 dage."
+    }, {
+      "code": "8ac7be88-5d16-4dbd-a61a-ab02673f4b34",
+      "display": "Fejl",
+      "definition": "Fejlafsendt anmodning. Fx fejlafsendt genoptræningsplan."
+    }, {
+      "code": "46a6bc1f-bfe8-4390-a71f-44ad4a384b9d",
+      "display": "Frit valg afslået",
+      "definition": "Borgeren er tilbudt frit valg af leverandør af service, men vil hellere vente."
+    } ]
+  }, {
+    "code": "6b29554d-0261-4ec4-bb16-022d81c7dfb7",
+    "display": "Type genoptræningsplan",
+    "definition": "Type genoptræningsplan",
+    "concept": [ {
+      "code": "ffd81f78-352e-4589-a195-5350dd1df2a4",
+      "display": "Almen",
+      "definition": "Midlertidig kopi af MedComs kode for genoptræning på alment niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    }, {
+      "code": "0c8e2bfc-1350-45d1-90da-c07e2645d073",
+      "display": "Specialiseret",
+      "definition": "Midlertidig kopi af MedComs kode for genoptræning på specialieret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    }, {
+      "code": "83c89857-8fb8-4163-97b1-eb1a56345c29",
+      "display": "Rehabilitering",
+      "definition": "Midlertidig kopi af MedComs kode for rehabilitering på specialiseret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    }, {
+      "code": "8b962281-2ab6-4b10-9c91-4bac592d6d49",
+      "display": "Basal",
+      "definition": "Almen genoptræning på basalt niveau"
+    }, {
+      "code": "b679c454-2da2-46dd-9425-0e52d4aa2bf3",
+      "display": "Avanceret",
+      "definition": "Almen genoptræning på avanceret niveau"
     } ]
   } ]
 }
