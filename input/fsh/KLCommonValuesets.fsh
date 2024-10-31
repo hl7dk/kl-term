@@ -536,6 +536,7 @@ Description: "Home Care Interventions as described by FSIII"
 * include codes from system FSIII where concept descendent-of #db582ef3-121c-4061-9569-3dbede361d47 //86, 1 H5
 * include codes from system FSIII where concept descendent-of #ae759142-4006-454f-a585-ca02519e5579 //86, 2 H6
 * include codes from system FSIII where concept descendent-of #6f9ed46f-6498-4567-9637-2324dbfaa0a0 //0-ydelser H7
+* include codes from system FSIII where concept descendent-of #2a668eb0-25f1-4101-863c-11e81c4bf210
 
 * include codes from system FSIII where concept descendent-of #83_stk_1_nr_1_Personlig_hjaelp_og_pleje //83 1,1
 * include codes from system FSIII where concept descendent-of #83_stk_1_nr_2_Praktisk_hjaelp_i_hjemmet //83,1,2
@@ -547,6 +548,7 @@ Description: "Home Care Interventions as described by FSIII"
 * include codes from system FSIII where concept descendent-of #H5 //SEL § 86 stk. 1
 * include codes from system FSIII where concept descendent-of #H6 //SEL § 86 stk. 2
 * include codes from system FSIII where concept descendent-of #H7 //0-ydelser
+* include codes from system FSIII where concept descendent-of #Aeldrelovsindsats
 
 ValueSet: KLTrainingInterventionsFSIII
 Title: "KLTræningIndsatserFSIII"
