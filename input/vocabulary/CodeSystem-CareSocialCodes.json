@@ -2,7 +2,7 @@
   "resourceType": "CodeSystem",
   "id": "CareSocialCodes",
   "url": "http://fhir.kl.dk/term/CodeSystem/CareSocialCodes",
-  "version": "20240530",
+  "version": "20241031",
   "name": "CareSocialCodes",
   "title": "CareSocialCodes",
   "status": "active",
@@ -78,25 +78,25 @@
       "display": "Sagsbehandler",
       "definition": "Sagsbehandler er kilde til oplysning eller vurdering"
     }, {
+      "code": "166d2437-4e47-4a52-bd94-cdbe91086ca6",
+      "display": "Pårørende alene",
+      "definition": "Pårørende er alene, uden input fra borger, kilde til oplysninger eller vuderderinger. Fx WHO 5 spørgeskema for svækket ældre borger udfyldt af datter."
+    }, {
       "code": "329774f9-7700-47cf-9c00-63765d9e8078",
       "display": "Medarbejder og pårørende alene",
       "definition": "En medarbejder og pårørende er sammen, men uden input fra borger, kilde til oplysning eller vurdering. Fx PUF spørgeskema i sundhedsplejen."
-    }, {
-      "code": "8fe80acb-2c2a-4f10-b2b8-ddb77d2f69dc",
-      "display": "Medarbejder alene",
-      "definition": "Medarbejderen er alene kilde til oplysning eller vurdering. Fx AIMS skema i sundhedsplejen."
     }, {
       "code": "12428e48-7df8-441f-9a89-d92bb7874066",
       "display": "Borger støttet af medarbejder",
       "definition": "Borger fik hjælp af en medarbejder til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
     }, {
+      "code": "8fe80acb-2c2a-4f10-b2b8-ddb77d2f69dc",
+      "display": "Medarbejder alene",
+      "definition": "Medarbejderen er alene kilde til oplysning eller vurdering. Fx AIMS skema i sundhedsplejen."
+    }, {
       "code": "b66dc78a-a673-43fc-8ac0-1e859ba626e0",
       "display": "Borger støttet af pårørende",
       "definition": "Borger fik hjælp af en pårørende til at komme med oplysninger eller vurderinger. Fx ældre borger der får hjælp til at udfylde WHO5 spørgeskema."
-    }, {
-      "code": "166d2437-4e47-4a52-bd94-cdbe91086ca6",
-      "display": "Pårørende alene",
-      "definition": "Pårørende er alene, uden input fra borger, kilde til oplysninger eller vuderderinger. Fx WHO 5 spørgeskema for svækket ældre borger udfyldt af datter."
     }, {
       "code": "63338442-7b2e-405b-acc0-142361ef19f1",
       "display": "Andre",
@@ -224,27 +224,124 @@
       "display": "Kommunal Sundhedsfremme og forebyggelse",
       "definition": "Det planlagte indsatsforløb vedrører sundhedsfremme og forebyggelse efter §119.",
       "concept": [ {
-        "code": "5c160c02-e858-4c1f-925a-71ed64844749",
-        "display": "Interventionsforløb efter §119",
-        "definition": "Et planlagt §119 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §119 kunne et interventionsforløb fx være et KOL-træningshold der indeholder indsatserne fysisk træning og funktionstræning."
-      }, {
         "code": "9791e55a-656f-47eb-8fd5-c4a06b0a4662",
         "display": "Opfølgningsforløb efter §119",
         "definition": "Planlagt indsatsforløb der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+      }, {
+        "code": "5c160c02-e858-4c1f-925a-71ed64844749",
+        "display": "Interventionsforløb efter §119",
+        "definition": "Et planlagt §119 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §119 kunne et interventionsforløb fx være et KOL-træningshold der indeholder indsatserne fysisk træning og funktionstræning."
       } ]
     }, {
       "code": "ddd2f670-5ec7-4f9c-9a2c-aee25cb133bf",
       "display": "Kommunal genoptræning efter sygehusophold",
       "definition": "Det planlagte indsatsforløb er genoptræning efter sundhedslovens §140.",
       "concept": [ {
-        "code": "f15b2663-94d9-4d0c-a5de-d8bd8e1e4ebb",
-        "display": "Interventionsforløb efter §140",
-        "definition": "Et planlagt §140 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §140 kunne et interventionsforløb fx være et Knæ-genoptræningshold der indeholder indsatserne fysisk træning, funktionstræning og vejledning og undervisning."
-      }, {
         "code": "4863001e-14c7-4be8-a2da-e4f21a4b6ac4",
         "display": "Opfølgningsforløb efter §140",
         "definition": "Planlagt indsatsforløb efter §140 der består af opfølgningsindsatser. Anvendes hvis der i forvejen planlægges opfølgning ved flere forskellige lejligheder fx efter 2,4 og 6 måneder."
+      }, {
+        "code": "f15b2663-94d9-4d0c-a5de-d8bd8e1e4ebb",
+        "display": "Interventionsforløb efter §140",
+        "definition": "Et planlagt §140 indsatsforløb, som udelukkende indeholder interventioner, og som leveres samlet. Med interventioner menes indsatser, der søger at forbedre borgers tilstand. For §140 kunne et interventionsforløb fx være et Knæ-genoptræningshold der indeholder indsatserne fysisk træning, funktionstræning og vejledning og undervisning."
       } ]
+    } ]
+  }, {
+    "code": "bf469e95-f9e3-45c7-bf15-ab7e8a85236f",
+    "display": "Kontaktklasse",
+    "definition": "Type af kontakt. Beskriver leveringsmetode.",
+    "concept": [ {
+      "code": "124be95d-6924-4609-9d2a-e7c73ae3ab3d",
+      "display": "Skærmbesøg",
+      "definition": "Kontakten er foregået via skærm med mulighed for tændt kamera, så parterne har haft mulighed for at interagere ansigt til ansigt, og fremvise ting."
+    }, {
+      "code": "1b55a4b0-1156-4f58-b2df-b5c6014d9048",
+      "display": "Telefonisk",
+      "definition": "Kontakten er foregået per telefon."
+    } ]
+  }, {
+    "code": "11266a8f-5795-42ab-88ec-4fe5c6c28e80",
+    "display": "Målfokus",
+    "definition": "Målfokus",
+    "concept": [ {
+      "code": "66959f77-6e2a-4574-8423-3ff097f8b9fa",
+      "display": "funktionsevneniveau",
+      "definition": "målet udtrykkes i form af et funktionsevneniveau, som kan være et FFB funktionsevneniveau eller FSIII tilstandsniveau"
+    }, {
+      "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
+      "display": "måltype",
+      "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
+    } ]
+  }, {
+    "code": "6b29554d-0261-4ec4-bb16-022d81c7dfb7",
+    "display": "Type genoptræningsplan",
+    "definition": "Type genoptræningsplan",
+    "concept": [ {
+      "code": "0c8e2bfc-1350-45d1-90da-c07e2645d073",
+      "display": "Specialiseret",
+      "definition": "Midlertidig kopi af MedComs kode for genoptræning på specialieret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    }, {
+      "code": "8b962281-2ab6-4b10-9c91-4bac592d6d49",
+      "display": "Basal",
+      "definition": "Almen genoptræning på basalt niveau"
+    }, {
+      "code": "ffd81f78-352e-4589-a195-5350dd1df2a4",
+      "display": "Almen",
+      "definition": "Midlertidig kopi af MedComs kode for genoptræning på alment niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    }, {
+      "code": "b679c454-2da2-46dd-9425-0e52d4aa2bf3",
+      "display": "Avanceret",
+      "definition": "Almen genoptræning på avanceret niveau"
+    }, {
+      "code": "83c89857-8fb8-4163-97b1-eb1a56345c29",
+      "display": "Rehabilitering",
+      "definition": "Midlertidig kopi af MedComs kode for rehabilitering på specialiseret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
+    } ]
+  }, {
+    "code": "3f79cee2-b148-4f2c-9cbd-387820e74685",
+    "display": "Leveringstype",
+    "definition": "Om der leveres individuelt eller gruppebaseret",
+    "concept": [ {
+      "code": "2865f123-15a7-4a36-a514-32ea37c400ca",
+      "display": "Gruppebaseret indsats",
+      "definition": "Indsats leveres af en medarbejder, der interagerer med en gruppe som borgeren er del af."
+    }, {
+      "code": "8d12d74c-17da-47a7-a4fe-e69dbaec0a8c",
+      "display": "Individuel indsats",
+      "definition": "Indsats leveres af en medarbejder i en-til-en interaktion."
+    }, {
+      "code": "34cdd6ab-3da9-49e8-84dc-1cbf683d4fcf",
+      "display": "Robot leverer indsats",
+      "definition": "En robot leverer indsatsen.\n\nEksempler: Robotstøvsugning"
+    }, {
+      "code": "284857a4-5e91-499a-a001-64d7f0b7038a",
+      "display": "Digital levering af indsats",
+      "definition": "En applikation med fokus på adfærdsændring eller træning leverer indsatsen."
+    } ]
+  }, {
+    "code": "bb233864-6d4c-4ab4-a4a3-567e61b3dfb0",
+    "display": "Begrundelse for manglende aktivitet",
+    "definition": "Begrundelse for manglende aktivitet",
+    "concept": [ {
+      "code": "a8632e22-bf0c-4f5a-92a7-70977ba104d5",
+      "display": "Udskudt",
+      "definition": "Udskudt opstart påkrævet fordi det er specificeret sådan i den anmodning kommunen har modtaget. Fx kan udskudt opstart af træning fordi sår skal ophele være beskrives i en genoptræningsplan (GGOP)."
+    }, {
+      "code": "f64b8f5e-8ced-4a8b-ab73-8994fb524915",
+      "display": "Anden kommmune",
+      "definition": "Overgivet til anden kommune, på borgers anmodning"
+    }, {
+      "code": "3796fa11-305f-47d6-b164-45b05489afb2",
+      "display": "Frit valg",
+      "definition": "Borger er overgået til frit valg af service. Fx frit valg af privat genoptræning som borger har ret til, hvis kommunen ikke kan levere inden 7 dage."
+    }, {
+      "code": "8ac7be88-5d16-4dbd-a61a-ab02673f4b34",
+      "display": "Fejl",
+      "definition": "Fejlafsendt anmodning. Fx fejlafsendt genoptræningsplan."
+    }, {
+      "code": "46a6bc1f-bfe8-4390-a71f-44ad4a384b9d",
+      "display": "Frit valg afslået",
+      "definition": "Borgeren er tilbudt frit valg af leverandør af service, men vil hellere vente."
     } ]
   }, {
     "code": "2c059407-fed5-4852-92d8-6bb5ad63d7bb",
@@ -271,10 +368,6 @@
       "display": "Aktivt fravalg",
       "definition": "Borger har behov, men har foretaget et aktivt fravalg",
       "concept": [ {
-        "code": "0cd5734d-b663-47c6-a3da-6b14a937d144",
-        "display": "Aktivt fravalg pga. anden sygdom",
-        "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. anden sygdom"
-      }, {
         "code": "8371b769-4bfb-4ac8-b130-d91c54784a56",
         "display": "Aktivt fravalg pga. logistik ifm. transport",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den logistiske udfordring det er mht. transport, at nå frem til det sted indsatsen tilbydes"
@@ -283,99 +376,14 @@
         "display": "Aktivt fravalg pga. anden træning",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg fordi han/hun er påbegyndt træning i andet regi fx fitnesscenter"
       }, {
+        "code": "0cd5734d-b663-47c6-a3da-6b14a937d144",
+        "display": "Aktivt fravalg pga. anden sygdom",
+        "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. anden sygdom"
+      }, {
         "code": "f8436c2e-af1c-44fe-939d-473b518dd01d",
         "display": "Aktivt fravalg pga. økonomi ifm. transport",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den omkostning der er forbundet med transport til det sted indsatsen tilbydes"
       } ]
-    } ]
-  }, {
-    "code": "3f79cee2-b148-4f2c-9cbd-387820e74685",
-    "display": "Leveringstype",
-    "definition": "Om der leveres individuelt eller gruppebaseret",
-    "concept": [ {
-      "code": "2865f123-15a7-4a36-a514-32ea37c400ca",
-      "display": "Gruppebaseret indsats",
-      "definition": "Indsats leveres i gruppe"
-    }, {
-      "code": "8d12d74c-17da-47a7-a4fe-e69dbaec0a8c",
-      "display": "Individuel indsats",
-      "definition": "Indsats leveres individuelt"
-    } ]
-  }, {
-    "code": "bf469e95-f9e3-45c7-bf15-ab7e8a85236f",
-    "display": "Kontaktklasse",
-    "definition": "Type af kontakt. Beskriver leveringsmetode.",
-    "concept": [ {
-      "code": "1b55a4b0-1156-4f58-b2df-b5c6014d9048",
-      "display": "Telefonisk",
-      "definition": "Kontakten er foregået per telefon."
-    }, {
-      "code": "124be95d-6924-4609-9d2a-e7c73ae3ab3d",
-      "display": "Skærmbesøg",
-      "definition": "Kontakten er foregået via skærm med mulighed for tændt kamera, så parterne har haft mulighed for at interagere ansigt til ansigt, og fremvise ting."
-    } ]
-  }, {
-    "code": "11266a8f-5795-42ab-88ec-4fe5c6c28e80",
-    "display": "Målfokus",
-    "definition": "Målfokus",
-    "concept": [ {
-      "code": "66959f77-6e2a-4574-8423-3ff097f8b9fa",
-      "display": "funktionsevneniveau",
-      "definition": "målet udtrykkes i form af et funktionsevneniveau, som kan være et FFB funktionsevneniveau eller FSIII tilstandsniveau"
-    }, {
-      "code": "90c48f03-f194-4b2f-ad7d-6cba1069ae48",
-      "display": "måltype",
-      "definition": "målet udtrykkes i form af en måltype, måltypen er den forventede ændring i tilstanden givet indsatsen"
-    } ]
-  }, {
-    "code": "bb233864-6d4c-4ab4-a4a3-567e61b3dfb0",
-    "display": "Begrundelse for manglende aktivitet",
-    "definition": "Begrundelse for manglende aktivitet",
-    "concept": [ {
-      "code": "f64b8f5e-8ced-4a8b-ab73-8994fb524915",
-      "display": "Anden kommmune",
-      "definition": "Overgivet til anden kommune, på borgers anmodning"
-    }, {
-      "code": "a8632e22-bf0c-4f5a-92a7-70977ba104d5",
-      "display": "Udskudt",
-      "definition": "Udskudt opstart påkrævet fordi det er specificeret sådan i den anmodning kommunen har modtaget. Fx kan udskudt opstart af træning fordi sår skal ophele være beskrives i en genoptræningsplan (GGOP)."
-    }, {
-      "code": "3796fa11-305f-47d6-b164-45b05489afb2",
-      "display": "Frit valg",
-      "definition": "Borger er overgået til frit valg af service. Fx frit valg af privat genoptræning som borger har ret til, hvis kommunen ikke kan levere inden 7 dage."
-    }, {
-      "code": "8ac7be88-5d16-4dbd-a61a-ab02673f4b34",
-      "display": "Fejl",
-      "definition": "Fejlafsendt anmodning. Fx fejlafsendt genoptræningsplan."
-    }, {
-      "code": "46a6bc1f-bfe8-4390-a71f-44ad4a384b9d",
-      "display": "Frit valg afslået",
-      "definition": "Borgeren er tilbudt frit valg af leverandør af service, men vil hellere vente."
-    } ]
-  }, {
-    "code": "6b29554d-0261-4ec4-bb16-022d81c7dfb7",
-    "display": "Type genoptræningsplan",
-    "definition": "Type genoptræningsplan",
-    "concept": [ {
-      "code": "ffd81f78-352e-4589-a195-5350dd1df2a4",
-      "display": "Almen",
-      "definition": "Midlertidig kopi af MedComs kode for genoptræning på alment niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
-    }, {
-      "code": "0c8e2bfc-1350-45d1-90da-c07e2645d073",
-      "display": "Specialiseret",
-      "definition": "Midlertidig kopi af MedComs kode for genoptræning på specialieret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
-    }, {
-      "code": "83c89857-8fb8-4163-97b1-eb1a56345c29",
-      "display": "Rehabilitering",
-      "definition": "Midlertidig kopi af MedComs kode for rehabilitering på specialiseret niveau, som specificeret af den gode genoptræningsplan, https://svn.medcom.dk/svn/releases/Standarder/National%20Sygehus-Kommunesamarbejde/GGOP/Dokumentation/GGOP.pdf"
-    }, {
-      "code": "8b962281-2ab6-4b10-9c91-4bac592d6d49",
-      "display": "Basal",
-      "definition": "Almen genoptræning på basalt niveau"
-    }, {
-      "code": "b679c454-2da2-46dd-9425-0e52d4aa2bf3",
-      "display": "Avanceret",
-      "definition": "Almen genoptræning på avanceret niveau"
     } ]
   } ]
 }

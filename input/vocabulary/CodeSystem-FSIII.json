@@ -1417,6 +1417,48 @@
           ]
         },
         {
+          "code": "2a668eb0-25f1-4101-863c-11e81c4bf210",
+          "display": "Ældrelovsindsats",
+          "definition": "Ældrelovsindsats",
+          "concept": [ {
+            "code": "52de9a13-8605-4a80-8a40-78101a55c4a3",
+            "display": "Praktisk hjaelp i hjemmet",
+            "definition": "Rehabiliterende og vedligeholdende indsats, der omfatter hjælp og støtte til rengøring, tøjvask, indkøb samt tilberede og anrette mad.\n\nEksempler: Støvsugning, rengøring af hjem, tøjvask i eget hjem eller på vaskeri/vaskeordning, sortering af vasketøj, tøring og sammenlægning af vasketøj, indkøb af dagligvarer, bestilling af varer, tilberede og anrette et måltid samt rydde op og vaske op efter et måltid. Fokus er på at understøtte borgeren i at være mest muligt deltagende og selvhjulpen."
+          }, {
+            "code": "5aa18d37-d924-4613-b6b5-1538f471db15",
+            "display": "Madservice",
+            "definition": "Visitation af madservice til borger, der modtager mad via en madserviceordning.\n\nEksempler: Visitation til madservice. Eksklusiv anrettelse af maden."
+          }, {
+            "code": "649b3428-4018-47da-bb36-1f2bfab3c8c1",
+            "display": "Afløsning i hjemmet",
+            "definition": "Indsatsen omfatter afløsning af den pårørende. Dvs. kommunal tilstedeværelse således, at den pårørende fx kan deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra at deltage i.\n\nEksempler: Fast vagt, tilstedeværelse"
+          }, {
+            "code": "76bd54b0-87b8-453e-bfcd-48eec0737e5b",
+            "display": "Midlertidigt ophold",
+            "definition": "Indsatsen omfatter midlertidig ophold, som udelukkende er bevilling af en plads. De indsatser, der leveres under et midlertidigt ophold, vil være indsatser, der er visiteret efter § 9"
+          }, {
+            "code": "8b92ac57-0200-4437-aacf-5b90898a3838",
+            "display": "Koordinering med pårørende og/eller civilsamfund",
+            "definition": "Indsatsen omfatter koordinering med pårørende og/ eller civilsamfund omkring levering af den hjælp og støtte, som borgeren modtager. Der kan også være inddragelse af civilsamfund og foreninger med fokus på borgerens generelle trivsel.\n\nEksempler: aftaler med pårørende omkring de pårørendes varetagelse af dele af praktisk hjælp og/eller personlig pleje. \nKoordinering med civilsamfund og foreningsliv omkring afhjælpelse af ensomhed m.v."
+          }, {
+            "code": "8dc5f564-b8c6-4aa1-ba34-682d62d15f31",
+            "display": "Personlig hjælp og pleje",
+            "definition": "Rehabiliterende og vedligeholdende indsats, der omfatter hjælp og støtte til personlige hygiejne, udskillelser, ernæring, mobilitet, tilsyn/omsorg samt hverdagens aktiviteter.\n\nEksempler: Bad, øvre og nedre toilette, toiletbesøg, urindomskift, indtagelse af mad og drikke, forflytning, lejring, tilsyns- og omsorgsbesøg, støtte til egen kontakt til myndigheder og sundhedsvæsenet samt generel struktur i hverdagen. Fokus er på at understøtte borgeren i at være mest muligt deltagende og selvhjulpen."
+          }, {
+            "code": "a07ffdd2-3c27-4a42-a860-58f6bb840d77",
+            "display": "Genoptræning",
+            "definition": "Træning med henblik på at opnå et funktionsniveau svarende til det borgeren havde forud for en hændelse.\n\nEksempler: Træning af borgere, der har været udsat for en hændelse som fx lungebetændelse eller lignende, hvor borgeren har behov for genoptræning for at opnå funktionsniveau svarende til før hændelsen."
+          }, {
+            "code": "ceb5a58a-06ff-49c6-9da2-f65fc63847f6",
+            "display": "Aflastningsophold uden for hjemmet",
+            "definition": "Indsatsen omfatter aflastning af pårørende. Alle former for aflastningsophold uden for hjemmet, således, at pårørende kan aflastes og/eller deltage i sociale aktiviteter, som pårørende ellers ville være afskåret fra at deltage i.\n\nEksempler: Daghjem, nathjem, døgnophold."
+          }, {
+            "code": "fd6e4caf-a844-482f-b43b-0b8a43391a11",
+            "display": "Dialog med borger om tilrettelæggelse af forløb",
+            "definition": "Indsatsen omfatter den første dialog med borgeren om udmøntning og tilrettelæggelse af det visiterede forløb. \n\nEksempler: Første møde mellem medarbejder og borger i forbindelse med udmøntning og konkret tilrettelæggelse af forløb. Her kan også drøftes borgerens mål i forhold til selvhjulpenhed. Indsatsen anvendes ikke ved den løbende dialog mellem borger og medarbejder omkring ændringer og koordinering af hjælp og støtte."
+          } ]
+        },
+        {
           "code": "3823d4cd-c38f-49f7-bb15-bd2488b07cd9",
           "display": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
           "definition": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
@@ -3591,8 +3633,48 @@
               "definition": "Indsatsen omfatter omfatter hjælp, støtte eller guidning ifm. mobilitet eller ændringer i kroppens stilling og placering.\n\nEksempler: Forflytning, lejring, vending."
             }
           ]
-        },
-        {
+        }, {
+          "code": "Aeldrelovsindsats",
+          "display": "Ældrelovsindsats",
+          "definition": "Ældrelovsindsats",
+          "concept": [ {
+            "code": "Praktisk_hjaelp_i_hjemmet",
+            "display": "Praktisk hjaelp i hjemmet",
+            "definition": "Rehabiliterende og vedligeholdende indsats, der omfatter hjælp og støtte til rengøring, tøjvask, indkøb samt tilberede og anrette mad.\n\nEksempler: Støvsugning, rengøring af hjem, tøjvask i eget hjem eller på vaskeri/vaskeordning, sortering af vasketøj, tøring og sammenlægning af vasketøj, indkøb af dagligvarer, bestilling af varer, tilberede og anrette et måltid samt rydde op og vaske op efter et måltid. Fokus er på at understøtte borgeren i at være mest muligt deltagende og selvhjulpen."
+          }, {
+            "code": "Madservice",
+            "display": "Madservice",
+            "definition": "Visitation af madservice til borger, der modtager mad via en madserviceordning.\n\nEksempler: Visitation til madservice. Eksklusiv anrettelse af maden."
+          }, {
+            "code": "Afloesning_i_hjemmet",
+            "display": "Afløsning i hjemmet",
+            "definition": "Indsatsen omfatter afløsning af den pårørende. Dvs. kommunal tilstedeværelse således, at den pårørende fx kan deltage i sociale aktiviteter, som den pårørende ellers ville være afskåret fra at deltage i.\n\nEksempler: Fast vagt, tilstedeværelse"
+          }, {
+            "code": "Midlertidigt_ophold",
+            "display": "Midlertidigt ophold",
+            "definition": "Indsatsen omfatter midlertidig ophold, som udelukkende er bevilling af en plads. De indsatser, der leveres under et midlertidigt ophold, vil være indsatser, der er visiteret efter § 9"
+          }, {
+            "code": "Koordinering_med_paaroerende_og_eller_civilsamfund",
+            "display": "Koordinering med pårørende og/eller civilsamfund",
+            "definition": "Indsatsen omfatter koordinering med pårørende og/ eller civilsamfund omkring levering af den hjælp og støtte, som borgeren modtager. Der kan også være inddragelse af civilsamfund og foreninger med fokus på borgerens generelle trivsel.\n\nEksempler: aftaler med pårørende omkring de pårørendes varetagelse af dele af praktisk hjælp og/eller personlig pleje. \nKoordinering med civilsamfund og foreningsliv omkring afhjælpelse af ensomhed m.v."
+          }, {
+            "code": "Personlig_hjaelp_og_pleje",
+            "display": "Personlig hjælp og pleje",
+            "definition": "Rehabiliterende og vedligeholdende indsats, der omfatter hjælp og støtte til personlige hygiejne, udskillelser, ernæring, mobilitet, tilsyn/omsorg samt hverdagens aktiviteter.\n\nEksempler: Bad, øvre og nedre toilette, toiletbesøg, urindomskift, indtagelse af mad og drikke, forflytning, lejring, tilsyns- og omsorgsbesøg, støtte til egen kontakt til myndigheder og sundhedsvæsenet samt generel struktur i hverdagen. Fokus er på at understøtte borgeren i at være mest muligt deltagende og selvhjulpen."
+          }, {
+            "code": "Genoptraening",
+            "display": "Genoptræning",
+            "definition": "Træning med henblik på at opnå et funktionsniveau svarende til det borgeren havde forud for en hændelse.\n\nEksempler: Træning af borgere, der har været udsat for en hændelse som fx lungebetændelse eller lignende, hvor borgeren har behov for genoptræning for at opnå funktionsniveau svarende til før hændelsen."
+          }, {
+            "code": "Aflastningsophold_uden_for_hjemmet",
+            "display": "Aflastningsophold uden for hjemmet",
+            "definition": "Indsatsen omfatter aflastning af pårørende. Alle former for aflastningsophold uden for hjemmet, således, at pårørende kan aflastes og/eller deltage i sociale aktiviteter, som pårørende ellers ville være afskåret fra at deltage i.\n\nEksempler: Daghjem, nathjem, døgnophold."
+          }, {
+            "code": "Dialog_med_borger_om_tilrettelaeggelse_af_forloeb",
+            "display": "Dialog med borger om tilrettelæggelse af forløb",
+            "definition": "Indsatsen omfatter den første dialog med borgeren om udmøntning og tilrettelæggelse af det visiterede forløb. \n\nEksempler: Første møde mellem medarbejder og borger i forbindelse med udmøntning og konkret tilrettelæggelse af forløb. Her kan også drøftes borgerens mål i forhold til selvhjulpenhed. Indsatsen anvendes ikke ved den løbende dialog mellem borger og medarbejder omkring ændringer og koordinering af hjælp og støtte."
+          } ]
+        }, {
           "code": "83_stk_1_nr_2_Praktisk_hjaelp_i_hjemmet",
           "display": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
           "definition": "§ 83 stk. 1, nr. 2 Praktisk hjælp i hjemmet",
@@ -4371,5 +4453,5 @@
   "experimental": false,
   "caseSensitive": true,
   "hierarchyMeaning": "is-a",
-  "count": 808
+  "count": 828
 }
