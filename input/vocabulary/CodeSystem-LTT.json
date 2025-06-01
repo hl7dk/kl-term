@@ -1,0 +1,126 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "LTT",
+  "url": "http://fhir.kl.dk/term/CodeSystem/LTT",
+  "version": "20250530",
+  "name": "LTT",
+  "title": "LTT",
+  "status": "active",
+  "experimental": false,
+  "description": "Concepts used for standardizing documentation for Danish children/teenagers with mental challenges whom are helped in readily available treatment offers in the Danish municipalities.",
+  "caseSensitive": true,
+  "hierarchyMeaning": "is-a",
+  "content": "complete",
+  "concept": [ {
+    "code": "afd9445a-7ca5-42f8-8011-c3802db3f30b",
+    "display": "Afsluttende samtale",
+    "definition": "Afsluttende samtale med fokus på opfølgning på behandlingsforløbet"
+  }, {
+    "code": "3b1d8884-5a1d-43cf-aabb-8c1035148c46",
+    "display": "Afslutning",
+    "definition": "Oplysning om at forløbet er afsluttet på en given dato"
+  }, {
+    "code": "ac1057da-a510-4bab-a2b1-d96efa464bdc",
+    "display": "Henvendelse",
+    "definition": "Henvendelse fra barn/ung eller forældre vedrørende hjælp fra kommunen som kan høre ind under det lettilgængelige tilbud"
+  }, {
+    "code": "e2eee938-a58c-42d0-a514-dc91779b1243",
+    "display": "Forsamtale",
+    "definition": "Forsamtale med henblik på vurdering om barnet/den unge er i målgruppen for en behandlingsindsats i det lettilgængelige tilbud"
+  }, {
+    "code": "404665f4-3488-4225-953e-3f1c5a061829",
+    "display": "Screening",
+    "definition": "Screening som skal afklare barnets/den unges behov og hvilket behandlingsforløb barnet/den unge har behov for. Vurderingen af behandlingsbehovet beror på en klinisk vurdering understøttet af forskellige evidensbaserede spørgeskemaer"
+  }, {
+    "code": "b7f9217c-2315-4d6f-bba5-5117e202302c",
+    "display": "Behandling",
+    "definition": "Behandlingskontakter baseret på evidensbaserede/dokumenterede indsatser og manualer med specifikation af fremgangsmåde, antal sessioner og indhold i de enkelte indsatser"
+  }, {
+    "code": "d09ad8c9-7ade-455f-b34a-54c8c6cce266",
+    "display": "Tema",
+    "definition": "Tema omhandler de udfordringer barnet/den unge kommer med. Temaer kan blive afdækket i forsamtale, i screening eller i behandlingsforløb. Det er muligt at angive flere temaer og løbende opdatere temaer registreret tidligere i forløb",
+    "concept": [ {
+      "code": "dcf2c302-09b9-4bf1-9865-d08a5876700c",
+      "display": "Adfærd",
+      "definition": "Udfordringer med emotionel og adfærdsmæssig regulering"
+    }, {
+      "code": "95c5e9fc-33b7-4d85-9417-64fc3164eb4c",
+      "display": "Bekymring",
+      "definition": "Ængstelse og bekymringstendens - generelt eller knyttet til specifikke situationer"
+    }, {
+      "code": "bf4df811-805a-4309-8394-7d9ea31b8af7",
+      "display": "Krop og mad",
+      "definition": "Svære tanker om krop og spisning"
+    }, {
+      "code": "5cea8eb2-5374-45f7-a985-cef1f577f0a1",
+      "display": "Selvskade",
+      "definition": "Non-suicidal selvskade"
+    }, {
+      "code": "9b82f4cd-bc63-4187-a2f0-ff2d74f63bd8",
+      "display": "Tristhed",
+      "definition": "Nedtrykt humør og nedsat energi og aktivitetsniveau"
+    }, {
+      "code": "c8887ec0-e529-48d9-914c-317e000c2036",
+      "display": "Tvangstanker og -handlinger",
+      "definition": "Tilbagevendende og indtrængende tanker og gentagne, forstyrrende handlinger"
+    }, {
+      "code": "2644b5af-73cc-41a5-b588-f244b813179d",
+      "display": "Uro og uopmærksomhed",
+      "definition": "Udfordringer med uro, uopmærksomhed eller impulsivitet"
+    }, {
+      "code": "cc829c98-5904-45da-b777-2af5693e78e9",
+      "display": "Andet",
+      "definition": "Uspecifikke, funktionsnedsættende udfordringer"
+    } ]
+  }, {
+    "code": "92aa0b05-ed46-4fd6-8009-adf97d0fc187",
+    "display": "Henvisning",
+    "definition": "Henvisning til andet relevant tilbud. En henvisning til et andet tilbud kan godt ske sideløbende og samtidig med barnet/den unge gennemfører et lettilgængeligt tilbud",
+    "concept": [ {
+      "code": "e961ba32-9e1e-4bfd-82aa-d73c8653d170",
+      "display": "Andet",
+      "definition": "Tilbud som ikke er rummet i de øvrige henvisningskategorier"
+    }, {
+      "code": "59721d6a-71c7-4cae-954c-5997cbebd387",
+      "display": "Andet tilbud i hjemkommune",
+      "definition": "Andre tilbud i kommunen som vurderes relevante for barnet/den unge"
+    }, {
+      "code": "e648f06e-8a17-47af-95ff-babeb3e7543c",
+      "display": "§126a-tilbud i anden kommune",
+      "definition": "Lettilgængeligt tilbud i anden kommune end barnets/den unges bopælskommune"
+    }, {
+      "code": "0cdc1b09-f53f-41c4-80d3-a2c59ff98287",
+      "display": "Alment praktiserende læge",
+      "definition": "Barnets/den unges alment praktiserende læge"
+    }, {
+      "code": "42b97e5a-7584-4b07-a7c7-d441ccb331b2",
+      "display": "Børne- og ungdomspsykiatri",
+      "definition": "Den regionale børne- og ungdomspsykiatri"
+    }, {
+      "code": "f3d5cb7b-e059-4fbc-9514-a53299c2e3cf",
+      "display": "Civilsamfund",
+      "definition": "Tilbud som er etableret af civilsamfundet og som vurderes relevante for barnet/den unge"
+    } ]
+  }, {
+    "code": "b13c5a57-2cf4-4bd7-beb4-598442165cd3",
+    "display": "Organisering af behandlingskontakt",
+    "definition": "Organisering af behandlingskontakt som enten individuel behandling eller gruppebaseret behandling",
+    "concept": [ {
+      "code": "8742dc92-2878-4074-b128-b0384c4989c9",
+      "display": "Gruppebaseret behandling med barn/ung",
+      "definition": "Behandlingskontakter der gennemføres i grupper med deltagelse af flere børn/unge. Forældre/værger/andre omsorgspersoner kan også deltage"
+    }, {
+      "code": "dadb1540-9542-46d1-a784-0559d94e0b9a",
+      "display": "Gruppebaseret behandling uden barn/ung",
+      "definition": "Behandlingskontakt der gennemføres i grupper med deltagelse af forældre/værger/andre omsorgspersoner til flere børn/unge, men uden deltagelse af børn/unge"
+    }, {
+      "code": "ca52f015-193e-4d31-9471-7385717dfa44",
+      "display": "Individuel behandling med barn/ung",
+      "definition": "Behandlingskontakt der gennemføres med barnet/den unge og ikke andre børn/unge. Forældre/værger/andre omsorgspersoner kan også deltage"
+    }, {
+      "code": "c86b5c04-7e13-488b-87fd-fb1e30309bb8",
+      "display": "Individuel behandling uden barn/ung",
+      "definition": "Behandlingskontakt der udelukkende er målrettet et barn/en ung, men uden deltagelse af barn/ung, dvs. behandlingskontakten gennemføres med deltagelse af forældre/værger/andre omsorgspersoner"
+    } ]
+  } ]
+}
