@@ -1,10 +1,10 @@
 {
     "package-id" : "kl.dk.fhir.term",
-    "version" : "2.2.0",
-    "path" : "http://fhir.kl.dk/term/2.2.0",
+    "version" : "2.3.0",
+    "path" : "http://fhir.kl.dk/term/2.3.0",
     "mode" : "milestone",
     "status" : "release",
     "sequence" : "Releases",
-    "desc": "New release of changes to FSIII and CareSocialCodes",
+    "desc": "New release of LTT and concepts added to CareSocialCodes",
     "descmd": "@release-notes.md"
   }

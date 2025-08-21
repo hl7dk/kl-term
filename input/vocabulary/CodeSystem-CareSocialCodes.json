@@ -2,7 +2,7 @@
   "resourceType": "CodeSystem",
   "id": "CareSocialCodes",
   "url": "http://fhir.kl.dk/term/CodeSystem/CareSocialCodes",
-  "version": "20241031",
+  "version": "20250530",
   "name": "CareSocialCodes",
   "title": "CareSocialCodes",
   "status": "active",
@@ -31,10 +31,6 @@
       "code": "f52887de-023f-4193-b6b0-4b0a37b1cffc",
       "display": "VUM Borgerens ressourcer i forhold til indsatsen",
       "definition": "VUM Borgerens ressourcer i forhold til indsatsen"
-    }, {
-      "code": "54c4ffea-7caf-4edc-8aa9-ef6e0be26c4c",
-      "display": "FSIII helhedsvurdering",
-      "definition": "Sagsvurdering, der sammenholder resultaterne af en myndighedsudredning og den øvrige sagsoplysning med henblik på at træffe en afgørelse"
     } ]
   }, {
     "code": "7b41185e-eeb4-437d-8120-5d51bbd27a79",
@@ -206,10 +202,6 @@
       "code": "0f0f223c-abe3-4720-aab8-c257679a0a4e",
       "display": "terapeutfaglig udredning, FSIII",
       "definition": "udførelse af terapeutfaglig udredning jævnfør FSIII"
-    }, {
-      "code": "e70c66c0-a939-493b-8ea8-5b7e7b48ba1a",
-      "display": "generelle oplysninger, FSIII",
-      "definition": "indhentning af generelle oplysninger jævnfør FSIII"
     } ]
   }, {
     "code": "10deb210-e7e1-4d56-9531-b9ff2102126e",
@@ -219,6 +211,10 @@
       "code": "e459386d-1474-4c31-89c5-c8bc7a25e3d4",
       "display": "Social indsats",
       "definition": "Det planlagte indsatsforløb er en social indsats, som defineret af FFB, med tilhørende ydelser, målgruppe og tilbud"
+    }, {
+      "code": "01302bcb-c7f3-42c4-8ded-68e33da064eb",
+      "display": "Lettilgængelige tilbud til børn og unge i psykisk mistrivsel",
+      "definition": "Forløbskode for lettilgængelige tilbud til børn og unge i psykisk mistrivsel."
     }, {
       "code": "4fd6c23a-6ff3-4251-ac37-3ca095027b5b",
       "display": "Kommunal Sundhedsfremme og forebyggelse",
@@ -384,6 +380,19 @@
         "display": "Aktivt fravalg pga. økonomi ifm. transport",
         "definition": "Borger har behov, men har foretaget et aktivt fravalg pga. den omkostning der er forbundet med transport til det sted indsatsen tilbydes"
       } ]
+    } ]
+  }, {
+    "code": "880028ec-5f16-4242-ba53-57a902094d5b",
+    "display": "Deltagere i kontakt",
+    "definition": "Deltagere i kontakt",
+    "concept": [ {
+      "code": "ca228a58-bd0e-4b0e-81ce-3866adc26535",
+      "display": "Barn/ung deltager",
+      "definition": "Behandler og barn/ung i målgruppen (5-17år) og evt. forældre, værger el.lign. er til stede. Barnet/den unge er genstand for journaloptagelsen."
+    }, {
+      "code": "d3578249-10df-4051-851d-3986b1570bee",
+      "display": "Omsorgsperson uden barn/ung",
+      "definition": "Behandling hvor kun behandler og forældre, værger el.lign. til barn/ung er til stede. Barnet/den unge er genstand for journalen."
     } ]
   } ]
 }
