@@ -5,7 +5,8 @@
     "server": "asp-new",
     "org": "KL Denmark",
     "no-registry": "1",
-    "layout": {
+    "clone-xml-json": true,
+        "layout": {
       "id": "kl.dk.fhir.[code]",
       "canonical": "http://fhir.kl.dk/[code]"
     }
